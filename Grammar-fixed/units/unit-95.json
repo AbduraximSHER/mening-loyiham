@@ -1,0 +1,114 @@
+{
+  "id": 95,
+  "title": "Academic Writing Vocabulary",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Structuring arguments",
+      "content": "<div class=\"web-text\">Key phrases for academic and formal writing:</div><div class=\"web-example\"><span>• <strong>assert</strong> — state confidently. <em>The author asserts that climate change is reversible.</em></span></div><div class=\"web-example\"><span>• <strong>contend</strong> — argue or maintain. <em>Critics contend that the policy is ineffective.</em></span></div><div class=\"web-example\"><span>• <strong>refute</strong> — prove wrong. <em>New evidence refutes the previous findings.</em></span></div><div class=\"web-example\"><span>• <strong>substantiate</strong> — provide evidence for. <em>You must substantiate your claims with data.</em></span></div><div class=\"web-example\"><span>• <strong>implication</strong> — a likely consequence. <em>The implications of this discovery are enormous.</em></span></div>"
+    },
+    {
+      "id": "B",
+      "title": "Hedging and certainty",
+      "content": "<div class=\"web-text\">Expressing different levels of certainty:</div><div class=\"web-example\"><span>• <strong>arguably</strong> — it could be said. <em>This is arguably the most important finding of the decade.</em></span></div><div class=\"web-example\"><span>• <strong>tentative</strong> — not certain or fixed. <em>These are only tentative conclusions at this stage.</em></span></div><div class=\"web-example\"><span>• <strong>conclusive</strong> — putting an end to doubt. <em>There is no conclusive evidence to support the theory.</em></span></div><div class=\"web-example\"><span>• <strong>plausible</strong> — seeming reasonable. <em>Her explanation is entirely plausible.</em></span></div><div class=\"web-example\"><span>• <strong>misconception</strong> — a wrong belief. <em>There is a common misconception that cold weather causes illness.</em></span></div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "To prove that something is wrong is to:",
+      "options": [
+        "objective",
+        "refute",
+        "empirical",
+        "contend"
+      ],
+      "correctAnswer": 1,
+      "hint": "Disproving a claim.",
+      "explanation": "<strong>Refute</strong> means to prove that a statement or theory is wrong."
+    },
+    {
+      "question": "A conclusion not yet fully confirmed is:",
+      "options": [
+        "empirical",
+        "assertive",
+        "anecdotal",
+        "tentative"
+      ],
+      "correctAnswer": 3,
+      "hint": "Still uncertain.",
+      "explanation": "<strong>Tentative</strong> means not certain or fixed; provisional."
+    },
+    {
+      "question": "To provide evidence supporting a claim is to:",
+      "options": [
+        "imply",
+        "contend",
+        "systematic",
+        "substantiate"
+      ],
+      "correctAnswer": 3,
+      "hint": "Backing up with proof.",
+      "explanation": "<strong>Substantiate</strong> means to provide evidence to support or prove the truth of something."
+    },
+    {
+      "question": "An idea that seems reasonable but isn't proven is:",
+      "options": [
+        "speculative",
+        "plausible",
+        "categorical",
+        "misconceived"
+      ],
+      "correctAnswer": 1,
+      "hint": "It could be true.",
+      "explanation": "<strong>Plausible</strong> means seeming reasonable or probable."
+    },
+    {
+      "question": "Evidence that removes all doubt is:",
+      "options": [
+        "empirical",
+        "arguable",
+        "categorical",
+        "conclusive"
+      ],
+      "correctAnswer": 3,
+      "hint": "Beyond question.",
+      "explanation": "<strong>Conclusive</strong> means serving to prove a case; decisive."
+    },
+    {
+      "question": "A widely held but incorrect belief is a:",
+      "options": [
+        "contention",
+        "assertion",
+        "misconception",
+        "implication"
+      ],
+      "correctAnswer": 2,
+      "hint": "People believe it but it's wrong.",
+      "explanation": "A <strong>misconception</strong> is a view or opinion that is incorrect based on faulty thinking."
+    },
+    {
+      "question": "'Arguably' means:",
+      "options": [
+        "impossibly",
+        "it could be said",
+        "doubtfully",
+        "certainly"
+      ],
+      "correctAnswer": 1,
+      "hint": "It's debatable but reasonable.",
+      "explanation": "<strong>Arguably</strong> means it could be argued; it is possibly the case."
+    },
+    {
+      "question": "To state something with confidence is to:",
+      "options": [
+        "hedge",
+        "imply",
+        "assert",
+        "authoritative"
+      ],
+      "correctAnswer": 2,
+      "hint": "Saying it firmly.",
+      "explanation": "<strong>Assert</strong> means to state a fact or belief confidently and forcefully."
+    }
+  ]
+}

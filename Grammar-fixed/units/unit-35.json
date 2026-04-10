@@ -1,0 +1,127 @@
+{
+  "id": 35,
+  "title": "Tense choice in reporting",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Verb tense in the reported clause",
+      "content": "<div class=\"web-text\">When we report something that was said or thought in the past, we often use a <strong>past tense</strong> in the reported clause:</div>\n            <div class=\"web-example\">\n                <span>• Yusuf <strong>said</strong> that he <strong>didn't want</strong> anything to eat.</span>\n            </div>\n            <div class=\"web-text\">If the original situation was already in the past, we often use the <strong>past perfect</strong>:</div>\n            <div class=\"web-example\">\n                <span>• Police <strong>said</strong> that they <strong>had found</strong> the missing girl.</span>\n            </div>"
+    },
+    {
+      "id": "B",
+      "title": "Permanent or habitual situations",
+      "content": "<div class=\"web-text\">When the situation described is a <strong>permanent / habitual situation</strong>, we can use either a <strong>present</strong> or <strong>past tense</strong> if the reporting verb is in the past:</div>\n            <div class=\"web-example\">\n                <span>• She <strong>argued</strong> that Carl <strong>is / was</strong> the best person for the job.</span>\n            </div>\n            <div class=\"web-text\">We prefer a <strong>past tense</strong> if we are not sure what we are reporting is true:</div>\n            <div class=\"web-example\">\n                <span>• Yasemin told me that she <strong>had</strong> two houses. (suggests either that this is perhaps not true, or that she no longer has them)</span>\n            </div>"
+    },
+    {
+      "id": "C",
+      "title": "Verb tense in the reporting clause",
+      "content": "<div class=\"web-text\">We can use a <strong>present tense</strong> for the reporting verb when we report current news, opinions, or information that we have heard but don't know if it's true:</div>\n            <div class=\"web-example\">\n                <span>• I <strong>hear</strong> you’re unhappy with your job.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• The law <strong>says</strong> that no one under the age of 16 can buy a lottery ticket.</span>\n            </div>\n            <div class=\"web-text\">Using a <strong>present tense</strong> reporting verb emphasises that what was said is still true or relevant.</div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "'I've never been in love with Oliver.' → She ___ that she ___ in love with Oliver.",
+      "options": [
+        "denied / had ever been (or was)",
+        "denied / has ever been",
+        "both",
+        "neither"
+      ],
+      "correctAnswer": 0,
+      "hint": "Use past perfect or past simple in the that-clause after denied.",
+      "explanation": "<strong>Answer: denied / had ever been (or was)</strong><br>Use past perfect or past simple in the that-clause after denied. "
+    },
+    {
+      "type": "correct",
+      "sentence": "She told the interviewer that she studies French at university.",
+      "correction": "She told the interviewer that she studied French at university.",
+      "acceptable": [
+        "that she studied French",
+        "that she had studied French"
+      ],
+      "hint": "In reported speech, present simple → past simple (tense backshift).",
+      "explanation": "<strong>Answer: she studied French at university</strong><br>In reported speech, tenses shift back one step: present simple ('studies') → past simple ('studied'). The past perfect ('had studied') is also possible and emphasises that the studying was completed before the moment of speaking. Both are correct."
+    },
+    {
+      "question": "'I think the vase is around 250 years old.' → She ___ that the vase ___ around 250 years old.",
+      "options": [
+        "estimated / was (or had been)",
+        "estimated / is",
+        "both",
+        "neither"
+      ],
+      "correctAnswer": 0,
+      "hint": "Reporting a past thought.",
+      "explanation": "<strong>Answer: estimated / was (or had been)</strong><br>We use the <em>past perfect</em> here because this action happened before another past event.<br><small>💡 Reporting a past thought.</small>"
+    },
+    {
+      "type": "correct",
+      "sentence": "He said me that he will call me the next morning.",
+      "correction": "He told me that he would call me the next morning.",
+      "acceptable": [
+        "He told me that he would call",
+        "He said that he would call me"
+      ],
+      "hint": "Two errors: 'said me' → 'told me'; 'will' → 'would' (backshift from future to conditional).",
+      "explanation": "<strong>Answer: He told me that he would call me the next morning</strong><br>Two errors to fix: (1) 'said me' → 'told me' ('tell' needs a personal object; 'say' does not). (2) 'will' → 'would' (tense backshift in reported speech: will shifts to would). Also note: 'tomorrow' → 'the next morning/day' in reported speech."
+    },
+    {
+      "question": "Engineers hope that they ___ the problems with the bridge now that new supports have been built.",
+      "options": [
+        "have solved (or solve)",
+        "had solved",
+        "both",
+        "neither"
+      ],
+      "correctAnswer": 0,
+      "hint": "Present perfect continuous/simple after 'hope' for present relevance.",
+      "explanation": "<strong>Answer: have solved (or solve)</strong><br>Present perfect continuous/simple after 'hope' for present relevance. The present perfect links past events to the present. The key signals are: <em>just, already, yet, ever, never, since, for, recently</em>, and incomplete time expressions like <em>this week</em> or <em>today</em> (when not yet over)."
+    },
+    {
+      "type": "correct",
+      "sentence": "The current policy states that all employees must declared their expenses monthly.",
+      "correction": "The current policy states that all employees must declare their expenses monthly.",
+      "acceptable": [
+        "must declare their expenses monthly"
+      ],
+      "hint": "After 'must', always use the bare infinitive — no '-ed' ending.",
+      "explanation": "<strong>Answer: must declare</strong><br>After all modal verbs (must, should, can, could, may, might, will, would), use the bare infinitive (no -s, -ed, or -ing). 'Must declared' incorrectly applies a past tense ending to the infinitive. Note: present tense reporting verbs ('states', 'says') do not trigger tense backshift."
+    },
+    {
+      "question": "The current law ___ that an employee has the right to appeal.",
+      "options": [
+        "states",
+        "stated",
+        "both",
+        "neither"
+      ],
+      "correctAnswer": 0,
+      "hint": "Laws usually use present tense reporting verbs.",
+      "explanation": "<strong>Answer: states</strong><br>Laws usually use present tense reporting verbs. "
+    },
+    {
+      "question": "Protesting that he ___ at home all day. (Nokes)",
+      "options": [
+        "was / had been",
+        "is",
+        "both",
+        "neither"
+      ],
+      "correctAnswer": 0,
+      "hint": "Nokes' past situation reported.",
+      "explanation": "<strong>Answer: was / had been</strong><br>We use the <em>past perfect</em> here because this action happened before another past event.<br><small>💡 Nokes' past situation reported.</small>"
+    },
+    {
+      "question": "Reminded Barnes that he ___ entitled to have a lawyer present.",
+      "options": [
+        "was",
+        "is",
+        "both",
+        "neither"
+      ],
+      "correctAnswer": 0,
+      "hint": "Past reporting verb usually leads to a past reported verb.",
+      "explanation": "<strong>Answer: was</strong><br>Past reporting verb usually leads to a past reported verb. "
+    }
+  ]
+}

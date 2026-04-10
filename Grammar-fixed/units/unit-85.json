@@ -1,0 +1,114 @@
+{
+  "id": 85,
+  "title": "Time Expressions and Duration",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Talking about time",
+      "content": "<div class=\"web-text\">Advanced ways to discuss time and duration:</div><div class=\"web-example\"><span>• <strong>in the meantime</strong> — during the time between two events. <em>The results will be ready next week. In the meantime, rest.</em></span></div><div class=\"web-example\"><span>• <strong>for the time being</strong> — temporarily, for now. <em>We'll use this office for the time being.</em></span></div><div class=\"web-example\"><span>• <strong>sooner or later</strong> — eventually, at some point. <em>Sooner or later, the truth will come out.</em></span></div><div class=\"web-example\"><span>• <strong>at the eleventh hour</strong> — at the last possible moment. <em>The deal was saved at the eleventh hour.</em></span></div><div class=\"web-example\"><span>• <strong>round the clock</strong> — all day and night. <em>Doctors worked round the clock to save patients.</em></span></div>"
+    },
+    {
+      "id": "B",
+      "title": "Duration and frequency",
+      "content": "<div class=\"web-text\">Expressing how long and how often:</div><div class=\"web-example\"><span>• <strong>intermittent</strong> — not continuous; stopping and starting. <em>We had intermittent rain throughout the day.</em></span></div><div class=\"web-example\"><span>• <strong>prolonged</strong> — continuing for a long time. <em>Prolonged stress can damage your health.</em></span></div><div class=\"web-example\"><span>• <strong>sporadic</strong> — occurring at irregular intervals. <em>There were sporadic outbreaks of violence.</em></span></div><div class=\"web-example\"><span>• <strong>transient</strong> — lasting only a short time. <em>Fame can be transient in the entertainment industry.</em></span></div><div class=\"web-example\"><span>• <strong>concurrent</strong> — happening at the same time. <em>She managed three concurrent projects successfully.</em></span></div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "Something that lasts only a short time is:",
+      "options": [
+        "intermittently",
+        "consecutively",
+        "transient",
+        "simultaneously"
+      ],
+      "correctAnswer": 2,
+      "hint": "Brief and temporary.",
+      "explanation": "<strong>Transient</strong> means lasting only for a short time; not permanent."
+    },
+    {
+      "question": "Working 24 hours a day is working:",
+      "options": [
+        "round the clock",
+        "sooner or later",
+        "for the time being",
+        "intermittently"
+      ],
+      "correctAnswer": 0,
+      "hint": "Non-stop, day and night.",
+      "explanation": "<strong>Round the clock</strong> means all day and all night without stopping."
+    },
+    {
+      "question": "Something that stops and starts repeatedly is:",
+      "options": [
+        "intermittent",
+        "preliminarily",
+        "sporadically",
+        "imminently"
+      ],
+      "correctAnswer": 0,
+      "hint": "On and off.",
+      "explanation": "<strong>Intermittent</strong> means occurring at irregular intervals; not continuous."
+    },
+    {
+      "question": "Happening at the very last possible moment is:",
+      "options": [
+        "in the meantime",
+        "at the eleventh hour",
+        "for the time being",
+        "sooner or later"
+      ],
+      "correctAnswer": 1,
+      "hint": "Almost too late.",
+      "explanation": "<strong>At the eleventh hour</strong> means at the last possible moment."
+    },
+    {
+      "question": "Events happening at the same time are:",
+      "options": [
+        "sporadically",
+        "preliminarily",
+        "retrospectively",
+        "concurrent"
+      ],
+      "correctAnswer": 3,
+      "hint": "Simultaneous.",
+      "explanation": "<strong>Concurrent</strong> means existing, happening, or done at the same time."
+    },
+    {
+      "question": "'For the time being' means:",
+      "options": [
+        "historically",
+        "temporarily",
+        "frequently",
+        "permanently"
+      ],
+      "correctAnswer": 1,
+      "hint": "Just for now.",
+      "explanation": "<strong>For the time being</strong> means temporarily; until some other arrangement is made."
+    },
+    {
+      "question": "Something that continues for a very long time is:",
+      "options": [
+        "perpetually",
+        "sporadically",
+        "eventually",
+        "prolonged"
+      ],
+      "correctAnswer": 3,
+      "hint": "Extended duration.",
+      "explanation": "<strong>Prolonged</strong> means continuing for a long time or longer than usual."
+    },
+    {
+      "question": "Events occurring at irregular, unpredictable intervals are:",
+      "options": [
+        "sporadically",
+        "intermittently",
+        "sporadic",
+        "eventually"
+      ],
+      "correctAnswer": 2,
+      "hint": "Random and scattered.",
+      "explanation": "<strong>Sporadic</strong> means occurring at irregular intervals or only in a few places."
+    }
+  ]
+}

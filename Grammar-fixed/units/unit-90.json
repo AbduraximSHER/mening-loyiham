@@ -1,0 +1,114 @@
+{
+  "id": 90,
+  "title": "Cultural Awareness and Diversity",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Cultural concepts",
+      "content": "<div class=\"web-text\">Vocabulary for discussing culture and diversity:</div><div class=\"web-example\"><span>• <strong>multicultural</strong> — including people of many different cultures. <em>London is one of the most multicultural cities in the world.</em></span></div><div class=\"web-example\"><span>• <strong>stereotype</strong> — an oversimplified idea about a group. <em>We should challenge stereotypes rather than accept them.</em></span></div><div class=\"web-example\"><span>• <strong>assimilate</strong> — absorb into a wider culture. <em>Immigrants often face pressure to assimilate quickly.</em></span></div><div class=\"web-example\"><span>• <strong>inclusive</strong> — not excluding any group. <em>The company promotes an inclusive workplace culture.</em></span></div><div class=\"web-example\"><span>• <strong>discrimination</strong> — unfair treatment based on group identity. <em>Discrimination based on gender or race is illegal.</em></span></div>"
+    },
+    {
+      "id": "B",
+      "title": "Intercultural skills",
+      "content": "<div class=\"web-text\">Skills for interacting across cultures:</div><div class=\"web-example\"><span>• <strong>empathy</strong> — understanding others' feelings. <em>Empathy is essential for building cross-cultural relationships.</em></span></div><div class=\"web-example\"><span>• <strong>tolerance</strong> — accepting differences. <em>Tolerance of different viewpoints enriches society.</em></span></div><div class=\"web-example\"><span>• <strong>etiquette</strong> — conventional rules of polite behaviour. <em>Business etiquette varies significantly between countries.</em></span></div><div class=\"web-example\"><span>• <strong>taboo</strong> — something prohibited by social custom. <em>In some cultures, discussing money is a taboo subject.</em></span></div><div class=\"web-example\"><span>• <strong>integration</strong> — combining different groups into one. <em>Successful integration requires effort from both sides.</em></span></div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "An oversimplified generalisation about a group is a:",
+      "options": [
+        "bias",
+        "stereotype",
+        "diaspora",
+        "integration"
+      ],
+      "correctAnswer": 1,
+      "hint": "Unfair assumptions.",
+      "explanation": "A <strong>stereotype</strong> is a widely held but oversimplified image or idea about a particular group."
+    },
+    {
+      "question": "A workplace that welcomes everyone regardless of background is:",
+      "options": [
+        "exclusive",
+        "inclusive",
+        "assimilated",
+        "discriminatory"
+      ],
+      "correctAnswer": 1,
+      "hint": "Everyone belongs.",
+      "explanation": "<strong>Inclusive</strong> means not excluding any section of society."
+    },
+    {
+      "question": "Something forbidden by social custom is:",
+      "options": [
+        "taboo",
+        "ethnocentric",
+        "bias",
+        "xenophobia"
+      ],
+      "correctAnswer": 0,
+      "hint": "You shouldn't talk about it.",
+      "explanation": "A <strong>taboo</strong> is a social or religious custom prohibiting discussion of something."
+    },
+    {
+      "question": "Understanding and sharing others' feelings is:",
+      "options": [
+        "multicultural",
+        "stereotyping",
+        "empathy",
+        "integration"
+      ],
+      "correctAnswer": 2,
+      "hint": "Walking in someone else's shoes.",
+      "explanation": "<strong>Empathy</strong> is the ability to understand and share the feelings of another."
+    },
+    {
+      "question": "Rules of polite behaviour in social situations are:",
+      "options": [
+        "ethnocentric",
+        "stereotypes",
+        "taboos",
+        "etiquette"
+      ],
+      "correctAnswer": 3,
+      "hint": "How to behave properly.",
+      "explanation": "<strong>Etiquette</strong> is the customary code of polite behaviour in society."
+    },
+    {
+      "question": "Unfair treatment of people based on their identity is:",
+      "options": [
+        "indigenous",
+        "integration",
+        "discrimination",
+        "stereotyping"
+      ],
+      "correctAnswer": 2,
+      "hint": "Treating people unequally.",
+      "explanation": "<strong>Discrimination</strong> is the unjust treatment of different categories of people."
+    },
+    {
+      "question": "The process of adopting the culture of a wider society is:",
+      "options": [
+        "assimilation",
+        "integration",
+        "bias",
+        "stereotyping"
+      ],
+      "correctAnswer": 0,
+      "hint": "Becoming part of the dominant culture.",
+      "explanation": "<strong>Assimilation</strong> is the process of absorbing into the cultural tradition of a population."
+    },
+    {
+      "question": "Accepting that others may have different beliefs is:",
+      "options": [
+        "diaspora",
+        "tolerance",
+        "ethnocentric",
+        "pluralism"
+      ],
+      "correctAnswer": 1,
+      "hint": "Respecting differences.",
+      "explanation": "<strong>Tolerance</strong> is willingness to accept behaviour and beliefs different from one's own."
+    }
+  ]
+}

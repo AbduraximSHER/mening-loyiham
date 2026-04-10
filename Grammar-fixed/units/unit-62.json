@@ -1,0 +1,114 @@
+{
+  "id": 62,
+  "title": "Media and Communication",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Types of media",
+      "content": "<div class=\"web-text\">Vocabulary for discussing modern media:</div><div class=\"web-example\"><span>• <strong>broadcast</strong> — transmit a programme on TV or radio. <em>The event was broadcast live to millions of viewers.</em></span></div><div class=\"web-example\"><span>• <strong>tabloid</strong> — a newspaper focusing on sensational stories. <em>Tabloids often exaggerate stories for dramatic effect.</em></span></div><div class=\"web-example\"><span>• <strong>editorial</strong> — an article giving the newspaper's opinion. <em>The editorial criticised the government's new policy.</em></span></div><div class=\"web-example\"><span>• <strong>podcast</strong> — a digital audio programme available online. <em>She hosts a popular podcast on language learning.</em></span></div><div class=\"web-example\"><span>• <strong>correspondent</strong> — a journalist reporting from a particular place. <em>Our foreign correspondent filed a report from the war zone.</em></span></div>"
+    },
+    {
+      "id": "B",
+      "title": "Media influence",
+      "content": "<div class=\"web-text\">How media shapes public perception:</div><div class=\"web-example\"><span>• <strong>bias</strong> — unfair prejudice in reporting. <em>Readers should be aware of political bias in the news.</em></span></div><div class=\"web-example\"><span>• <strong>propaganda</strong> — misleading information to promote a viewpoint. <em>Propaganda was widely used during wartime.</em></span></div><div class=\"web-example\"><span>• <strong>sensationalism</strong> — exaggerating news for excitement. <em>Sensationalism in the media undermines public trust.</em></span></div><div class=\"web-example\"><span>• <strong>misinformation</strong> — false information spread unintentionally. <em>Misinformation on social media spreads rapidly.</em></span></div><div class=\"web-example\"><span>• <strong>censorship</strong> — suppressing information considered harmful. <em>Internet censorship restricts access to information in some countries.</em></span></div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "Unfair prejudice for or against something in reporting is:",
+      "options": [
+        "bias",
+        "impartial",
+        "circulation",
+        "satirical"
+      ],
+      "correctAnswer": 0,
+      "hint": "One-sided reporting.",
+      "explanation": "<strong>Bias</strong> is prejudice in favour of or against one thing compared to another, usually unfairly."
+    },
+    {
+      "question": "Exaggerating news stories to make them more exciting is:",
+      "options": [
+        "impartial",
+        "paparazzi",
+        "circulation",
+        "sensationalism"
+      ],
+      "correctAnswer": 3,
+      "hint": "Making stories bigger than they are.",
+      "explanation": "<strong>Sensationalism</strong> is presenting stories in a way that provokes public interest at the expense of accuracy."
+    },
+    {
+      "question": "False information spread without intent to deceive is:",
+      "options": [
+        "satirical",
+        "libellous",
+        "circulation",
+        "misinformation"
+      ],
+      "correctAnswer": 3,
+      "hint": "Not deliberate lying, but still wrong.",
+      "explanation": "<strong>Misinformation</strong> is false or inaccurate information, especially that spread unintentionally."
+    },
+    {
+      "question": "A journalist who reports from a specific location or country is a:",
+      "options": [
+        "editor",
+        "satirical",
+        "broadcaster",
+        "correspondent"
+      ],
+      "correctAnswer": 3,
+      "hint": "They report from the scene.",
+      "explanation": "A <strong>correspondent</strong> is a journalist reporting from a particular area or on a particular topic."
+    },
+    {
+      "question": "The official suppression of information or expression is:",
+      "options": [
+        "circulation",
+        "impartial",
+        "censorship",
+        "satirical"
+      ],
+      "correctAnswer": 2,
+      "hint": "Blocking or removing content.",
+      "explanation": "<strong>Censorship</strong> is the suppression of speech, communication, or information deemed objectionable."
+    },
+    {
+      "question": "A newspaper known for dramatic, less serious stories is a:",
+      "options": [
+        "broadcast",
+        "podcast",
+        "broadsheet",
+        "tabloid"
+      ],
+      "correctAnswer": 3,
+      "hint": "Often has large headlines and celebrity gossip.",
+      "explanation": "A <strong>tabloid</strong> is a newspaper with short articles and lots of pictures, focusing on sensational content."
+    },
+    {
+      "question": "Misleading information used to promote a political cause is:",
+      "options": [
+        "impartial",
+        "satirical",
+        "circulation",
+        "propaganda"
+      ],
+      "correctAnswer": 3,
+      "hint": "Deliberately misleading to influence opinion.",
+      "explanation": "<strong>Propaganda</strong> is information used to promote a political cause or point of view, often misleadingly."
+    },
+    {
+      "question": "An article expressing the newspaper's own official opinion is an:",
+      "options": [
+        "broadcast",
+        "circulation",
+        "editorial",
+        "libellous"
+      ],
+      "correctAnswer": 2,
+      "hint": "The newspaper's own viewpoint.",
+      "explanation": "An <strong>editorial</strong> is a newspaper article expressing the editor's opinion on a topical issue."
+    }
+  ]
+}

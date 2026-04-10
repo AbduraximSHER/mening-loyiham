@@ -1,0 +1,119 @@
+{
+  "id": 59,
+  "title": "Education and Learning",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Educational systems",
+      "content": "<div class=\"web-text\">Vocabulary for discussing education at an advanced level:</div><div class=\"web-example\"><span>• <strong>curriculum</strong> — the subjects in a course of study. <em>The school revised its curriculum to include coding.</em></span></div><div class=\"web-example\"><span>• <strong>syllabus</strong> — an outline of topics covered in a specific course. <em>The professor distributed the syllabus on the first day.</em></span></div><div class=\"web-example\"><span>• <strong>tuition</strong> — fees paid for instruction. <em>University tuition has risen dramatically in recent years.</em></span></div><div class=\"web-example\"><span>• <strong>scholarship</strong> — a grant given to a student based on merit or need. <em>She earned a full scholarship to study abroad.</em></span></div><div class=\"web-example\"><span>• <strong>plagiarism</strong> — presenting someone else's work as your own. <em>Plagiarism is considered a serious academic offence.</em></span></div>"
+    },
+    {
+      "id": "B",
+      "title": "Learning approaches",
+      "content": "<div class=\"web-text\">How people learn and develop skills:</div><div class=\"web-example\"><span>• <strong>autodidact</strong> — a self-taught person. <em>Many successful entrepreneurs are autodidacts.</em></span></div><div class=\"web-example\"><span>• <strong>rote learning</strong> — memorising through repetition. <em>Rote learning is effective for vocabulary but not for critical thinking.</em></span></div><div class=\"web-example\"><span>• <strong>hands-on</strong> — involving practical experience. <em>Engineering students need hands-on training in labs.</em></span></div><div class=\"web-example\"><span>• <strong>peer review</strong> — evaluation by people of similar standing. <em>Academic papers undergo rigorous peer review before publication.</em></span></div>"
+    },
+    {
+      "id": "C",
+      "title": "Academic achievement",
+      "content": "<div class=\"web-text\">Describing success and progress in education:</div><div class=\"web-example\"><span>• <strong>distinction</strong> — the highest grade or honour. <em>She graduated with distinction in all her subjects.</em></span></div><div class=\"web-example\"><span>• <strong>dissertation</strong> — a long essay on a specific subject. <em>He spent two years writing his doctoral dissertation.</em></span></div><div class=\"web-example\"><span>• <strong>accredited</strong> — officially recognised as meeting standards. <em>Make sure your university is fully accredited.</em></span></div><div class=\"web-example\"><span>• <strong>proficient</strong> — competent and skilled. <em>She became proficient in three languages by age 20.</em></span></div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "The overall set of subjects taught at a school is the:",
+      "options": [
+        "syllabus",
+        "tuition",
+        "syllabus",
+        "curriculum"
+      ],
+      "correctAnswer": 3,
+      "hint": "The entire educational programme.",
+      "explanation": "The <strong>curriculum</strong> is the full range of subjects and content taught in a school or course."
+    },
+    {
+      "question": "A person who teaches themselves without formal education is an:",
+      "options": [
+        "mentor",
+        "autodidact",
+        "proficient",
+        "scholar"
+      ],
+      "correctAnswer": 1,
+      "hint": "Self-taught.",
+      "explanation": "An <strong>autodidact</strong> is a self-taught person."
+    },
+    {
+      "question": "Copying someone's work and pretending it's yours is:",
+      "options": [
+        "tutorial",
+        "pedagogy",
+        "plagiarism",
+        "peer review"
+      ],
+      "correctAnswer": 2,
+      "hint": "A serious academic offence.",
+      "explanation": "<strong>Plagiarism</strong> is the practice of taking someone else's work and passing it off as one's own."
+    },
+    {
+      "question": "Learning by repeating information many times is:",
+      "options": [
+        "accreditation",
+        "hands-on learning",
+        "rote learning",
+        "peer review"
+      ],
+      "correctAnswer": 2,
+      "hint": "Repetition-based memorisation.",
+      "explanation": "<strong>Rote learning</strong> is mechanical memorisation through repetition."
+    },
+    {
+      "question": "A financial award to help a student pay for education is a:",
+      "options": [
+        "pedagogy",
+        "vocational",
+        "scholarship",
+        "tuition"
+      ],
+      "correctAnswer": 2,
+      "hint": "Based on merit or financial need.",
+      "explanation": "A <strong>scholarship</strong> is a grant or payment made to support a student's education."
+    },
+    {
+      "question": "Graduating with the highest possible grade is graduating with:",
+      "options": [
+        "pedagogy",
+        "proficiency",
+        "distinction",
+        "accreditation"
+      ],
+      "correctAnswer": 2,
+      "hint": "The top level of achievement.",
+      "explanation": "Graduating with <strong>distinction</strong> means achieving the highest academic honours."
+    },
+    {
+      "question": "A long academic paper written for a doctorate is a:",
+      "options": [
+        "credential",
+        "peer review",
+        "dissertation",
+        "syllabus"
+      ],
+      "correctAnswer": 2,
+      "hint": "Years of research in one document.",
+      "explanation": "A <strong>dissertation</strong> is a long essay or thesis, especially for a doctoral degree."
+    },
+    {
+      "question": "An institution officially recognised as meeting quality standards is:",
+      "options": [
+        "plagiarised",
+        "accredited",
+        "distinguished",
+        "proficient"
+      ],
+      "correctAnswer": 1,
+      "hint": "It has official approval.",
+      "explanation": "<strong>Accredited</strong> means officially recognised as meeting certain standards."
+    }
+  ]
+}

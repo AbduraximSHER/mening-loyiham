@@ -1,0 +1,235 @@
+{
+  "id": 8,
+  "title": "Present and past time: review",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Continuous and simple",
+      "content": "\n            <div class=\"web-text\">When we focus on an activity itself, starting before and continuing up to (and possibly beyond) a particular point of time, rather than focusing on actions as completed events, we use <em>continuous</em> forms:</div>\n            <div class=\"web-example\">\n                <span>• Ingrid can't come to the phone. She'<strong>s washing</strong> her hair.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• As you'<strong>re not using</strong> your car at the moment, can I borrow it?</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• This time yesterday, I <strong>was flying</strong> over the Pacific.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>Was</strong> she <strong>wearing</strong> that red dress when you saw her?</span>\n            </div>\n            <div class=\"web-text\">We use <em>simple</em> forms to talk about general situations, habits, and things that are or were always true. We use the past simple for completed events:</div>\n            <div class=\"web-example\">\n                <span>• When I <strong>worked</strong> as a postman I <strong>got up</strong> at three o'clock every morning.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• Miguel <strong>doesn't play</strong> golf very well.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• These birds <strong>build</strong> their nests on the ground.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• The earthquake <strong>struck</strong> the area at midday yesterday. (past simple for completed events)</span>\n            </div>\n            <div class=\"web-text\">We also use <em>simple</em> forms with state verbs:</div>\n            <div class=\"web-example\">\n                <span>• She <strong>intends</strong> to work hard at school and go on to university.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>Did</strong> you <strong>understand</strong> the instructions we were given?</span>\n            </div>\n            <div class=\"web-text\">However, we can use continuous forms with these verbs when they describe something happening or changing:</div>\n            <div class=\"web-example\">\n                <span>• She <strong>was intending</strong> to talk to Tony about the idea, but she didn't get the opportunity.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• I'<strong>m understanding</strong> physics much better now that Mr Davies is teaching us.</span>\n            </div>\n        "
+    },
+    {
+      "id": "B",
+      "title": "Perfect",
+      "content": "\n            <div class=\"web-text\">We use <em>perfect</em> verb forms to describe one event or state from the point of view of a later time. The present perfect suggests a connection between something that happened in the past and the present time. Note, however, that the situation or event does not have to continue until the time of speaking, only to have some connection or relevance to the present time:</div>\n            <div class=\"web-example\">\n                <span>• I'<strong>ve finished</strong> that book you wanted, so you can borrow it now.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>Have</strong> you <strong>turned</strong> the heating off? I don't like it to be on when I'm not at home.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• Your nose is bleeding. <strong>Has</strong> somebody <strong>hit</strong> you?</span>\n            </div>\n            <div class=\"web-text\">The past perfect is used to locate a past event before another past event:</div>\n            <div class=\"web-example\">\n                <span>• I invited him out to dinner, but he said he <strong>had</strong> already <strong>eaten</strong>.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• By the time I picked up the phone, they <strong>had rung off</strong>.</span>\n            </div>\n        "
+    },
+    {
+      "id": "C",
+      "title": "Combinations of perfect and continuous",
+      "content": "\n            <div class=\"web-text\">We combine the perfect and continuous forms in the present perfect continuous to describe an activity in progress either at or recently before the time of speaking, and possibly beyond it:</div>\n            <div class=\"web-example\">\n                <span>• I <strong>have been following</strong> the discussions on the forum with great interest.</span>\n            </div>\n            <div class=\"web-text\">We can also use the present perfect continuous to talk about activities that have recently finished with some result that can be seen, heard, etc.:</div>\n            <div class=\"web-example\">\n                <span>• Look at the dirt on your clothes! <strong>Have</strong> you <strong>been digging</strong> in the garden again?</span>\n            </div>\n            <div class=\"web-text\">The past perfect continuous has a similar meaning. However, the point of reference is not 'now' (as it is with the present perfect continuous) but a point in the past:</div>\n            <div class=\"web-example\">\n                <span>• When we met Lena and Marko, they <strong>had been riding</strong>.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• It <strong>had been snowing</strong> heavily for hours and when I went to the door I couldn't open it.</span>\n            </div>\n        "
+    }
+  ],
+  "exercises": [
+    {
+      "question": "Amy's blog: I ___ (write) this blog in a hotel room in Perth.",
+      "options": [
+        "am writing",
+        "write",
+        "wrote",
+        "was writing"
+      ],
+      "correctAnswer": 0,
+      "hint": "Activity in progress at the time of speaking = present continuous.",
+      "explanation": "<strong>Answer: am writing</strong><br>The present continuous describes a temporary action or situation in progress around the present moment. The key signals here are words like <em>at the moment</em>, <em>today</em>, <em>currently</em>, or <em>right now</em>. Compare with the present simple, which describes permanent facts or habitual actions."
+    },
+    {
+      "question": "Amy's blog: I ___ here a couple of hours ago.",
+      "options": [
+        "arrived",
+        "have arrived",
+        "was arriving",
+        "arrive"
+      ],
+      "correctAnswer": 0,
+      "hint": "Specific past time with 'ago' = past simple.",
+      "explanation": "<strong>Answer: arrived</strong><br>Specific past time with 'ago' = past simple. The past simple requires a specific completed time; present perfect is used when the time is unspecified or the result matters now."
+    },
+    {
+      "question": "Amy's blog: I ___ pretty tired so this will only be a short post.",
+      "options": [
+        "feel",
+        "am feeling",
+        "felt",
+        "was feeling"
+      ],
+      "correctAnswer": 1,
+      "hint": "Temporary state at the moment of speaking = present continuous.",
+      "explanation": "<strong>Answer: am feeling</strong><br>The present continuous describes a temporary action or situation in progress around the present moment. The key signals here are words like <em>at the moment</em>, <em>today</em>, <em>currently</em>, or <em>right now</em>. Compare with the present simple, which describes permanent facts or habitual actions."
+    },
+    {
+      "question": "Amy's blog: before I ___ to sleep.",
+      "options": [
+        "go",
+        "am going",
+        "went",
+        "have gone"
+      ],
+      "correctAnswer": 0,
+      "hint": "Future reference after 'before' = present simple.",
+      "explanation": "<strong>Answer: go</strong><br>After conjunctions like 'before', 'when', 'until', and 'as soon as', use the present simple to refer to the future. English does not use 'will' in these subordinate time clauses."
+    },
+    {
+      "question": "Amy's blog: As you ___ , I spent last week in Adelaide with Ruby.",
+      "options": [
+        "know",
+        "are knowing",
+        "knew",
+        "have known"
+      ],
+      "correctAnswer": 0,
+      "hint": "State verb 'know' used in present simple.",
+      "explanation": "<strong>Answer: know</strong><br>State verb 'know' used in present simple. State verbs describe mental states, emotions, or senses and are not normally used in continuous forms."
+    },
+    {
+      "type": "fill",
+      "question": "He ___ (work) for the same company for 20 years and has no plans to leave.",
+      "answer": "has been working",
+      "acceptable": [
+        "has worked"
+      ],
+      "hint": "Still ongoing employment (from past to present) → present perfect (continuous).",
+      "explanation": "<strong>Answer: has been working / has worked</strong><br>Both are possible, but the continuous emphasises the unbroken duration. Either expresses that the employment started in the past and continues now."
+    },
+    {
+      "question": "Amy's blog: I ___ (meet) her a month or so ago.",
+      "options": [
+        "met",
+        "have met",
+        "was meeting",
+        "meet"
+      ],
+      "correctAnswer": 0,
+      "hint": "Completed past action = past simple.",
+      "explanation": "<strong>Answer: met</strong><br>The past simple is used for a specific completed action at a known or implied past moment. Here the action is finished and the time context is clear from the surrounding narrative."
+    },
+    {
+      "question": "Newspaper article: Aston United ___ their manager, Neil Ronson.",
+      "options": [
+        "have sacked",
+        "sacked",
+        "are sacking",
+        "had sacked"
+      ],
+      "correctAnswer": 0,
+      "hint": "Recent completed action with present relevance = present perfect.",
+      "explanation": "<strong>Answer: have sacked</strong><br>Recent completed action with present relevance = present perfect. The present perfect links past events to the present. The key signals are: <em>just, already, yet, ever, never, since, for, recently</em>, and incomplete time expressions like <em>this week</em> or <em>today</em> (when not yet over)."
+    },
+    {
+      "question": "Newspaper article: The former England football international ___ (say) that he ___ the news when…",
+      "options": [
+        "said / heard",
+        "has said / has heard",
+        "was saying / was hearing",
+        "said / was hearing"
+      ],
+      "correctAnswer": 0,
+      "hint": "Completed past events in sequence = past simple.",
+      "explanation": "<strong>Answer: said / heard</strong><br>Completed past events in sequence = past simple. "
+    },
+    {
+      "question": "Newspaper article: he ___ from a three-week holiday in Spain.",
+      "options": [
+        "had returned",
+        "returned",
+        "was returning",
+        "has returned"
+      ],
+      "correctAnswer": 0,
+      "hint": "Event before another past event = past perfect.",
+      "explanation": "<strong>Answer: had returned</strong><br>We use the <em>past perfect</em> here because this action happened before another past event.<br><small>💡 Event before another past event = past perfect.</small>"
+    },
+    {
+      "question": "Newspaper article: 'There ___ no hint of any problem when I ___ (leave) for the holiday.'",
+      "options": [
+        "had been / left",
+        "was / left",
+        "has been / leave",
+        "were / left"
+      ],
+      "correctAnswer": 0,
+      "hint": "State before a past reference = past perfect; completed departure = past simple.",
+      "explanation": "<strong>Answer: had been / left</strong><br>We use the <em>past perfect</em> here because this action happened before another past event.<br><small>💡 State before a past reference = past perfect; completed departure = past simple.</small>"
+    },
+    {
+      "type": "fill",
+      "question": "I ___ (just / realise) I left my keys at home.",
+      "answer": "have just realised",
+      "acceptable": [
+        "'ve just realised"
+      ],
+      "hint": "'Just' = very recently completed → present perfect.",
+      "explanation": "<strong>Answer: have just realised</strong><br>'Just' signals a very recent action with current relevance. This is a classic present perfect signal — the realisation has just happened and affects the present moment."
+    },
+    {
+      "question": "Conversation: Did he ___ any health problems recently?",
+      "options": [
+        "have",
+        "has had",
+        "had",
+        "having"
+      ],
+      "correctAnswer": 0,
+      "hint": "In a question about the period before now = present perfect simple.",
+      "explanation": "<strong>Answer: have</strong><br>In a question about the period before now = present perfect simple. The present perfect connects past events to the present moment — used for recent events, life experience, or ongoing results."
+    },
+    {
+      "question": "Conversation: well, he ___ from stress for some time.",
+      "options": [
+        "'s been suffering",
+        "suffered",
+        "has suffered",
+        "was suffering"
+      ],
+      "correctAnswer": 0,
+      "hint": "Ongoing situation up to now = present perfect continuous.",
+      "explanation": "<strong>Answer: 's been suffering</strong><br>Ongoing situation up to now = present perfect continuous. The present perfect connects past events to the present moment — used for recent events, life experience, or ongoing results."
+    },
+    {
+      "question": "Conversation: He ___ too hard for months.",
+      "options": [
+        "had worked",
+        "'s been working",
+        "worked",
+        "was working"
+      ],
+      "correctAnswer": 0,
+      "hint": "Activity lasting up to a reference point = past perfect.",
+      "explanation": "<strong>Answer: had worked</strong><br>We use the <em>past perfect</em> here because this action happened before another past event.<br><small>💡 Activity lasting up to a reference point = past perfect.</small>"
+    },
+    {
+      "question": "Conversation: ___ you gone up to Scotland when you ___ ?",
+      "options": [
+        "Have / heard",
+        "Did / hear",
+        "Had / heard",
+        "Have / have heard"
+      ],
+      "correctAnswer": 0,
+      "hint": "Present perfect for unspecified past up to now; past simple for specific event.",
+      "explanation": "<strong>Answer: Have / heard</strong><br>Present perfect for unspecified past up to now; past simple for specific event. The past simple requires a specific completed time; present perfect is used when the time is unspecified or the result matters now."
+    },
+    {
+      "question": "Conversation: the doctors ___ him over.",
+      "options": [
+        "have checked",
+        "checked",
+        "had checked",
+        "were checking"
+      ],
+      "correctAnswer": 0,
+      "hint": "Completed action with present relevance = present perfect.",
+      "explanation": "<strong>Answer: have checked</strong><br>Completed action with present relevance = present perfect. The present perfect links past events to the present. The key signals are: <em>just, already, yet, ever, never, since, for, recently</em>, and incomplete time expressions like <em>this week</em> or <em>today</em> (when not yet over)."
+    },
+    {
+      "question": "Conversation: and ___ (tell) him that he needs complete rest.",
+      "options": [
+        "had told",
+        "told",
+        "have told",
+        "were telling"
+      ],
+      "correctAnswer": 0,
+      "hint": "Event before another past event = past perfect.",
+      "explanation": "<strong>Answer: had told</strong><br>Event before another past event = past perfect. "
+    }
+  ]
+}

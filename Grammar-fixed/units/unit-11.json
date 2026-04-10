@@ -1,0 +1,298 @@
+{
+  "id": 11,
+  "title": "Future continuous, future perfect and future perfect continuous",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Future continuous: I will be doing",
+      "content": "\n            <div class=\"web-text\">We can use the future continuous to talk about:</div>\n            <div class=\"web-text\">(i) something that is predicted to start before a particular point of future time, and that may continue after this point (often the result of a previous decision or arrangement):</div>\n            <div class=\"web-example\">\n                <span>• When it goes into orbit, the spacecraft <strong>will be carrying</strong> 30 kilos of plutonium.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• Anna <strong>will be helping</strong> us to organise the party.</span>\n            </div>\n            <div class=\"web-text\">(ii) a future activity that is part of the normal course of events or that is one of a repeated or regular series of events:</div>\n            <div class=\"web-example\">\n                <span>• Dr Lin <strong>will be giving</strong> the same talk in room 103 at ten next Thursday.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>Will you be driving</strong> to work, as usual?</span>\n            </div>\n            <div class=\"web-text\">We can often use either the future continuous or the present continuous when we talk about arranged activities or events in the future (see also Unit 10). Compare:</div>\n            <div class=\"web-example\">\n                <span>• We <strong>will be leaving</strong> for Istanbul at 7:00 in the evening. (timetabled; <em>or</em> … <strong>are leaving</strong> …) <em>and</em></span>\n            </div>\n            <div class=\"web-example\">\n                <span>• When the race starts later this afternoon, the drivers <strong>will be hoping</strong> for drier weather than last year. (<em>not</em> … are hoping …; not reporting the details of a programme or timetable)</span>\n            </div>\n        "
+    },
+    {
+      "id": "B",
+      "title": "Future continuous vs will to avoid suggesting willingness",
+      "content": "\n            <div class=\"web-text\">When we don't want to indicate willingness, intention, invitation, etc., we prefer to use the future continuous instead of <strong>will</strong>. For example, if guests have stayed longer than you wanted, and you don't know when they are leaving, you might ask:</div>\n            <div class=\"web-example\">\n                <span>• <strong>Will you be staying</strong> with us again tonight? (asking about their plans) <em>rather than</em></span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>Will you stay</strong> with us again tonight? (they might think this is an invitation)</span>\n            </div>\n        "
+    },
+    {
+      "id": "C",
+      "title": "Future perfect and future perfect continuous: I will have done / I will have been doing",
+      "content": "\n            <div class=\"web-text\">We use the future perfect to say that something will be ended, completed, or achieved by a particular point in the future:</div>\n            <div class=\"web-example\">\n                <span>• <em>By the time you get home</em> I <strong>will have cleaned</strong> the house from top to bottom.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• I'm sure his awful behaviour will soon <strong>have been forgotten</strong>. (= passive form)</span>\n            </div>\n            <div class=\"web-text\">The future perfect is also sometimes used for politeness in more formal contexts:</div>\n            <div class=\"web-example\">\n                <span>• I hope this email <strong>will have reassured you</strong> that no further action is required.</span>\n            </div>\n            <div class=\"web-text\">We use the future perfect continuous to emphasise the duration of an activity in progress at a particular point in the future:</div>\n            <div class=\"web-example\">\n                <span>• <em>Next year</em> I <strong>will have been working</strong> in the company for 30 years.</span>\n            </div>\n            <div class=\"web-text\">With both the future perfect and future perfect continuous we usually mention the future time (e.g. <em>By the time you get home</em> …, <em>Next year</em> …).</div>\n        "
+    },
+    {
+      "id": "D",
+      "title": "Future/Future perfect continuous for present and past situations",
+      "content": "\n            <div class=\"web-text\">The future continuous, future perfect and future perfect continuous can also be used to say what we believe or imagine is happening around now:</div>\n            <div class=\"web-example\">\n                <span>• We could ask to borrow Joe's car. He <strong>won't be using</strong> it today – he went to work by bike.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• Most people <strong>will have forgotten</strong> the fire by now.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• Tennis fans <strong>will have been queuing</strong> at Wimbledon all day to buy tickets.</span>\n            </div>\n            <div class=\"web-text\">We can use the future perfect continuous to say what we think was happening at a point in the past:</div>\n            <div class=\"web-example\">\n                <span>• Motorist Vicky Hao <strong>will have been asking</strong> herself whether speed cameras are a good idea after she was fined £100 last week for driving at 33 mph in a 30 mph zone.</span>\n            </div>\n        "
+    }
+  ],
+  "exercises": [
+    {
+      "question": "We ___ in an hour or so, make sure your suitcase is packed.",
+      "options": [
+        "will be leaving",
+        "will leave",
+        "are going to leave",
+        "leave"
+      ],
+      "correctAnswer": 0,
+      "hint": "Ongoing activity at a future point (result of prior arrangement) → future continuous.",
+      "explanation": "<strong>Answer: will be leaving</strong><br>Use the present continuous (not <em>will</em>) for personal arrangements — things planned and agreed with someone else, typically noted in a diary. <em>Will</em> would suggest a spontaneous decision."
+    },
+    {
+      "question": "Without more cheap housing, families ___ the village and find homes in town.",
+      "options": [
+        "will be moving to",
+        "will move to",
+        "are moving to",
+        "move to"
+      ],
+      "correctAnswer": 0,
+      "hint": "Predicted ongoing activity shortly → future continuous.",
+      "explanation": "<strong>Answer: will be moving to</strong><br>Predicted ongoing activity shortly → future continuous. Use <em>will</em> here — this is neither a fixed timetable event (which would take the present simple) nor a pre-planned personal arrangement (which would take the present continuous or <em>be going to</em>)."
+    },
+    {
+      "question": "Will ___ late at the office again? I want to know when to cook.",
+      "options": [
+        "you be working",
+        "you work",
+        "you have worked",
+        "you have been working"
+      ],
+      "correctAnswer": 0,
+      "hint": "Asking about an ongoing future activity (normal course of events) → future continuous.",
+      "explanation": "<strong>Answer: you be working</strong><br>Asking about an ongoing future activity (normal course of events) → future continuous. "
+    },
+    {
+      "question": "Well, I ___ over the weekend if that will help.",
+      "options": [
+        "won't be working",
+        "won't work",
+        "wouldn't work",
+        "haven't been working"
+      ],
+      "correctAnswer": 0,
+      "hint": "Future activity NOT happening → future continuous negative.",
+      "explanation": "<strong>Answer: won't be working</strong><br>Future activity NOT happening → future continuous negative. "
+    },
+    {
+      "question": "I ___ my car until next week, so you can borrow it if you like.",
+      "options": [
+        "won't be using",
+        "won't use",
+        "haven't been using",
+        "don't use"
+      ],
+      "correctAnswer": 0,
+      "hint": "Activity not in progress at future point → future continuous negative.",
+      "explanation": "<strong>Answer: won't be using</strong><br>Activity not in progress at future point → future continuous negative. "
+    },
+    {
+      "type": "fill",
+      "question": "Don't call at 8pm — we ___ (have) dinner then.",
+      "answer": "will be having",
+      "acceptable": [
+        "'ll be having"
+      ],
+      "hint": "Activity in progress at a specific future time → future continuous.",
+      "explanation": "<strong>Answer: will be having</strong><br>The future continuous (will be + -ing) describes an activity that will be in progress at a specific future moment. 'At 8pm' specifies the future point during which the action will be ongoing."
+    },
+    {
+      "question": "My grandad ___ a computer. He says he's very happy with his old typewriter.",
+      "options": [
+        "won't use",
+        "won't be using",
+        "doesn't use",
+        "hasn't been using"
+      ],
+      "correctAnswer": 0,
+      "hint": "Simple refusal/fact about future → will + infinitive.",
+      "explanation": "<strong>Answer: won't use</strong><br>Simple refusal/fact about future → will + infinitive. This verb pattern requires a to-infinitive as its complement."
+    },
+    {
+      "question": "Is your suitcase very heavy? I ___ you a hand if you like.",
+      "options": [
+        "will give",
+        "will be giving",
+        "am giving",
+        "give"
+      ],
+      "correctAnswer": 0,
+      "hint": "Offer made at the moment of speaking → will + infinitive.",
+      "explanation": "<strong>Answer: will give</strong><br>Use <em>will</em> for a decision made at the moment of speaking — an on-the-spot response to a situation. This contrasts with <em>be going to</em>, which is used for decisions already made before the moment of speaking."
+    },
+    {
+      "question": "Dr Sankey ___ evidence at the trial of James Morgan next week.",
+      "options": [
+        "will be giving",
+        "will give",
+        "gives",
+        "is giving"
+      ],
+      "correctAnswer": 0,
+      "hint": "Planned ongoing activity in the future (normal course of events) → future continuous.",
+      "explanation": "<strong>Answer: will be giving</strong><br>Planned ongoing activity in the future (normal course of events) → future continuous. Use <em>will</em> here — this is neither a fixed timetable event (which would take the present simple) nor a pre-planned personal arrangement (which would take the present continuous or <em>be going to</em>)."
+    },
+    {
+      "question": "He's parked his car across our drive and says he ___. Shall I call the police?",
+      "options": [
+        "won't move",
+        "won't be moving",
+        "isn't moving",
+        "doesn't move"
+      ],
+      "correctAnswer": 0,
+      "hint": "Refusal (willingness/intention negative) → will + infinitive.",
+      "explanation": "<strong>Answer: won't move</strong><br>Refusal (willingness/intention negative) → will + infinitive. This verb pattern requires a to-infinitive as its complement."
+    },
+    {
+      "question": "The two schools ___ to a single campus at the beginning of September.",
+      "options": [
+        "will be moving",
+        "will move",
+        "are going to move",
+        "move"
+      ],
+      "correctAnswer": 0,
+      "hint": "Scheduled/timetabled arrangement → future continuous.",
+      "explanation": "<strong>Answer: will be moving</strong><br>Use the present simple for fixed, programmed, or institutionally scheduled events (train departures, concert times, class timetables). These events are set by an external authority and cannot be changed by the speaker."
+    },
+    {
+      "type": "fill",
+      "question": "By the time you read this, I ___ (leave) for the airport.",
+      "answer": "will have left",
+      "acceptable": [
+        "'ll have left"
+      ],
+      "hint": "Completed before a future point ('by the time') → future perfect.",
+      "explanation": "<strong>Answer: will have left</strong><br>'By the time' + present simple signals the future perfect (will have + past participle). The leaving will be completed before the reading happens."
+    },
+    {
+      "question": "The weather forecast says that the rain … by the morning and tomorrow will be dry.",
+      "options": [
+        "will have cleared",
+        "will be clearing",
+        "will clear",
+        "clears"
+      ],
+      "correctAnswer": 0,
+      "hint": "Completed by a future point → future perfect.",
+      "explanation": "<strong>Answer: will have cleared</strong><br>Completed by a future point → future perfect. The present perfect links past events to the present. The key signals are: <em>just, already, yet, ever, never, since, for, recently</em>, and incomplete time expressions like <em>this week</em> or <em>today</em> (when not yet over)."
+    },
+    {
+      "question": "The company is making a profit… By the end of the year they ___ their target.",
+      "options": [
+        "will have achieved",
+        "will be achieving",
+        "will achieve",
+        "are achieving"
+      ],
+      "correctAnswer": 0,
+      "hint": "Completed achievement by future point → future perfect.",
+      "explanation": "<strong>Answer: will have achieved</strong><br>Completed achievement by future point → future perfect. The present perfect links past events to the present. The key signals are: <em>just, already, yet, ever, never, since, for, recently</em>, and incomplete time expressions like <em>this week</em> or <em>today</em> (when not yet over)."
+    },
+    {
+      "question": "In two years' time Morneau … conference of some interest.",
+      "options": [
+        "will have discovered",
+        "will be discovering",
+        "discovers",
+        "is discovering"
+      ],
+      "correctAnswer": 0,
+      "hint": "Completed discovery by future point → future perfect.",
+      "explanation": "<strong>Answer: will have discovered</strong><br>Use the past simple when the time period is clearly completed. Even if the word <em>today</em> appears, if the period (morning, afternoon, the working day) is clearly over from the speaker's perspective, the past simple is correct."
+    },
+    {
+      "question": "I am confident that I … the report before the end of the week.",
+      "options": [
+        "will have finished",
+        "will be finishing",
+        "finish",
+        "am finishing"
+      ],
+      "correctAnswer": 0,
+      "hint": "Task completed by future deadline → future perfect.",
+      "explanation": "<strong>Answer: will have finished</strong><br>Task completed by future deadline → future perfect. The present perfect links past events to the present. The key signals are: <em>just, already, yet, ever, never, since, for, recently</em>, and incomplete time expressions like <em>this week</em> or <em>today</em> (when not yet over)."
+    },
+    {
+      "question": "As delegates who arrived early … there have been some late changes to the programme.",
+      "options": [
+        "will have discovered",
+        "will be discovering",
+        "discover",
+        "are discovering"
+      ],
+      "correctAnswer": 0,
+      "hint": "Something likely completed by now/soon → future perfect.",
+      "explanation": "<strong>Answer: will have discovered</strong><br>Something likely completed by now/soon → future perfect. The present perfect links past events to the present. The key signals are: <em>just, already, yet, ever, never, since, for, recently</em>, and incomplete time expressions like <em>this week</em> or <em>today</em> (when not yet over)."
+    },
+    {
+      "type": "fill",
+      "question": "Next year she ___ (teach) at this school for a decade.",
+      "answer": "will have been teaching",
+      "acceptable": [
+        "'ll have been teaching"
+      ],
+      "hint": "Duration up to a future point → future perfect continuous.",
+      "explanation": "<strong>Answer: will have been teaching</strong><br>The future perfect continuous (will have been + -ing) emphasises the duration of an ongoing activity up to a future point. 'A decade' signals the duration; 'next year' is the future endpoint."
+    },
+    {
+      "question": "I suppose by now school ___ for Christmas.",
+      "options": [
+        "will close / will have closed → will have closed",
+        "will close only",
+        "will have closed only",
+        "will close / will had closed → will had closed"
+      ],
+      "correctAnswer": 0,
+      "hint": "Action completed by 'now' → future perfect (will have closed).",
+      "explanation": "<strong>Answer: will close / will have closed → will have closed</strong><br>Action completed by 'now' → future perfect (will have closed). The present perfect links past events to the present. The key signals are: <em>just, already, yet, ever, never, since, for, recently</em>, and incomplete time expressions like <em>this week</em> or <em>today</em> (when not yet over)."
+    },
+    {
+      "question": "You ___ a rest.",
+      "options": [
+        "will be enjoying / will have been enjoying → will be enjoying",
+        "will be enjoying only",
+        "will have been enjoying only",
+        "will be enjoying / will have been enjoying → will be enjoyed"
+      ],
+      "correctAnswer": 0,
+      "hint": "Ongoing activity right now → future continuous (will be enjoying).",
+      "explanation": "<strong>Answer: will be enjoying / will have been enjoying → will be enjoying</strong><br>This is the <em>future perfect passive</em> (<em>will have been + past participle</em>). Use it to describe an action that will be completed before a specific future moment, with the subject as the receiver of the action. The signal here is <em>by + future time</em> and a passive subject."
+    },
+    {
+      "question": "It's only a few months until he ___ school for college.",
+      "options": [
+        "will be leaving / will have been leaving → will be leaving",
+        "will be leaving only",
+        "will have been leaving only",
+        "will be leaving / will was leaving → will be leaving"
+      ],
+      "correctAnswer": 0,
+      "hint": "Event at a future point (about to leave) → future continuous.",
+      "explanation": "<strong>Answer: will be leaving / will have been leaving → will be leaving</strong><br>This is the <em>future perfect passive</em> (<em>will have been + past participle</em>). Use it to describe an action that will be completed before a specific future moment, with the subject as the receiver of the action. The signal here is <em>by + future time</em> and a passive subject."
+    },
+    {
+      "question": "My brother Joe and his family ___ next Friday.",
+      "options": [
+        "will have been arriving / will be arriving → will be arriving",
+        "will have been arriving only",
+        "will be arriving only",
+        "will had been arriving / will be arriving → will be arriving"
+      ],
+      "correctAnswer": 0,
+      "hint": "Arrival at a specific future time → future continuous.",
+      "explanation": "<strong>Answer: will have been arriving / will be arriving → will be arriving</strong><br>This is the <em>future perfect passive</em> (<em>will have been + past participle</em>). Use it to describe an action that will be completed before a specific future moment, with the subject as the receiver of the action. The signal here is <em>by + future time</em> and a passive subject."
+    },
+    {
+      "question": "By the time they get here they ___ to California and New Zealand.",
+      "options": [
+        "will be going / will have been → will have been",
+        "will be going only",
+        "will have been only",
+        "would be going / would have been → would have been"
+      ],
+      "correctAnswer": 0,
+      "hint": "Completed experience by future point → future perfect (will have been).",
+      "explanation": "<strong>Answer: will be going / will have been → will have been</strong><br>Use the present perfect for life experience when no specific time is given. The focus is on whether the experience has happened, not when. If a specific time is mentioned (<em>last year</em>, <em>in 2019</em>), switch to the past simple."
+    }
+  ]
+}

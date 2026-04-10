@@ -1,0 +1,116 @@
+{
+  "id": 47,
+  "title": "A / an, the and zero article 3",
+  "sections": [
+    {
+      "id": "A",
+      "title": "With plural and uncountable nouns",
+      "content": "<div class=\"web-text\">With plural and uncountable nouns, <strong>zero article</strong> is used to talk generally, without definite people or things in mind. <strong>The</strong> is used when we are referring to specific people or things. Compare:</div>\n            <div class=\"web-example\">\n                <span>• The government has promised not to tax <strong>books</strong>. (= books generally) and <strong>The books</strong> have arrived. (= the books you ordered)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>Music</strong> played an important part in his life. (= music generally) and I thought <strong>the music</strong> used in the film was the best part. (= that particular music)</span>\n            </div>"
+    },
+    {
+      "id": "B",
+      "title": "Holidays, times of the year, days",
+      "content": "<div class=\"web-text\">We often use <strong>zero article</strong> with the names of holidays, special times of the year, months, and days of the week including <strong>Easter, Ramadan, New Year's Day</strong>. But compare:</div>\n            <div class=\"web-example\">\n                <span>• I'll see you on <strong>Saturday</strong>. (= next Saturday)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• We met on <strong>Saturday</strong>. (= last Saturday)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• They came on <strong>a Saturday</strong> as far as I can remember. (= a day of the week, not which particular Saturday)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• They came on <strong>the Saturday</strong> after our party. (= a particular Saturday)</span>\n            </div>\n            <div class=\"web-text\">With <strong>winter, summer, spring, autumn</strong>, and <strong>New Year</strong> (meaning the holiday period), we can use either <strong>zero article</strong> or <strong>the</strong>:</div>\n            <div class=\"web-example\">\n                <span>• In <strong>(the) summer</strong> I try to spend as much time as I can in the garden.</span>\n            </div>\n            <div class=\"web-text\">We use <strong>the</strong> when it is understood or we go on to specify which summer, spring, etc. we mean:</div>\n            <div class=\"web-example\">\n                <span>• I'd like to go skiing in <strong>the autumn</strong>. (= this year)</span>\n            </div>\n            <div class=\"web-text\">When we want to say that a particular holiday, season or period of time was somehow special, we can use <strong>It / That was ... + a / an + noun + modifying phrase</strong>. Compare:</div>\n            <div class=\"web-example\">\n                <span>• That was <strong>a winter</strong> I'll never forget. (= compared to other winters it was unforgettable)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• That was <strong>the winter</strong> we went to Norway. (= a statement about a particular winter)</span>\n            </div>"
+    },
+    {
+      "id": "C",
+      "title": "Times of day and night",
+      "content": "<div class=\"web-text\">We use <strong>zero article</strong> with times of the day and night such as <strong>midnight, midday,</strong> and <strong>noon</strong>:</div>\n            <div class=\"web-example\">\n                <span>• If possible, I'd like it finished by <strong>midday</strong>.</span>\n            </div>\n            <div class=\"web-text\">But note that we can say either <strong>the dawn</strong> or <strong>dawn</strong>.</div>\n            <div class=\"web-text\">We use <strong>the + morning / afternoon / evening</strong> for a day which is understood or already specified:</div>\n            <div class=\"web-example\">\n                <span>• I enjoyed <strong>the morning</strong>, but in <strong>the afternoon</strong> the course was boring.</span>\n            </div>\n            <div class=\"web-text\">But compare:</div>\n            <div class=\"web-example\">\n                <span>• <strong>Morning</strong> is the time I work best. (= mornings in general; <strong>The morning</strong> is also possible)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• I'll be there <strong>by (the) morning / evening</strong>. (but ... <strong>by the afternoon</strong>, not ... by afternoon)</span>\n            </div>"
+    },
+    {
+      "id": "D",
+      "title": "by + zero article",
+      "content": "<div class=\"web-text\">We use <strong>by + zero article</strong> with some verbs to talk about means of transport and communication. Compare:</div>\n            <div class=\"web-example\">\n                <span>• I generally go <strong>by bus</strong> to work. and I generally take <strong>the bus</strong> to work.</span>\n            </div>\n            <div class=\"web-text\">Also: go / travel <strong>by car / taxi / bus / plane / train / air / sea</strong>; contact / communicate <strong>by post / email / phone</strong></div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "___ as young as ten are working in the clothing industry.",
+      "options": [
+        "Children",
+        "The children",
+        "A children",
+        "Child"
+      ],
+      "correctAnswer": 0,
+      "hint": "Use zero article for plural nouns in a general sense.",
+      "explanation": "<strong>Answer: Children</strong><br>Use zero article for plural nouns in a general sense. Article choice depends on whether the noun is specific/known to the listener ('the') or introduced for the first time ('a/an')."
+    },
+    {
+      "type": "correct",
+      "sentence": "She went to the school this morning to speak to the head teacher.",
+      "correction": "She went to the school this morning to speak to the head teacher.",
+      "acceptable": [
+        "She went to the school this morning to speak to the head teacher."
+      ],
+      "hint": "Visitor going to a specific school building → 'the school' is correct.",
+      "explanation": "<strong>Answer: She went to the school — CORRECT</strong><br>'The school' is correct here because she went as a visitor to a specific building, not as a student or teacher. Compare: 'She went to school' (as a student — zero article, general purpose) vs 'She went to the school' (to visit the specific building as an outsider).",
+      "prompt": "Is this sentence correct? If not, rewrite it correctly."
+    },
+    {
+      "question": "While you're painting the sitting room, I'll take ___ over to the park.",
+      "options": [
+        "the children",
+        "children",
+        "a children",
+        "child"
+      ],
+      "correctAnswer": 0,
+      "hint": "Use 'the' for specific children (e.g., our children).",
+      "explanation": "<strong>Answer: the children</strong><br>Use 'the' for specific children (e.g., our children). The grammatical signals in this sentence — the key words, connectors, or context — require this specific form. Look for these signals to make the same choice independently."
+    },
+    {
+      "type": "correct",
+      "sentence": "He was taken to a hospital after the accident and kept overnight for observation.",
+      "correction": "He was taken to hospital after the accident and kept overnight for observation.",
+      "acceptable": [
+        "taken to hospital"
+      ],
+      "hint": "Going to hospital as a patient → zero article (British English).",
+      "explanation": "<strong>Answer: taken to hospital (British English)</strong><br>In British English, 'go to hospital' (zero article) means as a patient or for treatment — the institution is used for its primary purpose. 'Go to the hospital' refers to the specific building as a visitor. This pattern applies to: school, university, college, church, prison, court, hospital, bed. American English typically uses 'the hospital'."
+    },
+    {
+      "question": "I've been working in the garden all ___ afternoon and my back aches.",
+      "options": [
+        "zero article",
+        "the",
+        "an",
+        "a"
+      ],
+      "correctAnswer": 0,
+      "hint": "We typically say 'all afternoon' without an article.",
+      "explanation": "<strong>Answer: zero article</strong><br>We typically say 'all afternoon' without an article. Article choice depends on whether the noun is specific/known to the listener ('the') or introduced for the first time ('a/an')."
+    },
+    {
+      "type": "fill",
+      "question": "After university, she went to ___ sea and spent three years working on merchant ships.",
+      "answer": "sea",
+      "hint": "'Go to sea' = become a sailor / work at sea → zero article.",
+      "explanation": "<strong>Answer: sea (zero article)</strong><br>'Go to sea' means to take up a life at sea or work as a sailor — zero article. Compare: 'The sea was calm' (a specific body of water — definite article) vs 'He went to sea at 18' (the occupation/way of life — zero article). Similar: 'go to work', 'go to bed', 'at home', 'in town'."
+    },
+    {
+      "question": "A: Can you remember when we last saw Alex? B: It was ___ Sunday in June, I think.",
+      "options": [
+        "a",
+        "the",
+        "zero article",
+        "an"
+      ],
+      "correctAnswer": 0,
+      "hint": "Use 'a' when referring to a day of the week, but not which particular one.",
+      "explanation": "<strong>Answer: a</strong><br>Use 'a' when referring to a day of the week, but not which particular one. "
+    },
+    {
+      "question": "I got ___ from Carla yesterday. B: How is she now?",
+      "options": [
+        "an email",
+        "email",
+        "the email",
+        "emails"
+      ],
+      "correctAnswer": 0,
+      "hint": "When 'email' means a single message, it is a countable noun taking 'a/an'.",
+      "explanation": "<strong>Answer: an email</strong><br>When 'email' means a single message, it is a countable noun taking 'a/an'. The grammatical signals in this sentence — the key words, connectors, or context — require this specific form. Look for these signals to make the same choice independently."
+    }
+  ]
+}

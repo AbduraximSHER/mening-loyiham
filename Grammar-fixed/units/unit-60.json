@@ -1,0 +1,119 @@
+{
+  "id": 60,
+  "title": "Crime and Justice",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Types of crime",
+      "content": "<div class=\"web-text\">Vocabulary for discussing criminal offences:</div><div class=\"web-example\"><span>• <strong>fraud</strong> — deception for financial gain. <em>He was convicted of tax fraud.</em></span></div><div class=\"web-example\"><span>• <strong>bribery</strong> — offering money to influence someone's actions. <em>Bribery of public officials carries heavy penalties.</em></span></div><div class=\"web-example\"><span>• <strong>embezzlement</strong> — stealing money entrusted to your care. <em>The accountant was charged with embezzlement of company funds.</em></span></div><div class=\"web-example\"><span>• <strong>vandalism</strong> — deliberate destruction of property. <em>Vandalism in the park cost the city thousands to repair.</em></span></div><div class=\"web-example\"><span>• <strong>cybercrime</strong> — criminal activity using computers. <em>Cybercrime costs businesses billions every year.</em></span></div>"
+    },
+    {
+      "id": "B",
+      "title": "Legal process",
+      "content": "<div class=\"web-text\">Key terms in the justice system:</div><div class=\"web-example\"><span>• <strong>verdict</strong> — the decision of a jury. <em>The jury delivered a guilty verdict after three days.</em></span></div><div class=\"web-example\"><span>• <strong>acquit</strong> — to find not guilty. <em>The defendant was acquitted due to lack of evidence.</em></span></div><div class=\"web-example\"><span>• <strong>prosecute</strong> — to bring legal action against someone. <em>The state decided to prosecute the company for pollution.</em></span></div><div class=\"web-example\"><span>• <strong>sentence</strong> — the punishment given by a court. <em>He received a five-year prison sentence.</em></span></div><div class=\"web-example\"><span>• <strong>bail</strong> — money paid to release someone before trial. <em>The judge set bail at fifty thousand dollars.</em></span></div>"
+    },
+    {
+      "id": "C",
+      "title": "Law enforcement",
+      "content": "<div class=\"web-text\">People and actions in maintaining order:</div><div class=\"web-example\"><span>• <strong>detective</strong> — an officer who investigates crimes. <em>The detective solved the case using forensic evidence.</em></span></div><div class=\"web-example\"><span>• <strong>witness</strong> — a person who sees an event. <em>Three witnesses testified in court.</em></span></div><div class=\"web-example\"><span>• <strong>surveillance</strong> — close monitoring of a person or place. <em>The suspect was under surveillance for six months.</em></span></div><div class=\"web-example\"><span>• <strong>forensic</strong> — relating to scientific methods of solving crimes. <em>Forensic analysis of the DNA confirmed the suspect's identity.</em></span></div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "Deceiving someone for financial gain is:",
+      "options": [
+        "tribunal",
+        "perjury",
+        "vandalism",
+        "fraud"
+      ],
+      "correctAnswer": 3,
+      "hint": "A form of dishonesty involving money.",
+      "explanation": "<strong>Fraud</strong> is wrongful deception intended for personal or financial gain."
+    },
+    {
+      "question": "When a jury finds a defendant not guilty, they:",
+      "options": [
+        "convict",
+        "prosecute",
+        "acquit",
+        "tribunal"
+      ],
+      "correctAnswer": 2,
+      "hint": "The person is set free.",
+      "explanation": "To <strong>acquit</strong> means to free someone from a criminal charge by a verdict of not guilty."
+    },
+    {
+      "question": "Stealing money that was placed in your care is:",
+      "options": [
+        "vandalism",
+        "embezzlement",
+        "prosecutor",
+        "cybercrime"
+      ],
+      "correctAnswer": 1,
+      "hint": "Often committed by accountants or managers.",
+      "explanation": "<strong>Embezzlement</strong> is theft of funds placed in one's trust."
+    },
+    {
+      "question": "The punishment given by a court after a guilty verdict is a:",
+      "options": [
+        "extortion",
+        "sentence",
+        "witness",
+        "verdict"
+      ],
+      "correctAnswer": 1,
+      "hint": "It could be prison time or a fine.",
+      "explanation": "A <strong>sentence</strong> is the punishment assigned to a defendant found guilty."
+    },
+    {
+      "question": "Offering money to influence someone in a position of power is:",
+      "options": [
+        "prosecutor",
+        "bribery",
+        "vandalism",
+        "manslaughter"
+      ],
+      "correctAnswer": 1,
+      "hint": "An illegal payment to gain advantage.",
+      "explanation": "<strong>Bribery</strong> is the act of offering something valuable to influence the actions of an official."
+    },
+    {
+      "question": "Scientific methods used to investigate crime are called:",
+      "options": [
+        "acquittal",
+        "forensic",
+        "judicial",
+        "detective"
+      ],
+      "correctAnswer": 1,
+      "hint": "DNA analysis, fingerprinting, etc.",
+      "explanation": "<strong>Forensic</strong> relates to the application of scientific knowledge to legal problems."
+    },
+    {
+      "question": "Money paid to release an accused person before their trial is:",
+      "options": [
+        "bail",
+        "verdict",
+        "prosecutor",
+        "fine"
+      ],
+      "correctAnswer": 0,
+      "hint": "A temporary release payment.",
+      "explanation": "<strong>Bail</strong> is money paid to a court to allow a person's temporary release while awaiting trial."
+    },
+    {
+      "question": "Close observation of a suspected criminal by authorities is:",
+      "options": [
+        "testimony",
+        "surveillance",
+        "prosecution",
+        "arson"
+      ],
+      "correctAnswer": 1,
+      "hint": "Watching and monitoring their movements.",
+      "explanation": "<strong>Surveillance</strong> is close observation, especially of a suspected person."
+    }
+  ]
+}

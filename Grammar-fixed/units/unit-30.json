@@ -1,0 +1,143 @@
+{
+  "id": 30,
+  "title": "Verb + -ing forms and infinitives 1",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Verb + object + -ing or possessive + -ing",
+      "content": "\n            <div class=\"web-text\">Some verbs can be followed either by an <strong>object + -ing</strong> or a <strong>possessive + -ing</strong> with a similar meaning, although the possessive + -ing form is usually considered to be rather formal:</div>\n            <div class=\"web-example\">\n                <span>• I resented <strong>Tom</strong> winning the prize. (more formally I resented <strong>Tom’s</strong> winning...)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• Mia recalled <strong>him</strong> buying the book. (more formally Mia recalled <strong>his</strong> buying...)</span>\n            </div>\n            <div class=\"web-text\">Also: <strong>detest, (dis)approve of, (dis)like, hate, love, object to (= ‘(dis)liking’ verbs); forget, imagine, remember, think of (= ‘thinking’ verbs)</strong></div>\n        "
+    },
+    {
+      "id": "B",
+      "title": "Verb + to + -ing",
+      "content": "\n            <div class=\"web-text\">Some verbs can be followed by <strong>to + -ing</strong> where <strong>to</strong> is a preposition:</div>\n            <div class=\"web-example\">\n                <span>• She <strong>confessed to</strong> <em>stealing</em> the money.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• You <strong>don’t object to</strong> <em>working</em> late tonight, do you?</span>\n            </div>\n            <div class=\"web-text\">Also: <strong>adapt, adjust, admit, look forward, own up, resort</strong></div>\n        "
+    },
+    {
+      "id": "C",
+      "title": "Verb + preposition + -ing",
+      "content": "\n            <div class=\"web-text\">Other verbs can be followed by different prepositions + -ing:</div>\n            <div class=\"web-example\">\n                <span>• <strong>by + -ing</strong>: Can you <strong>begin by</strong> <em>cleaning</em> the floors...? (also: <strong>close, end, finish, open, start</strong>)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>on + -ing</strong> (or <strong>on + object + -ing</strong>): Clare <strong>insisted on</strong> (Jack) <em>wearing</em> a suit... (also: <strong>concentrate, count, depend, focus, insist, rely</strong>)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>of + -ing</strong> (or <strong>of + object + -ing</strong>): Have you ever <strong>heard of</strong> (anyone) <em>getting</em> arrested...? (also: <strong>approve, hear, know, speak, talk, tell</strong>)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>object + from + -ing</strong>: The noise <strong>prevented me (from)</strong> <em>sleeping</em>. (also: <strong>deter, discourage, keep, prevent, prohibit, stop</strong>)</span>\n            </div>\n        "
+    },
+    {
+      "id": "D",
+      "title": "Object + -ing or bare infinitive",
+      "content": "\n            <div class=\"web-text\">Some verbs (<strong>feel, hear, notice, observe, overhear, see, watch</strong>) can be followed by an object and then either by an <strong>-ing form</strong> or <strong>bare infinitive</strong>, but the meanings may be slightly different:</div>\n            <div class=\"web-example\">\n                <span>• I <strong>saw</strong> them <strong>playing</strong> football... (-ing indicates an action in progress)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• I <strong>saw</strong> him <strong>smash</strong> the bottle. (bare infinitive indicates a completed action)</span>\n            </div>\n        "
+    },
+    {
+      "id": "E",
+      "title": "Bare infinitive or to-infinitive",
+      "content": "\n            <div class=\"web-text\">After the verbs <strong>dare</strong> and <strong>help</strong> we can use either a <strong>bare infinitive</strong> or <strong>to-infinitive</strong>:</div>\n            <div class=\"web-example\">\n                <span>• I didn’t <strong>dare (to) say</strong> anything.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• We hope the campaign will <strong>help (to) raise</strong> awareness...</span>\n            </div>\n            <div class=\"web-text\">After <strong>have, let</strong> and <strong>make</strong> we can use an <strong>object + bare infinitive</strong> but not to-infinitive:</div>\n            <div class=\"web-example\">\n                <span>• His exam results might <strong>make</strong> <em>him</em> <strong>work</strong> harder.</span>\n            </div>\n        "
+    }
+  ],
+  "exercises": [
+    {
+      "question": "I really hate you having to be away from home so much. (Rewrite using possessive)",
+      "options": [
+        "I really hate your having to be away...",
+        "I really hate you to be away...",
+        "I really hate you being away...",
+        "No change possible"
+      ],
+      "correctAnswer": 0,
+      "hint": "Possessive form of the object before -ing.",
+      "explanation": "<strong>Answer: I really hate your having to be away...</strong><br>Possessive form of the object before -ing. This verb pattern requires a gerund (-ing form) as its object."
+    },
+    {
+      "type": "correct",
+      "sentence": "I really enjoy to swim in the open sea on hot summer days.",
+      "correction": "I really enjoy swimming in the open sea on hot summer days.",
+      "acceptable": [
+        "enjoy swimming"
+      ],
+      "hint": "'Enjoy' always takes a gerund (-ing), never a to-infinitive.",
+      "explanation": "<strong>Answer: enjoy swimming</strong><br>'Enjoy' is always followed by a gerund (-ing form), never a to-infinitive. Other verbs that take only the gerund: avoid, consider, deny, dislike, finish, imagine, involve, keep, mention, mind, miss, practise, risk, suggest. A useful test: if you can replace the verb with 'stop/continue', it usually takes a gerund."
+    },
+    {
+      "question": "I have always detested the dog jumping up at me. (Rewrite using possessive)",
+      "options": [
+        "I have always detested the dog's jumping up at me.",
+        "I have always detested the dog jumping at me.",
+        "I have always detested how the dog jumps.",
+        "X (Not possible)"
+      ],
+      "correctAnswer": 0,
+      "hint": "Possessive form is possible with 'the dog'.",
+      "explanation": "<strong>Answer: I have always detested the dog's jumping up at me.</strong><br>Possessive form is possible with 'the dog'. The grammatical signals in this sentence — the key words, connectors, or context — require this specific form. Look for these signals to make the same choice independently."
+    },
+    {
+      "type": "correct",
+      "sentence": "She avoided to mention the subject whenever her sister was present.",
+      "correction": "She avoided mentioning the subject whenever her sister was present.",
+      "acceptable": [
+        "avoided mentioning"
+      ],
+      "hint": "'Avoid' takes a gerund (-ing), never a to-infinitive.",
+      "explanation": "<strong>Answer: avoided mentioning</strong><br>'Avoid' is always followed by a gerund. Using a to-infinitive ('avoided to mention') is incorrect in standard English. The gerund after 'avoid' indicates the action being prevented: 'avoid making', 'avoid saying', 'avoid going'."
+    },
+    {
+      "question": "In a survey, 65% of dentists said that they had made mistakes... (Rewrite with 'owned up')",
+      "options": [
+        "...owned up to making mistakes.",
+        "...owned up making mistakes.",
+        "...owned up to make mistakes.",
+        "...owned up to have made mistakes."
+      ],
+      "correctAnswer": 0,
+      "hint": "Own up + to + -ing.",
+      "explanation": "<strong>Answer: ...owned up to making mistakes.</strong><br>Own up + to + -ing. This verb pattern requires a gerund (-ing form) as its object."
+    },
+    {
+      "type": "fill",
+      "question": "Do you fancy ___ (go) for a walk along the river this afternoon?",
+      "answer": "going",
+      "hint": "'Fancy' always takes a gerund.",
+      "explanation": "<strong>Answer: going</strong><br>'Fancy' (informal British English for 'want' or 'feel like') always takes a gerund: fancy going, fancy doing, fancy having. It never takes a to-infinitive. Other verbs that follow the same pattern: feel like, can't help, can't stand, look forward to."
+    },
+    {
+      "question": "I heard the tyre ___ and then the lorry skidded across the road.",
+      "options": [
+        "burst / bursting",
+        "burst",
+        "bursting",
+        "Both are possible"
+      ],
+      "correctAnswer": 0,
+      "hint": "Both are possible, but 'burst' might suggest the completed sound of the pop.",
+      "explanation": "<strong>Answer: burst / bursting</strong><br>Both are possible, but 'burst' might suggest the completed sound of the pop. "
+    },
+    {
+      "question": "She felt the wasp ___ her just before she brushed it off her arm.",
+      "hint": "Both -ing and bare infinitive are possible with 'feel'.",
+      "explanation": "<strong>Answer: Both are possible</strong><br>Both -ing and bare infinitive are possible with 'feel'. This verb pattern requires a gerund (-ing form) as its object.",
+      "type": "fill",
+      "answer": "sting",
+      "acceptable": [
+        "stinging",
+        "Both are possible"
+      ]
+    },
+    {
+      "question": "We didn't agree with the decision, but we didn't dare ___ protest against it.",
+      "options": [
+        "(to)",
+        "to",
+        "protesting",
+        "protested"
+      ],
+      "correctAnswer": 0,
+      "hint": "Dare can take bare or to-infinitive.",
+      "explanation": "<strong>Answer: (to)</strong><br>Dare can take bare or to-infinitive. This verb pattern requires a to-infinitive as its complement."
+    },
+    {
+      "question": "The dial on the left lets ___ control the speed of the fan.",
+      "options": [
+        "you",
+        "to you",
+        "you to",
+        "you controlling"
+      ],
+      "correctAnswer": 0,
+      "hint": "Let + object + bare infinitive.",
+      "explanation": "<strong>Answer: you</strong><br>Let + object + bare infinitive. This verb pattern requires a to-infinitive as its complement."
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "id": 77,
+  "title": "Sports and Fitness Vocabulary",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Types of exercise",
+      "content": "<div class=\"web-text\">Advanced vocabulary for fitness and physical activity:</div><div class=\"web-example\"><span>• <strong>endurance</strong> — the ability to sustain effort. <em>Marathon running requires tremendous endurance.</em></span></div><div class=\"web-example\"><span>• <strong>stamina</strong> — physical or mental staying power. <em>Building stamina takes weeks of consistent training.</em></span></div><div class=\"web-example\"><span>• <strong>agility</strong> — ability to move quickly and easily. <em>Football players need both speed and agility.</em></span></div><div class=\"web-example\"><span>• <strong>intensity</strong> — the degree of effort in exercise. <em>High-intensity interval training burns fat effectively.</em></span></div><div class=\"web-example\"><span>• <strong>regime</strong> — a planned system of exercise. <em>She follows a strict training regime.</em></span></div>"
+    },
+    {
+      "id": "B",
+      "title": "Competition and performance",
+      "content": "<div class=\"web-text\">Words for competitive situations:</div><div class=\"web-example\"><span>• <strong>opponent</strong> — the person you compete against. <em>She defeated a much more experienced opponent.</em></span></div><div class=\"web-example\"><span>• <strong>spectator</strong> — someone who watches an event. <em>Over 80,000 spectators filled the stadium.</em></span></div><div class=\"web-example\"><span>• <strong>underdog</strong> — the team expected to lose. <em>The underdog won the championship in a dramatic final.</em></span></div><div class=\"web-example\"><span>• <strong>sportsmanship</strong> — fair and generous behaviour. <em>Good sportsmanship is as important as winning.</em></span></div><div class=\"web-example\"><span>• <strong>disqualified</strong> — removed from a competition for breaking rules. <em>The athlete was disqualified for using banned substances.</em></span></div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "The ability to keep going during long physical effort is:",
+      "options": [
+        "penalty",
+        "endurance",
+        "league",
+        "momentum"
+      ],
+      "correctAnswer": 1,
+      "hint": "Running a marathon requires this.",
+      "explanation": "<strong>Endurance</strong> is the ability to sustain prolonged physical effort."
+    },
+    {
+      "question": "A competitor expected to lose is called the:",
+      "options": [
+        "opponent",
+        "champion",
+        "stamina",
+        "underdog"
+      ],
+      "correctAnswer": 3,
+      "hint": "Nobody expects them to win.",
+      "explanation": "An <strong>underdog</strong> is a competitor thought to have little chance of winning."
+    },
+    {
+      "question": "Fair, ethical behaviour in competition is:",
+      "options": [
+        "sportsmanship",
+        "stamina",
+        "qualifier",
+        "penalty"
+      ],
+      "correctAnswer": 0,
+      "hint": "Playing by the rules with grace.",
+      "explanation": "<strong>Sportsmanship</strong> is fair and generous behaviour in sport."
+    },
+    {
+      "question": "The degree of effort you put into exercise is its:",
+      "options": [
+        "coordination",
+        "knockout",
+        "intensity",
+        "stamina"
+      ],
+      "correctAnswer": 2,
+      "hint": "How hard you push yourself.",
+      "explanation": "<strong>Intensity</strong> is the level of effort applied during exercise."
+    },
+    {
+      "question": "Being removed from a competition for rule-breaking is being:",
+      "options": [
+        "disqualified",
+        "retired",
+        "substituted",
+        "defeated"
+      ],
+      "correctAnswer": 0,
+      "hint": "You broke the rules.",
+      "explanation": "<strong>Disqualified</strong> means removed from a competition for violating rules."
+    },
+    {
+      "question": "Quick, nimble movement ability is:",
+      "options": [
+        "penalty",
+        "agility",
+        "stamina",
+        "momentum"
+      ],
+      "correctAnswer": 1,
+      "hint": "Cat-like reflexes.",
+      "explanation": "<strong>Agility</strong> is the ability to move quickly and easily."
+    },
+    {
+      "question": "A planned system of training is a:",
+      "options": [
+        "regime",
+        "championship",
+        "momentum",
+        "stamina"
+      ],
+      "correctAnswer": 0,
+      "hint": "Your exercise schedule and plan.",
+      "explanation": "A <strong>regime</strong> is a systematic plan, especially of exercise."
+    },
+    {
+      "question": "Someone watching a sports event is a:",
+      "options": [
+        "momentum",
+        "referee",
+        "spectator",
+        "opponent"
+      ],
+      "correctAnswer": 2,
+      "hint": "They're in the audience.",
+      "explanation": "A <strong>spectator</strong> is a person who watches an event."
+    }
+  ]
+}

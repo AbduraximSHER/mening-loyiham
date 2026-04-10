@@ -1,0 +1,320 @@
+{
+  "id": 3,
+  "title": "Past simple and present perfect",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Time expressions",
+      "content": "\n            <div class=\"web-text\">Time expressions that refer to the present, such as <strong>this morning / week / month</strong> and <strong>today</strong>, can be used with either past simple or present perfect verbs.</div>\n            <div class=\"web-text\">If we think of <strong>this morning</strong> (etc.) as a past, completed time period, then we use the past simple; if we think of <strong>this morning</strong> (etc.) as a time period which includes the present moment, then we use the present perfect. Compare:</div>\n            <div class=\"web-example\">\n                <span>• I <strong>didn't shave</strong> <em>this morning</em>. (= the morning is over and I didn't shave) <em>and</em></span>\n            </div>\n            <div class=\"web-example\">\n                <span>• I <strong>haven't shaved</strong> <em>this morning</em>. (= it is still the morning and I might shave later)</span>\n            </div>\n        "
+    },
+    {
+      "id": "B",
+      "title": "Time clauses with since",
+      "content": "\n            <div class=\"web-text\">In a sentence which includes a time clause with <strong>since</strong>, we generally prefer a past simple verb in the time clause (referring to a particular point in the past) and a present perfect verb in the main clause:</div>\n            <div class=\"web-example\">\n                <span>• <em>Since</em> Mr Dodson <strong>became</strong> president unemployment <strong>has increased</strong>. (<em>rather than</em> ... has become ...)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• She <strong>hasn't been able</strong> to play tennis <em>since</em> she <strong>broke</strong> her arm. (<em>rather than</em> ... has broken ...)</span>\n            </div>\n            <div class=\"web-text\">Note, however, that we use the present perfect in the time clause with <strong>since</strong> if the two situations described in the main clause and time clause extend until the present:</div>\n            <div class=\"web-example\">\n                <span>• <strong>Have</strong> you <strong>met</strong> any of your neighbours <em>since</em> you'<strong>ve lived</strong> here? (<em>not</em> ... you lived ...)</span>\n            </div>\n        "
+    },
+    {
+      "id": "C",
+      "title": "Present perfect for future events",
+      "content": "\n            <div class=\"web-text\">With time clauses introduced by <strong>after, when, until, as soon as, once, by the time</strong> and the time expressions <strong>the minute / second / moment</strong> the past simple refers to past, completed events and the present perfect refers to future events. Compare these examples:</div>\n            <div class=\"web-example\">\n                <span>• <em>After</em> she <strong>left</strong> hospital (past), she had a long holiday. <em>and</em></span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <em>After</em> Lucas <strong>has left</strong> school (future), he will be spending six months in India.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <em>The minute</em> I <strong>got</strong> the news about Anna (past) I telephoned my parents. <em>and</em></span>\n            </div>\n            <div class=\"web-example\">\n                <span>• I'll contact you <em>the minute</em> I'<strong>ve got</strong> my exam results. (future)</span>\n            </div>\n            <div class=\"web-text\">In the time clause in sentences like this it is possible to use the past perfect instead of the past simple (e.g. <em>After</em> she <strong>had left</strong> ...) and the present simple instead of the present perfect (e.g. <em>After</em> Lucas <strong>leaves</strong> ...) with the same meaning (see also Unit 5).</div>\n        "
+    },
+    {
+      "id": "D",
+      "title": "News reports",
+      "content": "\n            <div class=\"web-text\">In news reports, you will often read about or hear recent events introduced with the present perfect, and then the past simple or other past tenses are used to give details:</div>\n            <div class=\"web-example\">\n                <span>• A Russian spacecraft <strong>has returned</strong> safely to Earth with its two passengers. US astronaut Scott Keane and Russian cosmonaut Olga Kaleri <strong>landed</strong> in the early hours of Wednesday.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• An American woman <strong>has become</strong> the first person to make 2 million contributions to Dictionary File. Esther Miller <strong>began</strong> editing the site eight years ago.</span>\n            </div>\n        "
+    },
+    {
+      "id": "E",
+      "title": "It is the first time...",
+      "content": "\n            <div class=\"web-text\">After the pattern <strong>It / This / That is / will be the first time</strong> ... we generally use the present perfect in the next clause:</div>\n            <div class=\"web-example\">\n                <span>• <div class=\"example-sent\">That's the first time</div> I'<strong>ve seen</strong> Jan look embarrassed. (reporting a past event)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <div class=\"example-sent\">It won't be the first time</div> she <strong>has voted</strong> against the government. (talking about a future event)</span>\n            </div>\n            <div class=\"web-text\">Note that after <strong>It / This / That was the first time</strong> ... we generally use the past perfect (see Unit 5):</div>\n            <div class=\"web-example\">\n                <span>• <div class=\"example-sent\">It was the first time</div> I'<strong>d talked</strong> to Dimitra outside the office.</span>\n            </div>\n        "
+    }
+  ],
+  "exercises": [
+    {
+      "question": "A: Shall I make us some dinner? ... B: No, thanks. I ___ to the dentist this afternoon and my mouth hurts too much to eat anything. (go)",
+      "options": [
+        "have gone",
+        "went",
+        "am going",
+        "go"
+      ],
+      "correctAnswer": 1,
+      "hint": "The period of the afternoon is fully completed in the speaker's mind.",
+      "explanation": "<strong>Answer: went</strong><br>The period of the afternoon is fully completed in the speaker's mind. "
+    },
+    {
+      "question": "I ___ three lectures today and I still have two more later this afternoon.",
+      "options": [
+        "had",
+        "have had",
+        "was having",
+        "have"
+      ],
+      "correctAnswer": 1,
+      "hint": "The period 'today' includes the present moment, and more lectures are expected.",
+      "explanation": "<strong>Answer: have had</strong><br>The period 'today' includes the present moment, and more lectures are expected. "
+    },
+    {
+      "question": "It was so hot today that I ___ shorts and a T-shirt at work. (wear)",
+      "options": [
+        "have worn",
+        "wear",
+        "wore",
+        "am wearing"
+      ],
+      "correctAnswer": 2,
+      "hint": "The work day is over, even though it's still 'today'.",
+      "explanation": "<strong>Answer: wore</strong><br>The work day is over, even though it's still 'today'. "
+    },
+    {
+      "question": "We ___ £400 on food this month and there's another week to go before I get paid. (spend)",
+      "options": [
+        "spent",
+        "have spent",
+        "spend",
+        "are spending"
+      ],
+      "correctAnswer": 1,
+      "hint": "The period 'this month' is incomplete.",
+      "explanation": "<strong>Answer: have spent</strong><br>Use the present perfect when the time period described is not yet complete. Expressions like <em>this week</em>, <em>this year</em>, <em>today</em> (when the day is still ongoing), and <em>so far</em> all signal an incomplete period — and an incomplete period requires the present perfect."
+    },
+    {
+      "question": "A: Do you want a lift home? B: No, I ___ this morning because my alarm clock didn't go off, so I need to work late. (oversleep)",
+      "options": [
+        "have overslept",
+        "oversleep",
+        "overslept",
+        "am oversleeping"
+      ],
+      "correctAnswer": 2,
+      "hint": "The 'morning' is definitely over as they are leaving work now.",
+      "explanation": "<strong>Answer: overslept</strong><br>The 'morning' is definitely over as they are leaving work now. "
+    },
+    {
+      "question": "I ___ much of the report yet, but I have to finish it by the weekend. (read - negative)",
+      "options": [
+        "didn't read",
+        "haven't read",
+        "don't read",
+        "am not reading"
+      ],
+      "correctAnswer": 1,
+      "hint": "The period before the deadline is incomplete ('yet').",
+      "explanation": "<strong>Answer: haven't read</strong><br>The period before the deadline is incomplete ('yet'). "
+    },
+    {
+      "question": "Maria ___ to go swimming since she ___ in the river. (not want / fall)",
+      "options": [
+        "hasn't wanted / fell",
+        "didn't want / has fallen",
+        "doesn't want / falled",
+        "hasn't wanted / has fallen"
+      ],
+      "correctAnswer": 0,
+      "hint": "Use past simple in the time clause (point in past) and present perfect in main clause.",
+      "explanation": "<strong>Answer: hasn't wanted / fell</strong><br>Use past simple in the time clause (point in past) and present perfect in main clause. The present perfect connects past events to the present moment — used for recent events, life experience, or ongoing results."
+    },
+    {
+      "question": "Since she ___ at the company she ___ a day off through illness.",
+      "options": [
+        "worked / didn't have",
+        "has worked / didn't have",
+        "worked / hasn't had",
+        "working / hasn't had"
+      ],
+      "correctAnswer": 2,
+      "hint": "Point in past vs state continuing to present.",
+      "explanation": "<strong>Answer: worked / hasn't had</strong><br>Point in past vs state continuing to present. "
+    },
+    {
+      "question": "Since he ___ from a house fire, he ___ on TV almost every day.",
+      "options": [
+        "was rescued / has been",
+        "rescued / was",
+        "has been rescued / has been",
+        "was rescued / was"
+      ],
+      "correctAnswer": 0,
+      "hint": "Past simple for the single event, present perfect for the recurring events since.",
+      "explanation": "<strong>Answer: was rescued / has been</strong><br><em>Since</em> introduces a point in the past and requires the present perfect (or perfect continuous) in the main clause. The action or state started at that past point and continues to — or still has relevance at — the present moment."
+    },
+    {
+      "question": "A lot ___ since I last ___ to you.",
+      "options": [
+        "happened / have spoken",
+        "has happened / spoke",
+        "has happened / have spoken",
+        "happens / spoke"
+      ],
+      "correctAnswer": 1,
+      "hint": "Main clause: events continuing to now. Time clause: point in past.",
+      "explanation": "<strong>Answer: has happened / spoke</strong><br>Main clause: events continuing to now. Time clause: point in past. The present perfect links past events to the present. The key signals are: <em>just, already, yet, ever, never, since, for, recently</em>, and incomplete time expressions like <em>this week</em> or <em>today</em> (when not yet over)."
+    },
+    {
+      "question": "Since I ___ to drive I ___ much more independent. (be able / feel)",
+      "options": [
+        "have been able / have felt",
+        "was able / felt",
+        "am able / feel",
+        "was able / have felt"
+      ],
+      "correctAnswer": 0,
+      "hint": "Both situations extend until the present.",
+      "explanation": "<strong>Answer: have been able / have felt</strong><br>Both situations extend until the present. The present perfect links past events to the present. The key signals are: <em>just, already, yet, ever, never, since, for, recently</em>, and incomplete time expressions like <em>this week</em> or <em>today</em> (when not yet over)."
+    },
+    {
+      "question": "Stefan's reading ___ enormously since he ___ at school.",
+      "options": [
+        "improved / was",
+        "has improved / has been",
+        "has improved / was",
+        "improves / was"
+      ],
+      "correctAnswer": 2,
+      "hint": "Past state in the time clause vs continuing effect.",
+      "explanation": "<strong>Answer: has improved / was</strong><br>Past state in the time clause vs continuing effect. The present perfect links past events to the present. The key signals are: <em>just, already, yet, ever, never, since, for, recently</em>, and incomplete time expressions like <em>this week</em> or <em>today</em> (when not yet over)."
+    },
+    {
+      "question": "Remember that after you signed the contract you won't be able to change your mind.",
+      "options": [
+        "Change to 'sign'",
+        "Change to 'have signed'",
+        "Sentence is correct as is",
+        "Change to 'had signed'"
+      ],
+      "correctAnswer": 1,
+      "hint": "Present perfect referring to a future event.",
+      "explanation": "<strong>Answer: Change to 'have signed'</strong><br>Present perfect referring to a future event. The present perfect links past events to the present. The key signals are: <em>just, already, yet, ever, never, since, for, recently</em>, and incomplete time expressions like <em>this week</em> or <em>today</em> (when not yet over)."
+    },
+    {
+      "question": "Carlo's injury only became apparent after he signed to play for United.",
+      "options": [
+        "Change to 'has signed'",
+        "Change to 'have signed'",
+        "Sentence is correct as is",
+        "Change to 'had signed'"
+      ],
+      "correctAnswer": 2,
+      "hint": "Past simple refers to past, completed events.",
+      "explanation": "<strong>Answer: Sentence is correct as is</strong><br>Past simple refers to past, completed events. "
+    },
+    {
+      "type": "fill",
+      "question": "As soon as I finished college I want to travel around Australia.",
+      "answer": "Change to 'have finished'",
+      "acceptable": [
+        "Change to 'finish'",
+        "Both 'have finished' and 'finish' are correct replacements"
+      ],
+      "hint": "Both present and present perfect can refer to future events in time clauses.",
+      "explanation": "<strong>Answer: Both 'have finished' and 'finish' are correct replacements</strong><br>Both present and present perfect can refer to future events in time clauses. The present perfect links past events to the present. The key signals are: <em>just, already, yet, ever, never, since, for, recently</em>, and incomplete time expressions like <em>this week</em> or <em>today</em> (when not yet over)."
+    },
+    {
+      "question": "I didn't have time to check the essay. I handed it in as soon as I finished it.",
+      "options": [
+        "Change to 'have finished'",
+        "Change to 'finish'",
+        "Sentence is correct as is",
+        "Change to 'have finished'ing"
+      ],
+      "correctAnswer": 2,
+      "hint": "Past simple for a completed action.",
+      "explanation": "<strong>Answer: Sentence is correct as is</strong><br>Past simple for a completed action. "
+    },
+    {
+      "type": "fill",
+      "question": "I'll probably have finished breakfast by the time the children got up.",
+      "answer": "Change to 'get up'",
+      "acceptable": [
+        "Change to 'have got up'",
+        "Both 'get up' and 'have got up' are correct replacements"
+      ],
+      "hint": "Referring to a future event.",
+      "explanation": "<strong>Answer: Both 'get up' and 'have got up' are correct replacements</strong><br>Referring to a future event. The present perfect links past events to the present. The key signals are: <em>just, already, yet, ever, never, since, for, recently</em>, and incomplete time expressions like <em>this week</em> or <em>today</em> (when not yet over)."
+    },
+    {
+      "question": "When President Ismail ___ in Paris this evening, it will be the first time she ___ Europe since her election victory in May. (arrive, visit)",
+      "options": [
+        "arrives / visited",
+        "arrives / has visited",
+        "has arrived / visited",
+        "has arrived / visits"
+      ],
+      "correctAnswer": 1,
+      "hint": "Present simple for future condition, present perfect after 'the first time'.",
+      "explanation": "<strong>Answer: arrives / has visited</strong><br>After <em>it is the first/second/only time</em>, use the present perfect in the following clause. The present perfect connects the current moment to all previous occasions — making it the natural choice for expressing \"first time\" statements."
+    },
+    {
+      "question": "The Victoria Hospital ___ to new patients after more cases of food poisoning. Three patients ___ last week in the outbreak. (close, die)",
+      "options": [
+        "closed / have died",
+        "has closed / have died",
+        "has closed / died",
+        "closes / died"
+      ],
+      "correctAnswer": 2,
+      "hint": "News introduction vs exact past details.",
+      "explanation": "<strong>Answer: has closed / died</strong><br>News reports and announcements use the present perfect to introduce a recent event with current relevance. The exact time is less important than the fact that the event has just happened and affects the present situation. After the first mention, the past simple is used for the details."
+    },
+    {
+      "question": "The rate of inflation ___ to 4.8%. It's the first time in nearly two years that the rate ___ below 5%. (drop, fall)",
+      "options": [
+        "has dropped / has fallen",
+        "dropped / fell",
+        "has dropped / fell",
+        "dropped / has fallen"
+      ],
+      "correctAnswer": 0,
+      "hint": "Introducing news + present perfect after 'the first time'.",
+      "explanation": "<strong>Answer: has dropped / has fallen</strong><br>News reports and announcements use the present perfect to introduce a recent event with current relevance. The exact time is less important than the fact that the event has just happened and affects the present situation. After the first mention, the past simple is used for the details."
+    },
+    {
+      "question": "Nearly 600 laptops ___ from Ministry of Defence staff over the past five years. However, a spokesperson ___ that there had been no security problems as none of the computers ___ secret information. (steal, insist, hold)",
+      "options": [
+        "have been stolen / insisted / held",
+        "were stolen / has insisted / has held",
+        "are stolen / insisted / held",
+        "have stolen / insisted / hold"
+      ],
+      "correctAnswer": 0,
+      "hint": "Recent news overview (passive present perfect) followed by past details.",
+      "explanation": "<strong>Answer: have been stolen / insisted / held</strong><br>News reports and announcements use the present perfect to introduce a recent event with current relevance. The exact time is less important than the fact that the event has just happened and affects the present situation. After the first mention, the past simple is used for the details."
+    },
+    {
+      "type": "fill",
+      "question": "I ___ (visit) Paris three times in my life.",
+      "answer": "have visited",
+      "acceptable": [
+        "'ve visited"
+      ],
+      "hint": "Life experience up to now, no specific time → present perfect.",
+      "explanation": "<strong>Answer: have visited</strong><br>The present perfect is used for life experience when no specific past time is mentioned. The focus is on the experience itself, not when it happened."
+    },
+    {
+      "type": "fill",
+      "question": "She ___ (finish) the report an hour ago.",
+      "answer": "finished",
+      "hint": "Specific completed time in the past ('an hour ago') → past simple.",
+      "explanation": "<strong>Answer: finished</strong><br>'An hour ago' is a specific past time reference. Whenever a specific past time is given or implied, use the past simple, not the present perfect."
+    },
+    {
+      "type": "fill",
+      "question": "___ (you / ever / eat) sushi? It's delicious!",
+      "answer": "Have you ever eaten",
+      "acceptable": [
+        "Have you ever had"
+      ],
+      "hint": "'Ever' asking about life experience up to now → present perfect.",
+      "explanation": "<strong>Answer: Have you ever eaten</strong><br>'Ever' in questions about experience up to the present moment signals the present perfect. The question is about any point in your life, not a specific time."
+    },
+    {
+      "type": "fill",
+      "question": "I ___ (not / see) Tom since last Tuesday.",
+      "answer": "haven't seen",
+      "acceptable": [
+        "have not seen"
+      ],
+      "hint": "'Since' + a past point → present perfect for the gap continuing to now.",
+      "explanation": "<strong>Answer: haven't seen</strong><br>'Since' always requires the present perfect when describing a state or action that has continued from a past point up to now."
+    }
+  ]
+}

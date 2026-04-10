@@ -1,0 +1,119 @@
+{
+  "id": 54,
+  "title": "Work and Career Development",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Career stages",
+      "content": "<div class=\"web-text\">Vocabulary for describing professional growth and career milestones:</div><div class=\"web-example\"><span>• <strong>intern</strong> — a trainee gaining work experience. <em>She started as an intern and worked her way up.</em></span></div><div class=\"web-example\"><span>• <strong>apprentice</strong> — someone learning a trade from a skilled employer. <em>He served a three-year apprentice in carpentry.</em></span></div><div class=\"web-example\"><span>• <strong>promotion</strong> — advancement to a higher position. <em>Hard work earned her a well-deserved promotion.</em></span></div><div class=\"web-example\"><span>• <strong>tenure</strong> — the period of holding a position. <em>During his tenure as CEO, profits doubled.</em></span></div><div class=\"web-example\"><span>• <strong>retirement</strong> — leaving work permanently, usually due to age. <em>She's looking forward to a peaceful retirement.</em></span></div>"
+    },
+    {
+      "id": "B",
+      "title": "Workplace dynamics",
+      "content": "<div class=\"web-text\">Words that describe how workplaces function:</div><div class=\"web-example\"><span>• <strong>delegate</strong> — assign tasks to others. <em>Good managers know how to delegate effectively.</em></span></div><div class=\"web-example\"><span>• <strong>collaborate</strong> — work together on a project. <em>The two departments collaborated on the product launch.</em></span></div><div class=\"web-example\"><span>• <strong>micromanage</strong> — control every small detail of others' work. <em>Nobody likes being micromanaged by their boss.</em></span></div><div class=\"web-example\"><span>• <strong>networking</strong> — building professional relationships. <em>Attending conferences is great for networking.</em></span></div><div class=\"web-example\"><span>• <strong>multitask</strong> — handle several tasks simultaneously. <em>In this role, you need to multitask constantly.</em></span></div>"
+    },
+    {
+      "id": "C",
+      "title": "Job challenges",
+      "content": "<div class=\"web-text\">Describing difficulties in professional life:</div><div class=\"web-example\"><span>• <strong>burnout</strong> — exhaustion from overwork. <em>Working 80-hour weeks led to complete burnout.</em></span></div><div class=\"web-example\"><span>• <strong>redundancy</strong> — losing a job because it's no longer needed. <em>The factory closure resulted in 200 redundancies.</em></span></div><div class=\"web-example\"><span>• <strong>glass ceiling</strong> — invisible barrier to advancement. <em>Many women still face a glass ceiling in corporate life.</em></span></div><div class=\"web-example\"><span>• <strong>dead-end job</strong> — a position with no prospect of progress. <em>He quit his dead-end job to start his own business.</em></span></div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "Extreme exhaustion caused by prolonged overwork is called:",
+      "options": [
+        "redundant",
+        "appraisal",
+        "remuneration",
+        "burnout"
+      ],
+      "correctAnswer": 3,
+      "hint": "It happens when you work too hard for too long.",
+      "explanation": "<strong>Burnout</strong> is physical or mental collapse caused by overwork or stress."
+    },
+    {
+      "question": "When a manager controls every small detail of employees' work, they:",
+      "options": [
+        "multitask",
+        "collaborate",
+        "micromanage",
+        "outsourcing"
+      ],
+      "correctAnswer": 2,
+      "hint": "The opposite of trusting employees.",
+      "explanation": "<strong>Micromanage</strong> means to control every part of a situation, especially work, in a way that is not wanted."
+    },
+    {
+      "question": "An invisible barrier preventing career advancement is called a:",
+      "options": [
+        "glass ceiling",
+        "promotion",
+        "appraisal",
+        "incentive"
+      ],
+      "correctAnswer": 0,
+      "hint": "You can't see it but it stops progress.",
+      "explanation": "The <strong>glass ceiling</strong> is an unacknowledged barrier to advancement, especially for women and minorities."
+    },
+    {
+      "question": "Assigning your tasks to other team members is to:",
+      "options": [
+        "multitask",
+        "delegate",
+        "collaborate",
+        "incentive"
+      ],
+      "correctAnswer": 1,
+      "hint": "Sharing the workload with others.",
+      "explanation": "<strong>Delegate</strong> means to entrust tasks or responsibilities to another person."
+    },
+    {
+      "question": "Losing your job because the position is no longer needed is:",
+      "options": [
+        "retirement",
+        "remuneration",
+        "redundancy",
+        "promotion"
+      ],
+      "correctAnswer": 2,
+      "hint": "The company no longer requires your role.",
+      "explanation": "<strong>Redundancy</strong> is when an employer dismisses workers because their jobs are no longer necessary."
+    },
+    {
+      "question": "Building professional contacts at events is called:",
+      "options": [
+        "multitasking",
+        "delegating",
+        "networking",
+        "collaborating"
+      ],
+      "correctAnswer": 2,
+      "hint": "Making connections for career growth.",
+      "explanation": "<strong>Networking</strong> is the action of interacting with others to exchange information and develop professional contacts."
+    },
+    {
+      "question": "The period during which someone holds a position is their:",
+      "options": [
+        "internship",
+        "tenure",
+        "retirement",
+        "apprenticeship"
+      ],
+      "correctAnswer": 1,
+      "hint": "How long they've been in the role.",
+      "explanation": "<strong>Tenure</strong> is the holding of an office or the period for which it is held."
+    },
+    {
+      "question": "A job that offers no opportunities for advancement is a:",
+      "options": [
+        "dead-end job",
+        "vacancy",
+        "redundant",
+        "hierarchy"
+      ],
+      "correctAnswer": 0,
+      "hint": "No future growth possible.",
+      "explanation": "A <strong>dead-end job</strong> is a position with no prospects for promotion or development."
+    }
+  ]
+}

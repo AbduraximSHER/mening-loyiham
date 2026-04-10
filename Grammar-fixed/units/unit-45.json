@@ -1,0 +1,135 @@
+{
+  "id": 45,
+  "title": "A / an, the and zero article 1",
+  "sections": [
+    {
+      "id": "A",
+      "title": "The vs Zero Article vs A / an",
+      "content": "<div class=\"web-text\">We usually use <strong>the</strong> when we talk about things which are unique; that is, there is only one of them (or one set of them):</div>\n            <div class=\"web-example\">\n                <span>• <strong>the world, the sky, the atmosphere, the sun, the ground, the climate, the horizon, the human race, the environment, the travel industry, the internet</strong></span>\n            </div>\n            <div class=\"web-text\">We use <strong>the</strong> with general geographical areas (e.g., <strong>the beach, the town, the sea(side), the land, the country(side)</strong>) and with time (<strong>the past, the present, the future</strong>).</div>\n            <div class=\"web-text\">Note, however, that some nouns like this can be used with <strong>zero article</strong> (i.e. no article) to refer to a concept in general:</div>\n            <div class=\"web-example\">\n                <span>• <strong>Climate</strong> is one of the many factors involved in changing farming methods. (or <strong>The climate</strong> ...)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• These flowers grow best in sandy soil and <strong>sun</strong>. (= sunshine)</span>\n            </div>\n            <div class=\"web-text\">If we want to describe a particular instance of these we can use <strong>a / an</strong>. Compare:</div>\n            <div class=\"web-example\">\n                <span>• I could see the plane high up in <strong>the sky</strong>. and When I woke up there was <strong>a bright blue sky</strong>.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• What are your plans for <strong>the future</strong>? and She dreamt of <strong>a future</strong> where she could spend more time painting.</span>\n            </div>"
+    },
+    {
+      "id": "B",
+      "title": "Generalisations about classes of things",
+      "content": "<div class=\"web-text\">We can use <strong>the</strong> when we make generalisations about classes of things using singular countable nouns. Compare the use of <strong>the</strong> and <strong>a / an</strong> in these sentences:</div>\n            <div class=\"web-example\">\n                <span>• <strong>The computer</strong> has revolutionised publishing. (this refers to computers in general) but not <em>A computer has revolutionised publishing.</em> (not an individual computer)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>The computer</strong> is an important research tool. and <strong>A computer</strong> is an important research tool. (this statement is true of both the general class and the individual item)</span>\n            </div>\n            <div class=\"web-text\">As an alternative to <strong>the + singular countable noun</strong> we can use a plural countable noun to talk about a class of things:</div>\n            <div class=\"web-example\">\n                <span>• <strong>Computers</strong> are an important research tool.</span>\n            </div>\n            <div class=\"web-text\">Note that if <strong>the</strong> is used with plural and uncountable nouns we refer to a specific thing or group:</div>\n            <div class=\"web-example\">\n                <span>• <strong>The computers</strong> have arrived. Where shall I put them?</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>The music</strong> was wonderful. I could have listened to the orchestra all night.</span>\n            </div>\n            <div class=\"web-text\">When we define something or say what is typical of a particular class of people or things, we generally use <strong>a / an</strong> rather than <strong>the</strong>:</div>\n            <div class=\"web-example\">\n                <span>• <strong>A corkscrew</strong> is a gadget for getting corks out of bottles.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>A garden</strong> is there to give you pleasure, not to be a constant worry.</span>\n            </div>"
+    },
+    {
+      "id": "C",
+      "title": "Countable vs uncountable meanings",
+      "content": "<div class=\"web-text\">Some nouns can be used uncountably when we talk about the whole substance or idea, but countably when we talk about particular instances of it. When these nouns are used countably we can use <strong>a / an</strong> (and plurals). Compare:</div>\n            <div class=\"web-example\">\n                <span>• I don't drink <strong>coffee</strong>. and Would you like <strong>a coffee</strong>? (= a cup of coffee)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• He shook with <strong>fear</strong>. and He has <strong>a fear</strong> of heights.</span>\n            </div>\n            <div class=\"web-text\">There are many other nouns like this, including <strong>conversation, iron, pleasure, shampoo, sound</strong>. Some of these nouns (e.g. <strong>iron, paper</strong>) have different meanings when they are used countably and uncountably.</div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "I think the best Australian wine is as good as any in ___ .",
+      "options": [
+        "the world",
+        "a world",
+        "world",
+        "worlds"
+      ],
+      "correctAnswer": 0,
+      "hint": "Use 'the' for things which are unique (only one of them).",
+      "explanation": "<strong>Answer: the world</strong><br>Use 'the' for things which are unique (only one of them). The grammatical signals in this sentence — the key words, connectors, or context — require this specific form. Look for these signals to make the same choice independently."
+    },
+    {
+      "type": "correct",
+      "sentence": "The life is full of unexpected surprises.",
+      "correction": "Life is full of unexpected surprises.",
+      "acceptable": [
+        "Life is full of unexpected surprises."
+      ],
+      "hint": "Abstract nouns used in a general sense take zero article: Life, love, death, happiness.",
+      "explanation": "<strong>Answer: Life is full of unexpected surprises</strong><br>When referring to abstract concepts in a general, philosophical sense (life, love, death, beauty, happiness, truth), use NO article. 'The life' would mean a specific life already identified. 'Life' without an article = life in general, the human experience."
+    },
+    {
+      "question": "As a child, Dariya would often daydream about travelling forward in time to ___ very different from the one she lived in.",
+      "options": [
+        "a future",
+        "the future",
+        "future",
+        "futures"
+      ],
+      "correctAnswer": 0,
+      "hint": "Use 'a' when describing a particular instance or type of future.",
+      "explanation": "<strong>Answer: a future</strong><br>Use 'a' when describing a particular instance or type of future. The grammatical signals in this sentence — the key words, connectors, or context — require this specific form. Look for these signals to make the same choice independently."
+    },
+    {
+      "type": "correct",
+      "sentence": "I had the dinner at a very expensive restaurant last night.",
+      "correction": "I had dinner at a very expensive restaurant last night.",
+      "acceptable": [
+        "I had dinner at a very expensive restaurant last night."
+      ],
+      "hint": "'Have dinner/breakfast/lunch' — meals take zero article in fixed expressions.",
+      "explanation": "<strong>Answer: I had dinner at a very expensive restaurant</strong><br>Meal names (breakfast, lunch, dinner, supper) normally take zero article in standard British and American English: 'have breakfast', 'eat lunch', 'cook dinner'. Use 'the' only when specifying a particular meal: 'The dinner we had last night was excellent'."
+    },
+    {
+      "question": "We get some strange requests in our shop. We had ___ in the other day who wanted to buy chocolate-covered ants.",
+      "options": [
+        "a customer",
+        "the customer",
+        "both 'a customer' and 'the customer'",
+        "customer"
+      ],
+      "correctAnswer": 0,
+      "hint": "Use 'a' to refer to a particular but unspecified individual.",
+      "explanation": "<strong>Answer: a customer</strong><br>Use 'a' to refer to a particular but unspecified individual. The grammatical signals in this sentence — the key words, connectors, or context — require this specific form. Look for these signals to make the same choice independently."
+    },
+    {
+      "type": "correct",
+      "sentence": "She plays piano beautifully — she's been learning since she was five.",
+      "correction": "She plays the piano beautifully — she's been learning since she was five.",
+      "acceptable": [
+        "She plays the piano beautifully"
+      ],
+      "hint": "Musical instruments use 'the' when referring to playing the instrument.",
+      "explanation": "<strong>Answer: She plays the piano beautifully</strong><br>When referring to playing a musical instrument, use 'the': play the piano, play the violin, play the guitar. This is one of the few cases where 'the' is used with singular countable nouns in a general sense. Exception: in jazz contexts, musicians often omit 'the': 'She plays piano'."
+    },
+    {
+      "question": "The campaign against smoking in public places argues that its harmful effects are not confined to ___ .",
+      "options": [
+        "the smoker / a smoker",
+        "the smoker",
+        "a smoker",
+        "smokers only"
+      ],
+      "correctAnswer": 0,
+      "hint": "Both 'the smoker' (general class) and 'a smoker' (generalization true of an individual item) are possible.",
+      "explanation": "<strong>Answer: the smoker / a smoker</strong><br>Both 'the smoker' (general class) and 'a smoker' (generalization true of an individual item) are possible. The grammatical signals in this sentence — the key words, connectors, or context — require this specific form. Look for these signals to make the same choice independently."
+    },
+    {
+      "type": "reorder",
+      "prompt": "Add the correct articles to form a natural sentence:",
+      "tokens": [
+        "sun",
+        "the",
+        "in",
+        "sets",
+        "west",
+        "the"
+      ],
+      "correctOrder": [
+        1,
+        0,
+        3,
+        2,
+        5,
+        4
+      ],
+      "hint": "Unique nouns (the sun) and cardinal directions (the west) take 'the'",
+      "explanation": "<strong>Answer: The sun sets in the west</strong><br>Use 'the' before unique objects (the sun, the moon, the earth, the sky) and before compass directions used as nouns (the north, the south, the east, the west). Note that when used as adjectives, no article is needed: 'western Europe', 'northern Scotland'."
+    },
+    {
+      "question": "Most red meat is relatively high in ___ .",
+      "options": [
+        "iron",
+        "an iron",
+        "the iron",
+        "irons"
+      ],
+      "correctAnswer": 0,
+      "hint": "When talking about the whole substance, 'iron' is uncountable.",
+      "explanation": "<strong>Answer: iron</strong><br>When talking about the whole substance, 'iron' is uncountable. "
+    }
+  ]
+}

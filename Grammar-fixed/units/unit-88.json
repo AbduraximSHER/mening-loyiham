@@ -1,0 +1,114 @@
+{
+  "id": 88,
+  "title": "Risk and Safety",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Identifying risks",
+      "content": "<div class=\"web-text\">Vocabulary for discussing danger and risk:</div><div class=\"web-example\"><span>• <strong>hazard</strong> — a danger or risk. <em>Wet floors are a serious slip hazard.</em></span></div><div class=\"web-example\"><span>• <strong>vulnerable</strong> — at risk of harm. <em>Elderly people are particularly vulnerable to extreme heat.</em></span></div><div class=\"web-example\"><span>• <strong>jeopardise</strong> — put at risk. <em>Leaking the information could jeopardise the entire operation.</em></span></div><div class=\"web-example\"><span>• <strong>prone to</strong> — likely to experience something negative. <em>The area is prone to flooding in winter.</em></span></div><div class=\"web-example\"><span>• <strong>reckless</strong> — without thinking of consequences. <em>Reckless driving is the leading cause of road accidents.</em></span></div>"
+    },
+    {
+      "id": "B",
+      "title": "Safety and protection",
+      "content": "<div class=\"web-text\">How we describe staying safe:</div><div class=\"web-example\"><span>• <strong>precaution</strong> — a preventive measure. <em>Take precautions against sunburn when outdoors.</em></span></div><div class=\"web-example\"><span>• <strong>safeguard</strong> — protect from harm. <em>Strong passwords safeguard your personal data.</em></span></div><div class=\"web-example\"><span>• <strong>eliminate</strong> — completely remove a risk. <em>New technology could eliminate many workplace hazards.</em></span></div><div class=\"web-example\"><span>• <strong>mitigate</strong> — make less severe or serious. <em>Wearing seatbelts mitigates the risk of injury.</em></span></div><div class=\"web-example\"><span>• <strong>compliance</strong> — following rules or standards. <em>Companies must ensure compliance with safety regulations.</em></span></div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "Someone easily harmed or affected is:",
+      "options": [
+        "vulnerable",
+        "imminent",
+        "prone",
+        "compliant"
+      ],
+      "correctAnswer": 0,
+      "hint": "At risk.",
+      "explanation": "<strong>Vulnerable</strong> means susceptible to physical or emotional harm."
+    },
+    {
+      "question": "A preventive action taken to avoid danger is a:",
+      "options": [
+        "imminent",
+        "precaution",
+        "risk",
+        "preventable"
+      ],
+      "correctAnswer": 1,
+      "hint": "Better safe than sorry.",
+      "explanation": "A <strong>precaution</strong> is a measure taken in advance to prevent something harmful."
+    },
+    {
+      "question": "To put something at risk is to:",
+      "options": [
+        "jeopardise",
+        "safeguard",
+        "preventable",
+        "hazardous"
+      ],
+      "correctAnswer": 0,
+      "hint": "Endangering it.",
+      "explanation": "<strong>Jeopardise</strong> means to put something into a situation of risk or danger."
+    },
+    {
+      "question": "Acting without considering consequences is:",
+      "options": [
+        "compliant",
+        "cautious",
+        "reckless",
+        "catastrophic"
+      ],
+      "correctAnswer": 2,
+      "hint": "Dangerously careless.",
+      "explanation": "<strong>Reckless</strong> means acting without thought for the consequences."
+    },
+    {
+      "question": "To reduce the severity of a risk is to:",
+      "options": [
+        "mitigate",
+        "safeguard",
+        "hazardous",
+        "liability"
+      ],
+      "correctAnswer": 0,
+      "hint": "Making it less bad.",
+      "explanation": "<strong>Mitigate</strong> means to make less severe, serious, or painful."
+    },
+    {
+      "question": "Following rules and regulations is:",
+      "options": [
+        "elimination",
+        "contingency",
+        "compliance",
+        "mitigation"
+      ],
+      "correctAnswer": 2,
+      "hint": "Obeying the standards.",
+      "explanation": "<strong>Compliance</strong> is the act of following rules, laws, or standards."
+    },
+    {
+      "question": "To completely remove a danger is to:",
+      "options": [
+        "safeguard",
+        "eliminate",
+        "protocol",
+        "hazardous"
+      ],
+      "correctAnswer": 1,
+      "hint": "Total removal.",
+      "explanation": "<strong>Eliminate</strong> means to completely remove or get rid of something."
+    },
+    {
+      "question": "A source of danger in the environment is a:",
+      "options": [
+        "hazard",
+        "safeguard",
+        "safeguard",
+        "protocol"
+      ],
+      "correctAnswer": 0,
+      "hint": "Something that can cause harm.",
+      "explanation": "A <strong>hazard</strong> is a danger or risk to safety."
+    }
+  ]
+}

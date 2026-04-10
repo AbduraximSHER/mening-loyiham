@@ -1,0 +1,20 @@
+{
+  "name": "GrammarHub — Master English Grammar",
+  "short_name": "GrammarHub",
+  "description": "100 interactive grammar and vocabulary units. Real exercises, real tracking. Free forever.",
+  "start_url": "/dashboard.html",
+  "display": "standalone",
+  "background_color": "#F7F6F2",
+  "theme_color": "#0B0B0C",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Ccircle cx='256' cy='256' r='256' fill='%230B0B0C'/%3E%3Ccircle cx='256' cy='256' r='112' fill='%232E48FF'/%3E%3C/svg%3E",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education"],
+  "lang": "en"
+}

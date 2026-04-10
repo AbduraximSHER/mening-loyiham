@@ -1,0 +1,114 @@
+{
+  "id": 80,
+  "title": "Fashion and Appearance",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Describing style",
+      "content": "<div class=\"web-text\">Vocabulary for discussing how people look and dress:</div><div class=\"web-example\"><span>• <strong>elegant</strong> — gracefully stylish. <em>She always looks elegant even in simple clothes.</em></span></div><div class=\"web-example\"><span>• <strong>scruffy</strong> — untidy and dirty. <em>He turned up looking rather scruffy in torn jeans.</em></span></div><div class=\"web-example\"><span>• <strong>flamboyant</strong> — attracting attention with bold style. <em>He's known for his flamboyant outfits.</em></span></div><div class=\"web-example\"><span>• <strong>understated</strong> — subtly stylish without being showy. <em>Her understated jewellery was perfect for the occasion.</em></span></div><div class=\"web-example\"><span>• <strong>vintage</strong> — clothing from a previous era. <em>She loves shopping for vintage dresses from the 1960s.</em></span></div>"
+    },
+    {
+      "id": "B",
+      "title": "Materials and fashion terms",
+      "content": "<div class=\"web-text\">More specific fashion vocabulary:</div><div class=\"web-example\"><span>• <strong>haute couture</strong> — high-end custom-made fashion. <em>Haute couture dresses can cost tens of thousands.</em></span></div><div class=\"web-example\"><span>• <strong>wardrobe</strong> — a person's entire collection of clothes. <em>She completely updated her wardrobe for the new job.</em></span></div><div class=\"web-example\"><span>• <strong>tailored</strong> — made to fit a specific person. <em>A tailored suit always looks more professional.</em></span></div><div class=\"web-example\"><span>• <strong>accessorise</strong> — add extras like jewellery or bags. <em>A simple dress can be transformed by how you accessorise.</em></span></div><div class=\"web-example\"><span>• <strong>trendsetter</strong> — someone who starts new fashions. <em>Fashion bloggers are the new trendsetters.</em></span></div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "Clothing that is gracefully stylish and refined is:",
+      "options": [
+        "elegant",
+        "flamboyant",
+        "chic",
+        "conservative"
+      ],
+      "correctAnswer": 0,
+      "hint": "Classic and polished.",
+      "explanation": "<strong>Elegant</strong> means pleasingly graceful and stylish."
+    },
+    {
+      "question": "Someone who looks untidy and dishevelled is:",
+      "options": [
+        "minimalist",
+        "scruffy",
+        "chic",
+        "bohemian"
+      ],
+      "correctAnswer": 1,
+      "hint": "Not well-dressed.",
+      "explanation": "<strong>Scruffy</strong> means shabby and untidy in appearance."
+    },
+    {
+      "question": "Style that is subtle and not showy is:",
+      "options": [
+        "chic",
+        "avant-garde",
+        "flamboyant",
+        "understated"
+      ],
+      "correctAnswer": 3,
+      "hint": "Quiet elegance.",
+      "explanation": "<strong>Understated</strong> means presented or expressed in a subtle way."
+    },
+    {
+      "question": "A person who introduces new fashion trends is a:",
+      "options": [
+        "wardrobe",
+        "accessory",
+        "tailor",
+        "trendsetter"
+      ],
+      "correctAnswer": 3,
+      "hint": "Others follow their style.",
+      "explanation": "A <strong>trendsetter</strong> is a person who leads the way in fashion or ideas."
+    },
+    {
+      "question": "Clothing custom-made to fit one person is:",
+      "options": [
+        "tailored",
+        "off-the-rack",
+        "casual",
+        "flamboyant"
+      ],
+      "correctAnswer": 0,
+      "hint": "Specifically fitted.",
+      "explanation": "<strong>Tailored</strong> means made or adapted for a particular purpose or person."
+    },
+    {
+      "question": "Exclusive, custom-made high fashion is:",
+      "options": [
+        "haute couture",
+        "bohemian",
+        "casual",
+        "trendsetting"
+      ],
+      "correctAnswer": 0,
+      "hint": "The highest level of fashion.",
+      "explanation": "<strong>Haute couture</strong> is the designing and making of high-quality, custom-fitted clothing."
+    },
+    {
+      "question": "Clothes from a previous era that are still fashionable are:",
+      "options": [
+        "ostentatious",
+        "casual",
+        "avant-garde",
+        "vintage"
+      ],
+      "correctAnswer": 3,
+      "hint": "Old but stylish.",
+      "explanation": "<strong>Vintage</strong> describes clothing or items from an earlier period that are valued for quality."
+    },
+    {
+      "question": "To add jewellery, bags, or scarves to an outfit is to:",
+      "options": [
+        "tailor",
+        "accessorise",
+        "drape",
+        "renovate"
+      ],
+      "correctAnswer": 1,
+      "hint": "The finishing touches.",
+      "explanation": "To <strong>accessorise</strong> means to add accessories to complement an outfit."
+    }
+  ]
+}

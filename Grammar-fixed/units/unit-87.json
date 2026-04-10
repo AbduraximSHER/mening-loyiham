@@ -1,0 +1,114 @@
+{
+  "id": 87,
+  "title": "Problems and Solutions",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Describing problems",
+      "content": "<div class=\"web-text\">Vocabulary for identifying and discussing issues:</div><div class=\"web-example\"><span>• <strong>dilemma</strong> — a situation requiring a difficult choice. <em>She faced the dilemma of choosing career over family.</em></span></div><div class=\"web-example\"><span>• <strong>predicament</strong> — a difficult or unpleasant situation. <em>The company found itself in a financial predicament.</em></span></div><div class=\"web-example\"><span>• <strong>drawback</strong> — a disadvantage. <em>The main drawback of the plan is its cost.</em></span></div><div class=\"web-example\"><span>• <strong>shortcoming</strong> — a fault or weakness. <em>The report highlighted several shortcomings in the system.</em></span></div><div class=\"web-example\"><span>• <strong>deteriorate</strong> — become progressively worse. <em>Air quality continues to deteriorate in major cities.</em></span></div>"
+    },
+    {
+      "id": "B",
+      "title": "Finding solutions",
+      "content": "<div class=\"web-text\">How to talk about solving problems:</div><div class=\"web-example\"><span>• <strong>remedy</strong> — a solution to a problem. <em>There is no simple remedy for unemployment.</em></span></div><div class=\"web-example\"><span>• <strong>alleviate</strong> — make less severe. <em>The new policy aims to alleviate poverty.</em></span></div><div class=\"web-example\"><span>• <strong>tackle</strong> — deal with a difficult problem. <em>The government must tackle climate change urgently.</em></span></div><div class=\"web-example\"><span>• <strong>compromise</strong> — settle by mutual concession. <em>Both sides agreed to compromise on the terms.</em></span></div><div class=\"web-example\"><span>• <strong>implement</strong> — put a plan into action. <em>The company implemented new safety measures.</em></span></div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "A situation where you must choose between two difficult options is a:",
+      "options": [
+        "dilemma",
+        "predicament",
+        "resolve",
+        "address"
+      ],
+      "correctAnswer": 0,
+      "hint": "Two equally hard choices.",
+      "explanation": "A <strong>dilemma</strong> is a situation requiring a choice between two equally undesirable alternatives."
+    },
+    {
+      "question": "To make a problem less severe is to:",
+      "options": [
+        "resolve",
+        "alleviate",
+        "deteriorate",
+        "rectify"
+      ],
+      "correctAnswer": 1,
+      "hint": "Reducing the pain.",
+      "explanation": "<strong>Alleviate</strong> means to make suffering or a problem less severe."
+    },
+    {
+      "question": "A fault or weakness in a system is a:",
+      "options": [
+        "shortcoming",
+        "address",
+        "remedy",
+        "circumvent"
+      ],
+      "correctAnswer": 0,
+      "hint": "Something that's not good enough.",
+      "explanation": "A <strong>shortcoming</strong> is a fault or failure to meet a certain standard."
+    },
+    {
+      "question": "To actively deal with a difficult problem is to:",
+      "options": [
+        "combat",
+        "overcome",
+        "tackle",
+        "deteriorate"
+      ],
+      "correctAnswer": 2,
+      "hint": "Facing it head-on.",
+      "explanation": "<strong>Tackle</strong> means to make determined efforts to deal with a problem."
+    },
+    {
+      "question": "When a situation becomes progressively worse, it:",
+      "options": [
+        "compromises",
+        "alleviates",
+        "implements",
+        "deteriorates"
+      ],
+      "correctAnswer": 3,
+      "hint": "Getting worse over time.",
+      "explanation": "<strong>Deteriorate</strong> means to become progressively worse."
+    },
+    {
+      "question": "To put a plan or decision into effect is to:",
+      "options": [
+        "implement",
+        "exacerbate",
+        "remedy",
+        "rectify"
+      ],
+      "correctAnswer": 0,
+      "hint": "Making it happen.",
+      "explanation": "<strong>Implement</strong> means to put a decision, plan, or agreement into effect."
+    },
+    {
+      "question": "A disadvantage or negative aspect of something is a:",
+      "options": [
+        "drawback",
+        "remedy",
+        "predicament",
+        "mitigate"
+      ],
+      "correctAnswer": 0,
+      "hint": "The downside.",
+      "explanation": "A <strong>drawback</strong> is a feature that reduces the value or desirability of something."
+    },
+    {
+      "question": "An agreement where both sides give up something is a:",
+      "options": [
+        "remedy",
+        "circumvent",
+        "predicament",
+        "compromise"
+      ],
+      "correctAnswer": 3,
+      "hint": "Meeting in the middle.",
+      "explanation": "A <strong>compromise</strong> is an agreement reached by each side making concessions."
+    }
+  ]
+}

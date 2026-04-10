@@ -1,0 +1,114 @@
+{
+  "id": 86,
+  "title": "Quantity and Degree",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Expressing quantity",
+      "content": "<div class=\"web-text\">Advanced ways to talk about amounts:</div><div class=\"web-example\"><span>• <strong>ample</strong> — more than enough. <em>There is ample evidence to support the claim.</em></span></div><div class=\"web-example\"><span>• <strong>scarce</strong> — insufficient in quantity. <em>Clean water is scarce in many regions.</em></span></div><div class=\"web-example\"><span>• <strong>negligible</strong> — so small as to be unimportant. <em>The difference in price was negligible.</em></span></div><div class=\"web-example\"><span>• <strong>substantial</strong> — large in amount or importance. <em>She made a substantial contribution to the project.</em></span></div><div class=\"web-example\"><span>• <strong>excessive</strong> — more than necessary or reasonable. <em>Excessive screen time can affect sleep quality.</em></span></div>"
+    },
+    {
+      "id": "B",
+      "title": "Degree and intensity",
+      "content": "<div class=\"web-text\">Words expressing how much or how strongly:</div><div class=\"web-example\"><span>• <strong>utterly</strong> — completely and totally. <em>The plan was utterly impossible.</em></span></div><div class=\"web-example\"><span>• <strong>moderately</strong> — to a medium extent. <em>The restaurant is moderately priced.</em></span></div><div class=\"web-example\"><span>• <strong>marginally</strong> — by a very small amount. <em>Sales were marginally higher than last quarter.</em></span></div><div class=\"web-example\"><span>• <strong>predominantly</strong> — mainly, for the most part. <em>The audience was predominantly young people.</em></span></div><div class=\"web-example\"><span>• <strong>considerably</strong> — by a notably large amount. <em>Prices have risen considerably this year.</em></span></div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "An amount so small it's not worth considering is:",
+      "options": [
+        "negligibly",
+        "negligible",
+        "disproportionately",
+        "excessively"
+      ],
+      "correctAnswer": 1,
+      "hint": "Insignificant.",
+      "explanation": "<strong>Negligible</strong> means too small or unimportant to be worth considering."
+    },
+    {
+      "question": "'Utterly' means:",
+      "options": [
+        "slightly",
+        "completely",
+        "moderately",
+        "partially"
+      ],
+      "correctAnswer": 1,
+      "hint": "100%, totally.",
+      "explanation": "<strong>Utterly</strong> means completely and without qualification."
+    },
+    {
+      "question": "When resources are insufficient, they are:",
+      "options": [
+        "considerably",
+        "overwhelmingly",
+        "substantially",
+        "scarce"
+      ],
+      "correctAnswer": 3,
+      "hint": "Not enough.",
+      "explanation": "<strong>Scarce</strong> means insufficient for the demand; in short supply."
+    },
+    {
+      "question": "A large and meaningful amount is:",
+      "options": [
+        "moderately",
+        "marginal",
+        "substantial",
+        "moderate"
+      ],
+      "correctAnswer": 2,
+      "hint": "Significant.",
+      "explanation": "<strong>Substantial</strong> means of considerable importance, size, or worth."
+    },
+    {
+      "question": "'Marginally' means by:",
+      "options": [
+        "a large amount",
+        "no amount",
+        "a very small amount",
+        "an equal amount"
+      ],
+      "correctAnswer": 2,
+      "hint": "Just barely.",
+      "explanation": "<strong>Marginally</strong> means to only a limited extent; slightly."
+    },
+    {
+      "question": "More than necessary or reasonable is:",
+      "options": [
+        "excessive",
+        "considerably",
+        "moderately",
+        "moderate"
+      ],
+      "correctAnswer": 0,
+      "hint": "Too much.",
+      "explanation": "<strong>Excessive</strong> means more than is necessary, normal, or desirable."
+    },
+    {
+      "question": "'Predominantly' means:",
+      "options": [
+        "mainly",
+        "rarely",
+        "partly",
+        "entirely"
+      ],
+      "correctAnswer": 0,
+      "hint": "For the most part.",
+      "explanation": "<strong>Predominantly</strong> means mainly; for the most part."
+    },
+    {
+      "question": "Having more than enough of something is having:",
+      "options": [
+        "ample",
+        "sufficiently",
+        "considerably",
+        "marginal"
+      ],
+      "correctAnswer": 0,
+      "hint": "Plenty.",
+      "explanation": "<strong>Ample</strong> means enough or more than enough; plentiful."
+    }
+  ]
+}

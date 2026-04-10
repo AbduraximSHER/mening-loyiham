@@ -1,0 +1,119 @@
+{
+  "id": 52,
+  "title": "Emotions and Reactions",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Strong emotions",
+      "content": "<div class=\"web-text\">Advanced vocabulary allows us to express emotions with greater precision:</div><div class=\"web-example\"><span>• <strong>elated</strong> — extremely happy. <em>She was elated when she received the scholarship.</em></span></div><div class=\"web-example\"><span>• <strong>devastated</strong> — extremely shocked and upset. <em>He was devastated by the sudden loss.</em></span></div><div class=\"web-example\"><span>• <strong>bewildered</strong> — completely confused. <em>The complex instructions left everyone bewildered.</em></span></div><div class=\"web-example\"><span>• <strong>exasperated</strong> — intensely irritated. <em>The teacher became exasperated with the constant interruptions.</em></span></div><div class=\"web-example\"><span>• <strong>apprehensive</strong> — anxious about the future. <em>Many students feel apprehensive before exams.</em></span></div>"
+    },
+    {
+      "id": "B",
+      "title": "Subtle feelings",
+      "content": "<div class=\"web-text\">Some feelings are less intense but equally important to express:</div><div class=\"web-example\"><span>• <strong>nostalgic</strong> — longing for the past. <em>The old photographs made her feel nostalgic.</em></span></div><div class=\"web-example\"><span>• <strong>ambivalent</strong> — having mixed feelings. <em>He felt ambivalent about the job offer — excited but nervous.</em></span></div><div class=\"web-example\"><span>• <strong>indifferent</strong> — having no particular interest. <em>She seemed completely indifferent to the criticism.</em></span></div><div class=\"web-example\"><span>• <strong>contemplative</strong> — deeply thoughtful. <em>He sat in a contemplative mood, staring at the rain.</em></span></div><div class=\"web-example\"><span>• <strong>wistful</strong> — feeling sad longing. <em>She gave a wistful smile remembering her childhood.</em></span></div>"
+    },
+    {
+      "id": "C",
+      "title": "Reactions to situations",
+      "content": "<div class=\"web-text\">How people react can be described with specific vocabulary:</div><div class=\"web-example\"><span>• <strong>taken aback</strong> — surprised and slightly shocked. <em>I was taken aback by his rude comment.</em></span></div><div class=\"web-example\"><span>• <strong>overwhelmed</strong> — feeling too much at once. <em>She felt overwhelmed by all the responsibility.</em></span></div><div class=\"web-example\"><span>• <strong>reassured</strong> — feeling less worried. <em>His calm voice reassured me that everything would be fine.</em></span></div><div class=\"web-example\"><span>• <strong>disheartened</strong> — losing hope or confidence. <em>Don't be disheartened by one failure.</em></span></div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "If you feel extremely happy about an achievement, you are:",
+      "options": [
+        "bewildered",
+        "elated",
+        "bewildered",
+        "serene"
+      ],
+      "correctAnswer": 1,
+      "hint": "It's an extreme form of happiness.",
+      "explanation": "<strong>Elated</strong> means ecstatically happy, often after achieving something."
+    },
+    {
+      "question": "Someone who has mixed feelings about something is:",
+      "options": [
+        "contemplative",
+        "nostalgic",
+        "devastated",
+        "ambivalent"
+      ],
+      "correctAnswer": 3,
+      "hint": "They can't decide if they feel positive or negative.",
+      "explanation": "<strong>Ambivalent</strong> means having conflicting feelings about something."
+    },
+    {
+      "question": "Which phrase means 'surprised and slightly shocked'?",
+      "options": [
+        "taken aback",
+        "nostalgic",
+        "exasperated",
+        "reassured"
+      ],
+      "correctAnswer": 0,
+      "hint": "It's a two-word expression.",
+      "explanation": "<strong>Taken aback</strong> means surprised, often in a negative way."
+    },
+    {
+      "question": "Feeling anxious or worried about something in the future is:",
+      "options": [
+        "apprehensive",
+        "nostalgic",
+        "dejected",
+        "exasperated"
+      ],
+      "correctAnswer": 0,
+      "hint": "It relates to uncertainty about what's coming.",
+      "explanation": "<strong>Apprehensive</strong> means feeling worried about something that might happen."
+    },
+    {
+      "question": "A person who shows no interest or concern is:",
+      "options": [
+        "contemplative",
+        "indifferent",
+        "content",
+        "bewildered"
+      ],
+      "correctAnswer": 1,
+      "hint": "They simply don't care.",
+      "explanation": "<strong>Indifferent</strong> means having no particular interest or sympathy."
+    },
+    {
+      "question": "Feeling a gentle sadness when remembering the past is being:",
+      "options": [
+        "exasperated",
+        "remorseful",
+        "devastated",
+        "wistful"
+      ],
+      "correctAnswer": 3,
+      "hint": "A bittersweet feeling about memories.",
+      "explanation": "<strong>Wistful</strong> means having a feeling of vague or regretful longing."
+    },
+    {
+      "question": "If too many tasks make you feel you can't cope, you are:",
+      "options": [
+        "overwhelmed",
+        "contemplative",
+        "reassured",
+        "nostalgic"
+      ],
+      "correctAnswer": 0,
+      "hint": "Everything feels like too much.",
+      "explanation": "<strong>Overwhelmed</strong> means feeling unable to deal with the volume of something."
+    },
+    {
+      "question": "Which word means 'losing hope or confidence'?",
+      "options": [
+        "disheartened",
+        "content",
+        "dejected",
+        "nostalgic"
+      ],
+      "correctAnswer": 0,
+      "hint": "The opposite of encouraged.",
+      "explanation": "<strong>Disheartened</strong> means having lost determination or confidence."
+    }
+  ]
+}

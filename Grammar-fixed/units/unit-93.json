@@ -1,0 +1,114 @@
+{
+  "id": 93,
+  "title": "Communication Styles",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Ways of speaking",
+      "content": "<div class=\"web-text\">How people communicate differently:</div><div class=\"web-example\"><span>• <strong>articulate</strong> — expressing ideas clearly. <em>She's remarkably articulate for her age.</em></span></div><div class=\"web-example\"><span>• <strong>concise</strong> — using few words effectively. <em>Keep your presentation concise and to the point.</em></span></div><div class=\"web-example\"><span>• <strong>vague</strong> — unclear or imprecise. <em>His instructions were too vague to follow.</em></span></div><div class=\"web-example\"><span>• <strong>blunt</strong> — direct and honest to the point of rudeness. <em>She can be quite blunt in her feedback.</em></span></div><div class=\"web-example\"><span>• <strong>eloquent</strong> — fluent and persuasive in speech. <em>The president delivered an eloquent speech on equality.</em></span></div>"
+    },
+    {
+      "id": "B",
+      "title": "Written communication",
+      "content": "<div class=\"web-text\">Terms for different types of writing:</div><div class=\"web-example\"><span>• <strong>coherent</strong> — logical and consistent. <em>The essay needs to be more coherent in its argument.</em></span></div><div class=\"web-example\"><span>• <strong>ambiguous</strong> — open to more than one interpretation. <em>The contract language was ambiguous and caused disputes.</em></span></div><div class=\"web-example\"><span>• <strong>succinct</strong> — briefly and clearly expressed. <em>Please provide a succinct summary of the report.</em></span></div><div class=\"web-example\"><span>• <strong>verbose</strong> — using more words than needed. <em>Academic writing should be precise, not verbose.</em></span></div><div class=\"web-example\"><span>• <strong>compelling</strong> — convincing and persuasive. <em>She wrote a compelling argument for change.</em></span></div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "Someone who expresses ideas very clearly is:",
+      "options": [
+        "candid",
+        "articulate",
+        "vague",
+        "persuasive"
+      ],
+      "correctAnswer": 1,
+      "hint": "Clear and well-spoken.",
+      "explanation": "<strong>Articulate</strong> means able to express thoughts clearly and effectively."
+    },
+    {
+      "question": "Writing that uses too many unnecessary words is:",
+      "options": [
+        "emphatic",
+        "reticent",
+        "verbose",
+        "concise"
+      ],
+      "correctAnswer": 2,
+      "hint": "They could say it in fewer words.",
+      "explanation": "<strong>Verbose</strong> means using more words than are needed."
+    },
+    {
+      "question": "A message that could mean different things is:",
+      "options": [
+        "persuasive",
+        "concise",
+        "ambiguous",
+        "assertive"
+      ],
+      "correctAnswer": 2,
+      "hint": "Multiple interpretations possible.",
+      "explanation": "<strong>Ambiguous</strong> means open to more than one interpretation."
+    },
+    {
+      "question": "An argument that is logical and makes sense is:",
+      "options": [
+        "evasive",
+        "coherent",
+        "vague",
+        "diplomatic"
+      ],
+      "correctAnswer": 1,
+      "hint": "Everything connects logically.",
+      "explanation": "<strong>Coherent</strong> means logical and consistent."
+    },
+    {
+      "question": "Very direct honesty that might seem rude is being:",
+      "options": [
+        "blunt",
+        "tentative",
+        "evasive",
+        "concise"
+      ],
+      "correctAnswer": 0,
+      "hint": "No sugar-coating.",
+      "explanation": "<strong>Blunt</strong> means uncompromisingly forthright; straightforwardly honest."
+    },
+    {
+      "question": "A speech that is beautiful and persuasive is:",
+      "options": [
+        "tentative",
+        "eloquent",
+        "diplomatic",
+        "vague"
+      ],
+      "correctAnswer": 1,
+      "hint": "Impressive use of language.",
+      "explanation": "<strong>Eloquent</strong> means fluent or persuasive in speaking or writing."
+    },
+    {
+      "question": "Expressing something briefly and clearly is being:",
+      "options": [
+        "vague",
+        "assertive",
+        "succinct",
+        "emphatic"
+      ],
+      "correctAnswer": 2,
+      "hint": "Short and sweet.",
+      "explanation": "<strong>Succinct</strong> means briefly and clearly expressed."
+    },
+    {
+      "question": "An argument so powerful it's hard to resist is:",
+      "options": [
+        "candid",
+        "vague",
+        "compelling",
+        "laconic"
+      ],
+      "correctAnswer": 2,
+      "hint": "Very convincing.",
+      "explanation": "<strong>Compelling</strong> means evoking interest or attention in a powerfully irresistible way."
+    }
+  ]
+}

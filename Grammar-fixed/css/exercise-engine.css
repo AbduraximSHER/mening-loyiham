@@ -1,0 +1,322 @@
+/* exercise-engine.css — styles for all 4 exercise types
+   Fully uses CSS variables from theme.css. No hardcoded hex colors.
+   Scoped under .ex-root to avoid clashing with other exercise CSS. */
+
+.ex-root {
+  font-family: var(--font-body);
+  padding: 4px 4px 4px;
+  color: var(--ink);
+}
+
+.ex-question {
+  font-size: var(--fs-lg);
+  font-weight: 500;
+  line-height: 1.55;
+  margin-bottom: 1.1rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--line);
+  color: var(--ink);
+}
+
+/* The sentence shown in error-correction exercises */
+.ex-sentence {
+  font-size: var(--fs-lg);
+  font-style: italic;
+  color: var(--ink-soft);
+  background: var(--canvas);
+  border-left: 3px solid var(--accent);
+  padding: 0.75rem 1rem;
+  border-radius: 0 var(--r-sm) var(--r-sm) 0;
+  margin-bottom: 0.9rem;
+  line-height: 1.6;
+}
+
+/* ─── MCQ ─────────────────────────────────────────────── */
+.ex-options { display: flex; flex-direction: column; gap: 0.5rem; }
+
+.ex-opt {
+  font: inherit;
+  text-align: left;
+  padding: 0.75rem 1rem;
+  background: var(--canvas);
+  border: 1.5px solid var(--line);
+  border-radius: var(--r);
+  cursor: pointer;
+  transition: border-color .13s ease, background .13s ease, opacity .2s ease;
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  color: var(--ink);
+}
+/* Left accent bar — slides in on hover */
+.ex-opt::before {
+  content: '';
+  position: absolute;
+  left: 0; top: 0; bottom: 0;
+  width: 3px;
+  background: transparent;
+  transition: background .13s ease;
+}
+.ex-opt:hover:not([aria-disabled="true"]) {
+  border-color: var(--accent);
+  background: var(--accent-soft);
+}
+.ex-opt:hover:not([aria-disabled="true"])::before {
+  background: var(--accent);
+}
+.ex-opt:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+
+/* After answering — dim unchosen options so result stands out */
+.ex-opt[aria-disabled="true"] {
+  cursor: default;
+}
+.ex-opt[aria-disabled="true"]:not(.is-correct):not(.is-wrong) {
+  opacity: 0.38;
+}
+
+.ex-opt.is-correct {
+  border-color: var(--success);
+  background: color-mix(in srgb, var(--success) 10%, white);
+  color: color-mix(in srgb, var(--success) 60%, black);
+}
+.ex-opt.is-correct::before { background: var(--success); }
+
+.ex-opt.is-wrong {
+  border-color: var(--danger);
+  background: color-mix(in srgb, var(--danger) 10%, white);
+  color: color-mix(in srgb, var(--danger) 60%, black);
+}
+.ex-opt.is-wrong::before { background: var(--danger); }
+
+/* ─── MCQ option letter badge ─────────────────────────── */
+.ex-opt-inner {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+.ex-opt-letter {
+  flex: 0 0 28px;
+  height: 28px;
+  border-radius: 8px;
+  background: var(--card);
+  border: 1.5px solid var(--line);
+  display: grid;
+  place-items: center;
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: var(--muted);
+  letter-spacing: 0.03em;
+  transition: background .13s, border-color .13s, color .13s;
+}
+.ex-opt.is-correct .ex-opt-letter {
+  background: var(--success);
+  border-color: var(--success);
+  color: var(--card);
+  border-radius: 50%;
+}
+.ex-opt.is-wrong .ex-opt-letter {
+  background: var(--danger);
+  border-color: var(--danger);
+  color: var(--card);
+  border-radius: 50%;
+}
+.ex-opt-check {
+  margin-left: auto;
+  font-size: 0.85rem;
+  opacity: 0;
+  transition: opacity .15s;
+}
+.ex-opt.is-correct .ex-opt-check { opacity: 1; color: var(--success); }
+.ex-opt.is-wrong   .ex-opt-check { opacity: 1; color: var(--danger); }
+
+/* ─── fill-in-blank input ─────────────────────────────── */
+.ex-fill-q { line-height: 2.4; font-size: var(--fs-lg); }
+
+.ex-fill-input {
+  font: inherit;
+  font-weight: 500;
+  font-size: var(--fs-lg);
+  display: inline-block;
+  width: auto;
+  min-width: 8rem;
+  margin: 0 0.25rem;
+  padding: 0.15rem 0.25rem;
+  /* Underline only — no box */
+  background: transparent;
+  border: none;
+  border-bottom: 2.5px solid var(--accent);
+  border-radius: 0;
+  color: var(--ink);
+  outline: none;
+  transition: border-color .15s;
+}
+.ex-fill-input::placeholder { color: var(--muted-2); font-weight: 400; }
+.ex-fill-input:focus { border-bottom-color: var(--accent-ink); }
+.ex-fill-input.is-correct { border-bottom-color: var(--success); color: color-mix(in srgb, var(--success) 60%, black); }
+.ex-fill-input.is-wrong   { border-bottom-color: var(--danger);  color: color-mix(in srgb, var(--danger) 60%, black); }
+
+/* ─── error-correction input ──────────────────────────── */
+.ex-correct-input {
+  font: inherit;
+  width: 100%;
+  padding: 0.75rem 1rem;
+  border: 1.5px solid var(--line);
+  border-radius: var(--r);
+  background: var(--canvas);
+  min-height: 44px;
+  margin: 0.5rem 0 0.9rem;
+  resize: vertical;
+  color: var(--ink);
+  transition: border-color .15s;
+}
+.ex-correct-input:focus {
+  outline: none;
+  border-color: var(--accent);
+  background: var(--card);
+}
+.ex-correct-input.is-correct { border-color: var(--success); background: color-mix(in srgb, var(--success) 10%, white); }
+.ex-correct-input.is-wrong   { border-color: var(--danger);  background: color-mix(in srgb, var(--danger) 10%, white); }
+
+/* ─── reorder ─────────────────────────────────────────── */
+.ex-slot, .ex-bank {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  padding: 0.9rem;
+  border-radius: var(--r);
+  min-height: 56px;
+  margin-bottom: 0.75rem;
+}
+.ex-slot {
+  background: var(--card);
+  border: 2px dashed var(--line);
+}
+.ex-slot.is-correct { border-color: var(--success); background: color-mix(in srgb, var(--success) 10%, white); }
+.ex-slot.is-wrong   { border-color: var(--danger);  background: color-mix(in srgb, var(--danger) 10%, white); }
+.ex-bank { background: var(--accent-soft); border: 1px solid transparent; }
+
+.ex-token {
+  font: inherit;
+  padding: 0.5rem 0.85rem;
+  background: var(--card);
+  border: 1.5px solid var(--line);
+  border-radius: var(--r-sm);
+  cursor: pointer;
+  transition: transform .1s, border-color .13s;
+  color: var(--ink);
+  font-size: var(--fs-sm);
+}
+.ex-token:hover:not(:disabled) {
+  border-color: var(--accent);
+  transform: translateY(-1px);
+}
+.ex-token:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+.ex-token:disabled { cursor: default; opacity: 0.6; }
+
+/* ─── submit button ───────────────────────────────────── */
+.ex-submit {
+  font: inherit;
+  font-weight: 600;
+  padding: 0.75rem 1.5rem;
+  border: none;
+  border-radius: var(--r);
+  background: var(--accent);
+  color: var(--card);
+  cursor: pointer;
+  min-height: 44px;
+  transition: background .15s;
+  font-size: var(--fs-body);
+}
+.ex-submit:hover:not(:disabled) { background: var(--accent-ink); }
+.ex-submit:disabled { opacity: 0.4; cursor: not-allowed; }
+.ex-submit:focus-visible { outline: 3px solid var(--ink); outline-offset: 2px; }
+
+/* ─── feedback block ──────────────────────────────────── */
+.ex-feedback:empty { display: none; }
+.ex-feedback {
+  margin-top: 1rem;
+  padding: 0.85rem 1rem;
+  border-radius: var(--r-sm);
+  border-left: 3px solid;
+  font-size: var(--fs-sm);
+  line-height: 1.55;
+}
+.ex-feedback:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.ex-feedback.is-correct {
+  background: color-mix(in srgb, var(--success) 10%, white);
+  color: color-mix(in srgb, var(--success) 60%, black);
+  border-left-color: var(--success);
+}
+.ex-feedback.is-wrong {
+  background: color-mix(in srgb, var(--danger) 10%, white);
+  color: color-mix(in srgb, var(--danger) 60%, black);
+  border-left-color: var(--danger);
+}
+.ex-fb-head { font-weight: 700; margin-bottom: 0.25rem; }
+
+/* ─── hint ────────────────────────────────────────────── */
+.ex-hint {
+  margin-top: 0.9rem;
+  font-size: var(--fs-sm);
+  color: var(--accent-ink);
+  padding: 0.5rem 0.85rem;
+  background: var(--accent-soft);
+  border-radius: var(--r-sm);
+  line-height: 1.5;
+}
+.ex-hint summary { cursor: pointer; font-weight: 500; }
+.ex-hint summary:focus-visible { outline: 2px solid var(--accent); border-radius: 4px; }
+
+/* ─── Dark mode ───────────────────────────────────────── */
+[data-theme="dark"] .ex-root { color: var(--dark-ink); }
+[data-theme="dark"] .ex-question { border-bottom-color: var(--dark-line); color: var(--dark-ink); }
+[data-theme="dark"] .ex-sentence { background: var(--dark-bg-2); border-left-color: var(--accent); color: var(--dark-ink); }
+
+[data-theme="dark"] .ex-opt {
+  background: var(--dark-bg-2);
+  border-color: var(--dark-line);
+  color: var(--dark-ink);
+}
+[data-theme="dark"] .ex-opt:hover:not([aria-disabled="true"]) {
+  border-color: var(--accent);
+  background: color-mix(in srgb, var(--accent) 12%, transparent);
+}
+[data-theme="dark"] .ex-opt[aria-disabled="true"]:not(.is-correct):not(.is-wrong) {
+  opacity: 0.3;
+}
+[data-theme="dark"] .ex-opt.is-correct { background: color-mix(in srgb, var(--success) 15%, transparent); border-color: var(--success); color: color-mix(in srgb, var(--success) 60%, white); }
+[data-theme="dark"] .ex-opt.is-wrong   { background: color-mix(in srgb, var(--danger) 15%, transparent); border-color: var(--danger);  color: color-mix(in srgb, var(--danger) 60%, white); }
+[data-theme="dark"] .ex-opt-letter { background: var(--dark-bg); border-color: var(--dark-line); color: var(--dark-muted); }
+
+[data-theme="dark"] .ex-fill-input {
+  color: var(--dark-ink);
+  border-bottom-color: var(--accent);
+}
+[data-theme="dark"] .ex-fill-input::placeholder { color: var(--dark-muted); }
+[data-theme="dark"] .ex-fill-input.is-correct { border-bottom-color: var(--success); color: color-mix(in srgb, var(--success) 60%, white); }
+[data-theme="dark"] .ex-fill-input.is-wrong   { border-bottom-color: var(--danger);  color: color-mix(in srgb, var(--danger) 60%, white); }
+
+[data-theme="dark"] .ex-correct-input {
+  background: var(--dark-bg-2);
+  border-color: var(--dark-line);
+  color: var(--dark-ink);
+}
+[data-theme="dark"] .ex-correct-input:focus { border-color: var(--accent); background: var(--dark-bg); }
+[data-theme="dark"] .ex-correct-input.is-correct { background: color-mix(in srgb, var(--success) 12%, transparent); border-color: var(--success); }
+[data-theme="dark"] .ex-correct-input.is-wrong   { background: color-mix(in srgb, var(--danger) 12%, transparent); border-color: var(--danger); }
+
+[data-theme="dark"] .ex-slot { background: var(--dark-bg); border-color: var(--dark-line); }
+[data-theme="dark"] .ex-slot.is-correct { background: color-mix(in srgb, var(--success) 12%, transparent); border-color: var(--success); }
+[data-theme="dark"] .ex-slot.is-wrong   { background: color-mix(in srgb, var(--danger) 12%, transparent); border-color: var(--danger); }
+[data-theme="dark"] .ex-bank { background: color-mix(in srgb, var(--accent) 10%, transparent); }
+[data-theme="dark"] .ex-token { background: var(--dark-bg); border-color: var(--dark-line); color: var(--dark-ink); }
+[data-theme="dark"] .ex-token:hover:not(:disabled) { border-color: var(--accent); }
+
+[data-theme="dark"] .ex-feedback.is-correct { background: color-mix(in srgb, var(--success) 12%, transparent); color: color-mix(in srgb, var(--success) 60%, white); border-left-color: var(--success); }
+[data-theme="dark"] .ex-feedback.is-wrong   { background: color-mix(in srgb, var(--danger) 12%, transparent); color: color-mix(in srgb, var(--danger) 60%, white); border-left-color: var(--danger); }
+
+[data-theme="dark"] .ex-hint { background: color-mix(in srgb, var(--accent) 12%, transparent); color: color-mix(in srgb, var(--accent) 60%, white); }
+
+@media (prefers-reduced-motion: reduce) {
+  .ex-opt, .ex-token, .ex-submit, .ex-opt::before { transition: none; }
+}

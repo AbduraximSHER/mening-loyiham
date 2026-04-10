@@ -1,0 +1,230 @@
+{
+  "id": 4,
+  "title": "Past continuous and past simple",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Overlapping events",
+      "content": "\n            <div class=\"web-text\">When we talk about two events or activities that went on over the same period of past time, we can often use the past continuous or the past simple for both:</div>\n            <div class=\"web-example\">\n                <span>• Mia <strong>was reading</strong> to the children while Ben <strong>was washing up</strong>. (<em>or</em> ... <strong>read</strong> ... <strong>washed up</strong>.)</span>\n            </div>\n            <div class=\"web-text\">Using the past continuous emphasises that the event or activity ('was reading') was in progress during the past period of time ('while Ben was washing up'). Compare:</div>\n            <div class=\"web-example\">\n                <span>• When I <strong>was learning</strong> / <strong>learned</strong> to drive I was living with my parents.</span>\n            </div>\n            <div class=\"web-text\"><strong>Was learning</strong> emphasises that the activity was in progress ('I had lessons during this time') and <strong>learned</strong> emphasises completion ('I passed my test during this time').</div>\n            <div class=\"web-text\">When we talk about two or more past completed events that followed one another, we use the past simple, not the past continuous, for both (see also Unit 5C):</div>\n            <div class=\"web-example\">\n                <span>• She <strong>got up</strong> when the alarm clock <strong>went off</strong>.</span>\n            </div>\n        "
+    },
+    {
+      "id": "B",
+      "title": "Repeated past actions",
+      "content": "\n            <div class=\"web-text\">We usually use the past simple rather than the past continuous to talk about repeated past actions:</div>\n            <div class=\"web-example\">\n                <span>• We <strong>went</strong> to Spain three times last year.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>Did</strong> you <strong>drive</strong> past her house every day?</span>\n            </div>\n            <div class=\"web-text\">However, we can use the past continuous, particularly in spoken English, when we want to emphasise that repeated actions went on for a limited and temporary period of past time:</div>\n            <div class=\"web-example\">\n                <span>• When Kata was in hospital, we <strong>were visiting</strong> her twice a day. (<em>or</em> ... we <strong>visited</strong> ...)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• To lose weight before the race, I <strong>wasn't eating</strong> any biscuits for weeks. (<em>or</em> ... I <strong>didn't eat</strong> ...)</span>\n            </div>\n            <div class=\"web-text\">or to talk about something that happened surprisingly often:</div>\n            <div class=\"web-example\">\n                <span>• Last week I <strong>was having</strong> to bring work home every night to get it all done. (<em>or</em> ... <strong>had</strong> ...)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• When the builders were here I <strong>was making</strong> them cups of tea all the time. (<em>or</em> ... <strong>made</strong> ...)</span>\n            </div>\n        "
+    },
+    {
+      "id": "C",
+      "title": "Narrative structure",
+      "content": "\n            <div class=\"web-text\">We often use the past simple in a narrative (e.g. a report or a story) to talk about a single complete past event and the past continuous to describe the situation that existed at the time. The event might have interrupted the situation, or happened while the situation was in progress:</div>\n            <div class=\"web-example\">\n                <span>• Erika <strong>dropped</strong> her bag while she <strong>was getting</strong> into her car.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• She <strong>was shaking</strong> with anger as she <strong>left</strong> the hotel.</span>\n            </div>\n        "
+    },
+    {
+      "id": "D",
+      "title": "Unfulfilled intentions",
+      "content": "\n            <div class=\"web-text\">We can use either the past continuous or past simple (or past perfect; see Unit 5E) with some verbs to talk about things we intended to do but didn't:</div>\n            <div class=\"web-example\">\n                <span>• We <strong>were meaning</strong> to call in and see you, but Marc wasn't feeling well. (<em>or</em> We <strong>meant</strong> ...)</span>\n            </div>\n            <div class=\"web-text\"><em>Also:</em> <strong>consider + -ing, expect to, hope to, intend to, plan to / on + -ing, think about / of + -ing, want to</strong></div>\n            <div class=\"web-text\">These verbs (with the exception of <strong>mean</strong>) and <strong>wonder about</strong> can also be used with the present and past continuous to report what we might do in the future. The past continuous is less definite than the present continuous:</div>\n            <div class=\"web-example\">\n                <span>• I <strong>was thinking</strong> of going to China next year, but it depends how much money I've got. (less definite than <em>I'm thinking of going ...</em>)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• We <strong>were wondering about</strong> inviting Eva over tomorrow. (less definite than <em>We're wondering about ...</em>)</span>\n            </div>\n        "
+    }
+  ],
+  "exercises": [
+    {
+      "question": "Just as I ___ into the bath, all the lights ___ off.",
+      "options": [
+        "was getting / went",
+        "got / were going",
+        "got / went",
+        "was getting / were going"
+      ],
+      "correctAnswer": 0,
+      "hint": "Past continuous for the situation in progress, past simple for the interrupting event.",
+      "explanation": "<strong>Answer: was getting / went</strong><br>Use the past continuous for the longer background action and the past simple for the shorter interrupting event. Here, the ongoing activity was in progress when a single completed event occurred. The signal is often <em>when</em> + past simple interrupting the past continuous."
+    },
+    {
+      "type": "fill",
+      "question": "She ___ (read) when the phone rang.",
+      "answer": "was reading",
+      "hint": "Background activity in progress when interrupted → past continuous.",
+      "explanation": "<strong>Answer: was reading</strong><br>The past continuous describes a longer background action in progress when a shorter interrupting event (past simple) occurred. Here, 'reading' is the background; 'rang' is the interruption.",
+      "acceptable": [
+        "'s reading"
+      ]
+    },
+    {
+      "question": "I ___ to go away this weekend, but my boss ___ me some work that I have to finish by Monday. (hope / give)",
+      "options": [
+        "hoped / was giving",
+        "was hoping / gave",
+        "am hoping / gives",
+        "was hoping / was giving"
+      ],
+      "correctAnswer": 1,
+      "hint": "Unfulfilled intention vs the single completed event that prevented it.",
+      "explanation": "<strong>Answer: was hoping / gave</strong><br>Use the past continuous for the longer background action and the past simple for the shorter interrupting event. Here, the ongoing activity was in progress when a single completed event occurred. The signal is often <em>when</em> + past simple interrupting the past continuous."
+    },
+    {
+      "type": "fill",
+      "question": "It ___ (rain) all morning, so we stayed indoors.",
+      "answer": "was raining",
+      "hint": "Continuous background condition during a past period → past continuous.",
+      "explanation": "<strong>Answer: was raining</strong><br>The past continuous describes a condition or activity that was ongoing throughout a past period, providing the background context for other events.",
+      "acceptable": [
+        "it was raining"
+      ]
+    },
+    {
+      "question": "When I ___ in Paris, I ___ three hours a day travelling to and from work. (live / spend)",
+      "options": [
+        "lived / was spending",
+        "was living / was spending",
+        "was living / spent",
+        "lived / spend"
+      ],
+      "correctAnswer": 2,
+      "hint": "Background situation vs repeated past action.",
+      "explanation": "<strong>Answer: was living / spent</strong><br>The past continuous sets the background scene for a narrative. It describes what was already happening when the main events (past simple) occurred. The past continuous creates the context; the past simple moves the story forward."
+    },
+    {
+      "type": "fill",
+      "question": "While I ___ dinner, my brother arrived home unexpectedly.",
+      "answer": "was cooking",
+      "acceptable": [
+        "was making"
+      ],
+      "hint": "Background activity in progress when interrupted → past continuous.",
+      "explanation": "<strong>Answer: was cooking</strong><br>The past continuous ('was cooking') describes the ongoing background activity. The shorter interrupting event ('arrived') uses the past simple. 'While' signals that two events overlapped — use past continuous for the longer one."
+    },
+    {
+      "question": "A friendly American couple ___ to him as he ___ at the hotel reception.",
+      "options": [
+        "were starting / checked in",
+        "started / was checking in",
+        "started / checked in",
+        "were starting / were checking in"
+      ],
+      "correctAnswer": 1,
+      "hint": "Single event interrupting a background situation.",
+      "explanation": "<strong>Answer: started / was checking in</strong><br>Use the past continuous for the longer background action and the past simple for the shorter interrupting event. Here, the ongoing activity was in progress when a single completed event occurred. The signal is often <em>when</em> + past simple interrupting the past continuous."
+    },
+    {
+      "type": "fill",
+      "question": "They ___ all evening, but finally reached an agreement just before midnight.",
+      "answer": "were arguing",
+      "hint": "Extended activity throughout a past period → past continuous.",
+      "explanation": "<strong>Answer: were arguing</strong><br>The past continuous describes an activity that continued throughout a period ('all evening'). It provides the ongoing background against which other events occur. 'All + time period' is a strong signal for the past continuous."
+    },
+    {
+      "question": "I bumped into Lena last week. She ___ a lot better than when I last ___ her.",
+      "options": [
+        "was looking / saw",
+        "looked / was seeing",
+        "was looking / was seeing",
+        "looked / saw"
+      ],
+      "correctAnswer": 0,
+      "hint": "Temporary past situation vs single event.",
+      "explanation": "<strong>Answer: was looking / saw</strong><br>Use the past continuous for the longer background action and the past simple for the shorter interrupting event. Here, the ongoing activity was in progress when a single completed event occurred. The signal is often <em>when</em> + past simple interrupting the past continuous."
+    },
+    {
+      "type": "fill",
+      "question": "They were arguing all evening and then suddenly ___ talking.",
+      "answer": "stopped",
+      "hint": "Sudden completed event ending a background activity → past simple.",
+      "explanation": "<strong>Answer: stopped</strong><br>'Suddenly' signals a sharp, completed change — past simple. The ongoing background (were arguing) gives way to the sudden event (stopped). 'Suddenly' almost always signals past simple when describing a narrative event."
+    },
+    {
+      "question": "My boss ___ into the office just as I ___ everyone my holiday photos.",
+      "options": [
+        "was coming / showed",
+        "came / was showing",
+        "came / showed",
+        "was coming / was showing"
+      ],
+      "correctAnswer": 1,
+      "hint": "Single interrupting event vs action in progress.",
+      "explanation": "<strong>Answer: came / was showing</strong><br>Use the past continuous for the longer background action and the past simple for the shorter interrupting event. Here, the ongoing activity was in progress when a single completed event occurred. The signal is often <em>when</em> + past simple interrupting the past continuous."
+    },
+    {
+      "type": "fill",
+      "question": "They ___ all evening, then suddenly stopped talking.",
+      "answer": "were arguing",
+      "hint": "Extended ongoing activity throughout a period → past continuous.",
+      "explanation": "<strong>Answer: were arguing</strong><br>The past continuous describes activity ongoing throughout a time period. \"All evening\" signals the extended duration. The background activity (arguing) is described with past continuous; the sudden end (stopped) uses past simple."
+    },
+    {
+      "question": "I ___ badminton four times a week before I ___ my ankle.",
+      "options": [
+        "was playing / broke",
+        "played / was breaking",
+        "was playing / was breaking",
+        "played / broke"
+      ],
+      "correctAnswer": 0,
+      "hint": "Repeated past action (emphasising a limited period) vs single interrupting event.",
+      "explanation": "<strong>Answer: was playing / broke</strong><br>Use the past continuous for the longer background action and the past simple for the shorter interrupting event. Here, the ongoing activity was in progress when a single completed event occurred. The signal is often <em>when</em> + past simple interrupting the past continuous."
+    },
+    {
+      "type": "fill",
+      "question": "They were arguing all evening, then suddenly ___ talking.",
+      "answer": "stopped",
+      "hint": "Sudden completed event → past simple.",
+      "explanation": "<strong>Answer: stopped</strong><br>\"Suddenly\" signals a sharp, completed change — past simple. The ongoing background (were arguing) gives way to the sudden completed event (stopped). Narrative sequence: ongoing → sudden interruption."
+    },
+    {
+      "question": "The smoke alarm ___ when he ___ a candle underneath it. (go off / light)",
+      "options": [
+        "went off / lit",
+        "was going off / was lighting",
+        "is going off / was lighting",
+        "had been going off / had been lighting"
+      ],
+      "correctAnswer": 0,
+      "hint": "Two completed events, one following the other.",
+      "explanation": "<strong>Answer: went off / lit</strong><br>Two completed events, one following the other. "
+    },
+    {
+      "question": "I can't remember how to answer this question. I must confess that I ___ while the teacher ___ it to us.",
+      "options": [
+        "didn't listen / explained",
+        "wasn't listening / was explaining",
+        "didn't listen / explaineding",
+        "wasn't listening / was explained"
+      ],
+      "correctAnswer": 1,
+      "hint": "Two activities going on over the same period.",
+      "explanation": "<strong>Answer: wasn't listening / was explaining</strong><br>Two activities going on over the same period. The past continuous describes an action in progress at a specific past moment. It provides the background context, while the past simple describes the completed events that happened against that background."
+    },
+    {
+      "question": "She ___ more salt to the soup, and then it ___ much better.",
+      "options": [
+        "was adding / was tasting",
+        "added / tasted",
+        "was adding / was tasted",
+        "added / tasteding"
+      ],
+      "correctAnswer": 1,
+      "hint": "Two completed events in sequence.",
+      "explanation": "<strong>Answer: added / tasted</strong><br>The past simple is used for both actions when they are completed events that happened one after the other in sequence. The order is clear from the context."
+    },
+    {
+      "question": "Although the television was on, I ___ it. Instead I ___ about my holidays.",
+      "options": [
+        "didn't watch / dreamt",
+        "wasn't watching / was dreaming",
+        "didn't watch / dreamting",
+        "wasn't watching / was dreamed"
+      ],
+      "correctAnswer": 1,
+      "hint": "Two continuous background activities.",
+      "explanation": "<strong>Answer: wasn't watching / was dreaming</strong><br>The past continuous sets the background scene for a narrative. It describes what was already happening when the main events (past simple) occurred. The past continuous creates the context; the past simple moves the story forward."
+    },
+    {
+      "question": "She ___ open the door and ___ into the room.",
+      "options": [
+        "was pushing / was running",
+        "pushed / ran",
+        "had been pushing / had been running",
+        "is pushing / was running"
+      ],
+      "correctAnswer": 1,
+      "hint": "Completed sequential actions.",
+      "explanation": "<strong>Answer: pushed / ran</strong><br>Use the past simple for a series of completed sequential actions in the past. Each action is finished before the next begins. No perfect tense is needed when the sequence is clear from the narrative."
+    }
+  ]
+}

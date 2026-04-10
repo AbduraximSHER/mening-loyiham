@@ -1,0 +1,395 @@
+{
+  "id": 10,
+  "title": "Present simple and present continuous for the future",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Present simple for fixed future events",
+      "content": "\n            <div class=\"web-text\"><strong>Present simple</strong></div>\n            <div class=\"web-text\">We can often use either the present simple or <strong>will</strong> to talk about future events that are part of some timetabled or programmed arrangement or routine. However, we prefer the present simple for fixed, unchangeable events. Compare:</div>\n            <div class=\"web-example\">\n                <span>• <strong>Does</strong> the sale <strong>finish</strong> on Thursday or Friday? (<em>or</em> Will the sale finish …?) <em>and</em></span>\n            </div>\n            <div class=\"web-example\">\n                <span>• The sun <strong>rises</strong> at 5:16 tomorrow. (<em>more likely than</em> The sun will rise …)</span>\n            </div>\n            <div class=\"web-text\">We avoid the present simple when we talk about less formal or less routine arrangements, or predictions. Instead we use <strong>will</strong>, <strong>be going to</strong>, or the present continuous:</div>\n            <div class=\"web-example\">\n                <span>• <strong>Are</strong> you <strong>staying</strong> in to watch TV tonight, or are you <strong>coming</strong> dancing? (<em>not</em> Do you stay to watch TV tonight, or do you come…)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• It's only a problem in Britain now, but it <strong>will affect</strong> the rest of Europe soon. (<em>not</em> … but it affects the rest of Europe soon.)</span>\n            </div>\n        "
+    },
+    {
+      "id": "B",
+      "title": "Present simple in time and conditional clauses",
+      "content": "\n            <div class=\"web-text\">We use the present simple, not <strong>will</strong>, to refer to the future –</div>\n            <div class=\"web-text\">☆ in time clauses with conjunctions such as <strong>after</strong>, <strong>as soon as</strong>, <strong>before</strong>, <strong>by the time</strong>, <strong>when</strong>, <strong>while</strong>, <strong>until</strong>:</div>\n            <div class=\"web-example\">\n                <span>• <em>When</em> you <strong>see</strong> Ben, tell him he still owes me some money. (<em>not</em> When you will see Ben …)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• I should be finished <em>by the time</em> you <strong>get</strong> back. (<em>not</em> … by the time you will get back.)</span>\n            </div>\n            <div class=\"web-text\">☆ in real conditional clauses with <strong>if</strong>, <strong>in case</strong>, <strong>provided</strong>, and <strong>unless</strong>:</div>\n            <div class=\"web-example\">\n                <span>• <em>Provided</em> the right software <strong>is</strong> available, I should be able to solve the problem.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• I'll bring some sandwiches <em>in case</em> we <strong>don't find</strong> anywhere decent to eat.</span>\n            </div>\n            <div class=\"web-text\">☆ when we talk about possible future events with <strong>suppose</strong>, <strong>supposing</strong>, and <strong>what if</strong>:</div>\n            <div class=\"web-example\">\n                <span>• <em>Suppose</em> we <strong>miss</strong> the bus – how will we get home? (<em>or</em> Suppose we missed …)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <em>What if</em> the train'<strong>s</strong> late? Where shall I meet you then? (<em>or</em> What if the train was late?)</span>\n            </div>\n        "
+    },
+    {
+      "id": "C",
+      "title": "Present continuous for planned future events",
+      "content": "\n            <div class=\"web-text\"><strong>Present continuous</strong></div>\n            <div class=\"web-text\">We can often use either the present continuous or <strong>be going to</strong> with a similar meaning to talk about planned future events. The present continuous indicates a firm intention or definite decision, though it may not already be arranged:</div>\n            <div class=\"web-example\">\n                <span>• <strong>Are</strong> you <strong>seeing</strong> the doctor again next week? (<em>or</em> Are you <strong>going to see</strong> …?)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• I'<strong>m not asking</strong> Tom to the party. (<em>or</em> I'<strong>m not going to ask</strong> …)</span>\n            </div>\n            <div class=\"web-text\">However, we don't use the present continuous for the future –</div>\n            <div class=\"web-text\">☆ when we make or report predictions about activities or events over which we have no control:</div>\n            <div class=\"web-example\">\n                <span>• I think it'<strong>s going to rain</strong> soon.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• Scientists say that the satellite <strong>won't cause</strong> any damage when it falls to Earth.</span>\n            </div>\n            <div class=\"web-text\">☆ when we talk about permanent future situations:</div>\n            <div class=\"web-example\">\n                <span>• People <strong>are going to live</strong> / <strong>will live</strong> longer in the future.</span>\n            </div>\n        "
+    },
+    {
+      "id": "D",
+      "title": "Avoiding be going to + go/come",
+      "content": "\n            <div class=\"web-text\">Many people avoid <strong>be going to</strong> + <strong>go</strong> / <strong>come</strong> and use the present continuous forms instead:</div>\n            <div class=\"web-example\">\n                <span>• I'<strong>m going</strong> to town on Saturday. (<em>rather than</em> I'm going to go to town …)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>Are</strong> you <strong>coming</strong> home for lunch? (<em>rather than</em> Are you going to come …?)</span>\n            </div>\n        "
+    }
+  ],
+  "exercises": [
+    {
+      "question": "We ___ our exam results on the 20th August.",
+      "options": [
+        "will get",
+        "get",
+        "are getting",
+        "are going to get"
+      ],
+      "correctAnswer": 0,
+      "hint": "Not a fixed timetable — use will (uncertain/expected result).",
+      "explanation": "<strong>Answer: will get</strong><br>Use <em>will</em> rather than the present simple because this is not a fixed, institutionally scheduled event. Present simple is reserved for timetables and programmes (trains, shows, official fixtures). Anticipated or expected dates — like exam results or drug launches — take <em>will</em>."
+    },
+    {
+      "question": "Alex ___ our cats while we're away next week.",
+      "options": [
+        "will look after",
+        "looks after",
+        "is going to look after",
+        "look after"
+      ],
+      "correctAnswer": 0,
+      "hint": "Personal arrangement, not a programmed fixture — use will.",
+      "explanation": "<strong>Answer: will look after</strong><br>Use <em>will</em> rather than the present simple because this is not a fixed, institutionally scheduled event. Present simple is reserved for timetables and programmes (trains, shows, official fixtures). Anticipated or expected dates — like exam results or drug launches — take <em>will</em>."
+    },
+    {
+      "question": "I think I'll take an umbrella in case it ___.",
+      "options": [
+        "rains",
+        "will rain",
+        "is raining",
+        "is going to rain"
+      ],
+      "correctAnswer": 0,
+      "hint": "In case + conditional clause → present simple.",
+      "explanation": "<strong>Answer: rains</strong><br>After 'in case', 'when', 'before', 'after', 'until', and other time/conditional conjunctions, use the present simple to refer to future events. Do not use 'will' in these subordinate clauses."
+    },
+    {
+      "question": "There is a reading list to accompany my lecture, which I ___ at the end.",
+      "options": [
+        "will read",
+        "read",
+        "am reading",
+        "am going to read"
+      ],
+      "correctAnswer": 0,
+      "hint": "Not a fixed timetable — use will.",
+      "explanation": "<strong>Answer: will read</strong><br>Use <em>will</em> rather than the present simple because this is not a fixed, institutionally scheduled event. Present simple is reserved for timetables and programmes (trains, shows, official fixtures). Anticipated or expected dates — like exam results or drug launches — take <em>will</em>."
+    },
+    {
+      "question": "The new drug ___ on sale in the USA next year.",
+      "options": [
+        "will start",
+        "starts",
+        "is starting",
+        "is going to start"
+      ],
+      "correctAnswer": 0,
+      "hint": "Not a fixed programme — use will.",
+      "explanation": "<strong>Answer: will start</strong><br>Use <em>will</em> rather than the present simple because this is not a fixed, institutionally scheduled event. Present simple is reserved for timetables and programmes (trains, shows, official fixtures). Anticipated or expected dates — like exam results or drug launches — take <em>will</em>."
+    },
+    {
+      "type": "fill",
+      "question": "The last train to Edinburgh ___ (leave) at 23:45.",
+      "answer": "leaves",
+      "hint": "Fixed timetable event → present simple for scheduled future.",
+      "explanation": "<strong>Answer: leaves</strong><br>Use the present simple for scheduled, timetabled events (transport, cinema, programmes). These are fixed in advance and do not depend on personal intention."
+    },
+    {
+      "question": "The concert ___ at 7:30, not 7:15 as it says in the programme.",
+      "options": [
+        "plays",
+        "will play",
+        "is playing",
+        "is going to play"
+      ],
+      "correctAnswer": 0,
+      "hint": "Fixed, programmed, unchangeable event → present simple.",
+      "explanation": "<strong>Answer: plays</strong><br>Fixed, programmed, unchangeable event → present simple. "
+    },
+    {
+      "question": "Provided it ___ raining, we'll go for a walk this afternoon.",
+      "options": [
+        "stops",
+        "will stop",
+        "is stopping",
+        "stopped"
+      ],
+      "correctAnswer": 0,
+      "hint": "Provided (conditional clause) → present simple.",
+      "explanation": "<strong>Answer: stops</strong><br>Provided (conditional clause) → present simple. "
+    },
+    {
+      "question": "What if I ___ my plans and decide to stay longer?",
+      "options": [
+        "change",
+        "will change",
+        "am changing",
+        "am going to change"
+      ],
+      "correctAnswer": 0,
+      "hint": "What if (hypothetical future clause) → present simple.",
+      "explanation": "<strong>Answer: change</strong><br>What if (hypothetical future clause) → present simple. "
+    },
+    {
+      "question": "We ___ Mariam when she leaves, but she says she'll keep in touch.",
+      "options": [
+        "will miss",
+        "miss",
+        "are missing",
+        "are going to miss"
+      ],
+      "correctAnswer": 0,
+      "hint": "Prediction (can't arrange missing someone) → will.",
+      "explanation": "<strong>Answer: will miss</strong><br>Use <em>will</em> for feelings about the future — predictions about emotions or states. These cannot be \"arranged\" like appointments, so the present continuous is not used. <em>Will miss</em> expresses a natural prediction about a future emotional state."
+    },
+    {
+      "question": "Unless my parents ___ me some money, I won't be able to go on holiday this year.",
+      "options": [
+        "lend",
+        "will lend",
+        "are lending",
+        "are going to lend"
+      ],
+      "correctAnswer": 0,
+      "hint": "Unless (conditional clause) → present simple.",
+      "explanation": "<strong>Answer: lend</strong><br>In conditional clauses with 'unless', 'if', 'when', 'before', 'after', and 'until', use the present simple to refer to future events. The future tense ('will') belongs in the main clause, not the subordinate clause."
+    },
+    {
+      "type": "fill",
+      "question": "I ___ (meet) the director tomorrow at 10am. It's in my diary.",
+      "answer": "am meeting",
+      "acceptable": [
+        "'m meeting"
+      ],
+      "hint": "Personal arrangement in the diary → present continuous for future.",
+      "explanation": "<strong>Answer: am meeting</strong><br>Use the present continuous for personal arrangements and appointments — things that have been organised in advance between people. 'It's in my diary' confirms it's a personal plan."
+    },
+    {
+      "question": "Tonight France ___ Germany in a match important for both teams.",
+      "options": [
+        "gives out",
+        "will give out",
+        "is giving out",
+        "is going to give out"
+      ],
+      "correctAnswer": 0,
+      "hint": "Fixed scheduled sporting fixture → present simple.",
+      "explanation": "<strong>Answer: gives out</strong><br>Fixed scheduled sporting fixture → present simple. "
+    },
+    {
+      "question": "It is unlikely that the government ___ the court's decision.",
+      "options": [
+        "will accept",
+        "accepts",
+        "is accepting",
+        "is going to accept"
+      ],
+      "correctAnswer": 0,
+      "hint": "Prediction ('it is unlikely') → will.",
+      "explanation": "<strong>Answer: will accept</strong><br>After evaluative phrases like <em>it is unlikely that</em>, <em>I doubt</em>, or <em>it is probable that</em>, use <em>will</em> in the following clause. These phrases introduce future predictions framed by the speaker's assessment."
+    },
+    {
+      "question": "Supposing I ___ to upload a video to YouTube? How do I do that?",
+      "options": [
+        "want",
+        "will want",
+        "am wanting",
+        "am going to want"
+      ],
+      "correctAnswer": 0,
+      "hint": "Supposing (hypothetical future) → present simple.",
+      "explanation": "<strong>Answer: want</strong><br>Supposing (hypothetical future) → present simple. "
+    },
+    {
+      "question": "By the time you ___ this letter, I should be in New Zealand.",
+      "options": [
+        "get",
+        "will get",
+        "are getting",
+        "are going to get"
+      ],
+      "correctAnswer": 0,
+      "hint": "By the time (time clause) → present simple.",
+      "explanation": "<strong>Answer: get</strong><br>'By the time' introduces a time clause and is followed by the present simple for future reference. The main clause typically uses the future perfect ('will have + past participle') to show completion before that point."
+    },
+    {
+      "question": "It's not a deep cut, but it ___ a scar. (Which is WRONG?)",
+      "options": [
+        "will leave ✓",
+        "is going to leave ✓",
+        "is leaving ✗ (wrong — can't arrange a scar)",
+        "will leave ✓ing"
+      ],
+      "correctAnswer": 2,
+      "hint": "You can't arrange or control forming a scar → present continuous is wrong.",
+      "explanation": "<strong>Answer: is leaving ✗ (wrong — can't arrange a scar)</strong><br>You can't arrange or control forming a scar → present continuous is wrong. The present continuous shows that the action is temporary or in progress now. Look for context signals: <em>at the moment</em>, <em>currently</em>, <em>today</em>, or a sense of ongoing change or temporary situation."
+    },
+    {
+      "type": "fill",
+      "question": "The exhibition ___ on the 15th — please arrive on time.",
+      "answer": "opens",
+      "hint": "Fixed, scheduled institutional event → present simple.",
+      "explanation": "<strong>Answer: opens</strong><br>Scheduled institutional events (exhibitions, shows, performances) use the present simple to refer to the future. The date is fixed on a timetable — this is the same pattern as 'The train leaves at 9am'."
+    },
+    {
+      "question": "Did you know I ___ a new car next week? (Which is WRONG?)",
+      "options": [
+        "will buy ✗ (unlikely — it's arranged)",
+        "am going to buy ✓",
+        "am buying ✓",
+        "will buy ✗ (unlikely — it's arranged)ing"
+      ],
+      "correctAnswer": 0,
+      "hint": "An arranged plan — will suggests an impulsive decision, which seems unlikely here.",
+      "explanation": "<strong>Answer: will buy ✗ (unlikely — it's arranged)</strong><br>After evaluative phrases like <em>it is unlikely that</em>, <em>I doubt</em>, or <em>it is probable that</em>, use <em>will</em> in the following clause. These phrases introduce future predictions framed by the speaker's assessment."
+    },
+    {
+      "question": "A: We can take you. We ___ you up at eight. (Which is WRONG?)",
+      "options": [
+        "will pick ✓ (spontaneous offer)",
+        "are going to pick ✓",
+        "are picking ✗ (not yet arranged)",
+        "is going to pick ✓"
+      ],
+      "correctAnswer": 2,
+      "hint": "No prior arrangement — present continuous implies it's already fixed, which it isn't.",
+      "explanation": "<strong>Answer: are picking ✗ (not yet arranged)</strong><br>The present continuous is used for fixed personal arrangements — plans agreed and settled in advance with other people, typically recorded in a diary. The arrangement exists now as a present fact, even though the event is in the future."
+    },
+    {
+      "question": "I'm sorry I can't come for dinner. I ___ to York tonight. (Which is WRONG?)",
+      "options": [
+        "will drive ✗ (unlikely — it's arranged)",
+        "am going to drive ✓",
+        "am driving ✓",
+        "will drive ✗ (unlikely — it's arranged)ing"
+      ],
+      "correctAnswer": 0,
+      "hint": "An arranged plan to go to York → will is unlikely here.",
+      "explanation": "<strong>Answer: will drive ✗ (unlikely — it's arranged)</strong><br>After evaluative phrases like <em>it is unlikely that</em>, <em>I doubt</em>, or <em>it is probable that</em>, use <em>will</em> in the following clause. These phrases introduce future predictions framed by the speaker's assessment."
+    },
+    {
+      "question": "The high-speed rail link ___ the journey time significantly. (Which is WRONG?)",
+      "options": [
+        "will cut ✓",
+        "is going to cut ✓",
+        "is cutting ✗ (not an arranged event)",
+        "would cut ✓"
+      ],
+      "correctAnswer": 2,
+      "hint": "Can't arrange a rail link cutting journey time → present continuous is wrong.",
+      "explanation": "<strong>Answer: is cutting ✗ (not an arranged event)</strong><br>Can't arrange a rail link cutting journey time → present continuous is wrong. The present continuous shows that the action is temporary or in progress now. Look for context signals: <em>at the moment</em>, <em>currently</em>, <em>today</em>, or a sense of ongoing change or temporary situation."
+    },
+    {
+      "question": "I have to go now. I ___ you back later today. (Which is WRONG?)",
+      "options": [
+        "will call ✓ (spontaneous promise)",
+        "am going to call ✗ (implies prior plan)",
+        "am calling ✗ (not arranged)",
+        "will call ✓ (spontaneous promise)ing"
+      ],
+      "correctAnswer": 2,
+      "hint": "Calling back is a spontaneous promise at the moment of speaking → will.",
+      "explanation": "<strong>Answer: am calling ✗ (not arranged)</strong><br>The present continuous describes a temporary action or situation in progress around the present moment. The key signals here are words like <em>at the moment</em>, <em>today</em>, <em>currently</em>, or <em>right now</em>. Compare with the present simple, which describes permanent facts or habitual actions."
+    },
+    {
+      "type": "fill",
+      "question": "The exhibition runs from the 15th and ___ on the 30th.",
+      "answer": "closes",
+      "hint": "Fixed schedule end date → present simple.",
+      "explanation": "<strong>Answer: closes</strong><br>Both the opening and closing of the exhibition are fixed on an institutional timetable. Use the present simple for future events that are scheduled and will not change: opens, closes, starts, ends, departs, arrives."
+    },
+    {
+      "question": "Don't go out now. I ___ lunch in a moment. (Which is WRONG?)",
+      "options": [
+        "will serve ✗",
+        "am going to serve ✓",
+        "am serving ✓ (imminent arrangement)",
+        "is going to serve ✓"
+      ],
+      "correctAnswer": 0,
+      "hint": "Serving is about to happen — present continuous or be going to, not will.",
+      "explanation": "<strong>Answer: will serve ✗</strong><br>Serving is about to happen — present continuous or be going to, not will. Use <em>will</em> here — this is neither a fixed timetable event (which would take the present simple) nor a pre-planned personal arrangement (which would take the present continuous or <em>be going to</em>)."
+    },
+    {
+      "question": "Unless help arrives within the next few days, thousands ___. (Which is WRONG?)",
+      "options": [
+        "will starve ✓",
+        "are going to starve ✓",
+        "are starving ✗ (can't arrange starvation)",
+        "is going to starve ✓"
+      ],
+      "correctAnswer": 2,
+      "hint": "Prediction of uncontrolled future event → present continuous is wrong.",
+      "explanation": "<strong>Answer: are starving ✗ (can't arrange starvation)</strong><br>Prediction of uncontrolled future event → present continuous is wrong. The present continuous shows that the action is temporary or in progress now. Look for context signals: <em>at the moment</em>, <em>currently</em>, <em>today</em>, or a sense of ongoing change or temporary situation."
+    },
+    {
+      "question": "Simon Bianchi ___ us for dinner, the novelist.",
+      "options": [
+        "is going to join",
+        "will join",
+        "joins",
+        "is joining"
+      ],
+      "correctAnswer": 0,
+      "hint": "Previously arranged plan → be going to.",
+      "explanation": "<strong>Answer: is going to join</strong><br>Previously arranged plan → be going to. The present continuous shows that the action is temporary or in progress now. Look for context signals: <em>at the moment</em>, <em>currently</em>, <em>today</em>, or a sense of ongoing change or temporary situation."
+    },
+    {
+      "question": "I'm sure you ___ him.",
+      "options": [
+        "will like",
+        "are going to like",
+        "like",
+        "are liking"
+      ],
+      "correctAnswer": 0,
+      "hint": "Prediction based on opinion → will.",
+      "explanation": "<strong>Answer: will like</strong><br>Use <em>will</em> for general predictions based on opinion, knowledge, or experience — not on present visible evidence. When there is present physical evidence (dark clouds, someone is about to fall), use <em>be going to</em> instead."
+    },
+    {
+      "question": "His latest book ___ (come) out at the end of this week.",
+      "options": [
+        "is coming",
+        "will come",
+        "comes",
+        "is going to come"
+      ],
+      "correctAnswer": 0,
+      "hint": "Firm arrangement/schedule → present continuous.",
+      "explanation": "<strong>Answer: is coming</strong><br>The present continuous is used for fixed personal arrangements — plans agreed and settled in advance with other people, typically recorded in a diary. The arrangement exists now as a present fact, even though the event is in the future."
+    },
+    {
+      "question": "Have you heard that BWM ___ 300 workers?",
+      "options": [
+        "is going to sack",
+        "will sack",
+        "sacks",
+        "is sacking"
+      ],
+      "correctAnswer": 0,
+      "hint": "Known plan/prior decision → be going to.",
+      "explanation": "<strong>Answer: is going to sack</strong><br>Known plan/prior decision → be going to. The present continuous shows that the action is temporary or in progress now. Look for context signals: <em>at the moment</em>, <em>currently</em>, <em>today</em>, or a sense of ongoing change or temporary situation."
+    },
+    {
+      "question": "Supposing they ___ completely — that would be awful.",
+      "options": [
+        "close",
+        "will close",
+        "are closing",
+        "are going to close"
+      ],
+      "correctAnswer": 0,
+      "hint": "Supposing + hypothetical future clause → present simple.",
+      "explanation": "<strong>Answer: close</strong><br>Supposing + hypothetical future clause → present simple. "
+    },
+    {
+      "question": "I've heard that they ___ a new factory in Ireland.",
+      "options": [
+        "are going to build",
+        "will build",
+        "build",
+        "are building"
+      ],
+      "correctAnswer": 0,
+      "hint": "Known prior plan → be going to.",
+      "explanation": "<strong>Answer: are going to build</strong><br>Known prior plan → be going to. The present continuous shows that the action is temporary or in progress now. Look for context signals: <em>at the moment</em>, <em>currently</em>, <em>today</em>, or a sense of ongoing change or temporary situation."
+    }
+  ]
+}

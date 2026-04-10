@@ -1,0 +1,119 @@
+{
+  "id": 53,
+  "title": "Relationships and Social Life",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Types of relationships",
+      "content": "<div class=\"web-text\">Advanced vocabulary helps describe the complexity of human connections:</div><div class=\"web-example\"><span>• <strong>acquaintance</strong> — someone you know slightly. <em>He's not a close friend, just an acquaintance.</em></span></div><div class=\"web-example\"><span>• <strong>confidant</strong> — a trusted person you share secrets with. <em>My sister has always been my closest confidant.</em></span></div><div class=\"web-example\"><span>• <strong>mentor</strong> — an experienced advisor. <em>She found a great mentor in her first year at work.</em></span></div><div class=\"web-example\"><span>• <strong>rival</strong> — a competitor. <em>The two companies have been rivals for decades.</em></span></div><div class=\"web-example\"><span>• <strong>ally</strong> — a supportive partner or friend. <em>Having strong allies at work makes difficult projects manageable.</em></span></div>"
+    },
+    {
+      "id": "B",
+      "title": "Describing bonds",
+      "content": "<div class=\"web-text\">The strength and nature of relationships can be expressed precisely:</div><div class=\"web-example\"><span>• <strong>inseparable</strong> — always together. <em>The twins were inseparable throughout childhood.</em></span></div><div class=\"web-example\"><span>• <strong>estranged</strong> — no longer close, especially family. <em>He's been estranged from his father for years.</em></span></div><div class=\"web-example\"><span>• <strong>devoted</strong> — very loving and loyal. <em>She was a devoted mother who sacrificed everything.</em></span></div><div class=\"web-example\"><span>• <strong>mutual</strong> — shared by both sides. <em>Their mutual respect made the partnership successful.</em></span></div><div class=\"web-example\"><span>• <strong>platonic</strong> — close but not romantic. <em>They maintained a purely platonic friendship.</em></span></div>"
+    },
+    {
+      "id": "C",
+      "title": "Social interactions",
+      "content": "<div class=\"web-text\">How we interact socially can be described in nuanced ways:</div><div class=\"web-example\"><span>• <strong>bond with</strong> — form a close connection. <em>She quickly bonded with her new colleagues.</em></span></div><div class=\"web-example\"><span>• <strong>fall out with</strong> — have a disagreement that damages a relationship. <em>He fell out with his business partner over money.</em></span></div><div class=\"web-example\"><span>• <strong>confide in</strong> — trust someone with personal information. <em>I only confide in people I truly trust.</em></span></div><div class=\"web-example\"><span>• <strong>drift apart</strong> — gradually become less close. <em>After university, many friends drift apart.</em></span></div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "A person you know slightly but who isn't a close friend is an:",
+      "options": [
+        "ally",
+        "adversary",
+        "confidant",
+        "acquaintance"
+      ],
+      "correctAnswer": 3,
+      "hint": "Not quite a friend, but you recognise them.",
+      "explanation": "An <strong>acquaintance</strong> is someone you know slightly but not well."
+    },
+    {
+      "question": "If two people gradually become less close over time, they:",
+      "options": [
+        "drift apart",
+        "fall out",
+        "subordinate",
+        "bond with"
+      ],
+      "correctAnswer": 0,
+      "hint": "It happens slowly and naturally.",
+      "explanation": "<strong>Drift apart</strong> means to slowly become more distant from someone."
+    },
+    {
+      "question": "A friendship that is close but NOT romantic is described as:",
+      "options": [
+        "accomplice",
+        "inseparable",
+        "platonic",
+        "devoted"
+      ],
+      "correctAnswer": 2,
+      "hint": "Think about friendship without romance.",
+      "explanation": "<strong>Platonic</strong> describes a relationship that is intimate and affectionate but not sexual."
+    },
+    {
+      "question": "Someone who is no longer in contact with a family member is:",
+      "options": [
+        "estranged",
+        "supervisor",
+        "devoted",
+        "inseparable"
+      ],
+      "correctAnswer": 0,
+      "hint": "A negative situation in families.",
+      "explanation": "<strong>Estranged</strong> means no longer close to someone, especially a family member."
+    },
+    {
+      "question": "To share personal secrets with someone you trust is to:",
+      "options": [
+        "adversary",
+        "confide in",
+        "drift apart from",
+        "bond with"
+      ],
+      "correctAnswer": 1,
+      "hint": "It requires deep trust.",
+      "explanation": "<strong>Confide in</strong> means to tell someone about secret or private matters, trusting them."
+    },
+    {
+      "question": "A trusted person who gives you guidance based on experience is a:",
+      "options": [
+        "rival",
+        "mentor",
+        "peer",
+        "ally"
+      ],
+      "correctAnswer": 1,
+      "hint": "They help you develop professionally.",
+      "explanation": "A <strong>mentor</strong> is an experienced and trusted adviser."
+    },
+    {
+      "question": "If respect or admiration is shared by both people, it is:",
+      "options": [
+        "benefactor",
+        "colleague",
+        "mutual",
+        "devoted"
+      ],
+      "correctAnswer": 2,
+      "hint": "Both sides feel the same way.",
+      "explanation": "<strong>Mutual</strong> means experienced or done by each of two or more parties toward the other."
+    },
+    {
+      "question": "To have a serious disagreement that harms a relationship is to:",
+      "options": [
+        "bond with",
+        "fall out with",
+        "subordinate",
+        "drift apart from"
+      ],
+      "correctAnswer": 1,
+      "hint": "It's a sudden conflict, not gradual.",
+      "explanation": "<strong>Fall out with</strong> means to have a quarrel or disagreement with someone."
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "id": 67,
+  "title": "Formal and Informal Register",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Formal equivalents",
+      "content": "<div class=\"web-text\">Choosing the right level of formality is crucial in advanced English:</div><div class=\"web-example\"><span>• <strong>assist</strong> (formal) vs <strong>help</strong> (neutral). <em>We are here to assist you with any enquiries.</em></span></div><div class=\"web-example\"><span>• <strong>commence</strong> (formal) vs <strong>start/begin</strong> (neutral). <em>The ceremony will commence at 10 a.m.</em></span></div><div class=\"web-example\"><span>• <strong>reside</strong> (formal) vs <strong>live</strong> (neutral). <em>She resides in the capital.</em></span></div><div class=\"web-example\"><span>• <strong>terminate</strong> (formal) vs <strong>end</strong> (neutral). <em>The contract was terminated due to a breach.</em></span></div><div class=\"web-example\"><span>• <strong>endeavour</strong> (formal) vs <strong>try</strong> (neutral). <em>We shall endeavour to resolve this promptly.</em></span></div>"
+    },
+    {
+      "id": "B",
+      "title": "Informal expressions",
+      "content": "<div class=\"web-text\">Informal language sounds natural in casual conversation:</div><div class=\"web-example\"><span>• <strong>kids</strong> (informal) vs <strong>children</strong> (neutral). <em>The kids are playing outside.</em></span></div><div class=\"web-example\"><span>• <strong>loads of</strong> (informal) vs <strong>a great deal of</strong> (formal). <em>There were loads of people at the party.</em></span></div><div class=\"web-example\"><span>• <strong>grab</strong> (informal) vs <strong>obtain</strong> (formal). <em>Let's grab a coffee after class.</em></span></div><div class=\"web-example\"><span>• <strong>fed up with</strong> (informal) vs <strong>dissatisfied with</strong> (formal). <em>I'm fed up with waiting in queues.</em></span></div><div class=\"web-example\"><span>• <strong>figure out</strong> (informal) vs <strong>determine</strong> (formal). <em>We need to figure out what went wrong.</em></span></div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "Which is the FORMAL equivalent of 'start'?",
+      "options": [
+        "get going",
+        "begin",
+        "kick off",
+        "commence"
+      ],
+      "correctAnswer": 3,
+      "hint": "Used in official contexts.",
+      "explanation": "<strong>Commence</strong> is the formal way to say 'start' or 'begin'."
+    },
+    {
+      "question": "Which is the INFORMAL way to say 'obtain'?",
+      "options": [
+        "grab",
+        "acquire",
+        "receive",
+        "procure"
+      ],
+      "correctAnswer": 0,
+      "hint": "Very casual, everyday English.",
+      "explanation": "<strong>Grab</strong> is the informal equivalent of 'obtain' or 'get'."
+    },
+    {
+      "question": "'Reside' is the formal equivalent of:",
+      "options": [
+        "stay",
+        "live",
+        "work",
+        "visit"
+      ],
+      "correctAnswer": 1,
+      "hint": "Where someone's permanent home is.",
+      "explanation": "<strong>Reside</strong> is the formal way to say 'live' in a particular place."
+    },
+    {
+      "question": "Which INFORMAL phrase means 'dissatisfied with'?",
+      "options": [
+        "fed up with",
+        "pleased with",
+        "resigned to",
+        "content with"
+      ],
+      "correctAnswer": 0,
+      "hint": "You're frustrated and tired of something.",
+      "explanation": "<strong>Fed up with</strong> is the informal expression for being dissatisfied or annoyed."
+    },
+    {
+      "question": "The formal word for 'try' is:",
+      "options": [
+        "have a go",
+        "attempt",
+        "endeavour",
+        "give it a shot"
+      ],
+      "correctAnswer": 2,
+      "hint": "Very formal, used in business letters.",
+      "explanation": "<strong>Endeavour</strong> is a very formal word meaning to try hard to achieve something."
+    },
+    {
+      "question": "'Loads of' is the informal way of saying:",
+      "options": [
+        "none of",
+        "a great deal of",
+        "a few",
+        "some of"
+      ],
+      "correctAnswer": 1,
+      "hint": "It means a lot.",
+      "explanation": "<strong>Loads of</strong> is informal for 'a large amount of' or 'a great deal of'."
+    },
+    {
+      "question": "Which formal word means 'end' a contract?",
+      "options": [
+        "finish",
+        "terminate",
+        "wrap up",
+        "close down"
+      ],
+      "correctAnswer": 1,
+      "hint": "Official language for ending agreements.",
+      "explanation": "<strong>Terminate</strong> is the formal equivalent of 'end', especially for contracts."
+    },
+    {
+      "question": "The formal word for 'help' is:",
+      "options": [
+        "notify",
+        "aid",
+        "assist",
+        "lend a hand"
+      ],
+      "correctAnswer": 2,
+      "hint": "Common in customer service.",
+      "explanation": "<strong>Assist</strong> is the formal equivalent of 'help'."
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Page Not Found — GrammarHub</title>
+<meta property="og:type"        content="website">
+<meta property="og:site_name"   content="GrammarHub">
+<meta property="og:title"       content="Page Not Found - GrammarHub">
+<meta property="og:description" content="This page does not exist. Head back to GrammarHub and keep practising.">
+<meta property="og:url"         content="https://grammar-a7x.pages.dev/">
+<meta property="og:image"       content="https://grammar-a7x.pages.dev/og-image.svg">
+<meta name="twitter:card"       content="summary_large_image">
+<meta name="twitter:title"      content="Page Not Found - GrammarHub">
+<meta name="twitter:description" content="This page does not exist. Head back to GrammarHub and keep practising.">
+<meta name="twitter:image"      content="https://grammar-a7x.pages.dev/og-image.svg">
+<link rel="canonical"           href="https://grammar-a7x.pages.dev/">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📚</text></svg>">
+  <link rel="manifest" href="manifest.json">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/darkmode.css">
+  <style>
+    :root {
+      --primary: #6366F1;
+      --primary-dark: #4F46E5;
+      --text-main: #334155;
+      --text-light: #64748b;
+      --bg: #F7F5F0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Nunito Sans', sans-serif;
+      background: var(--bg);
+      color: var(--text-main);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 2rem;
+      text-align: center;
+    }
+    .error-code {
+      font-size: 8rem;
+      font-weight: 700;
+      background: linear-gradient(135deg, var(--primary-dark), var(--primary));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      line-height: 1;
+      margin-bottom: 0.5rem;
+    }
+    .error-emoji {
+      font-size: 4rem;
+      margin-bottom: 1rem;
+    }
+    h1 {
+      font-size: 1.5rem;
+      font-weight: 600;
+      margin-bottom: 0.75rem;
+      color: var(--text-main);
+    }
+    p {
+      color: var(--text-light);
+      font-size: 1.05rem;
+      max-width: 400px;
+      line-height: 1.7;
+      margin-bottom: 2rem;
+    }
+    .actions {
+      display: flex;
+      gap: 1rem;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .btn {
+      padding: 0.75rem 1.75rem;
+      border-radius: 10px;
+      font-weight: 600;
+      font-size: 1rem;
+      text-decoration: none;
+      transition: all 0.2s;
+      font-family: 'Nunito Sans', sans-serif;
+    }
+    .btn-primary {
+      background: var(--primary);
+      color: white;
+      border: none;
+    }
+    .btn-primary:hover { opacity: 0.9; transform: translateY(-1px); }
+    .btn-outline {
+      background: white;
+      color: var(--primary);
+      border: 2px solid var(--primary);
+    }
+    .btn-outline:hover { background: var(--bg); }
+    .suggestion {
+      margin-top: 3rem;
+      padding: 1.5rem;
+      background: white;
+      border-radius: 12px;
+      max-width: 400px;
+      border: 1px solid #e2e8f0;
+    }
+    .suggestion h3 {
+      font-size: 0.9rem;
+      color: var(--text-light);
+      margin-bottom: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+    .suggestion a {
+      display: block;
+      padding: 0.5rem 0;
+      color: var(--primary);
+      text-decoration: none;
+      font-weight: 500;
+      font-size: 0.95rem;
+    }
+    .suggestion a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <div class="error-emoji">🔍</div>
+  <div class="error-code">404</div>
+  <h1>Page not found</h1>
+  <p>The page you're looking for doesn't exist or has been moved. Let's get you back on track.</p>
+  
+  <div class="actions">
+    <a href="index.html" class="btn btn-primary">Go Home</a>
+    <a href="index.html" class="btn btn-outline">Dashboard</a>
+  </div>
+  
+  <div class="suggestion">
+    <h3>Maybe you were looking for:</h3>
+    <a href="advanced-grammar.html">📖 Grammar Course</a>
+    <a href="advanced-vocabulary.html">📚 Vocabulary Course</a>
+    <a href="index.html">📊 Your Dashboard</a>
+  </div>
+
+  <script>if("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(()=>{});</script>
+<script src="analytics.js?v=5"></script>
+</body>
+</html>

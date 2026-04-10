@@ -1,0 +1,114 @@
+{
+  "id": 68,
+  "title": "Expressing Opinions and Arguments",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Stating opinions",
+      "content": "<div class=\"web-text\">Advanced phrases for expressing what you think:</div><div class=\"web-example\"><span>• <strong>In my view</strong> — <em>In my view, education should be free for everyone.</em></span></div><div class=\"web-example\"><span>• <strong>I'm firmly convinced that</strong> — <em>I'm firmly convinced that technology improves learning.</em></span></div><div class=\"web-example\"><span>• <strong>It seems to me that</strong> — <em>It seems to me that the problem is communication.</em></span></div><div class=\"web-example\"><span>• <strong>From my perspective</strong> — <em>From my perspective, remote work has many benefits.</em></span></div><div class=\"web-example\"><span>• <strong>I tend to think that</strong> — <em>I tend to think that experience matters more than qualifications.</em></span></div>"
+    },
+    {
+      "id": "B",
+      "title": "Agreeing and disagreeing",
+      "content": "<div class=\"web-text\">Nuanced ways to agree or disagree:</div><div class=\"web-example\"><span>• <strong>I couldn't agree more</strong> — strong agreement. <em>I couldn't agree more — punctuality is essential.</em></span></div><div class=\"web-example\"><span>• <strong>That's a valid point</strong> — partial agreement. <em>That's a valid point, but we also need to consider the costs.</em></span></div><div class=\"web-example\"><span>• <strong>I see your point, however</strong> — polite disagreement. <em>I see your point; however, the data suggests otherwise.</em></span></div><div class=\"web-example\"><span>• <strong>With all due respect</strong> — formal disagreement. <em>With all due respect, I believe there's a better approach.</em></span></div><div class=\"web-example\"><span>• <strong>I beg to differ</strong> — firm but polite disagreement. <em>I beg to differ — the evidence clearly shows the opposite.</em></span></div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "Which phrase expresses the STRONGEST agreement?",
+      "options": [
+        "That's a valid point",
+        "I see your point",
+        "I couldn't agree more",
+        "I tend to think so"
+      ],
+      "correctAnswer": 2,
+      "hint": "Maximum agreement.",
+      "explanation": "<strong>I couldn't agree more</strong> expresses the strongest possible agreement."
+    },
+    {
+      "question": "'I beg to differ' is a polite way to:",
+      "options": [
+        "agree strongly",
+        "change the topic",
+        "ask a question",
+        "disagree firmly"
+      ],
+      "correctAnswer": 3,
+      "hint": "You respectfully don't agree.",
+      "explanation": "<strong>I beg to differ</strong> is a formal, polite way to firmly disagree."
+    },
+    {
+      "question": "Which phrase shows you partially agree but have reservations?",
+      "options": [
+        "With all due respect",
+        "That's a valid point, but...",
+        "contend",
+        "I beg to differ"
+      ],
+      "correctAnswer": 1,
+      "hint": "You accept some of it, not all.",
+      "explanation": "<strong>That's a valid point, but...</strong> shows partial agreement while introducing a counter-argument."
+    },
+    {
+      "question": "'With all due respect' is typically followed by:",
+      "options": [
+        "a disagreement",
+        "a question",
+        "a compliment",
+        "strong agreement"
+      ],
+      "correctAnswer": 0,
+      "hint": "It softens what comes next.",
+      "explanation": "<strong>With all due respect</strong> is used to politely preface a disagreement."
+    },
+    {
+      "question": "Which is the most tentative way to give your opinion?",
+      "options": [
+        "I tend to think",
+        "I strongly believe",
+        "corroborate",
+        "I'm firmly convinced"
+      ],
+      "correctAnswer": 0,
+      "hint": "The least forceful option.",
+      "explanation": "<strong>I tend to think</strong> is a cautious, tentative way of expressing an opinion."
+    },
+    {
+      "question": "'From my perspective' is closest in meaning to:",
+      "options": [
+        "In my view",
+        "It's a fact that",
+        "Everyone thinks",
+        "Objectively speaking"
+      ],
+      "correctAnswer": 0,
+      "hint": "Your personal viewpoint.",
+      "explanation": "<strong>From my perspective</strong> means 'as I see it' — similar to 'in my view'."
+    },
+    {
+      "question": "Which phrase introduces a polite counter-argument?",
+      "options": [
+        "advocate",
+        "I see your point, however",
+        "That's exactly right",
+        "I'm firmly convinced"
+      ],
+      "correctAnswer": 1,
+      "hint": "Acknowledging before disagreeing.",
+      "explanation": "<strong>I see your point, however</strong> acknowledges the other view before presenting a different one."
+    },
+    {
+      "question": "'I'm firmly convinced that' expresses:",
+      "options": [
+        "a strong belief",
+        "curiosity",
+        "uncertainty",
+        "partial agreement"
+      ],
+      "correctAnswer": 0,
+      "hint": "You're very sure about this.",
+      "explanation": "<strong>I'm firmly convinced</strong> means you hold a strong, definite belief."
+    }
+  ]
+}

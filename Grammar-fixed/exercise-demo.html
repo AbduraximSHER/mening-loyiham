@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Exercise Engine · Demo</title>
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/exercise-engine.css">
+<style>
+  body { background:#f0f4ff; margin:0; padding:20px 0 60px; }
+  .demo-wrap { max-width:640px; margin:0 auto; }
+  .demo-head { text-align:center; padding:20px; }
+  .demo-head h1 { font-family:'Outfit',sans-serif; font-size:1.8rem; margin:0 0 6px; }
+  .demo-head p { color:#6b5f52; font-family:'Outfit',sans-serif; margin:0; }
+  .demo-nav { display:flex; gap:8px; padding:0 20px 20px; flex-wrap:wrap; justify-content:center; }
+  .demo-nav button {
+    font:500 .9rem 'Outfit',sans-serif;
+    padding:10px 16px; border:2px solid #e8ecf4; background:#fff;
+    border-radius:10px; cursor:pointer; min-height:44px;
+  }
+  .demo-nav button.active { background:#7c5cfc; color:#fff; border-color:#7c5cfc; }
+  .demo-nav button:focus-visible { outline:3px solid #1a1a2e; outline-offset:2px; }
+  .demo-card {
+    background:#fff; border-radius:20px; padding:6px;
+    box-shadow:0 2px 16px rgba(0,0,0,.05);
+  }
+  .log {
+    margin-top:20px; padding:14px; background:#1a1a2e; color:#c3cfe8;
+    font-family:ui-monospace,monospace; font-size:.78rem; border-radius:12px;
+    min-height:50px;
+  }
+  .log b { color:#d4a82b; }
+</style>
+</head>
+<body>
+<div class="demo-wrap">
+  <div class="demo-head">
+    <h1>Exercise Engine</h1>
+    <p>Four exercise types, one module. Try each one.</p>
+  </div>
+
+  <div class="demo-nav" role="tablist" aria-label="Exercise types">
+    <button type="button" data-type="mcq" class="active">MCQ</button>
+    <button type="button" data-type="fill">Fill blank</button>
+    <button type="button" data-type="reorder">Reorder</button>
+    <button type="button" data-type="correct">Error correction</button>
+  </div>
+
+  <div id="host" class="demo-card"></div>
+
+  <div class="log" id="log" aria-live="polite">Result log — answer a question.</div>
+</div>
+
+<script src="exercise-engine.js"></script>
+<script>
+const samples = {
+  mcq: {
+    question: "She ___ to the gym every morning.",
+    options: ["go", "goes", "going", "gone"],
+    correctAnswer: 1,
+    hint: "Third-person singular needs an -s.",
+    explanation: "Use <strong>goes</strong> with he/she/it in the present simple."
+  },
+  fill: {
+    type: "fill",
+    question: "By the time we arrived, the film ___ already started.",
+    answer: "had",
+    acceptable: ["had already"],
+    hint: "Past perfect describes an action completed before another past action.",
+    explanation: "Past perfect = <strong>had</strong> + past participle."
+  },
+  reorder: {
+    type: "reorder",
+    prompt: "Put these words in order to form a correct sentence.",
+    tokens: ["been", "I", "waiting", "for", "have", "an hour"],
+    correctOrder: [1, 4, 0, 2, 3, 5],
+    hint: "Present perfect continuous: have been + -ing.",
+    explanation: "<strong>I have been waiting for an hour.</strong>"
+  },
+  correct: {
+    type: "correct",
+    sentence: "He don't likes to watching films on the weekend.",
+    correction: "He doesn't like to watch films on the weekend.",
+    acceptable: ["He doesn't like watching films on the weekend."],
+    hint: "Check the auxiliary, the main verb form, and the infinitive.",
+    explanation: "Two fixes: <strong>doesn't like</strong> (not <em>don't likes</em>) and <strong>to watch</strong> (not <em>to watching</em>)."
+  }
+};
+
+const host = document.getElementById('host');
+const log  = document.getElementById('log');
+const nav  = document.querySelectorAll('.demo-nav button');
+
+function load(type) {
+  nav.forEach(b => b.classList.toggle('active', b.dataset.type === type));
+  ExerciseEngine.render(samples[type], host, (result) => {
+    log.innerHTML =
+      `<b>[${type}]</b> correct: ${result.correct} · ` +
+      `answer: ${JSON.stringify(result.userAnswer)} · ` +
+      `time: ${result.timeSpentMs}ms`;
+  });
+}
+
+nav.forEach(b => b.addEventListener('click', () => load(b.dataset.type)));
+load('mcq');
+</script>
+</body>
+</html>

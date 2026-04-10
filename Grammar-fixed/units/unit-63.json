@@ -1,0 +1,119 @@
+{
+  "id": 63,
+  "title": "Travel and Exploration",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Travel experiences",
+      "content": "<div class=\"web-text\">Rich vocabulary for describing travel:</div><div class=\"web-example\"><span>• <strong>itinerary</strong> — a planned route or journey. <em>We prepared a detailed itinerary for our two-week trip.</em></span></div><div class=\"web-example\"><span>• <strong>excursion</strong> — a short journey for pleasure. <em>The hotel offers daily excursions to nearby islands.</em></span></div><div class=\"web-example\"><span>• <strong>trek</strong> — a long, difficult walk. <em>They completed a five-day trek through the Himalayas.</em></span></div><div class=\"web-example\"><span>• <strong>commute</strong> — regular travel between home and work. <em>Her daily commute takes about forty minutes by train.</em></span></div><div class=\"web-example\"><span>• <strong>jet lag</strong> — tiredness after crossing time zones. <em>It took three days to recover from the jet lag.</em></span></div>"
+    },
+    {
+      "id": "B",
+      "title": "Accommodation and logistics",
+      "content": "<div class=\"web-text\">Practical travel vocabulary:</div><div class=\"web-example\"><span>• <strong>amenities</strong> — useful features of a place. <em>The hotel offers excellent amenities including a pool and gym.</em></span></div><div class=\"web-example\"><span>• <strong>all-inclusive</strong> — a package that covers everything. <em>We booked an all-inclusive resort for a stress-free holiday.</em></span></div><div class=\"web-example\"><span>• <strong>layover</strong> — a stop during a journey. <em>We had a six-hour layover in Dubai airport.</em></span></div><div class=\"web-example\"><span>• <strong>customs</strong> — the place where luggage is checked at borders. <em>We had to declare items at customs upon arrival.</em></span></div><div class=\"web-example\"><span>• <strong>visa</strong> — official permission to enter a country. <em>You need a tourist visa to visit that country.</em></span></div>"
+    },
+    {
+      "id": "C",
+      "title": "Cultural travel",
+      "content": "<div class=\"web-text\">Words for cultural aspects of travel:</div><div class=\"web-example\"><span>• <strong>heritage</strong> — traditions and monuments from the past. <em>The city is a UNESCO World Heritage Site.</em></span></div><div class=\"web-example\"><span>• <strong>immerse</strong> — involve deeply in an activity or culture. <em>She immersed herself in the local culture during her stay.</em></span></div><div class=\"web-example\"><span>• <strong>cuisine</strong> — a style of cooking. <em>Italian cuisine is famous around the world.</em></span></div><div class=\"web-example\"><span>• <strong>souvenir</strong> — an object bought to remember a trip. <em>I bought a small ceramic plate as a souvenir.</em></span></div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "A detailed plan of your journey including places and times is an:",
+      "options": [
+        "itinerary",
+        "amenity",
+        "excursion",
+        "excursion"
+      ],
+      "correctAnswer": 0,
+      "hint": "Your travel schedule.",
+      "explanation": "An <strong>itinerary</strong> is a planned route or list of places to visit on a journey."
+    },
+    {
+      "question": "Tiredness caused by travelling across different time zones is:",
+      "options": [
+        "jet lag",
+        "destination",
+        "trek",
+        "quarantine"
+      ],
+      "correctAnswer": 0,
+      "hint": "Your body clock is confused.",
+      "explanation": "<strong>Jet lag</strong> is extreme tiredness felt after a long flight across time zones."
+    },
+    {
+      "question": "A stop between connecting flights is a:",
+      "options": [
+        "layover",
+        "excursion",
+        "visa",
+        "customs"
+      ],
+      "correctAnswer": 0,
+      "hint": "Waiting at an airport between flights.",
+      "explanation": "A <strong>layover</strong> is a period of rest or waiting during a journey, especially at an airport."
+    },
+    {
+      "question": "To deeply involve yourself in another culture is to:",
+      "options": [
+        "excursion",
+        "trek",
+        "expedition",
+        "immerse"
+      ],
+      "correctAnswer": 3,
+      "hint": "Going beyond surface-level tourism.",
+      "explanation": "To <strong>immerse</strong> means to involve oneself deeply in a particular activity or interest."
+    },
+    {
+      "question": "Useful features and services provided at a hotel are:",
+      "options": [
+        "amenities",
+        "customs",
+        "visas",
+        "souvenirs"
+      ],
+      "correctAnswer": 0,
+      "hint": "Pool, gym, Wi-Fi, etc.",
+      "explanation": "<strong>Amenities</strong> are desirable features or facilities of a building or place."
+    },
+    {
+      "question": "Your regular daily journey between home and work is your:",
+      "options": [
+        "excursion",
+        "indigenous",
+        "commute",
+        "trek"
+      ],
+      "correctAnswer": 2,
+      "hint": "You do it every working day.",
+      "explanation": "A <strong>commute</strong> is a regular journey between home and place of work."
+    },
+    {
+      "question": "The historical traditions and monuments of a place are its:",
+      "options": [
+        "amenity",
+        "heritage",
+        "souvenir",
+        "remote"
+      ],
+      "correctAnswer": 1,
+      "hint": "What has been passed down through history.",
+      "explanation": "<strong>Heritage</strong> refers to valued objects, traditions, and qualities passed down from previous generations."
+    },
+    {
+      "question": "A style of cooking associated with a particular country or region is:",
+      "options": [
+        "custom",
+        "souvenir",
+        "indigenous",
+        "cuisine"
+      ],
+      "correctAnswer": 3,
+      "hint": "Think about food culture.",
+      "explanation": "<strong>Cuisine</strong> is a style of cooking characteristic of a particular country or region."
+    }
+  ]
+}

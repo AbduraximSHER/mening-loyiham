@@ -1,0 +1,112 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "GrammarHub Unit",
+  "type": "object",
+  "required": ["id", "title", "sections", "exercises"],
+  "additionalProperties": false,
+  "properties": {
+    "id": { "type": "integer", "minimum": 1 },
+    "title": { "type": "string", "minLength": 1 },
+    "sections": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["id", "title", "content"],
+        "additionalProperties": false,
+        "properties": {
+          "id": { "type": "string", "minLength": 1 },
+          "title": { "type": "string", "minLength": 1 },
+          "content": { "type": "string", "minLength": 1 }
+        }
+      }
+    },
+    "exercises": {
+      "type": "array",
+      "items": {
+        "oneOf": [
+          { "$ref": "#/definitions/mcq" },
+          { "$ref": "#/definitions/fillBlank" },
+          { "$ref": "#/definitions/reorder" },
+          { "$ref": "#/definitions/errorCorrection" }
+        ]
+      }
+    }
+  },
+  "definitions": {
+    "mcq": {
+      "type": "object",
+      "required": ["question", "options", "correctAnswer"],
+      "properties": {
+        "type": { "const": "mcq" },
+        "question": { "type": "string", "minLength": 1 },
+        "options": {
+          "type": "array",
+          "minItems": 2,
+          "items": { "type": "string", "minLength": 1 }
+        },
+        "correctAnswer": { "type": "integer", "minimum": 0 },
+        "hint": { "type": "string" },
+        "explanation": { "type": "string" }
+      },
+      "additionalProperties": false
+    },
+    "fillBlank": {
+      "type": "object",
+      "required": ["type", "question", "answer"],
+      "properties": {
+        "type": { "const": "fill" },
+        "question": {
+          "type": "string",
+          "pattern": "___",
+          "description": "Use ___ (three underscores) to mark the blank."
+        },
+        "answer": { "type": "string", "minLength": 1 },
+        "acceptable": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Additional accepted answers (case-insensitive)."
+        },
+        "hint": { "type": "string" },
+        "explanation": { "type": "string" }
+      },
+      "additionalProperties": false
+    },
+    "reorder": {
+      "type": "object",
+      "required": ["type", "prompt", "tokens", "correctOrder"],
+      "properties": {
+        "type": { "const": "reorder" },
+        "prompt": { "type": "string", "minLength": 1 },
+        "tokens": {
+          "type": "array",
+          "minItems": 2,
+          "items": { "type": "string", "minLength": 1 }
+        },
+        "correctOrder": {
+          "type": "array",
+          "items": { "type": "integer", "minimum": 0 }
+        },
+        "hint": { "type": "string" },
+        "explanation": { "type": "string" }
+      },
+      "additionalProperties": false
+    },
+    "errorCorrection": {
+      "type": "object",
+      "required": ["type", "sentence", "correction"],
+      "properties": {
+        "type": { "const": "correct" },
+        "sentence": { "type": "string", "minLength": 1 },
+        "correction": { "type": "string", "minLength": 1 },
+        "acceptable": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "hint": { "type": "string" },
+        "explanation": { "type": "string" }
+      },
+      "additionalProperties": false
+    }
+  }
+}

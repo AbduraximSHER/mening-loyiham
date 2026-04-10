@@ -1,0 +1,114 @@
+{
+  "id": 66,
+  "title": "Collocations with Make and Do",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Collocations with MAKE",
+      "content": "<div class=\"web-text\">MAKE is used for creating, producing, or causing something:</div><div class=\"web-example\"><span>• <strong>make a decision</strong> — <em>We need to make a decision by tomorrow.</em></span></div><div class=\"web-example\"><span>• <strong>make an effort</strong> — <em>You should make more effort in your studies.</em></span></div><div class=\"web-example\"><span>• <strong>make progress</strong> — <em>The students are making great progress this term.</em></span></div><div class=\"web-example\"><span>• <strong>make a mistake</strong> — <em>Everyone makes mistakes; it's how you learn.</em></span></div><div class=\"web-example\"><span>• <strong>make an impression</strong> — <em>She made a lasting impression at the interview.</em></span></div><div class=\"web-example\"><span>• <strong>make a complaint</strong> — <em>I'd like to make a formal complaint about the service.</em></span></div><div class=\"web-example\"><span>• <strong>make arrangements</strong> — <em>We've made arrangements for the conference next week.</em></span></div>"
+    },
+    {
+      "id": "B",
+      "title": "Collocations with DO",
+      "content": "<div class=\"web-text\">DO is used for tasks, activities, and work:</div><div class=\"web-example\"><span>• <strong>do research</strong> — <em>Scientists did extensive research on the vaccine.</em></span></div><div class=\"web-example\"><span>• <strong>do damage</strong> — <em>The storm did considerable damage to the coastline.</em></span></div><div class=\"web-example\"><span>• <strong>do business</strong> — <em>Our company does business in over 30 countries.</em></span></div><div class=\"web-example\"><span>• <strong>do someone a favour</strong> — <em>Could you do me a favour and check my essay?</em></span></div><div class=\"web-example\"><span>• <strong>do your best</strong> — <em>Just do your best and don't worry about the result.</em></span></div><div class=\"web-example\"><span>• <strong>do harm</strong> — <em>Spreading rumours can do real harm to people.</em></span></div><div class=\"web-example\"><span>• <strong>do justice</strong> — <em>This photo doesn't do justice to the beautiful view.</em></span></div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "Which is correct: ___ a decision?",
+      "options": [
+        "give",
+        "make",
+        "take",
+        "get"
+      ],
+      "correctAnswer": 1,
+      "hint": "Creating a choice.",
+      "explanation": "We say <strong>make a decision</strong>, not 'do a decision'."
+    },
+    {
+      "question": "Which is correct: ___ research?",
+      "options": [
+        "have",
+        "take",
+        "do",
+        "have"
+      ],
+      "correctAnswer": 2,
+      "hint": "Performing an academic task.",
+      "explanation": "We say <strong>do research</strong>, not 'make research'."
+    },
+    {
+      "question": "Which is correct: ___ a mistake?",
+      "options": [
+        "have",
+        "make",
+        "have",
+        "take"
+      ],
+      "correctAnswer": 1,
+      "hint": "Creating an error.",
+      "explanation": "We say <strong>make a mistake</strong>, not 'do a mistake'."
+    },
+    {
+      "question": "Which is correct: ___ your best?",
+      "options": [
+        "give",
+        "try",
+        "do",
+        "take"
+      ],
+      "correctAnswer": 2,
+      "hint": "Performing to your highest ability.",
+      "explanation": "We say <strong>do your best</strong>, not 'make your best'."
+    },
+    {
+      "question": "Which is correct: ___ business with someone?",
+      "options": [
+        "have",
+        "do",
+        "bring",
+        "take"
+      ],
+      "correctAnswer": 1,
+      "hint": "Conducting commerce.",
+      "explanation": "We say <strong>do business</strong> with someone."
+    },
+    {
+      "question": "Which is correct: ___ progress?",
+      "options": [
+        "bring",
+        "make",
+        "have",
+        "get"
+      ],
+      "correctAnswer": 1,
+      "hint": "Moving forward in learning.",
+      "explanation": "We say <strong>make progress</strong>, not 'do progress'."
+    },
+    {
+      "question": "Which is correct: ___ damage to something?",
+      "options": [
+        "have",
+        "give",
+        "do",
+        "carry"
+      ],
+      "correctAnswer": 2,
+      "hint": "Causing harm.",
+      "explanation": "We say <strong>do damage</strong>, not 'make damage'."
+    },
+    {
+      "question": "Which is correct: ___ an impression?",
+      "options": [
+        "make",
+        "give",
+        "put",
+        "set"
+      ],
+      "correctAnswer": 0,
+      "hint": "Creating a lasting image in someone's mind.",
+      "explanation": "We say <strong>make an impression</strong>, not 'do an impression' (which means imitating someone)."
+    }
+  ]
+}

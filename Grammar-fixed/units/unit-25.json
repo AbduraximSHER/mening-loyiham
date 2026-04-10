@@ -1,0 +1,207 @@
+{
+  "id": 25,
+  "title": "Reporting with passives; it is said that...",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Reporting with passives: introduction",
+      "content": "\n            <div class=\"web-text\">We often use a passive to report what people say, think, etc., particularly if it is not important to mention who is being reported:</div>\n            <div class=\"web-example\">\n                <span>• People in the area <strong>have been told</strong> that they should stay indoors.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• Everyone <strong>was asked</strong> to bring some food to the party.</span>\n            </div>\n        "
+    },
+    {
+      "id": "B",
+      "title": "it + passive verb + that-clause",
+      "content": "\n            <div class=\"web-text\">Another common way of reporting what is said by an unspecified group of people is to use <strong>it + passive verb + that-clause</strong> (see Unit 33 for more on <strong>that-clauses</strong>). Using this pattern allows us to put important information at the end of the sentence (see Units 22C and 22D):</div>\n            <div class=\"web-example\">\n                <span>• <strong>It is reported that</strong> the damage is extensive. (<em>compare</em> The damage is extensive, according to government sources.)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>It was decided that</strong> the meeting should be cancelled. (<em>or</em> It was decided to cancel the meeting.)</span>\n            </div>\n            <div class=\"web-text\">Also: <strong>allege, announce, assume, believe, calculate, claim, consider, demonstrate, discover, establish, estimate, expect, feel, find, know, mention, recommend, reveal, say, show, suggest, suppose, think, understand</strong>.</div>\n            <div class=\"web-text\">These verbs can also be followed by a <strong>to-infinitive clause</strong>: <strong>agree, decide, hope, intend, plan, propose</strong>.</div>\n            <div class=\"web-text\">Note that many other verbs connected with reporting are <em>not</em> used with <strong>it + passive verb + that-clause</strong>, but can be used as in A:</div>\n            <div class=\"web-text\">Also: <strong>encourage, persuade, reassure, remind, tell, warn</strong>.</div>\n            <div class=\"web-text\">These verbs need a personal object before the <strong>that-clause</strong> in an active form (e.g. They have informed <strong>us</strong> that …)</div>\n        "
+    },
+    {
+      "id": "C",
+      "title": "subject + passive verb + to-infinitive",
+      "content": "\n            <div class=\"web-text\">An alternative to <strong>it + passive verb + that-clause</strong> is to use <strong>subject + passive verb + to-infinitive</strong> if we want the subject to be the topic of the sentence (see Unit 22C). Compare:</div>\n            <div class=\"web-example\">\n                <span>• <strong>It is reported that</strong> the damage is extensive. <em>and</em></span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>The damage is reported</strong> <em>to be</em> extensive.</span>\n            </div>\n            <div class=\"web-text\">Most of the verbs listed in the first white box in B can also be used in this pattern except for <strong>announce, decide, mention, propose, recommend, suggest</strong>.</div>\n            <div class=\"web-text\">We can only use <strong>tell</strong> in this pattern when it means 'order'. So we can say:</div>\n            <div class=\"web-example\">\n                <span>• <strong>I was told</strong> (= ordered) <strong>to go</strong> with them to the railway station.</span>\n            </div>\n            <div class=\"web-text\">but not 'The accident was told (= said) to have happened just after midnight'.</div>\n        "
+    },
+    {
+      "id": "D",
+      "title": "it + passive verb + wh-clause",
+      "content": "\n            <div class=\"web-text\">With some verbs we can also use <strong>it + passive verb + wh-clause</strong> to report information given or found out:</div>\n            <div class=\"web-example\">\n                <span>• <strong>It has now been revealed</strong> <em>who</em> was responsible for the accident.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• The decision to build the bridge was taken before <strong>it was established</strong> <em>whether</em> it was actually needed.</span>\n            </div>\n            <div class=\"web-text\">Also: <strong>discover, explain, find, know, reveal, show, understand</strong>.</div>\n        "
+    },
+    {
+      "id": "E",
+      "title": "there + passive verb + to be",
+      "content": "\n            <div class=\"web-text\">When a <strong>that-clause</strong> begins <strong>that + there</strong> ..., we can make a corresponding passive form <strong>there + passive verb + to be</strong> (present) / <strong>to have been</strong> (past). Compare:</div>\n            <div class=\"web-example\">\n                <span>• <strong>It is thought (that) there are</strong> / <strong>were</strong> too many obstacles to peace. <em>and</em></span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>There are thought to be</strong> / <strong>to have been</strong> too many obstacles to peace.</span>\n            </div>\n            <div class=\"web-text\">We can use the same verbs in this pattern as with <strong>subject + passive verb + to-infinitive</strong> (see C).</div>\n        "
+    }
+  ],
+  "exercises": [
+    {
+      "question": "It was ___ to hold new negotiations next month.",
+      "options": [
+        "announced",
+        "agreed",
+        "Both announced and agreed",
+        "mentioned"
+      ],
+      "correctAnswer": 2,
+      "hint": "Both agree and announce can be used with it + passive + to-infinitive clause.",
+      "explanation": "<strong>Answer: Both announced and agreed</strong><br>Both agree and announce can be used with it + passive + to-infinitive clause. Choose the passive form that matches the tense and aspect of the active version."
+    },
+    {
+      "question": "It has been ___ that the crash was the result of pilot error.",
+      "options": [
+        "shown",
+        "proposed",
+        "revealed",
+        "Both shown and revealed"
+      ],
+      "correctAnswer": 3,
+      "hint": "Show and reveal are both possible here.",
+      "explanation": "<strong>Answer: Both shown and revealed</strong><br>Show and reveal are both possible here. "
+    },
+    {
+      "question": "It was ___ that Mrs Ho would chair the meeting.",
+      "options": [
+        "hoped",
+        "explained",
+        "revealed",
+        "Both hoped and revealed"
+      ],
+      "correctAnswer": 3,
+      "hint": "Hope and reveal are both possible; explain is not used in Pattern 1.",
+      "explanation": "<strong>Answer: Both hoped and revealed</strong><br>Hope and reveal are both possible; explain is not used in Pattern 1. "
+    },
+    {
+      "question": "It has been ___ to appoint Dr Ahmadi as head teacher.",
+      "options": [
+        "suggested",
+        "decided",
+        "proposed",
+        "Both decided and proposed"
+      ],
+      "correctAnswer": 3,
+      "hint": "Decide and propose can be followed by a to-infinitive clause.",
+      "explanation": "<strong>Answer: Both decided and proposed</strong><br>Decide and propose can be followed by a to-infinitive clause. This verb pattern requires a to-infinitive as its complement."
+    },
+    {
+      "question": "It has now been ___ that half of cancer cases are lifestyle-related.",
+      "options": [
+        "revealed",
+        "established",
+        "discovered",
+        "All of these"
+      ],
+      "correctAnswer": 3,
+      "hint": "Reveal, establish, and discover all work for Pattern 1.",
+      "explanation": "<strong>Answer: All of these</strong><br>Reveal, establish, and discover all work for Pattern 1. The grammatical signals in this sentence — the key words, connectors, or context — require this specific form. Look for these signals to make the same choice independently."
+    },
+    {
+      "question": "It is ___ that another moon landing will take place next year.",
+      "options": [
+        "assumed",
+        "thought",
+        "expected",
+        "All of these"
+      ],
+      "correctAnswer": 3,
+      "hint": "Assume, thought, and expect all work for Pattern 1.",
+      "explanation": "<strong>Answer: All of these</strong><br>Assume, thought, and expect all work for Pattern 1. The grammatical signals in this sentence — the key words, connectors, or context — require this specific form. Look for these signals to make the same choice independently."
+    },
+    {
+      "question": "AGREEMENT THAT UN WILL SEND IN TROOPS (newspaper headline)",
+      "options": [
+        "It has been agreed that the UN will send in troops.",
+        "The UN is agreed to send in troops.",
+        "UN will send in troops was agreed.",
+        "No passive possible."
+      ],
+      "correctAnswer": 0,
+      "hint": "Pattern 1 (it was agreed that...) is suitable for this headline.",
+      "explanation": "<strong>Answer: It has been agreed that the UN will send in troops.</strong><br>Pattern 1 (it was agreed that...) is suitable for this headline. The present perfect links past events to the present. The key signals are: <em>just, already, yet, ever, never, since, for, recently</em>, and incomplete time expressions like <em>this week</em> or <em>today</em> (when not yet over)."
+    },
+    {
+      "type": "fill",
+      "question": "TERRORISTS BELIEVED TO BE OPERATING IN BERLIN",
+      "answer": "Terrorists are believed to be operating in Berlin.",
+      "acceptable": [
+        "No passive possible.",
+        "Both are possible."
+      ],
+      "hint": "Both Pattern 1 (it is believed that) and Pattern 2 (terrorists are believed to be) are possible.",
+      "explanation": "<strong>Answer: Both are possible.</strong><br>Both Pattern 1 (it is believed that) and Pattern 2 (terrorists are believed to be) are possible. "
+    },
+    {
+      "question": "WARNING GIVEN ABOUT COMPUTER VIRUS",
+      "options": [
+        "It is warned about computer viruses.",
+        "Computer viruses were warned about.",
+        "It has been warned that computer viruses exist.",
+        "No passive possible with it-clause."
+      ],
+      "correctAnswer": 0,
+      "hint": "Pattern 1: it is warned that... (warn is not in the list for Pattern 1 but it can be used with personal object in active, and here it works as it-clause).",
+      "explanation": "<strong>Answer: It is warned about computer viruses.</strong><br>Pattern 1: it is warned that... (warn is not in the list for Pattern 1 but it can be used with personal object in active, and here it works as it-clause). "
+    },
+    {
+      "question": "It has been discovered that a mechanical fault caused the problem. / (Rewrite with Pattern 2)",
+      "options": [
+        "A mechanical fault was discovered to have caused the problem.",
+        "A mechanical fault has been discovered to cause the problem.",
+        "A mechanical fault was discovered causing the problem.",
+        "Pattern 2 not possible."
+      ],
+      "correctAnswer": 0,
+      "hint": "Pattern 2: subject + passive + to have + past participle (for past action).",
+      "explanation": "<strong>Answer: A mechanical fault was discovered to have caused the problem.</strong><br>Pattern 2: subject + passive + to have + past participle (for past action). The present perfect links past events to the present. The key signals are: <em>just, already, yet, ever, never, since, for, recently</em>, and incomplete time expressions like <em>this week</em> or <em>today</em> (when not yet over)."
+    },
+    {
+      "question": "It is not thought that the fault is serious. / (Rewrite with Pattern 2)",
+      "options": [
+        "The fault is not thought to be serious.",
+        "The fault is not thought being serious.",
+        "The fault is not thought serious.",
+        "Pattern 2 not possible."
+      ],
+      "correctAnswer": 0,
+      "hint": "Pattern 2: subject + passive + to be + adjective.",
+      "explanation": "<strong>Answer: The fault is not thought to be serious.</strong><br>Pattern 2: subject + passive + to be + adjective. The grammatical signals in this sentence — the key words, connectors, or context — require this specific form. Look for these signals to make the same choice independently."
+    },
+    {
+      "question": "It has been decided to postpone the next rocket launch. / (Is Pattern 2 possible?)",
+      "options": [
+        "No, Pattern 2 is not possible for decide.",
+        "Yes, The next rocket launch has been decided to be postponed.",
+        "Yes, To postpone the next rocket launch was decided.",
+        "Pattern 2 is possible only with person subjects."
+      ],
+      "correctAnswer": 0,
+      "hint": "Decide is not used in Pattern 2 (subject + passive + to-infinitive).",
+      "explanation": "<strong>Answer: No, Pattern 2 is not possible for decide.</strong><br>Decide is not used in Pattern 2 (subject + passive + to-infinitive). Choose the passive form that matches the tense and aspect of the active version."
+    },
+    {
+      "type": "correct",
+      "sentence": "He is believed that he committed the fraud over a period of five years.",
+      "correction": "He is believed to have committed the fraud over a period of five years.",
+      "acceptable": [
+        "is believed to have committed"
+      ],
+      "hint": "Personal passive: He is believed TO HAVE + past participle (not 'that he').",
+      "explanation": "<strong>Answer: He is believed to have committed</strong><br>There are two structures: (1) 'It is believed that he committed...' — impersonal. (2) 'He is believed to have committed...' — personal passive. These are interchangeable but you CANNOT mix them: 'He is believed that he...' is always wrong."
+    },
+    {
+      "type": "correct",
+      "sentence": "It is reported that the prime minister will resign imminently.",
+      "correction": "It is reported that the prime minister will resign imminently.",
+      "acceptable": [
+        "It is reported that the prime minister will resign imminently."
+      ],
+      "hint": "'It is reported that + clause' is correct — this is the impersonal passive structure.",
+      "explanation": "<strong>Answer: CORRECT — It is reported that the prime minister will resign imminently</strong><br>'It is reported/said/believed/alleged + that-clause' is a standard impersonal passive construction. It is used extensively in journalism and formal writing to report information without attributing it to a specific source.",
+      "prompt": "Is this sentence correct? If not, rewrite it correctly."
+    },
+    {
+      "type": "fill",
+      "question": "___ that the company has been mismanaging its finances for years. (It / say)",
+      "answer": "It is said",
+      "acceptable": [
+        "It has been said"
+      ],
+      "hint": "Impersonal passive: It + is/has been + said/reported/believed + that.",
+      "explanation": "<strong>Answer: It is said</strong><br>The impersonal passive 'it is said/reported/believed/alleged/thought + that' is used to report information whose source is general or unspecified. 'It is said' = people say / it is generally said. The alternative personal passive would be: 'The company is said to have been mismanaging...'"
+    }
+  ]
+}

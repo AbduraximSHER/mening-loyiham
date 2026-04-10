@@ -1,0 +1,114 @@
+{
+  "id": 81,
+  "title": "Global Issues and Society",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Social challenges",
+      "content": "<div class=\"web-text\">Vocabulary for discussing world problems:</div><div class=\"web-example\"><span>• <strong>inequality</strong> — unfair difference between groups. <em>Income inequality continues to widen globally.</em></span></div><div class=\"web-example\"><span>• <strong>poverty</strong> — the state of being extremely poor. <em>Millions of people still live in extreme poverty.</em></span></div><div class=\"web-example\"><span>• <strong>humanitarian</strong> — concerned with human welfare. <em>Humanitarian aid was sent to the disaster zone.</em></span></div><div class=\"web-example\"><span>• <strong>displacement</strong> — being forced to leave home. <em>The conflict caused mass displacement of civilians.</em></span></div><div class=\"web-example\"><span>• <strong>epidemic</strong> — a widespread occurrence of disease. <em>The obesity epidemic affects developed nations worldwide.</em></span></div>"
+    },
+    {
+      "id": "B",
+      "title": "Solutions and progress",
+      "content": "<div class=\"web-text\">Discussing positive change:</div><div class=\"web-example\"><span>• <strong>empower</strong> — give power or authority to. <em>Education empowers people to change their lives.</em></span></div><div class=\"web-example\"><span>• <strong>advocacy</strong> — public support for a cause. <em>Her advocacy for children's rights has inspired millions.</em></span></div><div class=\"web-example\"><span>• <strong>reform</strong> — make changes to improve. <em>The government promised major healthcare reform.</em></span></div><div class=\"web-example\"><span>• <strong>sustainable development</strong> — growth that doesn't harm future generations. <em>Sustainable development balances economy and environment.</em></span></div><div class=\"web-example\"><span>• <strong>grassroots</strong> — ordinary people rather than leaders. <em>The movement started at the grassroots level.</em></span></div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "The unfair gap between rich and poor is:",
+      "options": [
+        "refugee",
+        "epidemic",
+        "inequality",
+        "poverty"
+      ],
+      "correctAnswer": 2,
+      "hint": "An uneven distribution.",
+      "explanation": "<strong>Inequality</strong> is the unfair difference in social or economic status between groups."
+    },
+    {
+      "question": "To give people the power to control their own lives is to:",
+      "options": [
+        "migration",
+        "advocate",
+        "displace",
+        "empower"
+      ],
+      "correctAnswer": 3,
+      "hint": "Giving strength and authority.",
+      "explanation": "<strong>Empower</strong> means to give someone the authority or power to do something."
+    },
+    {
+      "question": "A movement started by ordinary people, not leaders, is:",
+      "options": [
+        "grassroots",
+        "refugee",
+        "sovereignty",
+        "bilateral"
+      ],
+      "correctAnswer": 0,
+      "hint": "From the ground up.",
+      "explanation": "<strong>Grassroots</strong> describes activities organised by ordinary people at a local level."
+    },
+    {
+      "question": "Being forced to leave your home due to conflict is:",
+      "options": [
+        "epidemic",
+        "poverty",
+        "multilateral",
+        "displacement"
+      ],
+      "correctAnswer": 3,
+      "hint": "Refugees experience this.",
+      "explanation": "<strong>Displacement</strong> is the forced movement of people from their home area."
+    },
+    {
+      "question": "Public support for a particular cause is:",
+      "options": [
+        "empowerment",
+        "sovereignty",
+        "advocacy",
+        "development"
+      ],
+      "correctAnswer": 2,
+      "hint": "Speaking up for a cause.",
+      "explanation": "<strong>Advocacy</strong> is public support or recommendation of a particular cause."
+    },
+    {
+      "question": "Making changes to a system to improve it is:",
+      "options": [
+        "reform",
+        "colonialism",
+        "sovereignty",
+        "epidemic"
+      ],
+      "correctAnswer": 0,
+      "hint": "Fixing what's broken.",
+      "explanation": "<strong>Reform</strong> means to make changes in order to improve something."
+    },
+    {
+      "question": "Aid focused on helping people in crisis is:",
+      "options": [
+        "diplomacy",
+        "totalitarian",
+        "humanitarian",
+        "sustainable"
+      ],
+      "correctAnswer": 2,
+      "hint": "Motivated by concern for human welfare.",
+      "explanation": "<strong>Humanitarian</strong> relates to promoting human welfare and reducing suffering."
+    },
+    {
+      "question": "Growth that meets present needs without harming the future is:",
+      "options": [
+        "grassroots reform",
+        "sustainable development",
+        "social advocacy",
+        "humanitarian aid"
+      ],
+      "correctAnswer": 1,
+      "hint": "Balancing now and later.",
+      "explanation": "<strong>Sustainable development</strong> meets current needs without compromising future generations."
+    }
+  ]
+}

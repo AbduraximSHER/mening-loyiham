@@ -1,0 +1,114 @@
+{
+  "id": 84,
+  "title": "Memory, Mind, and Intelligence",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Memory and recall",
+      "content": "<div class=\"web-text\">Words for how we remember and forget:</div><div class=\"web-example\"><span>• <strong>recollect</strong> — remember something. <em>I can't recollect where I put my keys.</em></span></div><div class=\"web-example\"><span>• <strong>reminisce</strong> — think about pleasant past experiences. <em>They spent the evening reminiscing about university days.</em></span></div><div class=\"web-example\"><span>• <strong>retain</strong> — keep in memory. <em>Students retain information better with active learning.</em></span></div><div class=\"web-example\"><span>• <strong>slip one's mind</strong> — forget temporarily. <em>I'm sorry, the meeting completely slipped my mind.</em></span></div><div class=\"web-example\"><span>• <strong>memorise</strong> — learn by heart. <em>She memorised the entire speech overnight.</em></span></div>"
+    },
+    {
+      "id": "B",
+      "title": "Intelligence and thinking",
+      "content": "<div class=\"web-text\">Describing mental abilities:</div><div class=\"web-example\"><span>• <strong>perceptive</strong> — quick to notice and understand. <em>She's extremely perceptive about people's emotions.</em></span></div><div class=\"web-example\"><span>• <strong>intuitive</strong> — understanding without conscious reasoning. <em>He has an intuitive grasp of complex systems.</em></span></div><div class=\"web-example\"><span>• <strong>analytical</strong> — using logical reasoning. <em>Analytical thinking is essential for problem-solving.</em></span></div><div class=\"web-example\"><span>• <strong>innate</strong> — inborn, natural. <em>She has an innate talent for languages.</em></span></div><div class=\"web-example\"><span>• <strong>cognitive</strong> — relating to mental processes. <em>Cognitive skills decline without regular mental exercise.</em></span></div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "To think fondly about past experiences is to:",
+      "options": [
+        "memorise",
+        "deliberate",
+        "reminisce",
+        "recollect"
+      ],
+      "correctAnswer": 2,
+      "hint": "Sharing happy memories.",
+      "explanation": "<strong>Reminisce</strong> means to indulge in enjoyable recollection of past events."
+    },
+    {
+      "question": "Understanding something without conscious reasoning is:",
+      "options": [
+        "subconscious",
+        "conceptual",
+        "lateral",
+        "intuitive"
+      ],
+      "correctAnswer": 3,
+      "hint": "You just know without thinking.",
+      "explanation": "<strong>Intuitive</strong> means using or based on what one feels to be true without conscious reasoning."
+    },
+    {
+      "question": "When you forget something temporarily, it:",
+      "options": [
+        "retains",
+        "slips your mind",
+        "memorises",
+        "reminisces"
+      ],
+      "correctAnswer": 1,
+      "hint": "It escaped your memory briefly.",
+      "explanation": "<strong>Slips one's mind</strong> means to be temporarily forgotten."
+    },
+    {
+      "question": "A natural talent you're born with is:",
+      "options": [
+        "innate",
+        "abstract",
+        "associative",
+        "lateral"
+      ],
+      "correctAnswer": 0,
+      "hint": "You didn't learn it — you were born with it.",
+      "explanation": "<strong>Innate</strong> means inborn; natural, not learned."
+    },
+    {
+      "question": "Thinking that uses logic and careful examination is:",
+      "options": [
+        "abstract",
+        "deliberate",
+        "subconscious",
+        "analytical"
+      ],
+      "correctAnswer": 3,
+      "hint": "Breaking things down systematically.",
+      "explanation": "<strong>Analytical</strong> means relating to or using analysis or logical reasoning."
+    },
+    {
+      "question": "To keep information in your memory is to:",
+      "options": [
+        "conceptual",
+        "memorise",
+        "recollect",
+        "retain"
+      ],
+      "correctAnswer": 3,
+      "hint": "Holding onto knowledge.",
+      "explanation": "<strong>Retain</strong> means to continue to have; to keep in memory."
+    },
+    {
+      "question": "Relating to mental processes like thinking and learning is:",
+      "options": [
+        "lateral",
+        "associative",
+        "cognitive",
+        "subconscious"
+      ],
+      "correctAnswer": 2,
+      "hint": "About the brain's functions.",
+      "explanation": "<strong>Cognitive</strong> relates to the mental processes of perception, memory, and reasoning."
+    },
+    {
+      "question": "Someone who quickly notices subtle things is:",
+      "options": [
+        "lateral",
+        "sequential",
+        "recall",
+        "perceptive"
+      ],
+      "correctAnswer": 3,
+      "hint": "Very observant.",
+      "explanation": "<strong>Perceptive</strong> means having a keen insight and understanding."
+    }
+  ]
+}

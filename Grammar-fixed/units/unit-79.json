@@ -1,0 +1,114 @@
+{
+  "id": 79,
+  "title": "Food, Cooking, and Gastronomy",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Cooking methods",
+      "content": "<div class=\"web-text\">Precise vocabulary for how food is prepared:</div><div class=\"web-example\"><span>• <strong>sauté</strong> — fry quickly in a little hot oil. <em>Sauté the onions until golden brown.</em></span></div><div class=\"web-example\"><span>• <strong>simmer</strong> — cook gently just below boiling. <em>Let the sauce simmer for twenty minutes.</em></span></div><div class=\"web-example\"><span>• <strong>marinate</strong> — soak in flavoured liquid before cooking. <em>Marinate the chicken overnight for the best flavour.</em></span></div><div class=\"web-example\"><span>• <strong>garnish</strong> — decorate a dish before serving. <em>Garnish with fresh herbs and serve immediately.</em></span></div><div class=\"web-example\"><span>• <strong>drizzle</strong> — pour a thin stream of liquid. <em>Drizzle olive oil over the salad.</em></span></div>"
+    },
+    {
+      "id": "B",
+      "title": "Taste and texture",
+      "content": "<div class=\"web-text\">Describing food beyond basic adjectives:</div><div class=\"web-example\"><span>• <strong>succulent</strong> — tender, juicy, and delicious. <em>The steak was incredibly succulent.</em></span></div><div class=\"web-example\"><span>• <strong>bland</strong> — lacking strong flavour. <em>The soup tasted rather bland without enough seasoning.</em></span></div><div class=\"web-example\"><span>• <strong>savoury</strong> — salty or spicy rather than sweet. <em>I prefer savoury snacks to sweet ones.</em></span></div><div class=\"web-example\"><span>• <strong>aromatic</strong> — having a pleasant, distinctive smell. <em>Aromatic spices filled the kitchen with wonderful scents.</em></span></div><div class=\"web-example\"><span>• <strong>exquisite</strong> — extremely beautiful and delicate. <em>The chef prepared an exquisite five-course meal.</em></span></div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "To cook food gently just below boiling point is to:",
+      "options": [
+        "fermented",
+        "sauté",
+        "simmer",
+        "exquisite"
+      ],
+      "correctAnswer": 2,
+      "hint": "Gentle bubbling.",
+      "explanation": "To <strong>simmer</strong> means to cook just below boiling point with gentle bubbling."
+    },
+    {
+      "question": "Food that lacks flavour is described as:",
+      "options": [
+        "sautéed",
+        "pungent",
+        "bland",
+        "exquisite"
+      ],
+      "correctAnswer": 2,
+      "hint": "Boring taste.",
+      "explanation": "<strong>Bland</strong> means lacking strong flavour; mild and uninteresting."
+    },
+    {
+      "question": "To soak food in a flavoured liquid before cooking is to:",
+      "options": [
+        "sauté",
+        "fermented",
+        "marinate",
+        "sautéed"
+      ],
+      "correctAnswer": 2,
+      "hint": "Usually done overnight.",
+      "explanation": "To <strong>marinate</strong> means to soak food in a seasoned liquid before cooking."
+    },
+    {
+      "question": "A dish that is tender, juicy, and delicious is:",
+      "options": [
+        "hearty",
+        "fermented",
+        "pungent",
+        "succulent"
+      ],
+      "correctAnswer": 3,
+      "hint": "Perfectly cooked and juicy.",
+      "explanation": "<strong>Succulent</strong> means tender, juicy, and tasty."
+    },
+    {
+      "question": "To pour a thin stream of oil or sauce over food is to:",
+      "options": [
+        "pungent",
+        "drizzle",
+        "insipid",
+        "sautéed"
+      ],
+      "correctAnswer": 1,
+      "hint": "A light, thin pour.",
+      "explanation": "To <strong>drizzle</strong> means to pour a thin stream of liquid over something."
+    },
+    {
+      "question": "Food that is salty or spicy rather than sweet is:",
+      "options": [
+        "exquisite",
+        "sautéed",
+        "savoury",
+        "wholesome"
+      ],
+      "correctAnswer": 2,
+      "hint": "The opposite of sweet.",
+      "explanation": "<strong>Savoury</strong> means belonging to the category of food that is salty or spicy."
+    },
+    {
+      "question": "To decorate a finished dish before serving is to:",
+      "options": [
+        "pungent",
+        "garnish",
+        "piquant",
+        "exquisite"
+      ],
+      "correctAnswer": 1,
+      "hint": "Adding a visual touch.",
+      "explanation": "To <strong>garnish</strong> means to decorate food for presentation."
+    },
+    {
+      "question": "Having a pleasant, distinctive smell is:",
+      "options": [
+        "sautéed",
+        "aromatic",
+        "exquisite",
+        "marinated"
+      ],
+      "correctAnswer": 1,
+      "hint": "Wonderful scent.",
+      "explanation": "<strong>Aromatic</strong> means having a pleasant and distinctive smell."
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "id": 100,
+  "title": "Review: Key Vocabulary Strategies",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Learning techniques",
+      "content": "<div class=\"web-text\">Effective strategies for building advanced vocabulary:</div><div class=\"web-example\"><span>• <strong>Context clues</strong> — Use surrounding words to guess meaning. <em>Even if you don't know a word, context often reveals its meaning.</em></span></div><div class=\"web-example\"><span>• <strong>Word families</strong> — Learn related forms together: succeed, success, successful, successfully. <em>Knowing word families multiplies your vocabulary efficiently.</em></span></div><div class=\"web-example\"><span>• <strong>Collocations</strong> — Learn words in natural pairs: make a decision, do research. <em>Collocations make your English sound more natural and fluent.</em></span></div><div class=\"web-example\"><span>• <strong>Spaced repetition</strong> — Review words at increasing intervals. <em>Spaced repetition helps transfer vocabulary to long-term memory.</em></span></div><div class=\"web-example\"><span>• <strong>Active use</strong> — Use new words in your own sentences. <em>Writing sentences with new words strengthens retention dramatically.</em></span></div>"
+    },
+    {
+      "id": "B",
+      "title": "Common pitfalls",
+      "content": "<div class=\"web-text\">Mistakes to avoid when learning vocabulary:</div><div class=\"web-example\"><span>• <strong>False friends</strong> — Words that look similar across languages but mean different things. <em>Be careful with false friends between your language and English.</em></span></div><div class=\"web-example\"><span>• <strong>Register errors</strong> — Using formal words in casual settings. <em>Using 'commence' in casual conversation sounds unnatural.</em></span></div><div class=\"web-example\"><span>• <strong>Overuse of basic words</strong> — Relying on 'good', 'bad', 'nice'. <em>Replace basic adjectives with precise ones: 'outstanding', 'dreadful', 'delightful'.</em></span></div><div class=\"web-example\"><span>• <strong>Ignoring connotation</strong> — Not understanding emotional overtones. <em>'Slim' is positive, 'skinny' can be negative, though both mean thin.</em></span></div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "Using words around an unknown word to guess its meaning uses:",
+      "options": [
+        "context clues",
+        "antonym",
+        "derivation",
+        "collocation"
+      ],
+      "correctAnswer": 0,
+      "hint": "The surrounding text helps.",
+      "explanation": "<strong>Context clues</strong> are hints found in surrounding text that help determine word meaning."
+    },
+    {
+      "question": "Words that look similar in two languages but have different meanings are:",
+      "options": [
+        "false friends",
+        "denotation",
+        "collocation",
+        "synonym"
+      ],
+      "correctAnswer": 0,
+      "hint": "They trick you.",
+      "explanation": "<strong>False friends</strong> are words in different languages that look similar but have different meanings."
+    },
+    {
+      "question": "Words that naturally go together (like 'make a decision') are:",
+      "options": [
+        "derivation",
+        "morphology",
+        "collocations",
+        "antonym"
+      ],
+      "correctAnswer": 2,
+      "hint": "Fixed word partnerships.",
+      "explanation": "<strong>Collocations</strong> are words that are commonly used together in natural English."
+    },
+    {
+      "question": "Reviewing words at increasing time intervals is:",
+      "options": [
+        "spaced repetition",
+        "etymology",
+        "rote learning",
+        "derivation"
+      ],
+      "correctAnswer": 0,
+      "hint": "Day 1, Day 3, Day 7, Day 14...",
+      "explanation": "<strong>Spaced repetition</strong> is reviewing information at gradually increasing intervals."
+    },
+    {
+      "question": "The emotional feeling a word carries beyond its definition is its:",
+      "options": [
+        "denotation",
+        "collocation",
+        "lexeme",
+        "connotation"
+      ],
+      "correctAnswer": 3,
+      "hint": "Positive, negative, or neutral feeling.",
+      "explanation": "<strong>Connotation</strong> is the emotional or cultural association a word carries."
+    },
+    {
+      "question": "Using overly formal words in casual conversation is a ___ error:",
+      "options": [
+        "morphology",
+        "collocation",
+        "spelling",
+        "register"
+      ],
+      "correctAnswer": 3,
+      "hint": "Wrong level of formality.",
+      "explanation": "A <strong>register</strong> error means using language at an inappropriate level of formality."
+    },
+    {
+      "question": "Learning succeed, success, successful together uses:",
+      "options": [
+        "word families",
+        "collocation",
+        "synonym",
+        "inflection"
+      ],
+      "correctAnswer": 0,
+      "hint": "Related forms of one word.",
+      "explanation": "<strong>Word families</strong> are groups of words with a shared root (e.g., educate, education, educational)."
+    },
+    {
+      "question": "Writing your own sentences with new words is called:",
+      "options": [
+        "rote learning",
+        "passive reading",
+        "active use",
+        "antonym"
+      ],
+      "correctAnswer": 2,
+      "hint": "Producing, not just receiving.",
+      "explanation": "<strong>Active use</strong> means practising vocabulary by producing it in your own sentences."
+    }
+  ]
+}

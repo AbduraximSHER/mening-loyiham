@@ -1,0 +1,114 @@
+{
+  "id": 92,
+  "title": "Feelings About the Future",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Positive outlook",
+      "content": "<div class=\"web-text\">Vocabulary for expressing hope and positivity about the future:</div><div class=\"web-example\"><span>• <strong>optimistic</strong> — hopeful about the future. <em>She's optimistic about her career prospects.</em></span></div><div class=\"web-example\"><span>• <strong>aspire</strong> — direct hopes towards achieving something. <em>He aspires to become a surgeon one day.</em></span></div><div class=\"web-example\"><span>• <strong>ambitious</strong> — having a strong desire to succeed. <em>She set ambitious targets for the coming year.</em></span></div><div class=\"web-example\"><span>• <strong>anticipate</strong> — expect or look forward to. <em>We anticipate significant growth next quarter.</em></span></div><div class=\"web-example\"><span>• <strong>promising</strong> — showing signs of future success. <em>The early results look very promising.</em></span></div>"
+    },
+    {
+      "id": "B",
+      "title": "Negative outlook",
+      "content": "<div class=\"web-text\">Expressing worry or doubt about the future:</div><div class=\"web-example\"><span>• <strong>pessimistic</strong> — expecting the worst. <em>Economists are pessimistic about the recovery.</em></span></div><div class=\"web-example\"><span>• <strong>dread</strong> — anticipate with great fear. <em>She dreads the thought of public speaking.</em></span></div><div class=\"web-example\"><span>• <strong>inevitable</strong> — certain to happen. <em>Change is inevitable in any growing organisation.</em></span></div><div class=\"web-example\"><span>• <strong>uncertain</strong> — not able to be relied on. <em>The future of the project remains uncertain.</em></span></div><div class=\"web-example\"><span>• <strong>sceptical</strong> — not easily convinced. <em>Many people are sceptical about the new plan's success.</em></span></div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "Someone who expects good things to happen is:",
+      "options": [
+        "uncertain",
+        "optimistic",
+        "cautious",
+        "uncertain"
+      ],
+      "correctAnswer": 1,
+      "hint": "Glass half full.",
+      "explanation": "<strong>Optimistic</strong> means hopeful and confident about the future."
+    },
+    {
+      "question": "Something that is certain to happen is:",
+      "options": [
+        "uncertain",
+        "ambitious",
+        "inevitable",
+        "anxious"
+      ],
+      "correctAnswer": 2,
+      "hint": "It cannot be avoided.",
+      "explanation": "<strong>Inevitable</strong> means certain to happen; unavoidable."
+    },
+    {
+      "question": "To strongly fear something in the future is to:",
+      "options": [
+        "dread",
+        "reluctant",
+        "confident",
+        "promise"
+      ],
+      "correctAnswer": 0,
+      "hint": "Deep fear of what's coming.",
+      "explanation": "<strong>Dread</strong> means to anticipate with great fear or anxiety."
+    },
+    {
+      "question": "Not easily believing claims is being:",
+      "options": [
+        "apprehensive",
+        "sceptical",
+        "ambitious",
+        "uncertain"
+      ],
+      "correctAnswer": 1,
+      "hint": "Show me the evidence.",
+      "explanation": "<strong>Sceptical</strong> means not easily convinced; having doubts."
+    },
+    {
+      "question": "To direct your hopes towards a goal is to:",
+      "options": [
+        "aspire",
+        "excited",
+        "apprehensive",
+        "doubt"
+      ],
+      "correctAnswer": 0,
+      "hint": "Aiming high.",
+      "explanation": "<strong>Aspire</strong> means to direct one's hopes or ambitions towards achieving something."
+    },
+    {
+      "question": "Signs of future success make something:",
+      "options": [
+        "reluctant",
+        "uncertain",
+        "resigned",
+        "promising"
+      ],
+      "correctAnswer": 3,
+      "hint": "It looks like it will succeed.",
+      "explanation": "<strong>Promising</strong> means showing signs of future success."
+    },
+    {
+      "question": "Someone who always expects the worst is:",
+      "options": [
+        "ambitious",
+        "ambivalent",
+        "anxious",
+        "pessimistic"
+      ],
+      "correctAnswer": 3,
+      "hint": "Glass half empty.",
+      "explanation": "<strong>Pessimistic</strong> means tending to see the worst aspect of things."
+    },
+    {
+      "question": "To expect something to happen, often positively, is to:",
+      "options": [
+        "anticipate",
+        "ambivalent",
+        "apprehensive",
+        "doubt"
+      ],
+      "correctAnswer": 0,
+      "hint": "Looking ahead.",
+      "explanation": "<strong>Anticipate</strong> means to regard as probable; expect or predict."
+    }
+  ]
+}

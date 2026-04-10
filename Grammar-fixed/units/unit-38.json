@@ -1,0 +1,108 @@
+{
+  "id": 38,
+  "title": "Reporting what people say using nouns and adjectives",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Reporting using nouns",
+      "content": "<div class=\"web-text\">We sometimes report people's words and thoughts using a <strong>noun</strong> in the reporting clause followed by a reported clause beginning with <strong>that</strong>, a <strong>to-infinitive</strong>-, or <strong>wh-word</strong>. Most of these nouns are related to reporting verbs (acknowledgement – acknowledge, statement – state, etc.). Note that when we report using <strong>nouns</strong> and <strong>adjectives</strong> the exact original words are not necessarily reported.</div>\n            <div class=\"web-text\"><strong>Noun + that-clause:</strong></div>\n            <div class=\"web-example\">\n                <span>• The <strong>claim</strong> is often made <em>that</em> smoking causes heart disease.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• The jury came to the <strong>conclusion</strong> <em>that</em> the woman was guilty.</span>\n            </div>\n            <div class=\"web-text\">Also: <strong>acknowledgement, advice, allegation, announcement, answer, argument, comment, decision, explanation, forecast, guarantee, indication, observation, promise, recommendation, reply, speculation, statement, suggestion, threat, warning</strong></div>\n            <div class=\"web-text\"><strong>Noun + to-infinitive clause:</strong></div>\n            <div class=\"web-example\">\n                <span>• I accepted Luisa's <strong>invitation</strong> <em>to visit</em> her in Rome.</span>\n            </div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "The turning point in his life came when he took the ___ (become - actor)",
+      "options": [
+        "decision to become an actor / that he would become an actor",
+        "decision becoming an actor",
+        "decision for becoming an actor",
+        "decision on becoming an actor"
+      ],
+      "correctAnswer": 0,
+      "hint": "Use a to-infinitive or that-clause after 'decision'.",
+      "explanation": "<strong>Answer: decision to become an actor / that he would become an actor</strong><br>We use <em>would</em> here for past habits, hypothetical situations, or reported speech.<br><small>💡 Use a to-infinitive or that-clause after 'decision'.</small>"
+    },
+    {
+      "type": "correct",
+      "sentence": "She made a suggestion of trying a completely different approach to the problem.",
+      "correction": "She made a suggestion that we try a completely different approach to the problem.",
+      "acceptable": [
+        "made a suggestion to try",
+        "made a suggestion that we should try"
+      ],
+      "hint": "'A suggestion that + subjunctive clause' or 'a suggestion to + infinitive' — not 'suggestion of -ing'.",
+      "explanation": "<strong>Answer: made a suggestion that we try</strong><br>The noun 'suggestion' takes: (1) 'suggestion that + bare subjunctive': 'suggestion that we try'; (2) 'suggestion to + infinitive': 'suggestion to try a new approach'. The pattern 'suggestion of + gerund' is not standard in formal written English for reporting proposals."
+    },
+    {
+      "question": "He failed to address the ___ (who - pay - repairs - building)",
+      "options": [
+        "issue of who pays for repairs to the building",
+        "issue who will pay for repairs to the building",
+        "issue whether who pays",
+        "issue about paying"
+      ],
+      "correctAnswer": 1,
+      "hint": "Use a wh-clause after 'issue'.",
+      "explanation": "<strong>Answer: issue who will pay for repairs to the building</strong><br>Use a wh-clause after 'issue'. Use <em>will</em> here — this is neither a fixed timetable event (which would take the present simple) nor a pre-planned personal arrangement (which would take the present continuous or <em>be going to</em>)."
+    },
+    {
+      "type": "correct",
+      "sentence": "He expressed his refusal to attending the compulsory training session.",
+      "correction": "He expressed his refusal to attend the compulsory training session.",
+      "acceptable": [
+        "his refusal to attend"
+      ],
+      "hint": "'Refusal to + bare infinitive' — not 'refusal to + -ing'.",
+      "explanation": "<strong>Answer: refusal to attend</strong><br>Reporting nouns that express decisions or stances (refusal, decision, intention, desire, wish, agreement, offer, promise) are followed by 'to + bare infinitive', not 'to + gerund'. 'Refusal to attending' wrongly adds -ing after 'to'. Always: refusal to do, decision to go, intention to leave."
+    },
+    {
+      "question": "I was delighted to get an ___ (spend the holidays - them - Scotland)",
+      "options": [
+        "invitation to spend the holidays with them in Scotland",
+        "invitation that I spend the holidays",
+        "invitation spending the holidays",
+        "invitation for spending"
+      ],
+      "correctAnswer": 0,
+      "hint": "Use a to-infinitive after 'invitation'.",
+      "explanation": "<strong>Answer: invitation to spend the holidays with them in Scotland</strong><br>Use a to-infinitive after 'invitation'. The grammatical signals in this sentence — the key words, connectors, or context — require this specific form. Look for these signals to make the same choice independently."
+    },
+    {
+      "type": "fill",
+      "question": "The doctors expressed ___ that the patient would make a full recovery.",
+      "answer": "confidence",
+      "acceptable": [
+        "hope",
+        "concern",
+        "doubt",
+        "certainty",
+        "optimism"
+      ],
+      "hint": "A reporting adjective-to-noun conversion: 'They were confident' → 'They expressed confidence'.",
+      "explanation": "<strong>Answer: confidence / hope / optimism</strong><br>Reporting with nouns: 'expressed + noun' conveys attitude. Key reporting nouns: confidence (that), doubt (about/that), concern (about/that), hope (that), certainty (that), belief (that), insistence (that). These can replace clause structures: 'She was confident' → 'She expressed confidence'."
+    },
+    {
+      "question": "At the end the writers suggest when it is appropriate to correct students' grammar mistakes. -> The writers end with ___",
+      "options": [
+        "suggestions as to when it is appropriate to correct students' grammar mistakes.",
+        "suggestions when it is appropriate.",
+        "suggestions about when appropriate.",
+        "suggestions when to correct."
+      ],
+      "correctAnswer": 0,
+      "hint": "Noun + as to + wh-word.",
+      "explanation": "<strong>Answer: suggestions as to when it is appropriate to correct students' grammar mistakes.</strong><br>Noun + as to + wh-word. "
+    },
+    {
+      "question": "People have argued a great deal about how to define poverty. -> There has been ___",
+      "options": [
+        "argument as to how to define poverty.",
+        "an argument about how defining poverty.",
+        "arguments how to define poverty.",
+        "argument that how poverty is defined."
+      ],
+      "correctAnswer": 0,
+      "hint": "Noun + as to + wh-clause.",
+      "explanation": "<strong>Answer: argument as to how to define poverty.</strong><br>Noun + as to + wh-clause. "
+    }
+  ]
+}

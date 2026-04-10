@@ -1,0 +1,222 @@
+{
+  "id": 26,
+  "title": "Wh-questions with who, whom, which, how and whose",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Who vs Whom",
+      "content": "\n            <div class=\"web-text\">In wh-questions, <strong>who</strong> is usually the subject and <strong>whom</strong> is usually the object. <strong>Whom</strong> is more formal than <strong>who</strong>:</div>\n            <div class=\"web-example\">\n                <span>• <strong>Who</strong> owns that car? (subject)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>Who</strong> did you meet? (object)</span>\n            </div>\n            <div class=\"web-text\"><strong>Whom</strong> is used as a formal alternative to <strong>who</strong> as object, and also directly after prepositions:</div>\n            <div class=\"web-example\">\n                <span>• <strong>Whom</strong> did you meet? (formal)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• To <strong>whom</strong> were you talking? (formal)</span>\n            </div>\n        "
+    },
+    {
+      "id": "B",
+      "title": "Which vs Who/What",
+      "content": "\n            <div class=\"web-text\"><strong>Which</strong> is used to refer to people or things when we want to identify one of a group:</div>\n            <div class=\"web-example\">\n                <span>• '<strong>Which</strong> is your brother?' 'The one next to Luka.' (talking about a photograph)</span>\n            </div>\n            <div class=\"web-text\">We can use <strong>which</strong> instead of <strong>who</strong> to talk about particular classes of people:</div>\n            <div class=\"web-example\">\n                <span>• <strong>Which</strong> do you think earns more, a teacher or a police officer? (<em>or</em> <strong>Who</strong> do you think …?)</span>\n            </div>\n            <div class=\"web-text\">We usually use <strong>which</strong>, rather than <strong>who</strong> or <strong>what</strong>, in questions before <strong>one(s)</strong> and <strong>of</strong>:</div>\n            <div class=\"web-example\">\n                <span>• <strong>Which one</strong> do you think I should choose?</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>Which of</strong> you would like to go first?</span>\n            </div>\n        "
+    },
+    {
+      "id": "C",
+      "title": "Singular and Plural verbs",
+      "content": "\n            <div class=\"web-text\">When we use <strong>who</strong> or <strong>what</strong> as subjects, the verb that follows is usually singular, even if a plural answer is expected:</div>\n            <div class=\"web-example\">\n                <span>• <strong>What</strong> <em>is</em> there to see in the town? (expects an answer giving a number of things to see)</span>\n            </div>\n            <div class=\"web-text\">However, the verb can be plural in echo questions (see Unit 27E) or when <strong>who</strong> and <strong>what</strong> function as complements:</div>\n            <div class=\"web-example\">\n                <span>• <strong>Who</strong> <em>are</em> those people over there?</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>What</strong> <em>are</em> the consequences of the decision?</span>\n            </div>\n        "
+    },
+    {
+      "id": "D",
+      "title": "How or what?",
+      "content": "\n            <div class=\"web-text\">Compare <strong>how</strong> and <strong>what</strong>:</div>\n            <div class=\"web-example\">\n                <span>• <strong>How</strong> was the journey? (asking a general opinion)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>What</strong> was the journey <strong>like</strong>? (asking a general opinion)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>How</strong> is your brother? (asking about general health)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>What</strong> do you <strong>like about</strong> the job? (asking for details)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>What</strong>'s it <strong>called</strong>? (asking about a name)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>How / What about</strong> a swim? (making a suggestion)</span>\n            </div>\n        "
+    },
+    {
+      "id": "E",
+      "title": "Whose",
+      "content": "\n            <div class=\"web-text\">We can use <strong>whose</strong> to ask about the person that owns or is responsible for something. <strong>Whose</strong> can be used either before a verb (as a pronoun):</div>\n            <div class=\"web-example\">\n                <span>• <strong>Whose</strong> are these boots?</span>\n            </div>\n            <div class=\"web-text\">or before a noun or noun phrase (as a determiner):</div>\n            <div class=\"web-example\">\n                <span>• <strong>Whose boots</strong> are these?</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• She asked me <strong>whose coat</strong> I was wearing.</span>\n            </div>\n            <div class=\"web-text\">In formal contexts we can use a preposition before <strong>whose</strong>:</div>\n            <div class=\"web-example\">\n                <span>• In <strong>whose</strong> desk was it found? (less formally <strong>Whose</strong> desk was it found <em>in</em>?)</span>\n            </div>\n        "
+    }
+  ],
+  "exercises": [
+    {
+      "question": "To ___ should the documents be sent?",
+      "options": [
+        "whom",
+        "who",
+        "Both whom and who",
+        "whose"
+      ],
+      "correctAnswer": 0,
+      "hint": "Formal context with preposition before the wh-word.",
+      "explanation": "<strong>Answer: whom</strong><br>Formal context with preposition before the wh-word. "
+    },
+    {
+      "question": "___ of you is Dr Hansen? I have a message for you.",
+      "options": [
+        "Which",
+        "Who",
+        "Both Which and Who",
+        "Whom"
+      ],
+      "correctAnswer": 0,
+      "hint": "Identifying a person from a group.",
+      "explanation": "<strong>Answer: Which</strong><br>Use 'which' when choosing from a defined set or group. Use 'who' when asking about any person in general. 'Which of you' is correct because you're identifying one person from a specific, limited group."
+    },
+    {
+      "question": "A: Is your sister at home? B: What / ___ one do you want to speak to?",
+      "options": [
+        "Which",
+        "Who",
+        "Both Which and Who",
+        "Whose"
+      ],
+      "correctAnswer": 0,
+      "hint": "Which one is used when choosing between a limited set.",
+      "explanation": "<strong>Answer: Which</strong><br>Which one is used when choosing between a limited set. "
+    },
+    {
+      "type": "correct",
+      "sentence": "Who did you speak with him about the problem?",
+      "correction": "Who did you speak to about the problem?",
+      "acceptable": [
+        "Who did you speak to about the problem?",
+        "Whom did you speak to about the problem?"
+      ],
+      "hint": "Remove 'him' — the question word already represents the person.",
+      "explanation": "<strong>Answer: Who did you speak to about the problem?</strong><br>In a wh-question, the question word replaces the person or thing you are asking about. 'Who did you speak to about the problem?' — here 'who' represents the person. Adding 'him' duplicates the reference, which is incorrect."
+    },
+    {
+      "question": "___ will captain the team if Zeinab isn't available?",
+      "options": [
+        "Who",
+        "Which",
+        "Both Who and Which",
+        "Whom"
+      ],
+      "correctAnswer": 0,
+      "hint": "Subject of the sentence asking about a person.",
+      "explanation": "<strong>Answer: Who</strong><br>Use 'who' when asking about the subject (the person performing the action). 'Whom' is used for the object (the person receiving the action). In informal English, 'who' is used for both."
+    },
+    {
+      "question": "What ___ those cakes made from? (be)",
+      "options": [
+        "is",
+        "are",
+        "Both is and are",
+        "has"
+      ],
+      "correctAnswer": 0,
+      "hint": "Who/What as subject usually takes a singular verb.",
+      "explanation": "<strong>Answer: is</strong><br>Who/What as subject usually takes a singular verb. "
+    },
+    {
+      "question": "Who ___ you for Maths and English?",
+      "options": [
+        "teaches",
+        "teach",
+        "teaching",
+        "is teaching"
+      ],
+      "correctAnswer": 0,
+      "hint": "Who as subject usually takes a singular verb.",
+      "explanation": "<strong>Answer: teaches</strong><br>Who as subject usually takes a singular verb. "
+    },
+    {
+      "type": "correct",
+      "sentence": "I don't know where is the nearest bus stop.",
+      "correction": "I don't know where the nearest bus stop is.",
+      "acceptable": [
+        "I don't know where the nearest bus stop is."
+      ],
+      "hint": "Indirect questions use statement word order: where + subject + verb (not inverted).",
+      "explanation": "<strong>Answer: where the nearest bus stop is</strong><br>In direct questions, the verb comes before the subject: 'Where IS the bus stop?' In indirect questions (after 'I don't know', 'Could you tell me', 'I wonder'), use statement word order: 'where the bus stop IS'. This is one of the most common word-order errors in English."
+    },
+    {
+      "question": "'___ do you like about your new job?' 'It's never boring.'",
+      "options": [
+        "What",
+        "How",
+        "Both What and How",
+        "Why"
+      ],
+      "correctAnswer": 0,
+      "hint": "Asking for specific details/preferences.",
+      "explanation": "<strong>Answer: What</strong><br>Use 'what' when asking about things in general or asking for details. Use 'which' when choosing from a defined set. 'What do you like' asks about preferences in general."
+    },
+    {
+      "question": "'___ about a coffee?' 'I'd love one.'",
+      "options": [
+        "How",
+        "What",
+        "How or What",
+        "Why"
+      ],
+      "correctAnswer": 2,
+      "hint": "Both 'How about' and 'What about' are used for suggestions.",
+      "explanation": "<strong>Answer: How or What</strong><br>Both 'How about' and 'What about' are used for suggestions. "
+    },
+    {
+      "question": "'___'s your boss like?' 'She works us really hard.'",
+      "options": [
+        "What",
+        "How",
+        "Both What and How",
+        "Who"
+      ],
+      "correctAnswer": 0,
+      "hint": "Asking for general character/personality description.",
+      "explanation": "<strong>Answer: What</strong><br>Asking for general character/personality description. "
+    },
+    {
+      "type": "reorder",
+      "prompt": "Form a question asking about possession:",
+      "tokens": [
+        "whose",
+        "laptop",
+        "is",
+        "this",
+        "on",
+        "the",
+        "desk"
+      ],
+      "correctOrder": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "hint": "Whose + noun + auxiliary + subject + location",
+      "explanation": "<strong>Answer: Whose laptop is this on the desk?</strong><br>'Whose' as a determiner before a noun: 'Whose laptop?' not 'Whose is the laptop?' The question structure is: Whose + noun + auxiliary (is/are/was/were) + subject. Compare: 'Whose is this?' (pronoun use, asking about an object already pointed to) vs 'Whose laptop is this?' (determiner use)."
+    },
+    {
+      "question": "___ caravan were you staying in? (Correction of: Who's)",
+      "options": [
+        "Whose",
+        "Which",
+        "Both Whose and Which",
+        "Who"
+      ],
+      "correctAnswer": 0,
+      "hint": "Possessive interrogative.",
+      "explanation": "<strong>Answer: Whose</strong><br>'Whose' asks about possession or belonging. It can be used as a determiner ('Whose car?') or as a pronoun ('Whose is this?'). It replaces 'his/her/their + noun' in questions."
+    },
+    {
+      "question": "He asked us ___ car was parked in front of his house. (Correction of: who's)",
+      "options": [
+        "whose",
+        "which",
+        "Both whose and which",
+        "who"
+      ],
+      "correctAnswer": 0,
+      "hint": "Possessive determiner in indirect question.",
+      "explanation": "<strong>Answer: whose</strong><br>In indirect questions, 'whose' functions as a possessive determiner: 'He asked whose car was parked there.' The word order in indirect questions is subject + verb (not inverted)."
+    },
+    {
+      "question": "___ going with you to Canada? (Correction of: Whose)",
+      "options": [
+        "Who's",
+        "Who is",
+        "Both Who's and Who is",
+        "Who"
+      ],
+      "correctAnswer": 2,
+      "hint": "Who is (subject + auxiliary).",
+      "explanation": "<strong>Answer: Both Who's and Who is</strong><br>'Who's' is a contraction of 'who is'. 'Who is going with you?' can be contracted to 'Who's going with you?' Both 'who's' and 'who is' are correct. Note: 'whose' is the possessive form."
+    }
+  ]
+}

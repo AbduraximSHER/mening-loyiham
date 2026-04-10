@@ -1,0 +1,119 @@
+{
+  "id": 58,
+  "title": "The Environment and Climate",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Environmental problems",
+      "content": "<div class=\"web-text\">Key vocabulary for discussing environmental challenges:</div><div class=\"web-example\"><span>• <strong>carbon footprint</strong> — total greenhouse gases produced by an individual. <em>Flying frequently increases your carbon footprint significantly.</em></span></div><div class=\"web-example\"><span>• <strong>deforestation</strong> — clearing forests on a large scale. <em>Deforestation in the Amazon threatens biodiversity.</em></span></div><div class=\"web-example\"><span>• <strong>pollution</strong> — contamination of the environment. <em>Air pollution in major cities causes serious health problems.</em></span></div><div class=\"web-example\"><span>• <strong>biodiversity</strong> — the variety of life in an ecosystem. <em>Biodiversity loss weakens entire ecosystems.</em></span></div><div class=\"web-example\"><span>• <strong>drought</strong> — a prolonged period without rain. <em>The severe drought destroyed most of the harvest.</em></span></div>"
+    },
+    {
+      "id": "B",
+      "title": "Solutions and sustainability",
+      "content": "<div class=\"web-text\">Vocabulary for environmental solutions:</div><div class=\"web-example\"><span>• <strong>renewable energy</strong> — energy from sources that don't run out. <em>Solar and wind are the most popular forms of renewable energy.</em></span></div><div class=\"web-example\"><span>• <strong>sustainable</strong> — able to continue without damaging the environment. <em>Sustainable farming practices protect the soil.</em></span></div><div class=\"web-example\"><span>• <strong>conservation</strong> — protection of natural resources. <em>Wildlife conservation efforts have saved many species.</em></span></div><div class=\"web-example\"><span>• <strong>carbon neutral</strong> — having a net zero carbon footprint. <em>The company aims to be carbon neutral by 2030.</em></span></div><div class=\"web-example\"><span>• <strong>ecosystem</strong> — a community of living organisms interacting with their environment. <em>Coral reefs are one of the richest ecosystems on Earth.</em></span></div>"
+    },
+    {
+      "id": "C",
+      "title": "Climate change",
+      "content": "<div class=\"web-text\">Words specifically related to climate change:</div><div class=\"web-example\"><span>• <strong>greenhouse effect</strong> — warming caused by gases trapping heat. <em>The greenhouse effect is intensifying due to human activity.</em></span></div><div class=\"web-example\"><span>• <strong>emissions</strong> — gases released into the atmosphere. <em>Countries are trying to reduce carbon emissions.</em></span></div><div class=\"web-example\"><span>• <strong>glacier</strong> — a large body of ice that moves slowly. <em>Glaciers are melting at an alarming rate.</em></span></div><div class=\"web-example\"><span>• <strong>fossil fuels</strong> — coal, oil, and gas formed from ancient organisms. <em>Burning fossil fuels is the main cause of global warming.</em></span></div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "The total amount of greenhouse gases produced by a person's activities is their:",
+      "options": [
+        "emissions",
+        "reservoir",
+        "carbon footprint",
+        "ecosystem"
+      ],
+      "correctAnswer": 2,
+      "hint": "It measures your environmental impact.",
+      "explanation": "Your <strong>carbon footprint</strong> is the amount of carbon dioxide released due to your activities."
+    },
+    {
+      "question": "Energy from sources like the sun and wind that won't run out is:",
+      "options": [
+        "fossil",
+        "precipitation",
+        "renewable energy",
+        "sustainable"
+      ],
+      "correctAnswer": 2,
+      "hint": "The sources naturally replenish themselves.",
+      "explanation": "<strong>Renewable energy</strong> comes from natural sources that are constantly replenished."
+    },
+    {
+      "question": "The variety of different species in a particular habitat is:",
+      "options": [
+        "ecosystem",
+        "contamination",
+        "biodiversity",
+        "sustainability"
+      ],
+      "correctAnswer": 2,
+      "hint": "The more species, the richer this is.",
+      "explanation": "<strong>Biodiversity</strong> is the variety of plant and animal life in a particular habitat."
+    },
+    {
+      "question": "The large-scale cutting down of forests is called:",
+      "options": [
+        "pollution",
+        "reservoir",
+        "fossil",
+        "deforestation"
+      ],
+      "correctAnswer": 3,
+      "hint": "Trees are removed on a massive scale.",
+      "explanation": "<strong>Deforestation</strong> is the clearing of a wide area of trees."
+    },
+    {
+      "question": "Coal, oil, and natural gas are known collectively as:",
+      "options": [
+        "glaciers",
+        "renewable",
+        "emissions",
+        "fossil fuels"
+      ],
+      "correctAnswer": 3,
+      "hint": "They were formed millions of years ago.",
+      "explanation": "<strong>Fossil fuels</strong> are natural fuels formed in the geological past from the remains of living organisms."
+    },
+    {
+      "question": "Having a net zero carbon output is being:",
+      "options": [
+        "sustainable",
+        "biodiverse",
+        "carbon neutral",
+        "renewable"
+      ],
+      "correctAnswer": 2,
+      "hint": "Your emissions equal zero overall.",
+      "explanation": "<strong>Carbon neutral</strong> means making no net release of carbon dioxide to the atmosphere."
+    },
+    {
+      "question": "A long period without rainfall that damages crops is a:",
+      "options": [
+        "glacier",
+        "drought",
+        "emission",
+        "pollution"
+      ],
+      "correctAnswer": 1,
+      "hint": "The land becomes extremely dry.",
+      "explanation": "A <strong>drought</strong> is a prolonged period of abnormally low rainfall leading to a shortage of water."
+    },
+    {
+      "question": "The protection and preservation of natural habitats is:",
+      "options": [
+        "emission",
+        "pollution",
+        "conservation",
+        "habitat"
+      ],
+      "correctAnswer": 2,
+      "hint": "Keeping nature safe for the future.",
+      "explanation": "<strong>Conservation</strong> is the protection of plants, animals, and natural areas."
+    }
+  ]
+}

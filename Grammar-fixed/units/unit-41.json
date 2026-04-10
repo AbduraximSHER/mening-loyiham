@@ -1,0 +1,118 @@
+{
+  "id": 41,
+  "title": "Agreement between subject and verb 2",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Quantifiers and pronouns with singular or plural verbs",
+      "content": "<div class=\"web-text\">With <strong>any of, each of, either of, neither of</strong>, or <strong>none of</strong> and a <em>plural noun / pronoun</em> we can use a singular or plural verb. (We use a singular verb in formal written English.)</div>\n            <div class=\"web-example\">\n                <span>• I don't think <strong>any of</strong> them <em>knows</em> (or <em>know</em>) where the money is hidden.</span>\n            </div>\n            <div class=\"web-text\">With <strong>a / the majority of, a number of, a lot of, plenty of, all (of)</strong>, or <strong>some (of)</strong> and a <em>plural noun / pronoun</em> we use a plural verb. (We use a singular verb with <strong>the number of</strong>.)</div>\n            <div class=\"web-example\">\n                <span>• <strong>A number of</strong> refugees <em>have</em> been turned back at the border.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>The number of</strong> books in the library <em>has</em> risen to over five million.</span>\n            </div>\n            <div class=\"web-text\">After <strong>one of</strong> and a <em>plural noun / pronoun</em> we use a singular verb. However, after <strong>one of + plural noun / pronoun + who</strong> we can often use either a singular or plural verb. (A plural verb is more formal.)</div>\n            <div class=\"web-example\">\n                <span>• He's <strong>one of</strong> those teachers who <em>insist / insists</em> on pupils sitting silently in class.</span>\n            </div>\n            <div class=\"web-text\">With <strong>any of, none of, the majority of, a lot of, plenty of, all (of), some (of)</strong> and an <em>uncountable noun</em> we use a singular verb.</div>\n            <div class=\"web-example\">\n                <span>• <strong>All</strong> the furniture <em>was</em> destroyed in the fire.</span>\n            </div>\n            <div class=\"web-text\">With <strong>every</strong> or <strong>each</strong> and a <em>singular noun</em> or noun phrase with <strong>and</strong>, we use a singular verb.</div>\n            <div class=\"web-example\">\n                <span>• <strong>Every</strong> boy and girl <em>takes</em> part in the activity.</span>\n            </div>\n            <div class=\"web-text\">With <strong>everyone, everybody, everything</strong> (and similar words beginning <strong>any-, some-</strong> and <strong>no-</strong>) we use a singular verb.</div>\n            <div class=\"web-example\">\n                <span>• Practically <strong>everyone</strong> <em>thinks</em> that Phil should be given the job.</span>\n            </div>"
+    },
+    {
+      "id": "B",
+      "title": "Joined by and",
+      "content": "<div class=\"web-text\">When a subject has two or more items joined by <strong>and</strong>, we usually use a plural verb:</div>\n            <div class=\"web-example\">\n                <span>• <strong>Ingrid and Tobias</strong> <em>are</em> moving back to Australia.</span>\n            </div>\n            <div class=\"web-text\">However, phrases connected by <strong>and</strong> can also be followed by singular verbs if we think of them as making up a single item:</div>\n            <div class=\"web-example\">\n                <span>• <strong>The lorry, its cargo and passengers</strong> <em>weighs</em> around 35 tonnes. (or ... <em>weigh</em> ...)</span>\n            </div>"
+    },
+    {
+      "id": "C",
+      "title": "Joined by (either) ... or ... / (neither) ... nor ...",
+      "content": "<div class=\"web-text\">When a subject is made up of two or more items joined by <strong>(either) ... or ...</strong> or <strong>(neither) ... nor ...</strong> we use a singular verb if the last item is singular (although a plural verb is sometimes used in informal English), and a plural verb if the last item is plural:</div>\n            <div class=\"web-example\">\n                <span>• Either <strong>the station or the cinema</strong> <em>is</em> a good place to meet. (or ... <em>are</em> ... in informal English)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• The President or <strong>his representatives</strong> <em>are</em> to attend the meeting.</span>\n            </div>\n            <div class=\"web-text\">If the last item is singular and previous item plural, we can use a singular or plural verb:</div>\n            <div class=\"web-example\">\n                <span>• Either the teachers or <strong>the principal</strong> <em>is</em> to blame for the accident. (or ... <em>are</em> to blame ...)</span>\n            </div>"
+    },
+    {
+      "id": "D",
+      "title": "There + be / have",
+      "content": "<div class=\"web-text\">In <strong>there + be / have</strong> we use a singular verb form with singular and uncountable nouns and a plural form with plural nouns. However, in informal speech we often use a shortened singular form of <strong>be</strong> or <strong>have</strong> (= There's) with plural nouns:</div>\n            <div class=\"web-example\">\n                <span>• Over the last few years <strong>there <em>have</em></strong> been many improvements in car safety.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>There'<em>s</em></strong> been lots of good films on lately. (or <strong>There'<em>ve</em></strong> been ...)</span>\n            </div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "I'd be surprised if any of my children ___ my birthday.",
+      "options": [
+        "remember / remembers",
+        "remembering",
+        "was remembered",
+        "has remembered"
+      ],
+      "correctAnswer": 0,
+      "hint": "With 'any of' + plural noun, we can use a plural or singular verb (singular is more formal).",
+      "explanation": "<strong>Answer: remember / remembers</strong><br>With 'any of' + plural noun, we can use a plural or singular verb (singular is more formal). "
+    },
+    {
+      "type": "correct",
+      "sentence": "The majority of the work have already been completed.",
+      "correction": "The majority of the work has already been completed.",
+      "acceptable": [
+        "The majority of the work has already been completed."
+      ],
+      "hint": "'The majority of' + uncountable noun → singular verb.",
+      "explanation": "<strong>Answer: The majority of the work has been completed</strong><br>'The majority of' + uncountable noun takes a singular verb (because the noun is uncountable). With a countable plural noun, the verb is usually plural: 'The majority of students were happy'. But with uncountable nouns (work, information, money), use singular."
+    },
+    {
+      "question": "It is estimated that the number of ___ of the flooding ___ 100,000.",
+      "options": [
+        "victims ... exceeds",
+        "victims ... exceed",
+        "victim ... exceeds",
+        "victim ... exceed"
+      ],
+      "correctAnswer": 0,
+      "hint": "Use 'the number of' + plural noun + singular verb.",
+      "explanation": "<strong>Answer: victims ... exceeds</strong><br>Use 'the number of' + plural noun + singular verb. "
+    },
+    {
+      "type": "correct",
+      "sentence": "Every student and teacher in the school are affected by the new rules.",
+      "correction": "Every student and teacher in the school is affected by the new rules.",
+      "acceptable": [
+        "Every student and teacher in the school is affected"
+      ],
+      "hint": "'Every + noun + and + noun' is grammatically singular.",
+      "explanation": "<strong>Answer: Every student and teacher is affected</strong><br>Despite 'and' joining two nouns, 'every + noun + and + every + noun' (or simply 'every A and B') takes a SINGULAR verb. 'Every' forces singularity. Similarly: 'Each student and teacher is responsible'. Compare: 'The students AND teachers are affected' (no 'every' = plural)."
+    },
+    {
+      "question": "Plenty of jobs ___ available, but no one ___ them because they're so poorly paid.",
+      "options": [
+        "are ... wants",
+        "is ... want",
+        "are ... want",
+        "is ... wants"
+      ],
+      "correctAnswer": 0,
+      "hint": "'Plenty of' + plural noun takes a plural verb. 'No one' takes a singular verb.",
+      "explanation": "<strong>Answer: are ... wants</strong><br>'Plenty of' + plural noun takes a plural verb. 'No one' takes a singular verb. "
+    },
+    {
+      "type": "correct",
+      "sentence": "Not only the students but also the teacher were surprised.",
+      "correction": "Not only the students but also the teacher was surprised.",
+      "acceptable": [
+        "but also the teacher was surprised"
+      ],
+      "hint": "With 'not only...but also', the verb agrees with the nearest subject ('teacher' = singular).",
+      "explanation": "<strong>Answer: the teacher was surprised</strong><br>'Not only...but also' follows the proximity rule: the verb agrees with the subject nearest to it. Here, 'the teacher' (singular) is nearest to the verb 'was'. If the order were reversed ('Not only the teacher but also the students'), the verb would be 'were'."
+    },
+    {
+      "question": "The majority of those questioned ___ that the government's economic policies have failed.",
+      "options": [
+        "think",
+        "thinks",
+        "thinking",
+        "thought"
+      ],
+      "correctAnswer": 0,
+      "hint": "'The majority of' + plural noun takes a plural verb.",
+      "explanation": "<strong>Answer: think</strong><br>'The majority of' + plural noun takes a plural verb. "
+    },
+    {
+      "question": "Professor Smith and Dr Peters ___ that the wreck of the ship and its cargo ___ a danger to local people fishing near the island.",
+      "options": [
+        "claim ... constitutes / constitute",
+        "claims ... constitute",
+        "claim ... constitute",
+        "claims ... constitutes"
+      ],
+      "correctAnswer": 0,
+      "hint": "Two items joined by 'and' take a plural verb ('claim'). A compound subject thought of as a single unit ('wreck and its cargo') can take a singular or plural verb.",
+      "explanation": "<strong>Answer: claim ... constitutes / constitute</strong><br>Two items joined by 'and' take a plural verb ('claim'). A compound subject thought of as a single unit ('wreck and its cargo') can take a singular or plural verb. "
+    }
+  ]
+}

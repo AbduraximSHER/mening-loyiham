@@ -1,0 +1,119 @@
+{
+  "id": 56,
+  "title": "Health and Well-being",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Physical health",
+      "content": "<div class=\"web-text\">Advanced vocabulary for discussing health conditions and treatment:</div><div class=\"web-example\"><span>• <strong>chronic</strong> — lasting for a long time. <em>She suffers from chronic back pain.</em></span></div><div class=\"web-example\"><span>• <strong>contagious</strong> — spread from person to person. <em>The flu is highly contagious in winter.</em></span></div><div class=\"web-example\"><span>• <strong>diagnosis</strong> — identification of an illness. <em>The doctor's diagnosis was surprisingly accurate.</em></span></div><div class=\"web-example\"><span>• <strong>remedy</strong> — a treatment for illness. <em>Hot tea with honey is a popular home remedy for colds.</em></span></div><div class=\"web-example\"><span>• <strong>symptom</strong> — a sign of illness. <em>Fatigue is a common symptom of many conditions.</em></span></div>"
+    },
+    {
+      "id": "B",
+      "title": "Mental health",
+      "content": "<div class=\"web-text\">Discussing mental well-being requires sensitive and precise vocabulary:</div><div class=\"web-example\"><span>• <strong>anxiety</strong> — persistent worry and unease. <em>Anxiety about exams is very common among students.</em></span></div><div class=\"web-example\"><span>• <strong>therapy</strong> — treatment through conversation or activity. <em>Cognitive behavioural therapy has proven very effective.</em></span></div><div class=\"web-example\"><span>• <strong>mindfulness</strong> — awareness of the present moment. <em>Practising mindfulness can reduce daily stress levels.</em></span></div><div class=\"web-example\"><span>• <strong>well-being</strong> — the state of being comfortable and healthy. <em>Companies are investing more in employee well-being.</em></span></div><div class=\"web-example\"><span>• <strong>stigma</strong> — negative attitudes towards something. <em>There is still stigma around mental health in many cultures.</em></span></div>"
+    },
+    {
+      "id": "C",
+      "title": "Lifestyle and prevention",
+      "content": "<div class=\"web-text\">Words related to staying healthy:</div><div class=\"web-example\"><span>• <strong>sedentary</strong> — involving much sitting and little exercise. <em>A sedentary lifestyle increases health risks.</em></span></div><div class=\"web-example\"><span>• <strong>balanced diet</strong> — eating a healthy variety of foods. <em>A balanced diet includes fruit, vegetables, and protein.</em></span></div><div class=\"web-example\"><span>• <strong>immune system</strong> — the body's defence against disease. <em>Regular exercise strengthens your immune system.</em></span></div><div class=\"web-example\"><span>• <strong>holistic</strong> — treating the whole person, not just symptoms. <em>She prefers a holistic approach to health.</em></span></div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "A condition that lasts for a very long time is described as:",
+      "options": [
+        "chronic",
+        "symptomatic",
+        "convalescent",
+        "preventative"
+      ],
+      "correctAnswer": 0,
+      "hint": "The opposite of short-term or acute.",
+      "explanation": "<strong>Chronic</strong> means persisting for a long time or constantly recurring."
+    },
+    {
+      "question": "A lifestyle with too much sitting and little physical activity is:",
+      "options": [
+        "sedentary",
+        "debilitating",
+        "balanced",
+        "acute"
+      ],
+      "correctAnswer": 0,
+      "hint": "Office workers often have this type of lifestyle.",
+      "explanation": "<strong>Sedentary</strong> means tending to spend much time seated; inactive."
+    },
+    {
+      "question": "Negative attitudes or shame associated with a condition is called:",
+      "options": [
+        "stigma",
+        "therapy",
+        "preventative",
+        "anxiety"
+      ],
+      "correctAnswer": 0,
+      "hint": "It prevents people from seeking help.",
+      "explanation": "<strong>Stigma</strong> is a mark of disgrace associated with a particular condition or quality."
+    },
+    {
+      "question": "An approach that considers the whole person, not just symptoms, is:",
+      "options": [
+        "symptomatic",
+        "preventative",
+        "debilitating",
+        "holistic"
+      ],
+      "correctAnswer": 3,
+      "hint": "Body, mind, and spirit together.",
+      "explanation": "<strong>Holistic</strong> means relating to the treatment of the whole person, including mental and social factors."
+    },
+    {
+      "question": "The body's natural defence system against disease is the:",
+      "options": [
+        "remedy",
+        "immune system",
+        "palliative",
+        "balanced diet"
+      ],
+      "correctAnswer": 1,
+      "hint": "It fights off infections.",
+      "explanation": "The <strong>immune system</strong> is a network of cells and organs that defends the body against infection."
+    },
+    {
+      "question": "Being focused on the present moment without judgement is:",
+      "options": [
+        "mindfulness",
+        "convalescent",
+        "anxiety",
+        "therapy"
+      ],
+      "correctAnswer": 0,
+      "hint": "A popular meditation practice.",
+      "explanation": "<strong>Mindfulness</strong> is a mental state achieved by focusing on the present moment calmly."
+    },
+    {
+      "question": "A disease that spreads from one person to another is:",
+      "options": [
+        "immune",
+        "convalescent",
+        "contagious",
+        "acute"
+      ],
+      "correctAnswer": 2,
+      "hint": "You can catch it from someone else.",
+      "explanation": "<strong>Contagious</strong> means spread from one person to another by direct or indirect contact."
+    },
+    {
+      "question": "The identification of an illness by a doctor is called a:",
+      "options": [
+        "diagnosis",
+        "remedy",
+        "symptom",
+        "therapy"
+      ],
+      "correctAnswer": 0,
+      "hint": "The doctor tells you what's wrong.",
+      "explanation": "A <strong>diagnosis</strong> is the identification of the nature of an illness by examination of the symptoms."
+    }
+  ]
+}

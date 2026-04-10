@@ -1,0 +1,156 @@
+{
+  "id": 33,
+  "title": "Reporting statements: that-clauses",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Reporting with that-clauses",
+      "content": "<div class=\"web-text\">When we report what someone said or thought, we often use a <strong>that-clause</strong> after a reporting verb:</div>\n            <div class=\"web-example\">\n                <span>• He <strong>said (that)</strong> he was enjoying his new job.</span>\n            </div>\n            <div class=\"web-text\">Also: <strong>accept, admit, agree, announce, claim, complain, confess, explain, mention, promise, reply, suggest</strong>.</div>\n            <div class=\"web-text\">Some of these verbs must have an <strong>object + that-clause</strong> in the active:</div>\n            <div class=\"web-example\">\n                <span>• She <strong>reminded me that</strong> I had to be there by 10. (not She reminded that ...)</span>\n            </div>\n            <div class=\"web-text\">Also: <strong>advise, assure, inform, notify, persuade, promise, reassure, tell, warn</strong>.</div>"
+    },
+    {
+      "id": "B",
+      "title": "Verbs with \"to\" + object + that-clause",
+      "content": "<div class=\"web-text\">With other verbs we can include an object, but we must use the preposition <strong>to</strong> before it:</div>\n            <div class=\"web-example\">\n                <span>• I <strong>mentioned to</strong> <em>them that</em> there was a problem. (not I mentioned them that ...)</span>\n            </div>\n            <div class=\"web-text\">Also: <strong>admit, announce, complain, confess, explain, mention, point out, propose, prove, reply, say, suggest, whisper</strong>.</div>"
+    },
+    {
+      "id": "C",
+      "title": "Reporting with other patterns",
+      "content": "<div class=\"web-text\">We can also report what someone says using other patterns:</div>\n            <div class=\"web-example\">\n                <span>• <strong>verb + to-infinitive</strong>: He <strong>offered to help</strong>. / She <strong>promised to come</strong>.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>verb + object + to-infinitive</strong>: They <strong>told us to wait</strong>. / I <strong>asked him to go</strong>.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>verb + -ing</strong>: He <strong>suggested going</strong> to the cinema. / She <strong>denied stealing</strong> the money.</span>\n            </div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "The police ___ that they had captured the suspect.",
+      "options": [
+        "announced",
+        "told",
+        "both",
+        "neither"
+      ],
+      "correctAnswer": 0,
+      "hint": "Announce doesn't need an object before the that-clause; told does.",
+      "explanation": "<strong>Answer: announced</strong><br>Announce doesn't need an object before the that-clause; told does. "
+    },
+    {
+      "type": "correct",
+      "sentence": "She said me that she would be late for the meeting.",
+      "correction": "She told me that she would be late for the meeting.",
+      "acceptable": [
+        "She told me that she would be late"
+      ],
+      "hint": "'Say' does not take a personal object — 'tell' does. 'Said me' is always wrong.",
+      "explanation": "<strong>Answer: She told me that she would be late</strong><br>'Say' and 'tell' are the two main reporting verbs but they have different structures: SAY: say (that)... / say something — no personal object before 'that'. TELL: tell someone (that)... — must have a personal object. 'Said me that' is always wrong; use 'told me that'."
+    },
+    {
+      "question": "She ___ me that she would be late.",
+      "options": [
+        "said",
+        "informed",
+        "both",
+        "neither"
+      ],
+      "correctAnswer": 1,
+      "hint": "Inform needs an object; said doesn't take an object directly before the that-clause.",
+      "explanation": "<strong>Answer: informed</strong><br>Inform needs an object; said doesn't take an object directly before the that-clause. "
+    },
+    {
+      "type": "correct",
+      "sentence": "He told that the meeting had been cancelled.",
+      "correction": "He said that the meeting had been cancelled.",
+      "acceptable": [
+        "He said that the meeting had been cancelled.",
+        "He told us that the meeting had been cancelled."
+      ],
+      "hint": "'Tell' must have a personal object: 'told us/me/them/her/him'. Without an object, use 'say'.",
+      "explanation": "<strong>Answer: He said that / He told us that</strong><br>'Tell' always requires a personal object before 'that': 'told me', 'told us', 'told them'. Without a personal object, use 'said'. You cannot say 'He told that...' — it must be 'He told someone that...'"
+    },
+    {
+      "question": "I ___ that I had made a mistake.",
+      "options": [
+        "confessed to them",
+        "confessed them",
+        "both",
+        "neither"
+      ],
+      "correctAnswer": 0,
+      "hint": "Confess requires 'to' before the person being confessed to.",
+      "explanation": "<strong>Answer: confessed to them</strong><br>Confess requires 'to' before the person being confessed to. The grammatical signals in this sentence — the key words, connectors, or context — require this specific form. Look for these signals to make the same choice independently."
+    },
+    {
+      "type": "correct",
+      "sentence": "They informed that the flight would be delayed by two hours.",
+      "correction": "They informed us that the flight would be delayed by two hours.",
+      "acceptable": [
+        "They informed us that",
+        "They informed passengers that",
+        "They told us that"
+      ],
+      "hint": "'Inform' requires a personal object before 'that' — like 'tell'.",
+      "explanation": "<strong>Answer: They informed us that</strong><br>Like 'tell', 'inform' and 'notify' require a personal object before 'that': 'informed us/me/passengers/the authorities'. 'Informed that' with no object is incorrect. Contrast with 'announced that', 'confirmed that', 'stated that' — these do not require an object."
+    },
+    {
+      "question": "He ___ that we should meet earlier.",
+      "options": [
+        "suggested to us",
+        "suggested us",
+        "both",
+        "neither"
+      ],
+      "correctAnswer": 0,
+      "hint": "Suggest takes 'to' + object + that-clause.",
+      "explanation": "<strong>Answer: suggested to us</strong><br>Suggest takes 'to' + object + that-clause. "
+    },
+    {
+      "type": "reorder",
+      "prompt": "Report what someone said using correct tense backshift:",
+      "tokens": [
+        "told",
+        "that",
+        "him",
+        "the",
+        "had",
+        "she",
+        "been",
+        "cancelled",
+        "meeting"
+      ],
+      "correctOrder": [
+        5,
+        0,
+        2,
+        1,
+        3,
+        8,
+        4,
+        6,
+        7
+      ],
+      "hint": "told + person + that + subject + past perfect passive",
+      "explanation": "<strong>Answer: She told him that the meeting had been cancelled</strong><br>Reported speech structure: reporting verb (told) + personal object (him) + that + reported clause. In the reported clause, 'has been cancelled' (present perfect passive) shifts back to 'had been cancelled' (past perfect passive). 'Told' always requires a personal object."
+    },
+    {
+      "question": "They ___ us to leave the building immediately.",
+      "options": [
+        "ordered",
+        "suggested",
+        "proposed",
+        "pointed out"
+      ],
+      "correctAnswer": 0,
+      "hint": "Order + object + to-infinitive.",
+      "explanation": "<strong>Answer: ordered</strong><br>Order + object + to-infinitive. This verb pattern requires a to-infinitive as its complement."
+    },
+    {
+      "question": "We ___ for another hour.",
+      "options": [
+        "agreed to wait",
+        "agreed waiting",
+        "both",
+        "neither"
+      ],
+      "correctAnswer": 0,
+      "hint": "Agree + to-infinitive.",
+      "explanation": "<strong>Answer: agreed to wait</strong><br>Agree + to-infinitive. This verb pattern requires a to-infinitive as its complement."
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "id": 34,
+  "title": "Verb + wh-clause",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Verbs followed by a wh-clause",
+      "content": "<div class=\"web-text\">Some verbs can be followed by a clause beginning with a <strong>wh-word</strong> (how, what, when, where, which, who, or why):</div>\n            <div class=\"web-example\">\n                <span>• That might <strong>explain why</strong> he's unhappy.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• I couldn't <strong>decide which</strong> train to catch.</span>\n            </div>\n            <div class=\"web-text\">Also: <strong>arrange, calculate, check, choose, debate, determine, discover, discuss, establish, find out, forget, guess, imagine, know, learn, notice, plan, realise, remember, say, see, talk about, think (about), understand, wonder</strong>.</div>\n            <div class=\"web-text\">Many of these can also be followed by a <strong>wh-clause (except 'why') + to-infinitive</strong>:</div>\n            <div class=\"web-example\">\n                <span>• Did you <strong>find out where to go</strong>? (but not ... find out why to go)</span>\n            </div>"
+    },
+    {
+      "id": "B",
+      "title": "Verbs requiring an object before the wh-clause",
+      "content": "<div class=\"web-text\">Some verbs must have an object before the <strong>wh-clause</strong>:</div>\n            <div class=\"web-example\">\n                <span>• She <strong>reminded me what</strong> (I had) to do.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• I <strong>told Linda how</strong> to get to my house.</span>\n            </div>\n            <div class=\"web-text\">Also: <strong>advise, inform, instruct, teach, warn</strong>. <strong>Ask</strong> and <strong>show</strong> often have an object, but not always.</div>"
+    },
+    {
+      "id": "C",
+      "title": "Whether vs If and That",
+      "content": "<div class=\"web-text\">We can use <strong>whether</strong> in a <strong>wh-clause</strong> to show choices. It has a similar meaning to 'if'. However, 'if' is never used before a <strong>to-infinitive</strong>:</div>\n            <div class=\"web-example\">\n                <span>• You have 14 days to <strong>decide whether to keep</strong> it or not. (not ... decide if to keep it ...)</span>\n            </div>\n            <div class=\"web-text\">Note the difference between <strong>whether</strong> and <strong>that</strong>:</div>\n            <div class=\"web-example\">\n                <span>• I didn't know <strong>whether</strong> the shop was shut. (= if it was shut or not)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• I didn't know <strong>that</strong> the shop was shut. (suggests it was definitely shut)</span>\n            </div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "Before the meeting finished they arranged ___ to meet next.",
+      "options": [
+        "when",
+        "how",
+        "what",
+        "which"
+      ],
+      "correctAnswer": 0,
+      "hint": "Arranged when/where to meet.",
+      "explanation": "<strong>Answer: when</strong><br>After 'arrange', you can use a wh-word + to-infinitive: 'arranged when to meet', 'arranged where to go'. This is a verb + wh-clause + infinitive construction."
+    },
+    {
+      "type": "correct",
+      "sentence": "Could you tell me what time does the last train leave?",
+      "correction": "Could you tell me what time the last train leaves?",
+      "acceptable": [
+        "what time the last train leaves"
+      ],
+      "hint": "In indirect questions, use statement word order (subject + verb), not question inversion.",
+      "explanation": "<strong>Answer: what time the last train leaves</strong><br>After reporting/question verbs followed by 'wh-' words (tell me, ask, wonder, know, understand), use statement word order: 'what time the train leaves' (NOT 'leaves the train'). The auxiliary 'does' disappears in indirect speech: 'does leave' → 'leaves'."
+    },
+    {
+      "question": "He took my hands and showed ___ to fit the parts back together.",
+      "options": [
+        "me how",
+        "how",
+        "it how",
+        "me"
+      ],
+      "correctAnswer": 0,
+      "hint": "Show + object + how + to-infinitive.",
+      "explanation": "<strong>Answer: me how</strong><br>Show + object + how + to-infinitive. This verb pattern requires a to-infinitive as its complement."
+    },
+    {
+      "type": "correct",
+      "sentence": "I wonder that she will accept the offer.",
+      "correction": "I wonder whether she will accept the offer.",
+      "acceptable": [
+        "I wonder if she will accept the offer",
+        "I wonder whether she will accept the offer"
+      ],
+      "hint": "'Wonder' is followed by 'if' or 'whether', not 'that', for yes/no questions.",
+      "explanation": "<strong>Answer: I wonder whether/if she will accept</strong><br>'Wonder' followed by 'that' expresses surprise ('I wonder that she accepted'). For indirect yes/no questions, use 'wonder if/whether': 'I wonder if she will accept' = I am not sure whether she will accept. This meaning requires 'if' or 'whether', not 'that'."
+    },
+    {
+      "question": "She was ___ whether to invite Jeremy over for dinner.",
+      "options": [
+        "debating",
+        "thinking",
+        "speculating",
+        "concluding"
+      ],
+      "correctAnswer": 0,
+      "hint": "Debate/consider/choose can be followed by whether + to-infinitive.",
+      "explanation": "<strong>Answer: debating</strong><br>Debate/consider/choose can be followed by whether + to-infinitive. This verb pattern requires a to-infinitive as its complement."
+    },
+    {
+      "type": "correct",
+      "sentence": "No one could explain how did the accident happen.",
+      "correction": "No one could explain how the accident happened.",
+      "acceptable": [
+        "how the accident happened"
+      ],
+      "hint": "After 'explain', use statement word order — not question inversion with 'did'.",
+      "explanation": "<strong>Answer: how the accident happened</strong><br>After verbs like 'explain', 'understand', 'know', 'describe', 'show', indirect questions always use statement word order (subject + verb). 'How did the accident happen?' is a direct question. As an indirect question (after 'explain'), it becomes 'how the accident happened' — no 'did', normal word order."
+    },
+    {
+      "question": "The council is meeting to ___ whether to increase local taxes.",
+      "options": [
+        "discuss",
+        "ask",
+        "both",
+        "neither"
+      ],
+      "correctAnswer": 0,
+      "hint": "Discuss fits the context of a meeting better.",
+      "explanation": "<strong>Answer: discuss</strong><br>Discuss fits the context of a meeting better. "
+    },
+    {
+      "question": "I couldn't decide ___ to carry on or go back down.",
+      "options": [
+        "whether",
+        "if",
+        "both",
+        "neither"
+      ],
+      "correctAnswer": 0,
+      "hint": "Only 'whether' is used before a to-infinitive.",
+      "explanation": "<strong>Answer: whether</strong><br>Only 'whether' is used before a to-infinitive. The grammatical signals in this sentence — the key words, connectors, or context — require this specific form. Look for these signals to make the same choice independently."
+    },
+    {
+      "question": "Fortunately, my years in the Andes had taught ___ what to do in extreme conditions.",
+      "options": [
+        "me",
+        "(no object needed)",
+        "both",
+        "neither"
+      ],
+      "correctAnswer": 0,
+      "hint": "Teach needs an object.",
+      "explanation": "<strong>Answer: me</strong><br>'Teach' requires both an indirect object (the person taught) and a direct object: 'teach someone something' or 'teach someone to do something'. Without the person, the sentence is incomplete."
+    }
+  ]
+}

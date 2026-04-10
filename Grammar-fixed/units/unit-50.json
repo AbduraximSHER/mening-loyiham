@@ -1,0 +1,132 @@
+{
+  "id": 50,
+  "title": "Much (of), many (of), a lot of, lots (of), etc.",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Much (of), many (of), a lot of, lots (of)",
+      "content": "<div class=\"web-text\">In affirmative sentences we generally use <strong>a lot of</strong> and <strong>lots (of)</strong> rather than <strong>much (of)</strong> and <strong>many (of)</strong>, particularly in informal contexts. However, there are a number of exceptions:</div>\n            <div class=\"web-text\">- In formal contexts, such as academic writing, <strong>much (of)</strong> and <strong>many (of)</strong> are preferred. We can also use phrases such as <strong>a large / considerable / substantial amount of</strong> (with uncountable nouns), or <strong>a large / considerable / great / substantial number of</strong> (with plural nouns):</div>\n            <div class=\"web-example\">\n                <span>• <strong>Much</strong> debate has been heard about Thornton's new book.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• The book contains <strong>a large number of</strong> pictures, many in colour. (or ... <strong>many</strong> ...)</span>\n            </div>\n            <div class=\"web-text\">- In formal contexts we can use <strong>much</strong> and <strong>many</strong> as pronouns:</div>\n            <div class=\"web-example\">\n                <span>• There is no guarantee she will recover. <strong>Much</strong> depends on how well she responds to treatment.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• Not once did I see a tiger in the jungle, although I heard <strong>many</strong>.</span>\n            </div>\n            <div class=\"web-text\">- We usually use <strong>many</strong> rather than <strong>a lot of</strong> or <strong>lots of</strong> with time expressions (<strong>days, minutes, months, weeks, years</strong>) and <strong>number + of</strong>:</div>\n            <div class=\"web-example\">\n                <span>• We used to spend <strong>many</strong> <em>hours</em> driving to Melbourne and back.</span>\n            </div>"
+    },
+    {
+      "id": "B",
+      "title": "many following the, my, its, etc.",
+      "content": "<div class=\"web-text\">We can use <strong>many</strong> following <strong>the, my, its, his, her</strong>, etc. and plural countable nouns:</div>\n            <div class=\"web-example\">\n                <span>• Among <em>the</em> <strong>many</strong> unknowns after the earthquake is the extent of the structural damage.</span>\n            </div>\n            <div class=\"web-text\">We can use the phrase <strong>many a</strong> with a singular noun to talk about a repeated event or a large number of people or things:</div>\n            <div class=\"web-example\">\n                <span>• <strong>Many a</strong> pupil at the school will be pleased that Latin is no longer compulsory.</span>\n            </div>"
+    },
+    {
+      "id": "C",
+      "title": "Emphasising large numbers or amounts",
+      "content": "<div class=\"web-text\">To emphasise a large <em>number</em> we can use <strong>a good / great many</strong> with a plural noun:</div>\n            <div class=\"web-example\">\n                <span>• She has <strong>a good / great many</strong> friends in New Zealand.</span>\n            </div>\n            <div class=\"web-text\">To emphasise a large <em>amount</em> we can use <strong>a good / great deal of</strong> with a singular or uncountable noun:</div>\n            <div class=\"web-example\">\n                <span>• <strong>A good / great deal of</strong> the exhibition was devoted to her recent work.</span>\n            </div>"
+    },
+    {
+      "id": "D",
+      "title": "far too many / much",
+      "content": "<div class=\"web-text\">We use <strong>far</strong> (not 'much' or 'many') before <strong>too many + a plural countable noun</strong> or <strong>too much + an uncountable noun</strong>:</div>\n            <div class=\"web-example\">\n                <span>• <strong>Far too many</strong> students failed the end-of-year maths exam. (not Much / Many too many ...)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>Far too much</strong> time is wasted filling in forms. (not Much / Many too much time ...)</span>\n            </div>"
+    },
+    {
+      "id": "E",
+      "title": "plenty of",
+      "content": "<div class=\"web-text\">We often use <strong>plenty of</strong> instead of <strong>a lot of</strong> or <strong>lots of</strong> with uncountable and plural countable nouns. However, <strong>plenty of</strong> means 'enough, or more than enough' and is therefore not always appropriate:</div>\n            <div class=\"web-example\">\n                <span>• We took <strong>lots of / plenty of</strong> food and drink on our walk through the hills.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• Nina doesn't look well. She's lost <strong>a lot of</strong> weight. ('plenty of' is unlikely here)</span>\n            </div>"
+    },
+    {
+      "id": "F",
+      "title": "Informal quantifiers",
+      "content": "<div class=\"web-text\">We can use quantifiers like <strong>millions of</strong> (+ a plural countable noun), <strong>loads of</strong> and <strong>tons of</strong> (+ uncountable or plural countable noun) in informal contexts, exaggerating to stress large numbers or quantities:</div>\n            <div class=\"web-example\">\n                <span>• I've got <strong>tons of</strong> work to do before I get away on holiday.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• There were <strong>millions of</strong> people out shopping today. It was unbearable.</span>\n            </div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "While it is true that [a lot of] thousands of jobs were lost... What would be a better choice in academic writing?",
+      "options": [
+        "many",
+        "plenty of",
+        "loads of",
+        "tons of"
+      ],
+      "correctAnswer": 0,
+      "hint": "Use 'many' with number expressions like 'thousands of'.",
+      "explanation": "<strong>Answer: many</strong><br>Use 'many' with number expressions like 'thousands of'. "
+    },
+    {
+      "type": "correct",
+      "sentence": "There are much people waiting outside in the queue.",
+      "correction": "There are many people waiting outside in the queue.",
+      "acceptable": [
+        "There are many people",
+        "There are a lot of people",
+        "There are lots of people"
+      ],
+      "hint": "'Much' is used with uncountable nouns; 'many' is used with countable nouns like 'people'.",
+      "explanation": "<strong>Answer: There are many people waiting</strong><br>'Much' is used with uncountable nouns (much water, much information, much time). 'Many' is used with countable nouns (many people, many cars, many opportunities). 'People' is countable (one person, two people), so 'many' is correct. 'A lot of / lots of' works with both: 'a lot of people', 'a lot of time'."
+    },
+    {
+      "question": "She went to stay in Munich with one of ___.",
+      "options": [
+        "her many German relatives",
+        "many a German relative",
+        "her much German relatives",
+        "her plenty German relatives"
+      ],
+      "correctAnswer": 0,
+      "hint": "We can use 'many' following possessives like 'her' and plural countable nouns.",
+      "explanation": "<strong>Answer: her many German relatives</strong><br>We can use 'many' following possessives like 'her' and plural countable nouns. The grammatical signals in this sentence — the key words, connectors, or context — require this specific form. Look for these signals to make the same choice independently."
+    },
+    {
+      "type": "correct",
+      "sentence": "She doesn't have much friends in the new city yet.",
+      "correction": "She doesn't have many friends in the new city yet.",
+      "acceptable": [
+        "She doesn't have many friends",
+        "She doesn't have a lot of friends"
+      ],
+      "hint": "'Friends' is countable — use 'many' not 'much' in negatives.",
+      "explanation": "<strong>Answer: She doesn't have many friends</strong><br>In negative and question sentences, use 'many' with countable nouns and 'much' with uncountable nouns. 'Much' with countable nouns ('much friends', 'much cars') is always wrong. In positive sentences, 'a lot of' and 'lots of' are more natural than 'many' or 'much' in informal English."
+    },
+    {
+      "question": "I spent ___ sitting on the terrace looking out over the hills.",
+      "options": [
+        "many a sunny afternoon",
+        "my many sunny afternoon",
+        "the many sunny afternoon",
+        "an afternoon many"
+      ],
+      "correctAnswer": 0,
+      "hint": "Use 'many a' + singular noun to talk about a repeated event.",
+      "explanation": "<strong>Answer: many a sunny afternoon</strong><br>Use 'many a' + singular noun to talk about a repeated event. The grammatical signals in this sentence — the key words, connectors, or context — require this specific form. Look for these signals to make the same choice independently."
+    },
+    {
+      "type": "correct",
+      "sentence": "We don't have much time, so let's not waste it discussing minor details.",
+      "correction": "We don't have much time, so let's not waste it discussing minor details.",
+      "acceptable": [
+        "We don't have much time, so let's not waste it discussing minor details."
+      ],
+      "hint": "'Time' is uncountable — 'much time' in a negative sentence is correct.",
+      "explanation": "<strong>Answer: We don't have much time — CORRECT</strong><br>'Time' in this sense (duration, the abstract concept) is uncountable — 'much time' is correct. Compare: 'We don't have much time' (correct) vs 'There were many times when...' (countable — specific occasions). Context determines whether 'time' is countable (specific instances) or uncountable (duration/quantity).",
+      "prompt": "Is this sentence correct? If not, rewrite it correctly."
+    },
+    {
+      "question": "Nina doesn't look well. She's lost ___ weight.",
+      "options": [
+        "a lot of",
+        "plenty of",
+        "many a",
+        "too many"
+      ],
+      "correctAnswer": 0,
+      "hint": "'Plenty of' means 'enough, or more than enough', which is unlikely here.",
+      "explanation": "<strong>Answer: a lot of</strong><br>'Plenty of' means 'enough, or more than enough', which is unlikely here. The grammatical signals in this sentence — the key words, connectors, or context — require this specific form. Look for these signals to make the same choice independently."
+    },
+    {
+      "question": "We use ___ before 'too many' or 'too much' to emphasise the amount.",
+      "options": [
+        "far",
+        "much",
+        "many",
+        "loads"
+      ],
+      "correctAnswer": 0,
+      "hint": "We say 'far too many' and 'far too much'.",
+      "explanation": "<strong>Answer: far</strong><br>'Far' is used as an intensifier before 'too + adjective/adverb' to emphasise excess: 'far too late', 'far too many'. Other intensifiers in this pattern: 'rather too', 'somewhat too', 'much too'."
+    }
+  ]
+}

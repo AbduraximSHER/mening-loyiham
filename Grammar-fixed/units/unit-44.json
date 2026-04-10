@@ -1,0 +1,114 @@
+{
+  "id": 44,
+  "title": "A / an and one",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Initial consonant vs vowel sounds",
+      "content": "<div class=\"web-text\">We use <strong>a</strong> before nouns and noun phrases that begin with a <em>consonant sound</em>. If the noun or noun phrase starts with a vowel letter but begins with a consonant sound, we also use <strong>a</strong>:</div>\n            <div class=\"web-example\">\n                <span>• <strong>a</strong> university, <strong>a</strong> European, <strong>a</strong> one-parent family</span>\n            </div>\n            <div class=\"web-text\">We use <strong>an</strong> before words that begin with a <em>vowel sound</em>, including a silent letter 'h':</div>\n            <div class=\"web-example\">\n                <span>• <strong>an</strong> orange, <strong>an</strong> Italian, <strong>an</strong> umbrella, <strong>an</strong> hour, <strong>an</strong> honour</span>\n            </div>\n            <div class=\"web-text\">and abbreviations that when said as individual letters, begin with a vowel sound:</div>\n            <div class=\"web-example\">\n                <span>• <strong>an</strong> MP, <strong>an</strong> FBI agent, <strong>an</strong> IOU</span>\n            </div>\n            <div class=\"web-text\">But compare abbreviations said as words:</div>\n            <div class=\"web-example\">\n                <span>• <strong>a</strong> NATO general, <strong>a</strong> FIFA official but <strong>an</strong> OPEC meeting</span>\n            </div>\n            <div class=\"web-text\">Note that we say: <strong>a history</strong> (book) but <strong>an</strong> (or <strong>a</strong>) <strong>historical</strong> (novel)</div>"
+    },
+    {
+      "id": "B",
+      "title": "A / an (not one)",
+      "content": "<div class=\"web-text\">We use <strong>a / an</strong> (not <strong>one</strong>) to talk about a particular but unspecified person, thing or event:</div>\n            <div class=\"web-example\">\n                <span>• I really need <strong>a</strong> cup of coffee.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• You never see <strong>a</strong> police officer in this part of town, do you?</span>\n            </div>\n            <div class=\"web-text\">We also use <strong>a / an</strong>, not <strong>one</strong>, in number and quantity expressions such as:</div>\n            <div class=\"web-text\"><strong>three times a year, half an hour, a quarter of an hour, a day or so</strong> (= 'about a day'), <strong>50 cents a litre, a week or two, a few, a little, a huge number of ...</strong></div>\n            <div class=\"web-text\">We use <strong>a</strong> rather than <strong>one</strong> in the pattern <strong>a ... of ...</strong> with possessives, as in:</div>\n            <div class=\"web-example\">\n                <span>• She's <strong>a</strong> colleague of mine.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• That's <strong>a</strong> friend of Gabriel's.</span>\n            </div>"
+    },
+    {
+      "id": "C",
+      "title": "One vs a / an",
+      "content": "<div class=\"web-text\">Before a singular countable noun, <strong>one</strong> and <strong>a / an</strong> both refer to one thing:</div>\n            <div class=\"web-example\">\n                <span>• We'll be in Australia for <strong>one</strong> year. (or ... <strong>a</strong> year.)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• Wait here for <strong>one</strong> minute, and I'll be with you. (or ... <strong>a</strong> minute ...)</span>\n            </div>\n            <div class=\"web-text\">Using <strong>one</strong> gives a little more emphasis to the length of time, quantity, amount, etc.:</div>\n            <div class=\"web-example\">\n                <span>• That panda weighs <strong>one</strong> hundred and twenty kilos! (using <strong>one</strong> emphasises the weight more than using <strong>a</strong>)</span>\n            </div>\n            <div class=\"web-text\">However, we use <strong>one</strong> rather than <strong>a / an</strong> if we want to emphasise that we are talking about <em>only one</em> thing or person rather than two or more:</div>\n            <div class=\"web-example\">\n                <span>• Do you want <strong>one</strong> sandwich or two?</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• I just took <strong>one</strong> look at her and she started crying.</span>\n            </div>\n            <div class=\"web-text\">We use <strong>one</strong>, not <strong>a / an</strong>, in the pattern <strong>one ... other / another</strong>:</div>\n            <div class=\"web-example\">\n                <span>• Close <strong>one</strong> eye, and then the <strong>other</strong>.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• Bees carry pollen from <strong>one</strong> plant to <strong>another</strong>.</span>\n            </div>\n            <div class=\"web-text\">We also use <strong>one</strong> in phrases such as <strong>one day, one evening, one spring</strong>, etc. to mean a particular, but unspecified, day, evening, spring, etc.:</div>\n            <div class=\"web-example\">\n                <span>• Hope to see you again <strong>one</strong> day.</span>\n            </div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "___ unpaid bill",
+      "options": [
+        "an",
+        "a",
+        "one",
+        "the"
+      ],
+      "correctAnswer": 0,
+      "hint": "'unpaid' starts with a vowel sound.",
+      "explanation": "<strong>Answer: an</strong><br>Use 'an' before words that begin with a vowel sound, regardless of the spelling. 'Unpaid' begins with the vowel sound /ʌ/, so 'an' is correct. Compare: 'a unique idea' (starts with /juː/, a consonant sound)."
+    },
+    {
+      "type": "correct",
+      "sentence": "She gave me a very useful advice about the job application.",
+      "correction": "She gave me some very useful advice about the job application.",
+      "acceptable": [
+        "some very useful advice",
+        "a very useful piece of advice"
+      ],
+      "hint": "'Advice' is uncountable — cannot use 'a'. Use 'some advice' or 'a piece of advice'.",
+      "explanation": "<strong>Answer: some very useful advice</strong><br>'Advice' is an uncountable noun in English. Uncountable nouns cannot be preceded by 'a/an' and do not have a plural form. Use 'some advice' for a general amount, or 'a piece of advice' to refer to one specific piece. Other similar uncountable nouns: information, news, furniture, luggage."
+    },
+    {
+      "question": "___ MP3 player",
+      "options": [
+        "an",
+        "a",
+        "one",
+        "the"
+      ],
+      "correctAnswer": 0,
+      "hint": "The letter 'M' is pronounced starting with a vowel sound (/em/).",
+      "explanation": "<strong>Answer: an</strong><br>The letter 'M' is pronounced starting with a vowel sound (/em/). "
+    },
+    {
+      "type": "correct",
+      "sentence": "He is a honest and hardworking employee.",
+      "correction": "He is an honest and hardworking employee.",
+      "acceptable": [
+        "He is an honest and hardworking employee."
+      ],
+      "hint": "Use 'an' before words beginning with a vowel SOUND — 'honest' begins with a silent h, so the sound is /ɒ/.",
+      "explanation": "<strong>Answer: an honest and hardworking employee</strong><br>The choice between 'a' and 'an' depends on the SOUND of the following word, not the letter. 'Honest' begins with a silent 'h' — the vowel sound /ɒ/ is first, so use 'an'. Similarly: an hour, an heir, an honour. But: a hotel, a habit, a history (because /h/ is pronounced)."
+    },
+    {
+      "question": "___ STEM subject",
+      "options": [
+        "a",
+        "an",
+        "one",
+        "the"
+      ],
+      "correctAnswer": 0,
+      "hint": "'STEM' is pronounced as a word starting with a consonant sound.",
+      "explanation": "<strong>Answer: a</strong><br>'STEM' is pronounced as a word starting with a consonant sound. "
+    },
+    {
+      "type": "correct",
+      "sentence": "We need to find one solution that works for everyone.",
+      "correction": "We need to find a solution that works for everyone.",
+      "acceptable": [
+        "We need to find a solution that works for everyone."
+      ],
+      "hint": "'One' emphasises a single choice among alternatives. 'A' simply introduces an indefinite noun. Here, 'a solution' is more natural.",
+      "explanation": "<strong>Answer: We need to find a solution</strong><br>'One' is used for emphasis or contrast ('one solution, not two' or 'one specific approach'). Without the need for emphasis, 'a' is the natural indefinite article. 'Find one solution' implies you are limiting the number; 'find a solution' simply means find something that works."
+    },
+    {
+      "question": "I usually go to the gym four times one week. (Find the mistake)",
+      "options": [
+        "four times one week -> four times a week",
+        "the gym -> a gym",
+        "I usually go -> I go usually",
+        "no mistake"
+      ],
+      "correctAnswer": 0,
+      "hint": "Use 'a' / 'an' in number and frequency expressions like 'four times a week'.",
+      "explanation": "<strong>Answer: four times one week -> four times a week</strong><br>Use 'a' / 'an' in number and frequency expressions like 'four times a week'. The grammatical signals in this sentence — the key words, connectors, or context — require this specific form. Look for these signals to make the same choice independently."
+    },
+    {
+      "question": "I phoned the council to complain, but just got passed on from a person to another. (Find the mistake)",
+      "options": [
+        "a person to another -> one person to another",
+        "from a person -> from the person",
+        "to complain -> for complaining",
+        "no mistake"
+      ],
+      "correctAnswer": 0,
+      "hint": "We use 'one' in the pattern 'one ... to another'.",
+      "explanation": "<strong>Answer: a person to another -> one person to another</strong><br>We use 'one' in the pattern 'one ... to another'. The grammatical signals in this sentence — the key words, connectors, or context — require this specific form. Look for these signals to make the same choice independently."
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "id": 22,
+  "title": "Using passives",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Omitting the agent; factual writing; informal contexts",
+      "content": "\n            <div class=\"web-text\">We typically use a passive rather than an active in the following situations.</div>\n            <div class=\"web-text\">☆ Using a passive allows us to omit the agent (= the subject of the corresponding active sentence) by leaving out the prepositional phrase with <strong>by</strong>. We prefer passives when the agent:</div>\n            <div class=\"web-example\">\n                <span>- is not known: My office <strong>was broken into</strong> when I was on holiday.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>- is 'people in general': An order form <strong>can be found</strong> on page 2.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>- is unimportant: He <strong>is thought</strong> to be somewhere in Russia.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>- is obvious: She <strong>is being treated</strong> in hospital. (the agent is clearly 'medical staff')</span>\n            </div>\n            <div class=\"web-text\">☆ In factual writing (e.g. describing procedures or processes) we often omit the agent, and use passives:</div>\n            <div class=\"web-example\">\n                <span>• Nuclear waste will still be radioactive even after 20,000 years, so it <strong>must be disposed of</strong> very carefully. It <strong>can be stored</strong> as a liquid in stainless-steel containers which <strong>are encased</strong> in concrete. The most dangerous nuclear waste <strong>can be turned</strong> into glass which <strong>will be stored</strong> in deep underground mines.</span>\n            </div>\n            <div class=\"web-text\">☆ In informal contexts, particularly in conversation, we often use active sentences with a subject such as <strong>people, somebody / someone, something, they, we</strong>, or <strong>you</strong> even when we do not know who the agent is. In more formal contexts, we often prefer to use a passive so that we can avoid any mention of an agent. Compare:</div>\n            <div class=\"web-example\">\n                <span>• <strong>They're installing</strong> the new computer system next month. <em>and</em></span>\n            </div>\n            <div class=\"web-example\">\n                <span>• The new computer system <strong>is being installed</strong> next month. (<em>more formal</em>)</span>\n            </div>\n        "
+    },
+    {
+      "id": "B",
+      "title": "Verbs with related nouns",
+      "content": "\n            <div class=\"web-text\">Note also that some verbs have related nouns which express the same meaning. These nouns can be used as the subject of passive sentences, with a new passive verb introduced. Compare the example above and:</div>\n            <div class=\"web-example\">\n                <span>• The <strong>installation</strong> of the new computer system <strong>will be completed</strong> by next month.</span>\n            </div>\n        "
+    },
+    {
+      "id": "C",
+      "title": "Topic and comment",
+      "content": "\n            <div class=\"web-text\">In English we usually prefer to put the topic (what is already being talked about) at the beginning of a sentence (or clause) and a comment on that topic at the end. Choosing the passive often allows us to do this. Compare these two texts and note where the topic (in <em>italics</em>) is placed in the second sentence of each. The second text uses a passive where the emphasis is on the (safety) valves:</div>\n            <div class=\"web-example\">\n                <span>• The three machines tested for the report contained different types of safety valve. The Boron Group in Germany manufactured <em>all the valves</em>.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• The three machines tested for the report contained different types of safety valve. <em>All the valves</em> <strong>were manufactured</strong> by the Boron Group in Germany.</span>\n            </div>\n            <div class=\"web-text\">Using the passive allows us to put long subjects at the end of a sentence. So, for example:</div>\n            <div class=\"web-example\">\n                <span>• <strong>I was surprised</strong> by Dev's decision to give up his job and move to Sydney.</span>\n            </div>\n            <div class=\"web-text\">is more natural than '<em>Dev's decision to give up his job and move to Sydney</em> surprised me', although the choice can depend on considerations of style and context.</div>\n        "
+    },
+    {
+      "id": "D",
+      "title": "it-clause vs that-clause",
+      "content": "\n            <div class=\"web-text\">Instead of making a <strong>that-clause</strong> the subject of a passive sentence, it is normal to use an <strong>it-clause</strong> (see also Unit 25):</div>\n            <div class=\"web-example\">\n                <span>• Everybody <strong>believed</strong> (that) the plan would fail. (<em>active</em>)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>It was believed</strong> that the plan would fail. (<em>passive</em>) is more natural than</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <em>That the plan would fail</em> <strong>was believed</strong> by everybody.</span>\n            </div>\n        "
+    }
+  ],
+  "exercises": [
+    {
+      "question": "They built the main stadium in under three years. (Start: The main stadium...)",
+      "options": [
+        "The main stadium was built in under three years.",
+        "The main stadium were built in under three years.",
+        "The main stadium had been built in under three years.",
+        "The main stadium builds in under three years."
+      ],
+      "correctAnswer": 0,
+      "hint": "Past simple passive: was/were + past participle.",
+      "explanation": "<strong>Answer: The main stadium was built in under three years.</strong><br>Past simple passive: was/were + past participle. The grammatical signals in this sentence — the key words, connectors, or context — require this specific form. Look for these signals to make the same choice independently."
+    },
+    {
+      "question": "They have designed the main stadium to accommodate many different sports.",
+      "options": [
+        "The main stadium has been designed to accommodate many different sports.",
+        "The main stadium have been designed to accommodate many different sports.",
+        "The main stadium were designed to accommodate many different sports.",
+        "The main stadium has been design to accommodate many different sports."
+      ],
+      "correctAnswer": 0,
+      "hint": "Present perfect passive: has/have been + past participle.",
+      "explanation": "<strong>Answer: The main stadium has been designed to accommodate many different sports.</strong><br>Present perfect passive: has/have been + past participle. The present perfect links past events to the present. The key signals are: <em>just, already, yet, ever, never, since, for, recently</em>, and incomplete time expressions like <em>this week</em> or <em>today</em> (when not yet over)."
+    },
+    {
+      "type": "correct",
+      "sentence": "The bridge was build in 1895 by a team of Scottish engineers.",
+      "correction": "The bridge was built in 1895 by a team of Scottish engineers.",
+      "acceptable": [
+        "The bridge was built in 1895"
+      ],
+      "hint": "Passive: was/were + past participle — 'build' is irregular, past participle = 'built'.",
+      "explanation": "<strong>Answer: was built</strong><br>The passive voice uses 'be + past participle'. Many irregular verbs have distinct past participle forms: build → built, write → written, know → known, break → broken, speak → spoken. Using the past simple form ('build' or 'built' after 'was') is a common error."
+    },
+    {
+      "question": "They will take down the temporary stands after the Games.",
+      "options": [
+        "The temporary stands will be taken down after the Games.",
+        "The temporary stands will taken down after the Games.",
+        "The temporary stands would be taken down after the Games.",
+        "The temporary stands being taken down after the Games."
+      ],
+      "correctAnswer": 0,
+      "hint": "Future simple passive: will be + past participle.",
+      "explanation": "<strong>Answer: The temporary stands will be taken down after the Games.</strong><br>Future simple passive: will be + past participle. Use <em>will</em> here — this is neither a fixed timetable event (which would take the present simple) nor a pre-planned personal arrangement (which would take the present continuous or <em>be going to</em>)."
+    },
+    {
+      "question": "They will have completed the basketball arena by the end of May.",
+      "options": [
+        "The basketball arena will have been completed by the end of May.",
+        "The basketball arena will be completed by the end of May.",
+        "The basketball arena will have completed by the end of May.",
+        "The basketball arena would have been completed by the end of May."
+      ],
+      "correctAnswer": 0,
+      "hint": "Future perfect passive: will have been + past participle.",
+      "explanation": "<strong>Answer: The basketball arena will have been completed by the end of May.</strong><br>Future perfect passive: will have been + past participle. The present perfect links past events to the present. The key signals are: <em>just, already, yet, ever, never, since, for, recently</em>, and incomplete time expressions like <em>this week</em> or <em>today</em> (when not yet over)."
+    },
+    {
+      "type": "correct",
+      "sentence": "The report has been wrote by the finance department.",
+      "correction": "The report has been written by the finance department.",
+      "acceptable": [
+        "has been written"
+      ],
+      "hint": "Present perfect passive: has/have + been + past participle. Write → written.",
+      "explanation": "<strong>Answer: has been written</strong><br>Present perfect passive: has/have + been + past participle. 'Wrote' is the past simple of 'write', not the past participle. The past participle is 'written'. This error is common with irregular verbs — it is worth learning: write/wrote/written."
+    },
+    {
+      "question": "They are holding the rowing competition on the River Nene.",
+      "options": [
+        "The rowing competition is being held on the River Nene.",
+        "The rowing competition are being held on the River Nene.",
+        "The rowing competition is being hold on the River Nene.",
+        "The rowing competition was being held on the River Nene."
+      ],
+      "correctAnswer": 0,
+      "hint": "Present continuous passive: is/are being + past participle.",
+      "explanation": "<strong>Answer: The rowing competition is being held on the River Nene.</strong><br>Present continuous passive: is/are being + past participle. The present continuous shows that the action is temporary or in progress now. Look for context signals: <em>at the moment</em>, <em>currently</em>, <em>today</em>, or a sense of ongoing change or temporary situation."
+    },
+    {
+      "question": "They had completed the athletics track only a year after the city got the Olympics.",
+      "options": [
+        "The athletics track had been completed only a year after the city got the Olympics.",
+        "The athletics track have been completed only a year after the city got the Olympics.",
+        "The athletics track were completed only a year after the city got the Olympics.",
+        "The athletics track had completed only a year after the city got the Olympics."
+      ],
+      "correctAnswer": 0,
+      "hint": "Past perfect passive: had been + past participle.",
+      "explanation": "<strong>Answer: The athletics track had been completed only a year after the city got the Olympics.</strong><br>We use the <em>past perfect</em> here because this action happened before another past event.<br><small>💡 Past perfect passive: had been + past participle.</small>"
+    },
+    {
+      "type": "correct",
+      "sentence": "The concert is hold every year in July.",
+      "correction": "The concert is held every year in July.",
+      "acceptable": [
+        "is held every year"
+      ],
+      "hint": "Present simple passive: is/are + past participle. Hold → held (not 'hold').",
+      "explanation": "<strong>Answer: is held</strong><br>Present simple passive: is/are + past participle. 'Hold' is irregular — past simple and past participle are both 'held'. 'Is hold' uses the base form, which is wrong in the passive. Common irregular passives: is held, is told, is sold, is found, is known, is thought."
+    },
+    {
+      "question": "They will consider the issue at next week's meeting. (Use noun 'Consideration' and verb 'give')",
+      "options": [
+        "Consideration will be given to the issue at next week's meeting.",
+        "Consideration will given to the issue at next week's meeting.",
+        "Consideration is being given to the issue at next week's meeting.",
+        "Consideration would be given to the issue at next week's meeting."
+      ],
+      "correctAnswer": 0,
+      "hint": "Future passive: will be given.",
+      "explanation": "<strong>Answer: Consideration will be given to the issue at next week's meeting.</strong><br>Future passive: will be given. Use <em>will</em> here — this is neither a fixed timetable event (which would take the present simple) nor a pre-planned personal arrangement (which would take the present continuous or <em>be going to</em>)."
+    },
+    {
+      "question": "They will appoint a new managing director next week. (Use noun 'appointment' and verb 'make')",
+      "options": [
+        "The appointment of a new managing director will be made next week.",
+        "A new managing director appointment will be made next week.",
+        "The appointment for a new managing director will be made next week.",
+        "An appointment will be made for a new managing director next week."
+      ],
+      "correctAnswer": 0,
+      "hint": "Future passive with related noun.",
+      "explanation": "<strong>Answer: The appointment of a new managing director will be made next week.</strong><br>Future passive with related noun. Use <em>will</em> here — this is neither a fixed timetable event (which would take the present simple) nor a pre-planned personal arrangement (which would take the present continuous or <em>be going to</em>)."
+    },
+    {
+      "type": "reorder",
+      "prompt": "Transform this active sentence into the passive:",
+      "tokens": [
+        "the",
+        "vaccine",
+        "was",
+        "discovered",
+        "by",
+        "a",
+        "scientist"
+      ],
+      "correctOrder": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "hint": "Passive: subject + was/were + past participle + by + agent",
+      "explanation": "<strong>Answer: The vaccine was discovered by a scientist</strong><br>Passive structure: the object of the active verb (the vaccine) becomes the grammatical subject. The agent (a scientist) follows 'by' at the end. Active: 'A scientist discovered the vaccine' → Passive: 'The vaccine was discovered by a scientist'."
+    },
+    {
+      "question": "They demolished the building in only two days. (Use noun 'demolition' and verb 'complete')",
+      "options": [
+        "The demolition of the building was completed in only two days.",
+        "The demolition for the building was completed in only two days.",
+        "Demolition of the building was completed in only two days.",
+        "The building demolition was completed in only two days."
+      ],
+      "correctAnswer": 0,
+      "hint": "Past passive with related noun.",
+      "explanation": "<strong>Answer: The demolition of the building was completed in only two days.</strong><br>Past passive with related noun. The grammatical signals in this sentence — the key words, connectors, or context — require this specific form. Look for these signals to make the same choice independently."
+    },
+    {
+      "question": "Slowly but surely the coastline of Britain ___ (wear away) by an advancing sea.",
+      "options": [
+        "is being worn away",
+        "is wearing away",
+        "is worn away",
+        "was being worn away"
+      ],
+      "correctAnswer": 0,
+      "hint": "Present continuous passive: is/are being + past participle.",
+      "explanation": "<strong>Answer: is being worn away</strong><br>Present continuous passive: is/are being + past participle. The present continuous shows that the action is temporary or in progress now. Look for context signals: <em>at the moment</em>, <em>currently</em>, <em>today</em>, or a sense of ongoing change or temporary situation."
+    },
+    {
+      "question": "experts ___ that this is just the beginning.",
+      "options": [
+        "fear",
+        "are feared",
+        "have feared",
+        "is feared"
+      ],
+      "correctAnswer": 0,
+      "hint": "Active voice: the experts themselves are doing the fearing.",
+      "explanation": "<strong>Answer: fear</strong><br>Active voice: the experts themselves are doing the fearing. "
+    },
+    {
+      "question": "It ___ that there will be a 38-55 cm rise in average sea levels by the year 2100.",
+      "options": [
+        "is estimated",
+        "estimates",
+        "was estimated",
+        "has estimated"
+      ],
+      "correctAnswer": 0,
+      "hint": "Passive voice (it-clause): is + past participle.",
+      "explanation": "<strong>Answer: is estimated</strong><br>Passive voice (it-clause): is + past participle. Choose the passive form that matches the tense and aspect of the active version."
+    }
+  ]
+}

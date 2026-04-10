@@ -1,0 +1,114 @@
+{
+  "id": 97,
+  "title": "Persuasion and Influence",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Methods of persuasion",
+      "content": "<div class=\"web-text\">Vocabulary for how people convince others:</div><div class=\"web-example\"><span>• <strong>persuade</strong> — convince someone to do something. <em>She persuaded him to apply for the scholarship.</em></span></div><div class=\"web-example\"><span>• <strong>manipulate</strong> — influence someone unfairly. <em>He tried to manipulate the situation in his favour.</em></span></div><div class=\"web-example\"><span>• <strong>negotiate</strong> — discuss terms to reach agreement. <em>The unions negotiated a better pay deal.</em></span></div><div class=\"web-example\"><span>• <strong>incentive</strong> — something that motivates action. <em>Tax cuts serve as an incentive for investment.</em></span></div><div class=\"web-example\"><span>• <strong>endorsement</strong> — public approval or support. <em>Celebrity endorsement can significantly boost product sales.</em></span></div>"
+    },
+    {
+      "id": "B",
+      "title": "Being influenced",
+      "content": "<div class=\"web-text\">How people are affected by influence:</div><div class=\"web-example\"><span>• <strong>gullible</strong> — easily deceived. <em>Don't be so gullible — not everything online is true.</em></span></div><div class=\"web-example\"><span>• <strong>sway</strong> — influence opinion. <em>The emotional speech swayed public opinion.</em></span></div><div class=\"web-example\"><span>• <strong>peer pressure</strong> — influence from people your age. <em>Teenagers often give in to peer pressure.</em></span></div><div class=\"web-example\"><span>• <strong>coerce</strong> — force someone to act. <em>Nobody should be coerced into making a decision.</em></span></div><div class=\"web-example\"><span>• <strong>charisma</strong> — compelling charm that inspires. <em>Great leaders often have natural charisma.</em></span></div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "Convincing someone through unfair or dishonest means is:",
+      "options": [
+        "negotiating",
+        "persuading",
+        "manipulating",
+        "endorsing"
+      ],
+      "correctAnswer": 2,
+      "hint": "Underhand tactics.",
+      "explanation": "<strong>Manipulate</strong> means to control or influence someone cleverly or unscrupulously."
+    },
+    {
+      "question": "A person easily tricked or deceived is:",
+      "options": [
+        "charismatic",
+        "influential",
+        "gullible",
+        "persuasive"
+      ],
+      "correctAnswer": 2,
+      "hint": "They believe anything.",
+      "explanation": "<strong>Gullible</strong> means easily persuaded to believe something; naive."
+    },
+    {
+      "question": "A motivation that encourages people to act is an:",
+      "options": [
+        "dissuade",
+        "coercion",
+        "incentive",
+        "negotiate"
+      ],
+      "correctAnswer": 2,
+      "hint": "A reward for action.",
+      "explanation": "An <strong>incentive</strong> is something that motivates or encourages someone to do something."
+    },
+    {
+      "question": "Forcing someone to do something against their will is to:",
+      "options": [
+        "coerce",
+        "endorse",
+        "manipulate",
+        "persuade"
+      ],
+      "correctAnswer": 0,
+      "hint": "Using threats or force.",
+      "explanation": "<strong>Coerce</strong> means to persuade someone by using force or threats."
+    },
+    {
+      "question": "Public support from a famous person is an:",
+      "options": [
+        "negotiation",
+        "endorsement",
+        "coercion",
+        "appeal"
+      ],
+      "correctAnswer": 1,
+      "hint": "A celebrity says they like a product.",
+      "explanation": "An <strong>endorsement</strong> is a public declaration of approval or support."
+    },
+    {
+      "question": "The compelling charm that inspires devotion in others is:",
+      "options": [
+        "induce",
+        "gullibility",
+        "charisma",
+        "coercion"
+      ],
+      "correctAnswer": 2,
+      "hint": "Natural leadership quality.",
+      "explanation": "<strong>Charisma</strong> is compelling attractiveness or charm that can inspire devotion."
+    },
+    {
+      "question": "Influence from friends or people your own age is:",
+      "options": [
+        "cajole",
+        "peer pressure",
+        "negotiate",
+        "motivate"
+      ],
+      "correctAnswer": 1,
+      "hint": "Your age group influences you.",
+      "explanation": "<strong>Peer pressure</strong> is influence from members of one's own age group."
+    },
+    {
+      "question": "To influence someone's opinion or feelings is to:",
+      "options": [
+        "endorse",
+        "sway",
+        "manipulate",
+        "cajole"
+      ],
+      "correctAnswer": 1,
+      "hint": "Gently shifting their view.",
+      "explanation": "<strong>Sway</strong> means to influence the opinions or actions of someone."
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": 42,
+  "title": "Agreement between subject and verb 3",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Plural nouns",
+      "content": "<div class=\"web-text\">Some nouns are usually plural and take a plural verb:</div>\n            <div class=\"web-example\">\n                <span>• The company's <strong>earnings</strong> <em>have increased</em> for the last five years.</span>\n            </div>\n            <div class=\"web-text\">Also: <strong>belongings, clothes, congratulations, goods, outskirts, overheads, particulars (= information), premises (= building), riches, savings, stairs, surroundings, thanks</strong></div>\n            <div class=\"web-text\">Note that <strong>whereabouts</strong> can be used with either a singular or plural verb, <strong>police</strong> and <strong>people</strong> always take a plural verb, and <strong>staff</strong> usually does:</div>\n            <div class=\"web-example\">\n                <span>• <strong>Police</strong> <em>believe</em> that Thomas is in Brazil, although his exact <strong>whereabouts</strong> <em>are / is</em> unknown.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>Staff</strong> <em>say</em> that the new computer system has led to greater levels of stress in their work.</span>\n            </div>"
+    },
+    {
+      "id": "B",
+      "title": "Plural nouns used with singular verbs",
+      "content": "<div class=\"web-text\">Although the words <strong>data</strong> and <strong>media</strong> (= newspaper, television, etc.) are plural (singular <strong>datum</strong> and <strong>medium</strong>), they are commonly used with a singular verb. However, in formal contexts such as academic writing a plural verb is preferred. Note that other similar plurals such as <strong>criteria</strong> and <strong>phenomena</strong> (singular <strong>criterion</strong> and <strong>phenomenon</strong>) are always used with plural verbs. Compare:</div>\n            <div class=\"web-example\">\n                <span>• All the <strong>data</strong> <em>is</em> available for public inspection. (or ... <em>are</em> available ...)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• I agree that the <strong>criteria</strong> <em>are</em> not of equal importance. (not ... the criteria is not ...)</span>\n            </div>"
+    },
+    {
+      "id": "C",
+      "title": "Uncountable nouns ending in -s",
+      "content": "<div class=\"web-text\">Some uncountable nouns always end in <strong>-s</strong> and look as if they are plural, but when we use them as the subject they have a singular verb:</div>\n            <div class=\"web-example\">\n                <span>• The <strong>news</strong> from the Middle East <em>seems</em> very encouraging.</span>\n            </div>\n            <div class=\"web-text\">Also: <strong>means</strong> (= 'method' or 'money'); <strong>economics, linguistics, mathematics, phonetics, physics; politics, statistics, etc. (= academic subjects); athletics, gymnastics; diabetes, measles, rabies</strong>.</div>\n            <div class=\"web-text\">However, compare:</div>\n            <div class=\"web-example\">\n                <span>• <strong>academic subject (singular verb)</strong>: <strong>Politics</strong> <em>is</em> popular at this university. </span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>general use (plural verb)</strong>: Her <strong>politics</strong> <em>are</em> bordering on the fascist. (= political belief)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>Statistics</strong> <em>was</em> always my worst subject. (academic)  / <strong>Statistics</strong> <em>are</em> able to prove anything you want them to. (numerical information)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>Economics</strong> <em>has</em> only recently been recognised as a scientific study. (academic) / The <strong>economics</strong> behind their policies <em>are</em> unreasonable. (the financial system)</span>\n            </div>"
+    },
+    {
+      "id": "D",
+      "title": "Agreement with measurements, percentages, etc.",
+      "content": "<div class=\"web-text\">With a phrase referring to a measurement, amount or quantity we usually prefer a <strong>singular verb</strong>:</div>\n            <div class=\"web-example\">\n                <span>• Only <strong>three metres</strong> <em>separates</em> the runners in first and second places. (rather than ... <em>separate</em> ...)</span>\n            </div>\n            <div class=\"web-text\">A singular verb must be used when the complement is a singular noun phrase (e.g. a long time):</div>\n            <div class=\"web-example\">\n                <span>• <strong>Three hours</strong> <em>seems</em> a long time to take on the homework. (not Three hours seem ...)</span>\n            </div>\n            <div class=\"web-text\">When the first noun in a complex subject is a percentage or a fraction the verb agrees with the noun closest to the verb. Compare:</div>\n            <div class=\"web-example\">\n                <span>• <strong>An inflation rate</strong> of only 2% <em>makes</em> a difference to exports. (verb agrees with main noun)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• About 50% / half of <strong>the houses</strong> <em>need</em> major repairs. (verb agrees with closest noun)</span>\n            </div>\n            <div class=\"web-text\">Where we use a singular noun that can be thought of as either a whole unit or a collection of individuals, we can use either a singular or plural verb:</div>\n            <div class=\"web-example\">\n                <span>• Some 80% of <strong>the electorate</strong> <em>is</em> expected to vote. (or ... <em>are</em> expected ...)</span>\n            </div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "Dr Darsee's present whereabouts ___ unknown.",
+      "options": [
+        "is",
+        "are",
+        "both 'is' and 'are'",
+        "neither"
+      ],
+      "correctAnswer": 2,
+      "hint": "Whereabouts can be used with a singular or plural verb.",
+      "explanation": "<strong>Answer: both 'is' and 'are'</strong><br>Whereabouts can be used with a singular or plural verb. "
+    },
+    {
+      "type": "correct",
+      "sentence": "Either the director or the producers has approved this version of the script.",
+      "correction": "Either the director or the producers have approved this version of the script.",
+      "acceptable": [
+        "the producers have approved"
+      ],
+      "hint": "With 'either...or', the verb agrees with the nearest subject. 'Producers' (plural) is nearest.",
+      "explanation": "<strong>Answer: the producers have approved</strong><br>With correlative conjunctions (either...or, neither...nor, not only...but also), the verb agrees with the NEAREST subject (proximity rule). Here, 'producers' is nearest and is plural, so use 'have'. If the order were reversed: 'Either the producers or the director has approved...'"
+    },
+    {
+      "question": "Phenomena such as sun spots ___ puzzled scientists for centuries.",
+      "options": [
+        "have",
+        "has",
+        "is having",
+        "having"
+      ],
+      "correctAnswer": 0,
+      "hint": "'Phenomena' is the plural of 'phenomenon' and takes a plural verb.",
+      "explanation": "<strong>Answer: have</strong><br>'Phenomena' is the plural of 'phenomenon' and takes a plural verb. "
+    },
+    {
+      "type": "correct",
+      "sentence": "The committee have reached a decision and will announce it tomorrow.",
+      "correction": "The committee have reached a decision and will announce it tomorrow.",
+      "acceptable": [
+        "The committee have reached a decision and will announce it tomorrow."
+      ],
+      "hint": "'Committee' in British English = collective noun, can take singular or plural verb depending on meaning.",
+      "explanation": "<strong>Answer: The committee have reached — CORRECT (British English)</strong><br>In British English, collective nouns (committee, government, team, staff, audience) can take either singular or plural verbs. Plural is used when the members are acting individually or as separate people; singular when they act as a unit. Both are acceptable — consistency within a text matters most.",
+      "prompt": "Is this sentence correct? If not, rewrite it correctly."
+    },
+    {
+      "question": "Modern linguistics ___ often said to have begun at the start of the 20th century.",
+      "options": [
+        "is",
+        "are",
+        "have",
+        "has"
+      ],
+      "correctAnswer": 0,
+      "hint": "'Linguistics' refers to an academic subject, so it takes a singular verb.",
+      "explanation": "<strong>Answer: is</strong><br>'Linguistics' refers to an academic subject, so it takes a singular verb. "
+    },
+    {
+      "type": "fill",
+      "question": "Statistics ___ (be) a subject that many students find intimidating.",
+      "answer": "is",
+      "hint": "Academic subjects ending in -s (statistics, economics, physics) take singular verbs.",
+      "explanation": "<strong>Answer: is</strong><br>Academic subjects, fields, and disciplines that end in -s are grammatically singular: statistics is, mathematics is, physics is, economics is, linguistics is. These look plural but are treated as single disciplines. Compare: 'The statistics show...' (= the data = plural) vs 'Statistics is...' (= the subject)."
+    },
+    {
+      "question": "Contact us by whatever means ___ most convenient for you: phone, email or text.",
+      "options": [
+        "are",
+        "is",
+        "have",
+        "has"
+      ],
+      "correctAnswer": 0,
+      "hint": "In this context ('phone, email or text'), 'means' refers to multiple methods, so it takes a plural verb.",
+      "explanation": "<strong>Answer: are</strong><br>In this context ('phone, email or text'), 'means' refers to multiple methods, so it takes a plural verb. "
+    },
+    {
+      "question": "On average, 25 litres of water ___ (be) used each day per household.",
+      "options": [
+        "is",
+        "are",
+        "has",
+        "have"
+      ],
+      "correctAnswer": 0,
+      "hint": "A phrase referring to an amount or quantity usually takes a singular verb.",
+      "explanation": "<strong>Answer: is</strong><br>A phrase referring to an amount or quantity usually takes a singular verb. "
+    }
+  ]
+}

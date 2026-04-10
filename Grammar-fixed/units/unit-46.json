@@ -1,0 +1,121 @@
+{
+  "id": 46,
+  "title": "A / an, the and zero article 2",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Jobs and positions",
+      "content": "<div class=\"web-text\">We use <strong>a / an</strong> to talk about a type of job:</div>\n            <div class=\"web-example\">\n                <span>• She was <strong>a company director</strong> when she retired.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• Against her parents' wishes, she wants to be <strong>a journalist</strong>.</span>\n            </div>\n            <div class=\"web-text\">However, when we give a person's job title, or their unique position, we use <strong>the</strong> or <strong>zero article</strong> (i.e. no article), not <strong>a / an</strong>. Compare:</div>\n            <div class=\"web-example\">\n                <span>• She's been appointed <strong>(the) head of the company</strong>. and I'm <strong>a production manager</strong> at Fino. (= there may be more than one production manager)</span>\n            </div>\n            <div class=\"web-text\">After <strong>the position of, the post of</strong>, or <strong>the role of</strong> we use <strong>zero article</strong> before a job title:</div>\n            <div class=\"web-example\">\n                <span>• Dr Simons has taken on <strong>the position of</strong> Head of Department.</span>\n            </div>"
+    },
+    {
+      "id": "B",
+      "title": "Names of people",
+      "content": "<div class=\"web-text\">We usually use <strong>zero article</strong> before the name of an individual person or place. However, we use <strong>the</strong>:</div>\n            <div class=\"web-text\">- when there are two people with the same name to specify which one we mean:</div>\n            <div class=\"web-example\">\n                <span>• That's not <strong>the Stephen Fraser</strong> I went to school with. (but compare 'There was <strong>a Stephen Fraser</strong> in my class.' = a person named Stephen Fraser)</span>\n            </div>\n            <div class=\"web-text\">- when we want to emphasise that the person we are referring to is the most famous person with that name. Used this way, <strong>the</strong> is stressed and pronounced /ði:/:</div>\n            <div class=\"web-example\">\n                <span>• Do they mean <em>the</em> Neil Armstrong, or someone else?</span>\n            </div>\n            <div class=\"web-text\">- with an adjective to describe a person, or another noun which tells us their job:</div>\n            <div class=\"web-example\">\n                <span>• <strong>the late Stephen Hawking</strong> (= no longer alive)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>(the) artist Joseph Turner</strong> ('the' is sometimes left out, particularly in journalism)</span>\n            </div>\n            <div class=\"web-text\">- when we talk about a family as a whole:</div>\n            <div class=\"web-example\">\n                <span>• <strong>The Robinsons</strong> are away this weekend.</span>\n            </div>"
+    },
+    {
+      "id": "C",
+      "title": "Names as qualities or products",
+      "content": "<div class=\"web-text\">Note that <strong>a / an</strong>, or sometimes <strong>zero article</strong>, is used with a name when referring to the particular excellent qualities of the person named:</div>\n            <div class=\"web-example\">\n                <span>• Majid plays tennis well, but he'll never be <strong>(a) Roger Federer</strong>.</span>\n            </div>\n            <div class=\"web-text\">We also use <strong>a / an</strong> when we refer to an individual example of a product made by a particular manufacturer (e.g I've just bought <strong>a Mercedes</strong>) or a work by a particular artist (e.g. Do you think it could be <strong>a Van Gogh / a Rembrandt</strong>?).</div>\n            <div class=\"web-text\">You can use <strong>a / an</strong> before a person's name if you don't know the person yourself:</div>\n            <div class=\"web-example\">\n                <span>• Dr Lee is here for you. (= I know Dr Lee) and There's <strong>a Dr Amy Lee</strong> on the phone. (= I haven't heard of her before)</span>\n            </div>"
+    },
+    {
+      "id": "D",
+      "title": "This instead of a / an in stories",
+      "content": "<div class=\"web-text\">When telling stories and jokes, <strong>this</strong> is commonly used instead of <strong>a / an</strong> to introduce a new person or thing. Using <strong>this</strong> highlights the person or thing as the topic of what is to come next:</div>\n            <div class=\"web-example\">\n                <span>• As I was walking along, <strong>this spider</strong> (= a spider) landed on my head, and ...</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>This man</strong> (= a man) goes into a chemist and he says ...</span>\n            </div>"
+    },
+    {
+      "id": "E",
+      "title": "Superlative adjectives",
+      "content": "<div class=\"web-text\">We use <strong>the</strong> before a <em>superlative adjective</em> (<strong>the biggest, the most expensive</strong>, etc.) when the superlative adjective is followed by a noun or defining phrase:</div>\n            <div class=\"web-example\">\n                <span>• He is <strong>the finest</strong> young player around at the moment.</span>\n            </div>\n            <div class=\"web-text\">However, we can often leave out <strong>the</strong>, particularly in an informal style, when there is no noun or defining phrase after the superlative adjective. Compare:</div>\n            <div class=\"web-example\">\n                <span>• It was <strong>(the) cheapest</strong>. and It was <strong>the cheapest</strong> I could find.</span>\n            </div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "She was determined to be author one day. (Find the mistake).",
+      "options": [
+        "be author -> be an author",
+        "determined to be -> determined being",
+        "one day -> a day",
+        "no mistake"
+      ],
+      "correctAnswer": 0,
+      "hint": "Use 'a/an' to talk about a type of job.",
+      "explanation": "<strong>Answer: be author -> be an author</strong><br>Use 'a/an' to talk about a type of job. The grammatical signals in this sentence — the key words, connectors, or context — require this specific form. Look for these signals to make the same choice independently."
+    },
+    {
+      "type": "correct",
+      "sentence": "She was determined to be an author one day and worked hard towards her goal.",
+      "correction": "She was determined to be an author one day and worked hard towards her goal.",
+      "acceptable": [
+        "She was determined to be an author one day and worked hard towards her goal."
+      ],
+      "hint": "'An author' — use 'an' before a vowel sound. This is correct.",
+      "explanation": "<strong>Answer: an author — CORRECT</strong><br>'Author' begins with the vowel sound /ɔː/, so 'an' is correct. This sentence is grammatically accurate. Note: use 'a' or 'an' (not 'the') for jobs and roles when referring to one person as a type: 'become an author', 'be a teacher', 'work as an engineer'.",
+      "prompt": "Is this sentence correct? If not, rewrite it correctly."
+    },
+    {
+      "question": "I didn't even know Clara was interested in art until I heard that she owns Van Gogh.",
+      "options": [
+        "owns Van Gogh -> owns a Van Gogh",
+        "in art -> in the art",
+        "I didn't even know -> I hadn't even known",
+        "no mistake"
+      ],
+      "correctAnswer": 0,
+      "hint": "Use 'a' / 'an' for a work by a particular artist.",
+      "explanation": "<strong>Answer: owns Van Gogh -> owns a Van Gogh</strong><br>Use 'a' / 'an' for a work by a particular artist. The grammatical signals in this sentence — the key words, connectors, or context — require this specific form. Look for these signals to make the same choice independently."
+    },
+    {
+      "type": "correct",
+      "sentence": "He is the best player in a team and everyone knows it.",
+      "correction": "He is the best player in the team and everyone knows it.",
+      "acceptable": [
+        "in the team"
+      ],
+      "hint": "'The team' — a specific, already-identified group takes 'the'.",
+      "explanation": "<strong>Answer: the best player in the team</strong><br>'The team' refers to a specific team already established in context. 'A team' would suggest an unspecified team. Also: superlatives ('the best', 'the most', 'the fastest') require 'the' because they point to a unique, identified entity."
+    },
+    {
+      "question": "I'm ___ marketing adviser at Dozzle.",
+      "options": [
+        "a",
+        "the",
+        "an",
+        "zero article"
+      ],
+      "correctAnswer": 0,
+      "hint": "Use 'a' for a type of job.",
+      "explanation": "<strong>Answer: a</strong><br>Use the indefinite article 'a/an' when describing someone's job or role: 'I'm a teacher', 'She's an engineer'. This is a general classification, not a specific individual."
+    },
+    {
+      "type": "fill",
+      "question": "She plays ___ violin in a professional orchestra. She started at age four.",
+      "answer": "the",
+      "hint": "Musical instruments take 'the' when referring to playing them.",
+      "explanation": "<strong>Answer: the violin</strong><br>When referring to playing a musical instrument as a skill or activity, use 'the': play the piano, play the violin, play the guitar. This is a fixed convention in standard British and American English. Exception: jazz musicians sometimes omit 'the' in informal contexts."
+    },
+    {
+      "question": "She has been appointed ___ Minister for Industry. (Give all possible answers).",
+      "options": [
+        "the / zero article",
+        "a / an",
+        "a / the",
+        "zero article only"
+      ],
+      "correctAnswer": 0,
+      "hint": "For a unique position/title, use 'the' or zero article.",
+      "explanation": "<strong>Answer: the / zero article</strong><br>For a unique position/title, use 'the' or zero article. The grammatical signals in this sentence — the key words, connectors, or context — require this specific form. Look for these signals to make the same choice independently."
+    },
+    {
+      "question": "Rodrigo's boat wasn't the most elegant in the harbour, but it was certainly ___ biggest. Can we omit 'the'?",
+      "options": [
+        "Yes (biggest)",
+        "No (must be 'the biggest')",
+        "Yes (biggest)ing",
+        "No (must be 'the biggest')ing"
+      ],
+      "correctAnswer": 0,
+      "hint": "When there is no noun or defining phrase after the superlative, 'the' can often be left out.",
+      "explanation": "<strong>Answer: Yes (biggest)</strong><br>When there is no noun or defining phrase after the superlative, 'the' can often be left out. "
+    }
+  ]
+}

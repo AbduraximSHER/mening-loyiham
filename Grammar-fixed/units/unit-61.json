@@ -1,0 +1,119 @@
+{
+  "id": 61,
+  "title": "Art and Creativity",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Visual arts",
+      "content": "<div class=\"web-text\">Vocabulary for discussing art and artistic expression:</div><div class=\"web-example\"><span>• <strong>masterpiece</strong> — an outstanding work of art. <em>The painting is considered a masterpiece of Renaissance art.</em></span></div><div class=\"web-example\"><span>• <strong>abstract</strong> — not representing reality directly. <em>Abstract art focuses on shapes, colours, and emotions rather than objects.</em></span></div><div class=\"web-example\"><span>• <strong>avant-garde</strong> — experimental and innovative in art. <em>The gallery specialises in avant-garde installations.</em></span></div><div class=\"web-example\"><span>• <strong>aesthetic</strong> — concerned with beauty and artistic taste. <em>The building has great aesthetic appeal.</em></span></div><div class=\"web-example\"><span>• <strong>contemporary</strong> — belonging to the present time. <em>Contemporary art often challenges traditional boundaries.</em></span></div>"
+    },
+    {
+      "id": "B",
+      "title": "Creative process",
+      "content": "<div class=\"web-text\">How creative work develops:</div><div class=\"web-example\"><span>• <strong>inspiration</strong> — a sudden creative idea. <em>Nature was a constant source of inspiration for the poet.</em></span></div><div class=\"web-example\"><span>• <strong>improvise</strong> — create spontaneously without preparation. <em>Jazz musicians often improvise during performances.</em></span></div><div class=\"web-example\"><span>• <strong>collaborate</strong> — work together on a creative project. <em>The two artists collaborated on a stunning mural.</em></span></div><div class=\"web-example\"><span>• <strong>refine</strong> — improve by making small changes. <em>She spent months refining her novel before publishing.</em></span></div><div class=\"web-example\"><span>• <strong>versatile</strong> — able to work across many styles. <em>A versatile artist can paint, sculpt, and draw equally well.</em></span></div>"
+    },
+    {
+      "id": "C",
+      "title": "Criticism and reception",
+      "content": "<div class=\"web-text\">How art is received and evaluated:</div><div class=\"web-example\"><span>• <strong>critique</strong> — a detailed analysis and assessment. <em>The art critic wrote a harsh critique of the exhibition.</em></span></div><div class=\"web-example\"><span>• <strong>acclaimed</strong> — publicly praised. <em>The film was critically acclaimed and won several awards.</em></span></div><div class=\"web-example\"><span>• <strong>provocative</strong> — intended to stimulate strong reactions. <em>The provocative sculpture sparked heated public debate.</em></span></div><div class=\"web-example\"><span>• <strong>derivative</strong> — imitative of another artist's work. <em>Critics dismissed the paintings as derivative and unoriginal.</em></span></div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "Art that doesn't represent real objects but uses shapes and colours is:",
+      "options": [
+        "renaissance",
+        "minimalist",
+        "contemporary",
+        "abstract"
+      ],
+      "correctAnswer": 3,
+      "hint": "It's non-representational.",
+      "explanation": "<strong>Abstract</strong> art uses shapes, colours, and forms to achieve its effect rather than depicting recognisable objects."
+    },
+    {
+      "question": "A work of art considered to be the finest ever created is a:",
+      "options": [
+        "collaboration",
+        "masterpiece",
+        "improvisation",
+        "critique"
+      ],
+      "correctAnswer": 1,
+      "hint": "The best of the best.",
+      "explanation": "A <strong>masterpiece</strong> is a work of outstanding artistry or skill."
+    },
+    {
+      "question": "Art that is experimental and pushes boundaries is:",
+      "options": [
+        "contemporary",
+        "avant-garde",
+        "retrospective",
+        "canvas"
+      ],
+      "correctAnswer": 1,
+      "hint": "Ahead of its time, breaking rules.",
+      "explanation": "<strong>Avant-garde</strong> describes new and experimental ideas in art, especially in the arts."
+    },
+    {
+      "question": "Work that copies another artist's style without originality is:",
+      "options": [
+        "baroque",
+        "canvas",
+        "derivative",
+        "installation"
+      ],
+      "correctAnswer": 2,
+      "hint": "Lacking originality.",
+      "explanation": "<strong>Derivative</strong> means imitative of the work of another person, and usually disapproved of for that reason."
+    },
+    {
+      "question": "Creating something spontaneously without planning is to:",
+      "options": [
+        "critique",
+        "collaborate",
+        "improvise",
+        "refine"
+      ],
+      "correctAnswer": 2,
+      "hint": "Common in jazz music.",
+      "explanation": "To <strong>improvise</strong> means to create and perform spontaneously without preparation."
+    },
+    {
+      "question": "A work of art that is publicly praised and celebrated is:",
+      "options": [
+        "figurative",
+        "minimalist",
+        "acclaimed",
+        "contemporary"
+      ],
+      "correctAnswer": 2,
+      "hint": "It received positive reviews.",
+      "explanation": "<strong>Acclaimed</strong> means praised enthusiastically and publicly."
+    },
+    {
+      "question": "Concerned with beauty and the appreciation of beauty is:",
+      "options": [
+        "contemporary",
+        "installation",
+        "aesthetic",
+        "renaissance"
+      ],
+      "correctAnswer": 2,
+      "hint": "Related to visual appeal and taste.",
+      "explanation": "<strong>Aesthetic</strong> relates to the appreciation of beauty or good taste."
+    },
+    {
+      "question": "Art intended to cause strong reactions or controversy is:",
+      "options": [
+        "refined",
+        "provocative",
+        "minimalist",
+        "commission"
+      ],
+      "correctAnswer": 1,
+      "hint": "It shocks or challenges people.",
+      "explanation": "<strong>Provocative</strong> means deliberately causing a strong reaction, especially anger or debate."
+    }
+  ]
+}

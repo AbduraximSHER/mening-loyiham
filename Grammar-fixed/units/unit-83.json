@@ -1,0 +1,114 @@
+{
+  "id": 83,
+  "title": "Politics and Government",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Political systems",
+      "content": "<div class=\"web-text\">Key vocabulary for discussing politics:</div><div class=\"web-example\"><span>• <strong>democracy</strong> — government by the people. <em>Democracy depends on free and fair elections.</em></span></div><div class=\"web-example\"><span>• <strong>legislation</strong> — laws collectively. <em>New legislation was passed to protect the environment.</em></span></div><div class=\"web-example\"><span>• <strong>bureaucracy</strong> — complex administrative procedures. <em>Excessive bureaucracy slows down progress.</em></span></div><div class=\"web-example\"><span>• <strong>sovereignty</strong> — supreme authority over a territory. <em>The nation defended its sovereignty against foreign interference.</em></span></div><div class=\"web-example\"><span>• <strong>constitution</strong> — fundamental laws governing a country. <em>The constitution guarantees freedom of speech.</em></span></div>"
+    },
+    {
+      "id": "B",
+      "title": "Political actions",
+      "content": "<div class=\"web-text\">Verbs and nouns for political activity:</div><div class=\"web-example\"><span>• <strong>campaign</strong> — organised effort to achieve a goal. <em>She ran an impressive election campaign.</em></span></div><div class=\"web-example\"><span>• <strong>lobby</strong> — try to influence politicians on an issue. <em>Environmental groups lobby for stricter pollution laws.</em></span></div><div class=\"web-example\"><span>• <strong>sanction</strong> — a penalty imposed on a country. <em>Economic sanctions were imposed to pressure the government.</em></span></div><div class=\"web-example\"><span>• <strong>ratify</strong> — formally approve an agreement. <em>Parliament voted to ratify the trade agreement.</em></span></div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "The system of government by elected representatives is:",
+      "options": [
+        "ratification",
+        "democracy",
+        "constituency",
+        "bipartisan"
+      ],
+      "correctAnswer": 1,
+      "hint": "People choose their leaders.",
+      "explanation": "<strong>Democracy</strong> is a system of government by the whole population through elected representatives."
+    },
+    {
+      "question": "Complex official rules and procedures are:",
+      "options": [
+        "electorate",
+        "mandate",
+        "bureaucracy",
+        "veto"
+      ],
+      "correctAnswer": 2,
+      "hint": "Red tape and paperwork.",
+      "explanation": "<strong>Bureaucracy</strong> is a system of official rules and procedures, often seen as excessive."
+    },
+    {
+      "question": "To formally approve a treaty or agreement is to:",
+      "options": [
+        "campaign",
+        "sanction",
+        "ratify",
+        "mandate"
+      ],
+      "correctAnswer": 2,
+      "hint": "Making it official.",
+      "explanation": "To <strong>ratify</strong> means to sign or give formal consent to a treaty or agreement."
+    },
+    {
+      "question": "Penalties imposed on a country to force policy change are:",
+      "options": [
+        "constitutions",
+        "campaigns",
+        "lobbies",
+        "sanctions"
+      ],
+      "correctAnswer": 3,
+      "hint": "Economic pressure.",
+      "explanation": "<strong>Sanctions</strong> are penalties applied by one country against another to force compliance."
+    },
+    {
+      "question": "The fundamental law of a country is its:",
+      "options": [
+        "constitution",
+        "ratification",
+        "campaign",
+        "electorate"
+      ],
+      "correctAnswer": 0,
+      "hint": "The supreme legal document.",
+      "explanation": "A <strong>constitution</strong> is the fundamental set of principles governing a state."
+    },
+    {
+      "question": "Trying to influence politicians on a specific issue is to:",
+      "options": [
+        "sanction",
+        "veto",
+        "campaign",
+        "lobby"
+      ],
+      "correctAnswer": 3,
+      "hint": "Pressure groups do this.",
+      "explanation": "To <strong>lobby</strong> means to try to influence a politician on a particular issue."
+    },
+    {
+      "question": "A country's supreme authority over its territory is its:",
+      "options": [
+        "coalition",
+        "constituency",
+        "sovereignty",
+        "bipartisan"
+      ],
+      "correctAnswer": 2,
+      "hint": "Independent self-rule.",
+      "explanation": "<strong>Sovereignty</strong> is the authority of a state to govern itself independently."
+    },
+    {
+      "question": "Laws passed by a parliament or government body are:",
+      "options": [
+        "legislation",
+        "mandate",
+        "constitutions",
+        "campaigns"
+      ],
+      "correctAnswer": 0,
+      "hint": "The body of enacted laws.",
+      "explanation": "<strong>Legislation</strong> refers to laws that have been enacted by a governing body."
+    }
+  ]
+}

@@ -1,0 +1,551 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#F7F6F2">
+<title>Vocabulary — GrammarHub</title>
+<meta property="og:type"        content="website">
+<meta property="og:site_name"   content="GrammarHub">
+<meta property="og:title"       content="Vocabulary Practice - GrammarHub">
+<meta property="og:description" content="Advanced English vocabulary in context. 50 topic units covering personality, emotions, work, technology, academic language and more.">
+<meta property="og:url"         content="https://grammar-a7x.pages.dev/advanced-vocabulary.html">
+<meta property="og:image"       content="https://grammar-a7x.pages.dev/og-image.svg">
+<meta name="twitter:card"       content="summary_large_image">
+<meta name="twitter:title"      content="Vocabulary Practice - GrammarHub">
+<meta name="twitter:description" content="Advanced English vocabulary in context. 50 topic units covering personality, emotions, work, technology, academic language and more.">
+<meta name="twitter:image"      content="https://grammar-a7x.pages.dev/og-image.svg">
+<link rel="canonical"           href="https://grammar-a7x.pages.dev/advanced-vocabulary.html">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='50' fill='%230B0B0C'/%3E%3Ccircle cx='50' cy='50' r='22' fill='%232E48FF'/%3E%3C/svg%3E">
+<link rel="manifest" href="manifest.json">
+<link rel="stylesheet" href="css/theme.css?v=5">
+<script>
+  (function(){try{var t=localStorage.getItem('gh_theme');if(!t){t=window.matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light';}document.documentElement.setAttribute('data-theme',t);}catch(e){}})();
+</script>
+<style>
+  /* Vocab legacy theory markup needs a bit of scoping so it lands
+     cleanly inside the new .theory container. */
+  .theory .theory-section { background: transparent; padding: 0; }
+  .theory .theory-block {
+    background: var(--canvas-2);
+    border: 1px solid var(--line-2);
+    border-radius: var(--r);
+    padding: var(--space-5);
+    margin: var(--space-5) 0;
+  }
+  .theory .theory-header {
+    display: flex; align-items: center; gap: 0.75rem;
+    margin-bottom: var(--space-4);
+  }
+  .theory .theory-letter {
+    width: 32px; height: 32px; border-radius: 999px;
+    background: var(--accent); color: var(--card);
+    display: grid; place-items: center;
+    font-family: var(--font-display); font-size: 1.1rem;
+  }
+  .theory .theory-header h3 {
+    font-family: var(--font-display); font-weight: 400;
+    font-size: 1.3rem; margin: 0;
+  }
+  .theory .theory-content-grid { display: block; }
+  .theory .theory-text-column { max-width: 100%; }
+  .theory .theory-img {
+    width: 100%; height: auto;
+    border-radius: var(--r);
+    margin-bottom: var(--space-4);
+    max-height: 240px;
+    object-fit: cover;
+  }
+  .theory .theory-definitions {
+    margin-top: var(--space-4);
+    padding-top: var(--space-4);
+    border-top: 1px solid var(--line-2);
+    font-size: var(--fs-sm);
+    color: var(--ink-soft);
+  }
+  .theory .theory-definitions p { margin: 0 0 0.4rem; }
+  .theory .fn-link {
+    color: var(--accent-ink);
+    border-bottom: 1px dotted var(--accent);
+    cursor: help;
+  }
+  .theory .fn-link sup { font-size: 0.7em; }
+  .theory .fn-def { font-size: var(--fs-sm); }
+  .theory .web-text { font-size: var(--fs-body); line-height: 1.7; }
+  .theory .glossary-list p {
+    padding: 0.4rem 0;
+    border-bottom: 1px solid var(--line-2);
+  }
+  .theory .glossary-list strong {
+    display: inline-block; min-width: 130px; color: var(--ink);
+  }
+  .theory del.text-error { text-decoration: line-through; color: var(--danger); }
+</style>
+<link rel="stylesheet" href="vocab-ux.css?v=5">
+</head>
+<body>
+
+<header class="site-header" id="site-header">
+  <div class="site-header__inner">
+    <a href="dashboard.html" class="brand" aria-label="Dashboard">
+      <span class="brand__dot" aria-hidden="true"></span>
+      <span class="brand__name">Grammar<em>hub</em></span>
+    </a>
+    <div class="header-actions">
+      <button class="search-btn" data-action="open-search" aria-label="Search (⌘K)" title="Search (⌘K)">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+      </button>
+      <button class="theme-toggle" data-action="toggle-theme" aria-label="Toggle theme" title="Toggle theme">
+        <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+        <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41"/></svg>
+      </button>
+      <a href="advanced-grammar.html" class="btn btn--ghost btn--sm" style="font-size:var(--fs-sm);">Grammar</a>
+      <button class="nav-cta" id="unit-picker-btn">Units</button>
+    </div>
+  </div>
+</header>
+
+<div class="reader-top" id="reader-top" hidden>
+  <div class="reader-top__inner">
+    <button class="btn btn--ghost btn--sm" id="prev-btn" aria-label="Previous unit">←</button>
+    <div class="reader-top__title" id="unit-title">—</div>
+    <div class="reader-top__count" id="unit-count">—</div>
+    <button class="btn btn--ghost btn--sm" id="next-btn" aria-label="Next unit">→</button>
+  </div>
+</div>
+
+<main>
+
+  <section class="container" id="list-view" style="padding-top: 2rem;">
+    <div class="eyebrow">English vocabulary in use advanced</div>
+    <h1 class="display" style="font-size: var(--fs-h1); margin: 0.5rem 0 0.5rem;">
+      Words that<br>actually show up.
+    </h1>
+    <p class="sm" style="margin-bottom: 2rem;">Advanced vocabulary from real contexts — no random word lists.</p>
+
+    <!-- Featured word card -->
+    <div class="word-card" style="margin-bottom: 2rem;" id="featured-card">
+      <div class="word-card__label">Unit 1 · Featured</div>
+      <div class="word-card__word">cram</div>
+      <div class="word-card__def">
+        <em>verb</em> — study in a very concentrated way for a short time.
+      </div>
+      <div class="word-card__meta">
+        <span id="featured-topic">Study &amp; academic work</span>
+        <span id="featured-count">— units</span>
+      </div>
+    </div>
+
+    <div class="tabs" role="tablist" style="margin-bottom: 1.5rem;">
+      <button class="tab is-active" data-filter="all">All</button>
+      <button class="tab" data-filter="todo">Not started</button>
+      <button class="tab" data-filter="done">Completed</button>
+    </div>
+
+    <div class="card card--flush">
+      <div class="row-list" id="unit-list">
+        <div style="padding: 3rem 1rem; text-align: center; color: var(--muted);" class="sm">Loading…</div>
+      </div>
+    </div>
+  </section>
+
+  <section class="container" id="reader-view" hidden style="padding-top: 2rem;">
+    <div id="theory-container"></div>
+
+    <div style="margin: 3rem 0 1rem;" class="eyebrow">Practice</div>
+    <div id="exercises-container"></div>
+
+    <div id="finish-wrap" style="margin-top: 2rem;" hidden>
+      <div class="card card--dark center" style="padding: 2.5rem 1.5rem;">
+        <div class="stat-num" id="final-score" style="color: var(--dark-ink); font-size: 4rem;">—</div>
+        <div class="sm" style="color: var(--dark-muted); margin-bottom: 1.5rem;" id="final-label">—</div>
+        <button class="btn btn--accent btn--wide" id="mark-done">Mark unit complete</button>
+      </div>
+    </div>
+
+    <div style="display:flex; gap:0.75rem; margin-top: 2rem;">
+      <button class="btn btn--ghost" id="back-btn" style="flex: 1;">← Units</button>
+      <button class="btn" id="next-unit-btn" style="flex: 2;">Next unit →</button>
+    </div>
+  </section>
+
+</main>
+
+<div class="mini-toast" id="toast"></div>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="site-footer__brand">
+      <div class="brand" style="margin-bottom: 0.75rem;">
+        <span class="brand__dot"></span>
+        <span class="brand__name">Grammar<em>hub</em></span>
+      </div>
+      <span class="status-dot">All systems operational</span>
+    </div>
+    <div class="site-footer__bottom">
+      <span>© 2026 GrammarHub</span>
+      <span class="sm">Made with care.</span>
+    </div>
+  </div>
+</footer>
+
+<!-- Search modal -->
+<div class="search-overlay" id="search-overlay" role="dialog" aria-label="Search">
+  <div class="search-modal">
+    <div class="search-input-wrap">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+      <input type="text" class="search-input" placeholder="Search grammar and vocabulary units…" autocomplete="off" spellcheck="false">
+      <span class="search-kbd">ESC</span>
+    </div>
+    <div class="search-results"></div>
+  </div>
+</div>
+
+<!-- Shared modules for bookmarks + search + theme -->
+<script src="toast.js?v=5"></script>
+<script src="progress-migrate.js?v=5"></script>
+<script src="gamification.js?v=5"></script>
+<script src="bookmarks.js?v=5"></script>
+<script src="grammar-loader.js?v=5"></script>
+
+<!-- Vocabulary data as a big inline global -->
+<script src="vocabulary-data.js?v=5"></script>
+<script>
+  // vocabulary-data.js declares `const vocabularyUnits = [...]` which is
+  // visible by bare name within the shared script lexical env but is NOT
+  // attached to window. Bridge it explicitly so the rest of the page works
+  // whether the file uses const, let, or var.
+  try {
+    if (typeof vocabularyUnits !== 'undefined') {
+      window.vocabularyUnits = vocabularyUnits;
+    }
+  } catch (e) { /* ignore */ }
+</script>
+
+<script src="analytics.js?v=5"></script>
+<script src="ui-extras.js?v=5"></script>
+
+<!-- Vocab-only progress namespace -->
+<script>
+  // A tiny vocab-specific progress namespace so grammar + vocab don't collide.
+  (function(){
+    const KEY = 'vocab_progress';
+    function read(){ try { return JSON.parse(localStorage.getItem(KEY)||'{}'); } catch { return {}; } }
+    function normalize(p){
+      if (!p || typeof p!=='object') p = {};
+      if (!Array.isArray(p.completedUnits)) p.completedUnits = [];
+      p.completedUnits = p.completedUnits
+        .map(e => typeof e === 'number'
+          ? { id: e, score: null, date: null }
+          : (e && typeof e === 'object' && typeof e.id === 'number' ? e : null))
+        .filter(Boolean);
+      const seen = new Map();
+      for (const e of p.completedUnits) seen.set(e.id, e);
+      p.completedUnits = [...seen.values()];
+      return p;
+    }
+    const VocabProgress = {
+      get(){ return normalize(read()); },
+      save(p){ try { localStorage.setItem(KEY, JSON.stringify(normalize(p))); } catch {} },
+      markComplete(id, score){
+        id = parseInt(id,10);
+        if (!id) return;
+        const p = this.get();
+        const ex = p.completedUnits.find(u => u.id === id);
+        const now = new Date().toISOString();
+        if (ex) { if (typeof score==='number') ex.score = score; ex.date = now; }
+        else p.completedUnits.push({ id, score: score ?? null, date: now });
+        this.save(p);
+
+        // Wire into shared gamification — vocab completions earn points and maintain streak
+        if (window.Gamification) {
+          try {
+            window.Gamification.trackStreak();
+            window.Gamification.addPoints(10, `completed vocab unit ${id}`);
+            window.Gamification.evaluateBadges({ score });
+          } catch(e) { console.warn('[VocabProgress] gamification error', e); }
+        }
+      },
+      isCompleted(id){ return this.get().completedUnits.some(u => u.id === parseInt(id,10)); },
+      getScore(id){
+        const u = this.get().completedUnits.find(u => u.id === parseInt(id,10));
+        return u && typeof u.score === 'number' ? u.score : null;
+      },
+    };
+    // Migrate once
+    try {
+      const raw = localStorage.getItem(KEY);
+      if (raw) {
+        const fixed = JSON.stringify(normalize(read()));
+        if (raw !== fixed) localStorage.setItem(KEY, fixed);
+      }
+    } catch {}
+    window.VocabProgress = VocabProgress;
+  })();
+</script>
+
+<script>
+// ─── state ────────────────────────────────────────────
+const state = {
+  currentUnit: null,
+  answers: {},
+  correctCount: 0,
+  filter: 'all',
+};
+
+const $ = (id) => document.getElementById(id);
+const escapeHtml = (s) =>
+  String(s).replace(/[&<>"']/g, c =>
+    ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])
+  );
+
+function showToast(msg) {
+  const t = $('toast');
+  t.textContent = msg;
+  t.classList.add('show');
+  setTimeout(() => t.classList.remove('show'), 2200);
+}
+
+function units() {
+  return Array.isArray(window.vocabularyUnits) ? window.vocabularyUnits : [];
+}
+
+// ─── list view ────────────────────────────────────────
+function renderList() {
+  const all = units();
+  const completedIds = new Set(window.VocabProgress.get().completedUnits.map(u => u.id));
+
+  // Featured card
+  $('featured-count').textContent = `${all.length} units`;
+  if (all[0]) {
+    document.querySelector('#featured-card .word-card__meta span:first-child').textContent = all[0].title;
+  }
+
+  let list = all;
+  if (state.filter === 'todo') list = list.filter(u => !completedIds.has(u.id));
+  if (state.filter === 'done') list = list.filter(u => completedIds.has(u.id));
+
+  const holder = $('unit-list');
+  if (list.length === 0) {
+    holder.innerHTML = `<div style="padding: 3rem 1rem; text-align: center;" class="sm">Nothing here.</div>`;
+    return;
+  }
+
+  holder.innerHTML = list.map(u => {
+    const done = completedIds.has(u.id);
+    const score = window.VocabProgress.getScore(u.id);
+    const meta = done
+      ? (score !== null ? `Completed · ${score}%` : 'Completed')
+      : `${(u.exercises || []).length} exercises`;
+    return `
+      <a class="row ${done ? 'is-completed' : ''}" href="#unit-${u.id}">
+        <div class="row__num">${u.id}</div>
+        <div class="row__body">
+          <div class="row__title">${escapeHtml(u.title)}</div>
+          <div class="row__meta">${meta}</div>
+        </div>
+        <span class="row__cta ${done ? 'row__cta--done' : ''}">${done ? 'Review' : 'Start'}</span>
+      </a>`;
+  }).join('');
+}
+
+document.querySelectorAll('.tab').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.tab').forEach(b => b.classList.remove('is-active'));
+    btn.classList.add('is-active');
+    state.filter = btn.dataset.filter;
+    renderList();
+  });
+});
+
+// ─── reader view ──────────────────────────────────────
+function openUnit(id) {
+  id = parseInt(id, 10);
+  const unit = units().find(u => u.id === id);
+  if (!unit) return showList();
+
+  state.currentUnit = unit;
+  state.answers = {};
+  state.correctCount = 0;
+
+  $('list-view').hidden = true;
+  $('reader-view').hidden = false;
+  $('reader-top').hidden = false;
+  $('unit-title').textContent = unit.title;
+  $('unit-count').textContent = `${unit.id}/${units().length}`;
+  $('finish-wrap').hidden = true;
+
+  renderTheory(unit);
+  renderExercises(unit);
+
+  $('prev-btn').disabled = id <= 1;
+  $('next-btn').disabled = id >= units().length;
+
+  window.scrollTo({ top: 0, behavior: 'instant' });
+}
+
+function renderTheory(unit) {
+  const holder = $('theory-container');
+  holder.innerHTML = `
+    <div class="eyebrow">Unit ${unit.id} · Vocabulary</div>
+    <h1 class="display" style="font-size: var(--fs-h1); margin: 0.5rem 0 1.5rem; line-height: 1.05;">
+      ${escapeHtml(unit.title)}
+    </h1>
+    <div class="theory" id="theory-body"></div>
+  `;
+  // Theory is raw HTML from vocabulary-data.js
+  if (unit.theory) {
+    $('theory-body').innerHTML = unit.theory;
+  }
+}
+
+function renderExercises(unit) {
+  const holder = $('exercises-container');
+  const list = unit.exercises || [];
+  if (list.length === 0) {
+    holder.innerHTML = `<div class="card sm" style="text-align:center; color:var(--muted);">No exercises for this unit yet.</div>`;
+    return;
+  }
+
+  holder.innerHTML = list.map((ex, i) => {
+    // ex.question is trusted HTML; strip tags for the bookmark payload
+    const plainText = String(ex.question).replace(/<[^>]*>/g, '').replace(/\s+/g, ' ').trim();
+    const bookmarked = window.BookmarkUI
+      ? window.BookmarkUI.isBookmarked({ text: plainText, unitId: unit.id })
+      : false;
+    return `
+    <div class="mcq" data-ex="${i}" style="margin-bottom: 1rem;"
+         data-bookmark-text="${escapeHtml(plainText)}"
+         data-bookmark-unit="${unit.id}"
+         data-bookmark-title="${escapeHtml(unit.title)}">
+      <div class="mcq__header">
+        <div class="label-row">
+          <span class="pill pill--accent">Q${i + 1}</span>
+          <span class="sm" style="margin-left:auto;">${i + 1} of ${list.length}</span>
+        </div>
+        ${window.BookmarkUI ? window.BookmarkUI.buttonHtml(bookmarked) : ''}
+      </div>
+      <p class="mcq__q">${ex.question /* trusted HTML */}</p>
+      <div class="mcq__options">
+        ${(ex.options || []).map((opt, j) => `
+          <button class="mcq__option" data-ex="${i}" data-opt="${j}">
+            <span class="mcq__letter">${String.fromCharCode(65 + j)}</span>
+            <span>${escapeHtml(opt)}</span>
+          </button>
+        `).join('')}
+      </div>
+      <div class="mcq__explain" hidden></div>
+    </div>
+  `;}).join('');
+
+  holder.querySelectorAll('.mcq__option').forEach(btn => {
+    btn.addEventListener('click', onAnswer);
+  });
+  if (window.BookmarkUI) window.BookmarkUI.bindClicks(holder);
+}
+
+function onAnswer(e) {
+  const btn = e.currentTarget;
+  const exIdx = parseInt(btn.dataset.ex, 10);
+  const optIdx = parseInt(btn.dataset.opt, 10);
+  if (state.answers[exIdx] !== undefined) return;
+
+  const ex = state.currentUnit.exercises[exIdx];
+  const correct = optIdx === ex.correctAnswer;
+  state.answers[exIdx] = optIdx;
+  if (correct) state.correctCount += 1;
+
+  const card = btn.closest('.mcq');
+  card.querySelectorAll('.mcq__option').forEach((b, j) => {
+    b.disabled = true;
+    if (j === ex.correctAnswer) b.classList.add('is-correct');
+    else if (j === optIdx) b.classList.add('is-wrong');
+  });
+
+  if (ex.explanation) {
+    const ex_el = card.querySelector('.mcq__explain');
+    ex_el.innerHTML = `<strong>${correct ? 'Correct.' : 'Not quite.'}</strong> ${ex.explanation}`;
+    ex_el.hidden = false;
+  }
+
+  const total = state.currentUnit.exercises.length;
+  const answered = Object.keys(state.answers).length;
+  if (answered === total) {
+    const score = Math.round((state.correctCount / total) * 100);
+    $('final-score').textContent = score + '%';
+    $('final-label').textContent = `${state.correctCount} of ${total} correct`;
+    $('finish-wrap').hidden = false;
+    $('finish-wrap').scrollIntoView({ behavior: 'smooth', block: 'center' });
+  }
+}
+
+$('mark-done').addEventListener('click', () => {
+  if (!state.currentUnit) return;
+  const total = (state.currentUnit.exercises || []).length;
+  const score = total > 0 ? Math.round((state.correctCount / total) * 100) : null;
+  window.VocabProgress.markComplete(state.currentUnit.id, score);
+  showToast(`Vocab unit ${state.currentUnit.id} marked complete.`);
+  $('mark-done').disabled = true;
+  $('mark-done').textContent = '✓ Completed';
+});
+
+// ─── navigation ──────────────────────────────────────
+$('prev-btn').addEventListener('click', () => {
+  if (state.currentUnit && state.currentUnit.id > 1) {
+    location.hash = `#unit-${state.currentUnit.id - 1}`;
+  }
+});
+$('next-btn').addEventListener('click', () => {
+  if (state.currentUnit && state.currentUnit.id < units().length) {
+    location.hash = `#unit-${state.currentUnit.id + 1}`;
+  }
+});
+$('back-btn').addEventListener('click', showList);
+$('next-unit-btn').addEventListener('click', () => {
+  if (state.currentUnit && state.currentUnit.id < units().length) {
+    location.hash = `#unit-${state.currentUnit.id + 1}`;
+  }
+});
+$('unit-picker-btn').addEventListener('click', showList);
+
+function showList() {
+  location.hash = '';
+  $('reader-view').hidden = true;
+  $('reader-top').hidden = true;
+  $('list-view').hidden = false;
+  state.currentUnit = null;
+  renderList();
+  window.scrollTo({ top: 0, behavior: 'instant' });
+}
+
+function handleHash() {
+  const m = location.hash.match(/^#unit-(\d+)/);
+  if (m) openUnit(m[1]);
+  else {
+    $('reader-view').hidden = true;
+    $('reader-top').hidden = true;
+    $('list-view').hidden = false;
+  }
+}
+window.addEventListener('hashchange', handleHash);
+
+// ─── sticky header elevate ───────────────────────────
+const header = document.getElementById('site-header');
+const onScroll = () => header.classList.toggle('is-scrolled', window.scrollY > 8);
+onScroll();
+window.addEventListener('scroll', onScroll, { passive: true });
+
+// ─── boot ────────────────────────────────────────────
+document.addEventListener('DOMContentLoaded', () => {
+  renderList();
+  handleHash();
+});
+
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => navigator.serviceWorker.register('sw.js').catch(() => {}));
+}
+</script>
+
+<script src="vocab-ux.js?v=5"></script>
+</body>
+</html>

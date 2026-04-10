@@ -1,0 +1,119 @@
+{
+  "id": 57,
+  "title": "Technology and Digital Life",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Modern technology terms",
+      "content": "<div class=\"web-text\">Essential vocabulary for discussing technology:</div><div class=\"web-example\"><span>• <strong>artificial intelligence (AI)</strong> — computer systems that simulate human thinking. <em>AI is transforming industries from healthcare to finance.</em></span></div><div class=\"web-example\"><span>• <strong>algorithm</strong> — a set of rules a computer follows. <em>Social media algorithms decide what content you see.</em></span></div><div class=\"web-example\"><span>• <strong>automation</strong> — using machines to do work previously done by people. <em>Automation has increased factory productivity enormously.</em></span></div><div class=\"web-example\"><span>• <strong>virtual reality (VR)</strong> — computer-generated simulation of a 3D environment. <em>VR headsets allow users to experience immersive worlds.</em></span></div><div class=\"web-example\"><span>• <strong>cloud computing</strong> — storing and accessing data via the internet. <em>Most businesses now rely on cloud computing for data storage.</em></span></div>"
+    },
+    {
+      "id": "B",
+      "title": "Online behaviour",
+      "content": "<div class=\"web-text\">Words for how we interact with technology:</div><div class=\"web-example\"><span>• <strong>digital footprint</strong> — the trail of data you leave online. <em>Be careful — your digital footprint is permanent.</em></span></div><div class=\"web-example\"><span>• <strong>cybersecurity</strong> — protection of computer systems from theft. <em>Cybersecurity threats are increasing every year.</em></span></div><div class=\"web-example\"><span>• <strong>screen time</strong> — time spent looking at electronic screens. <em>Experts recommend limiting children's screen time.</em></span></div><div class=\"web-example\"><span>• <strong>viral</strong> — spreading rapidly online. <em>The video went viral overnight, reaching millions.</em></span></div><div class=\"web-example\"><span>• <strong>obsolete</strong> — no longer in use, outdated. <em>Smartphones made traditional cameras nearly obsolete.</em></span></div>"
+    },
+    {
+      "id": "C",
+      "title": "Tech impact on society",
+      "content": "<div class=\"web-text\">Discussing how technology shapes our world:</div><div class=\"web-example\"><span>• <strong>disruptive</strong> — radically changing an industry. <em>Electric vehicles are a disruptive technology in transport.</em></span></div><div class=\"web-example\"><span>• <strong>surveillance</strong> — close observation, especially by authorities. <em>City surveillance cameras raise privacy concerns.</em></span></div><div class=\"web-example\"><span>• <strong>digital divide</strong> — the gap between those with and without tech access. <em>The digital divide affects rural communities most.</em></span></div><div class=\"web-example\"><span>• <strong>innovation</strong> — introducing new methods or ideas. <em>Continuous innovation keeps companies competitive.</em></span></div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "The data trail you leave when using the internet is your:",
+      "options": [
+        "screen time",
+        "cloud computing",
+        "algorithm",
+        "digital footprint"
+      ],
+      "correctAnswer": 3,
+      "hint": "Everything you do online leaves a trace.",
+      "explanation": "Your <strong>digital footprint</strong> is the record of your online activity."
+    },
+    {
+      "question": "Technology that is no longer used because something better exists is:",
+      "options": [
+        "interface",
+        "firmware",
+        "automated",
+        "obsolete"
+      ],
+      "correctAnswer": 3,
+      "hint": "It's been replaced by newer technology.",
+      "explanation": "<strong>Obsolete</strong> means no longer produced or used; out of date."
+    },
+    {
+      "question": "A technology that fundamentally changes an entire industry is called:",
+      "options": [
+        "automated",
+        "virtual",
+        "algorithm",
+        "disruptive"
+      ],
+      "correctAnswer": 3,
+      "hint": "It shakes up the existing way of doing things.",
+      "explanation": "<strong>Disruptive</strong> technology significantly alters the way businesses or industries operate."
+    },
+    {
+      "question": "The gap between people who have access to technology and those who don't is the:",
+      "options": [
+        "proprietary",
+        "algorithm",
+        "digital divide",
+        "surveillance"
+      ],
+      "correctAnswer": 2,
+      "hint": "It's about inequality in tech access.",
+      "explanation": "The <strong>digital divide</strong> is the gulf between those who have access to technology and those who do not."
+    },
+    {
+      "question": "Protecting computer systems from hacking and data theft is:",
+      "options": [
+        "algorithm",
+        "cloud computing",
+        "cybersecurity",
+        "surveillance"
+      ],
+      "correctAnswer": 2,
+      "hint": "Keeping digital information safe.",
+      "explanation": "<strong>Cybersecurity</strong> is the practice of protecting systems and networks from digital attacks."
+    },
+    {
+      "question": "When content spreads rapidly across the internet, it goes:",
+      "options": [
+        "viral",
+        "automated",
+        "malware",
+        "deprecated"
+      ],
+      "correctAnswer": 0,
+      "hint": "Millions of people share it quickly.",
+      "explanation": "Content that goes <strong>viral</strong> spreads rapidly and widely across the internet."
+    },
+    {
+      "question": "Using machines instead of human workers to complete tasks is:",
+      "options": [
+        "automation",
+        "algorithm",
+        "surveillance",
+        "deprecated"
+      ],
+      "correctAnswer": 0,
+      "hint": "Robots replacing manual labour.",
+      "explanation": "<strong>Automation</strong> is the use of technology to perform tasks with minimal human input."
+    },
+    {
+      "question": "The process of introducing new ideas or methods is:",
+      "options": [
+        "innovation",
+        "scalable",
+        "algorithm",
+        "surveillance"
+      ],
+      "correctAnswer": 0,
+      "hint": "Creating something new and better.",
+      "explanation": "<strong>Innovation</strong> is the introduction of new ideas, methods, or products."
+    }
+  ]
+}

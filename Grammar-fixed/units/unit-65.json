@@ -1,0 +1,119 @@
+{
+  "id": 65,
+  "title": "Phrasal Verbs in Daily Life",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Social phrasal verbs",
+      "content": "<div class=\"web-text\">Phrasal verbs are essential for natural-sounding English:</div><div class=\"web-example\"><span>• <strong>get along with</strong> — have a good relationship. <em>She gets along well with all her classmates.</em></span></div><div class=\"web-example\"><span>• <strong>look up to</strong> — admire and respect. <em>Many young people look up to their teachers.</em></span></div><div class=\"web-example\"><span>• <strong>put up with</strong> — tolerate something unpleasant. <em>I can't put up with this noise any longer.</em></span></div><div class=\"web-example\"><span>• <strong>run into</strong> — meet unexpectedly. <em>I ran into an old school friend at the supermarket.</em></span></div><div class=\"web-example\"><span>• <strong>let down</strong> — disappoint someone. <em>He promised to help but then let me down.</em></span></div>"
+    },
+    {
+      "id": "B",
+      "title": "Work and study phrasal verbs",
+      "content": "<div class=\"web-text\">Phrasal verbs commonly used in professional and academic settings:</div><div class=\"web-example\"><span>• <strong>carry out</strong> — perform or complete a task. <em>The team carried out extensive research.</em></span></div><div class=\"web-example\"><span>• <strong>come up with</strong> — think of an idea or plan. <em>She came up with a brilliant solution.</em></span></div><div class=\"web-example\"><span>• <strong>figure out</strong> — understand after thinking. <em>I finally figured out how to solve the problem.</em></span></div><div class=\"web-example\"><span>• <strong>set up</strong> — establish or create. <em>They set up a new company last year.</em></span></div><div class=\"web-example\"><span>• <strong>hand in</strong> — submit work. <em>Students must hand in their essays by Friday.</em></span></div>"
+    },
+    {
+      "id": "C",
+      "title": "Life events phrasal verbs",
+      "content": "<div class=\"web-text\">Phrasal verbs for significant moments:</div><div class=\"web-example\"><span>• <strong>bring up</strong> — raise a child, or mention a topic. <em>She was brought up by her grandparents.</em></span></div><div class=\"web-example\"><span>• <strong>settle down</strong> — begin a stable life. <em>After travelling for years, he decided to settle down.</em></span></div><div class=\"web-example\"><span>• <strong>take after</strong> — resemble a parent. <em>She takes after her mother in many ways.</em></span></div><div class=\"web-example\"><span>• <strong>pass away</strong> — die (euphemism). <em>His grandfather passed away peacefully at 92.</em></span></div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "'I can't put up with the noise' means I can't:",
+      "options": [
+        "hear it",
+        "tolerate it",
+        "understand it",
+        "create it"
+      ],
+      "correctAnswer": 1,
+      "hint": "It's too much for you.",
+      "explanation": "<strong>Put up with</strong> means to tolerate or endure something unpleasant."
+    },
+    {
+      "question": "To 'come up with' an idea means to:",
+      "options": [
+        "think of it",
+        "steal it",
+        "reject it",
+        "forget it"
+      ],
+      "correctAnswer": 0,
+      "hint": "The idea appears in your mind.",
+      "explanation": "<strong>Come up with</strong> means to produce or think of an idea, plan, or suggestion."
+    },
+    {
+      "question": "If a child 'takes after' their parent, they:",
+      "options": [
+        "carry out",
+        "resemble them",
+        "follow them",
+        "disobey them"
+      ],
+      "correctAnswer": 1,
+      "hint": "They look or act similar.",
+      "explanation": "<strong>Take after</strong> means to resemble a parent or relative in appearance or character."
+    },
+    {
+      "question": "To 'let someone down' means to:",
+      "options": [
+        "help them",
+        "disappoint them",
+        "praise them",
+        "carry them"
+      ],
+      "correctAnswer": 1,
+      "hint": "You failed their expectations.",
+      "explanation": "<strong>Let down</strong> means to fail to support or help someone; to disappoint."
+    },
+    {
+      "question": "'She was brought up by her grandparents' means they:",
+      "options": [
+        "taught her English",
+        "visited her",
+        "raised her",
+        "met her"
+      ],
+      "correctAnswer": 2,
+      "hint": "They were responsible for her childhood.",
+      "explanation": "<strong>Bring up</strong> means to raise and care for a child until they are grown up."
+    },
+    {
+      "question": "To 'carry out' research means to:",
+      "options": [
+        "postpone it",
+        "conduct it",
+        "avoid it",
+        "cancel it"
+      ],
+      "correctAnswer": 1,
+      "hint": "To perform or complete it.",
+      "explanation": "<strong>Carry out</strong> means to perform or complete a planned action or task."
+    },
+    {
+      "question": "To 'run into' someone means to:",
+      "options": [
+        "meet them by chance",
+        "chase them",
+        "avoid them",
+        "argue with them"
+      ],
+      "correctAnswer": 0,
+      "hint": "An unexpected meeting.",
+      "explanation": "<strong>Run into</strong> means to meet someone unexpectedly."
+    },
+    {
+      "question": "To 'look up to' someone means to:",
+      "options": [
+        "admire them",
+        "search for them",
+        "stare at them",
+        "ignore them"
+      ],
+      "correctAnswer": 0,
+      "hint": "You respect and admire them.",
+      "explanation": "<strong>Look up to</strong> means to admire and respect someone."
+    }
+  ]
+}

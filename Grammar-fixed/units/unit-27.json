@@ -1,0 +1,202 @@
+{
+  "id": 27,
+  "title": "Negative questions; echo questions; questions with that-clauses",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Negative questions",
+      "content": "\n            <div class=\"web-text\">We usually make a negative <strong>yes/no</strong> or <strong>wh-question</strong> with an auxiliary verb (<em>have, did, would</em>, etc.) + <strong>-n’t</strong> to suggest, persuade, criticise, etc.:</div>\n            <div class=\"web-example\">\n                <span>• <strong>Wouldn’t</strong> it be better to go tomorrow?</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• Why <strong>don’t</strong> we go out for a meal?</span>\n            </div>\n            <div class=\"web-text\">In formal contexts, or when we want to give some special emphasis to the negative (perhaps to show that we are angry, very surprised, or to strongly persuade someone), we can use <strong>not</strong> after the subject in negative questions. This happens particularly in <strong>yes/no</strong> rather than <strong>wh-questions</strong>:</div>\n            <div class=\"web-example\">\n                <span>• <strong>Did</strong> she <strong>not</strong> realise that she'd broken it? (<em>more emphatic than</em> Didn't she realise that...?)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>Can</strong> you <strong>not</strong> get there a bit earlier? (<em>more emphatic than</em> Can't you...?)</span>\n            </div>\n        "
+    },
+    {
+      "id": "B",
+      "title": "Negative words in questions",
+      "content": "\n            <div class=\"web-text\">We sometimes use negative words instead of <strong>-n’t</strong> such as <strong>never, no, nobody, nothing, nowhere</strong>:</div>\n            <div class=\"web-example\">\n                <span>• Why do you <strong>never</strong> help?</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• Have you <strong>nowhere</strong> to go? (<em>or</em> Do you have <strong>nowhere</strong> to go?)</span>\n            </div>\n            <div class=\"web-text\">Alternatively, but less emphatically or more informally:</div>\n            <div class=\"web-example\">\n                <span>• Why <strong>don’t</strong> you ever help?</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>Haven’t</strong> you got anywhere to go? (<em>or</em> Don't you have anywhere...?)</span>\n            </div>\n        "
+    },
+    {
+      "id": "C",
+      "title": "Suggestions with Why not and Why don’t",
+      "content": "\n            <div class=\"web-text\">We can make a suggestion with <strong>Why not + bare infinitive</strong> or <strong>Why don’t / doesn’t + subject + bare infinitive</strong> (<em>but not</em> Why do not / does not...):</div>\n            <div class=\"web-example\">\n                <span>• <strong>Why not</strong> decorate the house yourself? (<em>or</em> <strong>Why don’t</strong> you decorate...?)</span>\n            </div>\n            <div class=\"web-text\"><strong>Why didn’t</strong> ... isn't used to make a suggestion, but can show that we think an action was wrong. For example, depending on intonation and context, it can be used to criticise someone:</div>\n            <div class=\"web-example\">\n                <span>• <strong>Why didn’t</strong> you tell me that in the first place? (I'm annoyed that you didn't)</span>\n            </div>\n        "
+    },
+    {
+      "id": "D",
+      "title": "Negative questions for exclamations",
+      "content": "\n            <div class=\"web-text\">We use negative question forms with falling intonation for exclamations when we expect agreement:</div>\n            <div class=\"web-example\">\n                <span>• <strong>Haven’t</strong> you grown!</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>Doesn’t</strong> she look lovely!</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>Didn’t</strong> it snow a lot!</span>\n            </div>\n        "
+    },
+    {
+      "id": "E",
+      "title": "Echo questions",
+      "content": "\n            <div class=\"web-text\">Echo questions are used when we haven't understood what has been said or to check that we heard correctly, perhaps because we found it very surprising. We might repeat, usually with a rising intonation, the whole of what was said:</div>\n            <div class=\"web-example\">\n                <span>• 'Tala's lost her job.' 'Tala's lost her <strong>job?</strong>'</span>\n            </div>\n            <div class=\"web-text\">or focus on part of what was said using a stressed <strong>wh-word</strong> or a phrase with <strong>how</strong>:</div>\n            <div class=\"web-example\">\n                <span>• 'Leon's arriving at 6:30.' '<strong>When's</strong> Leon arriving? / Leon's arriving <strong>when?</strong>'</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• 'We paid £3,000 for the painting.' '<strong>How much</strong> did you pay? / You paid <strong>how much?</strong>'</span>\n            </div>\n            <div class=\"web-text\">We can use <strong>what</strong> or <strong>do + what</strong> to focus on the verb or part of the sentence beginning with the verb:</div>\n            <div class=\"web-example\">\n                <span>• 'I think she's having a sleep.' 'She's <strong>what?</strong>' (<em>or</em> 'She's <strong>doing what?</strong>')</span>\n            </div>\n        "
+    },
+    {
+      "id": "F",
+      "title": "Questions with that-clauses",
+      "content": "\n            <div class=\"web-text\">A <strong>wh-question</strong> can refer to a following <strong>that-clause</strong>, particularly after verbs such as <strong>expect, hope, reckon, say, suggest, suppose,</strong> and <strong>think</strong>. We can leave out <strong>that</strong> in these questions:</div>\n            <div class=\"web-example\">\n                <span>• <strong>When</strong> do you reckon (that) you'll finish the job?</span>\n            </div>\n            <div class=\"web-text\">However, when the <strong>wh-word</strong> is the subject, object or complement of the verb in the subordinate clause, we do not use <strong>that</strong>:</div>\n            <div class=\"web-example\">\n                <span>• <strong>What</strong> did you think was in the box? (<em>not</em> What did you think that was in the box?)</span>\n            </div>\n        "
+    }
+  ],
+  "exercises": [
+    {
+      "question": "A: Can you lend me €10? B: Again? ___ got any money left? (... money left?)",
+      "options": [
+        "Haven't you",
+        "Have you not",
+        "Do you not have",
+        "All of these"
+      ],
+      "correctAnswer": 3,
+      "hint": "All are possible negative question forms.",
+      "explanation": "<strong>Answer: All of these</strong><br>All are possible negative question forms. The grammatical signals in this sentence — the key words, connectors, or context — require this specific form. Look for these signals to make the same choice independently."
+    },
+    {
+      "question": "A: I'm annoyed that you didn't come to the meeting. B: Why? ___ my email on holiday? (... my email / on holiday?)",
+      "hint": "Why didn't you check? (informal) or Why did you not check? (formal/emphatic).",
+      "explanation": "<strong>Answer: Both are possible</strong><br>Why didn't you check? (informal) or Why did you not check? (formal/emphatic). ",
+      "type": "fill",
+      "answer": "didn't you check",
+      "acceptable": [
+        "did you not check",
+        "you didn't check",
+        "Both are possible"
+      ]
+    },
+    {
+      "type": "correct",
+      "sentence": "Didn't you never tell him the truth about what happened?",
+      "correction": "Didn't you ever tell him the truth about what happened?",
+      "acceptable": [
+        "Didn't you ever tell him",
+        "Have you never told him",
+        "Haven't you ever told him"
+      ],
+      "hint": "Don't combine 'didn't' (negative auxiliary) with 'never' (negative adverb) — double negative.",
+      "explanation": "<strong>Answer: Didn't you ever tell him the truth?</strong><br>English standard grammar avoids double negatives. 'Didn't' is already negative, so use 'ever' (not 'never') to complete the negative question. Alternatively: 'Have you never told him?' — here 'have' is not negated so 'never' is correct."
+    },
+    {
+      "question": "A: I'll just finish my homework before I go to school. B: But ___ to finish it last night? (... be supposed to / last night?)",
+      "hint": "Negative question used for criticism/reminder.",
+      "explanation": "<strong>Answer: Both are possible</strong><br>Negative question used for criticism/reminder. ",
+      "type": "fill",
+      "answer": "didn't you check",
+      "acceptable": [
+        "did you not check",
+        "Both are possible"
+      ]
+    },
+    {
+      "question": "A: ___ considered you might be wrong? / Have you ___ considered you might be wrong?",
+      "options": [
+        "Haven't you ever / never",
+        "Have you not / never",
+        "Don't you ever / not",
+        "Haven't you / no"
+      ],
+      "correctAnswer": 0,
+      "hint": "Using -n't vs never.",
+      "explanation": "<strong>Answer: Haven't you ever / never</strong><br>Negative questions can use '-n't' + 'ever' or a positive question with 'never'. Both 'Haven't you ever considered it?' and 'Have you never considered it?' are correct and mean the same thing. 'Never' is the more emphatic form."
+    },
+    {
+      "type": "correct",
+      "sentence": "Hasn't she never been abroad before?",
+      "correction": "Hasn't she ever been abroad before?",
+      "acceptable": [
+        "Has she never been abroad?",
+        "Hasn't she ever been abroad?"
+      ],
+      "hint": "'Hasn't' (negative) + 'ever' OR 'Has' (positive) + 'never'.",
+      "explanation": "<strong>Answer: Hasn't she ever been abroad before?</strong><br>'Hasn't she never been' uses two negatives. Choose one: negative auxiliary ('hasn't') with 'ever', OR positive auxiliary ('has') with 'never'. Both convey the same meaning. 'Has she never been abroad?' is more emphatic; 'Hasn't she ever been?' is more conversational."
+    },
+    {
+      "question": "A: I spent the night in the railway station. B: ___ anywhere else to sleep? / Could you find ___ else to sleep?",
+      "options": [
+        "Couldn't you find / nowhere",
+        "Can't you find / no",
+        "Don't you find / nothing",
+        "Can you not find / nowhere"
+      ],
+      "correctAnswer": 0,
+      "hint": "Couldn't you... / ...nowhere.",
+      "explanation": "<strong>Answer: Couldn't you find / nowhere</strong><br>Couldn't you... / ...nowhere. "
+    },
+    {
+      "question": "A: Jake's going to Chile. B: He's going ___? / He's doing ___? / He's ___?",
+      "options": [
+        "where / what / what",
+        "what / how / where",
+        "who / what / where",
+        "where / what / why"
+      ],
+      "correctAnswer": 0,
+      "hint": "Echo question words.",
+      "explanation": "<strong>Answer: where / what / what</strong><br>In echo questions, you repeat the auxiliary verb from the statement and add the wh-word you want clarified. They show surprise or ask for confirmation. The wh-word (where/what/who) matches what information was unclear."
+    },
+    {
+      "type": "reorder",
+      "prompt": "Form an echo question to express surprise:",
+      "tokens": [
+        "did",
+        "she",
+        "really",
+        "win",
+        "the",
+        "competition"
+      ],
+      "correctOrder": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "hint": "Echo question: auxiliary + subject + (adverb) + bare infinitive + object",
+      "explanation": "<strong>Answer: Did she really win the competition?</strong><br>Echo questions repeat the structure of a statement as a question, often to express surprise or ask for confirmation. Use the auxiliary 'did' for past simple echo questions. 'Really' adds surprise/disbelief and typically comes after the subject."
+    },
+    {
+      "question": "A: He'll be away for three months. B: He'll be away for ___? / He'll ___?",
+      "options": [
+        "when / where",
+        "how long / what",
+        "when / what",
+        "how much / why"
+      ],
+      "correctAnswer": 0,
+      "hint": "Focus on length/time.",
+      "explanation": "<strong>Answer: when / where</strong><br>Choose the wh-word that matches the type of information you're asking about: 'when' for time, 'where' for place, 'how long' for duration, 'why' for reason. Echo the auxiliary from the original statement."
+    },
+    {
+      "question": "Was not it a brilliant film! (Correct the exclamation)",
+      "options": [
+        "Wasn't it a brilliant film!",
+        "Was not it brilliant!",
+        "Did it not be brilliant!",
+        "Correct as is"
+      ],
+      "correctAnswer": 0,
+      "hint": "Contracted form is standard for exclamations.",
+      "explanation": "<strong>Answer: Wasn't it a brilliant film!</strong><br>Contracted form is standard for exclamations. The grammatical signals in this sentence — the key words, connectors, or context — require this specific form. Look for these signals to make the same choice independently."
+    },
+    {
+      "question": "How do you think that Twitter will have changed our lives in ten years' time? (Improve the sentence)",
+      "options": [
+        "How do you think Twitter will have changed...",
+        "How do you think that Twitter would have changed...",
+        "When do you think that Twitter will have changed...",
+        "Correct as is"
+      ],
+      "correctAnswer": 0,
+      "hint": "Remove 'that' in wh-questions where wh-word is part of the subordinate clause.",
+      "explanation": "<strong>Answer: How do you think Twitter will have changed...</strong><br>Remove 'that' in wh-questions where wh-word is part of the subordinate clause. The present perfect links past events to the present. The key signals are: <em>just, already, yet, ever, never, since, for, recently</em>, and incomplete time expressions like <em>this week</em> or <em>today</em> (when not yet over)."
+    },
+    {
+      "question": "A: Mariam isn't answering her phone. B: Why do you not email her? (Suggestion)",
+      "options": [
+        "Why not email her?",
+        "Why don't you email her?",
+        "Both are better/natural",
+        "Correct as is"
+      ],
+      "correctAnswer": 2,
+      "hint": "Why not / Why don't you are more natural for suggestions.",
+      "explanation": "<strong>Answer: Both are better/natural</strong><br>Why not / Why don't you are more natural for suggestions. "
+    }
+  ]
+}

@@ -1,0 +1,612 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#F7F6F2">
+<title>Dashboard — GrammarHub</title>
+<meta property="og:type"        content="website">
+<meta property="og:site_name"   content="GrammarHub">
+<meta property="og:title"       content="Your Progress - GrammarHub">
+<meta property="og:description" content="Track your progress across 100 grammar and vocabulary units. Spaced repetition, streaks, downloadable certificates.">
+<meta property="og:url"         content="https://grammar-a7x.pages.dev/dashboard.html">
+<meta property="og:image"       content="https://grammar-a7x.pages.dev/og-image.svg">
+<meta name="twitter:card"       content="summary_large_image">
+<meta name="twitter:title"      content="Your Progress - GrammarHub">
+<meta name="twitter:description" content="Track your progress across 100 grammar and vocabulary units. Spaced repetition, streaks, downloadable certificates.">
+<meta name="twitter:image"      content="https://grammar-a7x.pages.dev/og-image.svg">
+<link rel="canonical"           href="https://grammar-a7x.pages.dev/dashboard.html">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='50' fill='%230B0B0C'/%3E%3Ccircle cx='50' cy='50' r='22' fill='%232E48FF'/%3E%3C/svg%3E">
+<link rel="manifest" href="manifest.json">
+<link rel="stylesheet" href="css/theme.css?v=5">
+<script>
+  (function(){try{var t=localStorage.getItem('gh_theme');if(!t){t=window.matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light';}document.documentElement.setAttribute('data-theme',t);}catch(e){}})();
+</script>
+</head>
+<body>
+
+<header class="site-header" id="site-header">
+  <div class="site-header__inner">
+    <a href="index.html" class="brand" aria-label="GrammarHub home">
+      <span class="brand__dot" aria-hidden="true"></span>
+      <span class="brand__name">Grammar<em>hub</em></span>
+    </a>
+    <div class="header-actions">
+      <button class="search-btn" data-action="open-search" aria-label="Search (⌘K)" title="Search (⌘K)">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+      </button>
+      <button class="theme-toggle" data-action="toggle-theme" aria-label="Toggle theme" title="Toggle theme">
+        <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+        <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41"/></svg>
+      </button>
+      <a href="advanced-grammar.html" class="nav-cta">Practice</a>
+    </div>
+  </div>
+</header>
+
+<main>
+
+  <!-- ══════════════════ GREETING (full width) ══════════════════ -->
+  <section class="container" style="padding-top: 2rem; padding-bottom: 1rem;">
+    <div class="eyebrow" id="greet-date">—</div>
+    <h1 class="display" style="font-size: var(--fs-h1); margin: 0.5rem 0 0.25rem;">
+      <span id="greet-name">Welcome back.</span>
+    </h1>
+    <p class="sm" id="greet-sub">Pick up where you left off.</p>
+  </section>
+
+  <div class="dash-grid">
+
+    <aside class="dash-sidebar stack-lg">
+
+      <!-- ══════════════════ STREAK CARD ══════════════════ -->
+      <div class="stat-card" id="streak-card">
+
+        <!-- ── Streak headline ─────────────────────────── -->
+        <div style="display:flex; align-items:center; justify-content:space-between; margin-bottom:1.25rem;">
+          <div>
+            <div style="font-size:0.7rem;font-weight:600;text-transform:uppercase;letter-spacing:.14em;color:var(--muted);margin-bottom:0.3rem;">Current streak</div>
+            <div style="display:flex;align-items:baseline;gap:0.35rem;line-height:1;">
+              <span id="streak-flame" style="font-size:2.25rem;line-height:1;">🔥</span>
+              <span class="stat-num" id="streak-num" style="font-size:3rem;">0</span>
+              <span style="font-size:1rem;color:var(--muted);font-weight:500;">days</span>
+            </div>
+          </div>
+          <div style="text-align:right;">
+            <div style="font-size:0.7rem;font-weight:600;text-transform:uppercase;letter-spacing:.14em;color:var(--muted);margin-bottom:0.3rem;">Points</div>
+            <div style="font-size:1.5rem;font-weight:700;font-family:var(--font-display);letter-spacing:-.02em;" id="big-score">0</div>
+          </div>
+        </div>
+
+        <!-- ── Streak milestone bar ─────────────────────── -->
+        <div style="margin-bottom:0.5rem;">
+          <div class="bar"><div class="bar__fill bar__fill--accent" id="streak-bar" style="width:0%;background:var(--warn);"></div></div>
+          <div class="sm" style="margin-top:0.4rem;display:flex;justify-content:space-between;" id="streak-bar-label">
+            <span id="streak-next-label" style="color:var(--muted);">Start your streak today</span>
+            <span id="streak-next-days" style="color:var(--muted);"></span>
+          </div>
+        </div>
+
+        <!-- ── Three tiles ──────────────────────────────── -->
+        <div class="stat-grid" style="margin-top:1rem;">
+          <div class="stat-tile">
+            <div class="stat-tile__num" id="tile-done">0</div>
+            <div class="stat-tile__label">Units done</div>
+          </div>
+          <div class="stat-tile stat-tile--accent">
+            <div class="stat-tile__num" id="tile-accuracy">—</div>
+            <div class="stat-tile__label">Accuracy</div>
+          </div>
+          <div class="stat-tile">
+            <div class="stat-tile__num" id="tile-badges">0</div>
+            <div class="stat-tile__label">Badges</div>
+          </div>
+        </div>
+
+        <!-- ── Progress bar ─────────────────────────────── -->
+        <div style="margin-top:1rem;">
+          <div class="bar"><div class="bar__fill bar__fill--accent" id="overall-bar" style="width: 0%"></div></div>
+          <div class="sm" style="margin-top: 0.4rem; color:var(--muted);" id="overall-label">0 / 100 units complete</div>
+        </div>
+
+      </div>
+
+      <!-- ══════════════════ ONBOARDING (new users only) ══════════════════ -->
+      <div id="onboarding-wrap" hidden>
+        <div class="card" style="border-left: 4px solid var(--accent); background: var(--accent-soft);">
+          <div style="font-size:.7rem;font-weight:600;text-transform:uppercase;letter-spacing:.14em;color:var(--accent-ink);margin-bottom:.5rem;">Start here</div>
+          <h3 style="font-size:1.1rem;font-weight:600;margin:0 0 .5rem;color:var(--ink);">Not sure where to begin?</h3>
+          <p class="sm" style="margin:0 0 1rem;color:var(--ink-soft);">Take the 5-minute placement quiz. It tells you exactly which unit matches your level.</p>
+          <div style="display:flex;gap:.6rem;flex-wrap:wrap;">
+            <a href="placement.html" class="btn btn--accent btn--sm">Take placement quiz →</a>
+            <a href="advanced-grammar.html" class="btn btn--ghost btn--sm">Browse all units</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- ══════════════════ CONTINUE CARD ══════════════════ -->
+      <div id="continue-wrap" hidden>
+        <div class="card card--dark">
+          <div class="eyebrow" style="color: var(--dark-muted); margin-bottom: 0.5rem;">Continue</div>
+          <h3 style="color: var(--dark-ink); font-family: var(--font-display); font-weight: 400; font-size: 1.6rem; line-height: 1.15; margin: 0 0 1rem;" id="continue-title">—</h3>
+          <a href="#" class="btn btn--accent btn--wide" id="continue-btn">Resume</a>
+        </div>
+      </div>
+
+      <!-- ══════════════════ REVIEW DUE CARD ══════════════════ -->
+      <div id="review-wrap" hidden>
+        <div class="card" style="border-left: 3px solid var(--accent, #E8573A);">
+          <div class="eyebrow" style="margin-bottom: 0.5rem;">📋 Review due</div>
+          <p class="sm" style="margin: 0 0 1rem;" id="review-subtitle">—</p>
+          <div id="review-list" style="display:flex; flex-direction:column; gap:0.5rem; margin-bottom:1rem;"></div>
+          <a href="advanced-grammar.html" class="btn btn--wide" id="review-first-btn">Start reviewing →</a>
+        </div>
+      </div>
+
+      <!-- ══════════════════ TOPIC BREAKDOWN ══════════════════ -->
+      <div>
+        <div class="eyebrow" style="margin-bottom: 1rem;">By topic</div>
+        <div class="cat-grid" id="cat-grid"></div>
+      </div>
+
+    </aside>
+
+    <div class="dash-main stack-lg">
+
+      <!-- ══════════════════ UNIT LIST ══════════════════ -->
+      <div>
+        <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 1rem;">
+          <div class="eyebrow">All units</div>
+          <a href="advanced-grammar.html" class="sm">View grammar →</a>
+        </div>
+
+        <div class="tabs" role="tablist">
+          <button class="tab is-active" data-filter="all">All</button>
+          <button class="tab" data-filter="todo">Not started</button>
+          <button class="tab" data-filter="done">Completed</button>
+        </div>
+
+        <div class="card card--flush">
+          <div class="row-list" id="unit-list">
+            <div style="padding: 3rem 1rem; text-align: center; color: var(--muted);" class="sm">Loading units…</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- ══════════════════ BOOKMARKS ══════════════════ -->
+      <div>
+        <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 1rem;">
+          <div class="eyebrow">Bookmarks</div>
+          <span class="sm" id="bookmark-count">0 saved</span>
+        </div>
+        <div id="bookmarks-panel"></div>
+      </div>
+
+      <!-- ══════════════════ OTHER MODULES ══════════════════ -->
+      <div>
+        <div class="eyebrow" style="margin-bottom: 1rem;">More</div>
+        <div class="stack">
+          <a href="advanced-vocabulary.html" class="card" style="display:block; text-decoration:none; color:inherit;">
+            <h3 style="margin: 0 0 0.25rem;">Vocabulary</h3>
+            <p class="sm" style="margin: 0;">Advanced words in real contexts. →</p>
+          </a>
+          <a href="placement.html" class="card" style="display:block; text-decoration:none; color:inherit; border-left:3px solid var(--accent);">
+            <h3 style="margin: 0 0 0.25rem;">Find your level</h3>
+            <p class="sm" style="margin: 0;">15-question placement quiz. Takes 5 minutes. →</p>
+          </a>
+          <a href="advanced-grammar.html" class="card" style="display:block; text-decoration:none; color:inherit;">
+            <h3 style="margin: 0 0 0.25rem;">Grammar reference</h3>
+            <p class="sm" style="margin: 0;">All 100 units with theory + exercises. →</p>
+          </a>
+        </div>
+      </div>
+
+      <!-- ══════════════════ PROGRESS BACKUP ══════════════════ -->
+      <div>
+        <div class="eyebrow" style="margin-bottom: 0.5rem;">Your data</div>
+        <p class="sm" style="margin: 0 0 1rem; color: var(--muted);">Progress is stored in this browser. Back it up so you never lose it.</p>
+        <div style="display:flex; gap:0.75rem; flex-wrap:wrap;">
+          <button class="btn btn--ghost btn--sm" id="export-btn">⬇ Download backup</button>
+          <label class="btn btn--ghost btn--sm" style="cursor:pointer;" title="Restore from a backup file">
+            ⬆ Restore backup
+            <input type="file" id="import-input" accept=".json" style="display:none;">
+          </label>
+        </div>
+        <div id="import-status" class="sm" style="margin-top:0.5rem; color:var(--muted);"></div>
+      </div>
+
+    </div>
+  </div>
+
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="site-footer__brand">
+      <div class="brand" style="margin-bottom: 0.75rem;">
+        <span class="brand__dot"></span>
+        <span class="brand__name">Grammar<em>hub</em></span>
+      </div>
+      <span class="status-dot">All systems operational</span>
+    </div>
+    <div class="site-footer__bottom">
+      <span>© 2026 GrammarHub</span>
+      <span class="sm">Made with care.</span>
+    </div>
+  </div>
+</footer>
+
+<!-- Search modal -->
+<div class="search-overlay" id="search-overlay" role="dialog" aria-label="Search">
+  <div class="search-modal">
+    <div class="search-input-wrap">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+      <input type="text" class="search-input" placeholder="Search grammar and vocabulary units…" autocomplete="off" spellcheck="false">
+      <span class="search-kbd">ESC</span>
+    </div>
+    <div class="search-results"></div>
+  </div>
+</div>
+
+<!-- Existing JS modules (preserved) -->
+<script src="progress-migrate.js?v=5"></script>
+<script src="toast.js?v=5"></script>
+<script src="gamification.js?v=5"></script>
+<script src="bookmarks.js?v=5"></script>
+<script src="grammar-loader.js?v=5"></script>
+<script src="analytics.js?v=5"></script>
+<script src="ui-extras.js?v=5"></script>
+<!-- vocabulary-data.js (694KB) is loaded lazily on first search open -->
+
+<script>
+  // ── greeting ─────────────────────────────────────
+  const dateEl = document.getElementById('greet-date');
+  const subEl  = document.getElementById('greet-sub');
+  const now = new Date();
+  const dayName = now.toLocaleDateString('en-US', { weekday: 'long' });
+  dateEl.textContent = dayName.toUpperCase() + ' · ' + now.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+  const hour = now.getHours();
+  const greet = hour < 5 ? 'Still up?' : hour < 12 ? 'Good morning.' : hour < 18 ? 'Good afternoon.' : 'Good evening.';
+  document.getElementById('greet-name').textContent = greet;
+
+  // ── sticky header elevate ────────────────────────
+  const header = document.getElementById('site-header');
+  const onScroll = () => header.classList.toggle('is-scrolled', window.scrollY > 8);
+  onScroll();
+  window.addEventListener('scroll', onScroll, { passive: true });
+
+  // FIXED: correct topic labels matching actual unit content
+  function topicFor(id) {
+    if (id <= 8)  return 'Present & Past Tenses';
+    if (id <= 14) return 'Future';
+    if (id <= 20) return 'Modals';
+    if (id <= 27) return 'Passive & Reporting';
+    if (id <= 39) return 'Verb Patterns & Reporting';
+    if (id <= 43) return 'Agreement & Nouns';
+    if (id <= 50) return 'Articles & Determiners';
+    if (id <= 63) return 'Vocabulary: People & Society';
+    if (id <= 76) return 'Vocabulary: Language & Style';
+    if (id <= 90) return 'Vocabulary: World & Ideas';
+    return 'Vocabulary: Strategies';
+  }
+
+  // ── main render ──────────────────────────────────
+  function renderDashboard() {
+    // Progress + gamification state
+    const prog = window.Progress.get();
+    const stats = window.Progress.stats();
+    const gData = window.Gamification ? window.Gamification.getUserData() : { points: 0, streak: { current: 0 }, badges: [] };
+
+    // ── Streak (headline) ──────────────────────────────────────────────────
+    const streak = gData.streak?.current || 0;
+    const streakNum  = document.getElementById('streak-num');
+    const streakFlame = document.getElementById('streak-flame');
+    const streakBar   = document.getElementById('streak-bar');
+    const streakNextLabel = document.getElementById('streak-next-label');
+    const streakNextDays  = document.getElementById('streak-next-days');
+
+    streakNum.textContent = streak;
+
+    // Flame pulses on active streak
+    if (streak >= 1) {
+      streakFlame.style.filter = 'drop-shadow(0 0 6px #f97316)';
+      streakFlame.textContent  = '🔥';
+    } else {
+      streakFlame.textContent  = '💤';
+      streakFlame.style.filter = 'grayscale(1) opacity(.5)';
+    }
+
+    // Milestone bar: shows progress toward next streak badge (3 / 7 / 14 / 30)
+    const MILESTONES = [3, 7, 14, 30];
+    const nextMilestone = MILESTONES.find(m => m > streak) || 30;
+    const prevMilestone = MILESTONES.filter(m => m <= streak).pop() || 0;
+    const pct = prevMilestone === nextMilestone ? 100
+      : Math.min(100, Math.round(((streak - prevMilestone) / (nextMilestone - prevMilestone)) * 100));
+    streakBar.style.width = pct + '%';
+    streakBar.style.background = streak === 0 ? 'var(--line)' : streak >= 14 ? 'var(--success)' : 'var(--warn)';
+
+    if (streak === 0) {
+      streakNextLabel.textContent = 'Start your streak today';
+      streakNextDays.textContent  = '';
+    } else if (streak >= 30) {
+      streakNextLabel.textContent = '🏆 30-day streak achieved!';
+      streakNextDays.textContent  = '';
+    } else {
+      const remaining = nextMilestone - streak;
+      streakNextLabel.textContent = `${remaining} day${remaining === 1 ? '' : 's'} to ${nextMilestone}-day streak`;
+      streakNextDays.textContent  = `${streak} / ${nextMilestone}`;
+    }
+
+    // Points
+    document.getElementById('big-score').textContent = (gData.points || 0).toLocaleString();
+
+    // ── Tiles ──────────────────────────────────────────────────────────────
+    // Count grammar + vocab completions together
+    let vocabDone = 0;
+    try {
+      const vp = JSON.parse(localStorage.getItem('vocab_progress') || '{}');
+      vocabDone = (vp.completedUnits || []).length;
+    } catch {}
+    const totalDone = stats.completed + vocabDone;
+
+    document.getElementById('tile-done').textContent = totalDone;
+    document.getElementById('tile-accuracy').textContent =
+      stats.avgScore !== null ? stats.avgScore + '%' : '—';
+    document.getElementById('tile-badges').textContent = (gData.badges || []).length;
+
+    // Overall bar (grammar units only — 100 grammar units is the course)
+    document.getElementById('overall-bar').style.width = stats.completed + '%';
+    document.getElementById('overall-label').textContent =
+      `${stats.completed} / 100 grammar units · ${vocabDone} / 50 vocab units`;
+
+    // Continue card — last completed + 1, or first incomplete
+    const completedIds = new Set(prog.completedUnits.map(u => u.id));
+    const titles = window.GrammarLoader.getAllTitles();
+    const isNewUser = prog.completedUnits.length === 0;
+
+    // Update greeting for new vs returning
+    if (isNewUser) {
+      document.getElementById('greet-name').textContent = 'Welcome.';
+      document.getElementById('greet-sub').textContent = 'Ready to sharpen your English grammar?';
+    }
+
+    // Show onboarding card for new users, continue card for returning users
+    document.getElementById('onboarding-wrap').hidden = !isNewUser;
+
+    let nextUnit = null;
+    if (!isNewUser) {
+      const lastId = [...prog.completedUnits].sort((a, b) =>
+        (b.date || '').localeCompare(a.date || '')
+      )[0]?.id;
+      if (lastId && lastId < 100) nextUnit = titles.find(t => t.id === lastId + 1);
+    }
+    if (!nextUnit) nextUnit = titles.find(t => !completedIds.has(t.id));
+
+    if (nextUnit && !isNewUser) {
+      document.getElementById('continue-wrap').hidden = false;
+      document.getElementById('continue-title').textContent =
+        `Unit ${nextUnit.id}. ${nextUnit.title}`;
+      document.getElementById('continue-btn').href =
+        `advanced-grammar.html#unit-${nextUnit.id}`;
+    }
+
+    // ── SRS Review due card ───────────────────────────
+    // Uses Gamification.getUnitsNeedingReview() — units scored <70% or not visited in 7+ days
+    // ── Per-exercise SRS review card ─────────────────────────────────────
+    // Uses gh_wrong_exercises from localStorage — set by advanced-grammar.html
+    // when individual exercises are answered incorrectly
+    const SRS_KEY = 'gh_wrong_exercises';
+    let exercisesForReview = [];
+    try {
+      const srs = JSON.parse(localStorage.getItem(SRS_KEY) || '{}');
+      const now = Date.now();
+      exercisesForReview = Object.values(srs)
+        .filter(e => e.nextReview && e.nextReview <= now)
+        .sort((a, b) => a.wrongCount - b.wrongCount)
+        .reverse(); // most-missed first
+    } catch {}
+
+    // Fall back to unit-level review if no per-exercise data yet
+    const unitReviewIds = window.Gamification ? window.Gamification.getUnitsNeedingReview() : [];
+
+    if (exercisesForReview.length > 0 || (unitReviewIds.length > 0 && prog.completedUnits.length > 0)) {
+      const reviewWrap     = document.getElementById('review-wrap');
+      const reviewSubtitle = document.getElementById('review-subtitle');
+      const reviewList     = document.getElementById('review-list');
+      const reviewFirstBtn = document.getElementById('review-first-btn');
+      reviewWrap.hidden = false;
+
+      if (exercisesForReview.length > 0) {
+        // Per-exercise SRS (preferred — more precise)
+        const n = exercisesForReview.length;
+        reviewSubtitle.textContent =
+          `${n} specific exercise${n === 1 ? '' : 's'} due for review — from questions you got wrong.`;
+        reviewList.innerHTML = exercisesForReview.slice(0, 5).map(e => {
+          const t = titles.find(u => u.id === e.unitId);
+          const topicLabel = t ? t.title : `Unit ${e.unitId}`;
+          const timesWrong = e.wrongCount > 1 ? ` · missed ${e.wrongCount}×` : '';
+          return `<a class="row row--sm" href="advanced-grammar.html#unit-${e.unitId}"
+            style="text-decoration:none;" title="Review unit ${e.unitId}">
+            <div class="row__num">${e.unitId}</div>
+            <div class="row__body">
+              <div class="row__title">${escapeHtml(topicLabel)}</div>
+              <div class="row__meta" style="font-size:0.78rem;">Q${e.exIdx + 1}${timesWrong}</div>
+            </div>
+            <span class="row__cta">Review</span>
+          </a>`;
+        }).join('');
+        reviewFirstBtn.href = `advanced-grammar.html#unit-${exercisesForReview[0].unitId}`;
+      } else {
+        // Unit-level fallback
+        const n = unitReviewIds.length;
+        reviewSubtitle.textContent =
+          `${n} unit${n === 1 ? '' : 's'} need${n === 1 ? 's' : ''} another pass.`;
+        reviewList.innerHTML = unitReviewIds.slice(0, 4).map(id => {
+          const t = titles.find(u => u.id === id);
+          const label = t ? t.title : `Unit ${id}`;
+          return `<a class="row row--sm" href="advanced-grammar.html#unit-${id}" style="text-decoration:none;">
+            <div class="row__num">${id}</div>
+            <div class="row__body"><div class="row__title">${escapeHtml(label)}</div></div>
+            <span class="row__cta">Review</span>
+          </a>`;
+        }).join('');
+        reviewFirstBtn.href = `advanced-grammar.html#unit-${unitReviewIds[0]}`;
+      }
+    }
+
+    // Topic breakdown
+    const buckets = {};
+    titles.forEach(t => {
+      const topic = topicFor(t.id);
+      if (!buckets[topic]) buckets[topic] = { total: 0, done: 0 };
+      buckets[topic].total += 1;
+      if (completedIds.has(t.id)) buckets[topic].done += 1;
+    });
+    const catGrid = document.getElementById('cat-grid');
+    catGrid.innerHTML = Object.entries(buckets).map(([name, b]) => {
+      const pct = Math.round((b.done / b.total) * 100) || 0;
+      return `
+        <a class="cat-tile" href="advanced-grammar.html#topic-${encodeURIComponent(name)}">
+          <div class="cat-tile__label">${name}</div>
+          <div class="cat-tile__title">${b.done} / ${b.total}</div>
+          <div class="cat-tile__progress"><div class="bar"><div class="bar__fill" style="width:${pct}%"></div></div></div>
+        </a>`;
+    }).join('');
+
+    // Unit list
+    renderUnitList('all', titles, completedIds, prog);
+
+    // Bookmarks panel
+    if (window.BookmarkUI) {
+      window.BookmarkUI.renderPanel(document.getElementById('bookmarks-panel'));
+      const bmCount = window.Bookmarks ? window.Bookmarks.getAll().length : 0;
+      document.getElementById('bookmark-count').textContent =
+        bmCount === 0 ? 'Nothing saved' : `${bmCount} saved`;
+    }
+  }
+
+  function renderUnitList(filter, titles, completedIds, prog) {
+    let list = titles;
+    if (filter === 'todo') list = list.filter(t => !completedIds.has(t.id));
+    if (filter === 'done') list = list.filter(t => completedIds.has(t.id));
+
+    const holder = document.getElementById('unit-list');
+    if (list.length === 0) {
+      holder.innerHTML = `<div style="padding: 3rem 1rem; text-align: center;" class="sm">Nothing here yet.</div>`;
+      return;
+    }
+
+    holder.innerHTML = list.slice(0, 100).map(t => {
+      const done = completedIds.has(t.id);
+      const score = window.Progress.getScore(t.id);
+      const meta = done
+        ? (score !== null ? `Completed · ${score}%` : 'Completed')
+        : topicFor(t.id);
+      const ctaClass = done ? 'row__cta row__cta--done' : 'row__cta';
+      const ctaText = done ? 'Review' : 'Start';
+      return `
+        <a class="row ${done ? 'is-completed' : ''}" href="advanced-grammar.html#unit-${t.id}">
+          <div class="row__num">${t.id}</div>
+          <div class="row__body">
+            <div class="row__title">${escapeHtml(t.title)}</div>
+            <div class="row__meta">${meta}</div>
+          </div>
+          <span class="${ctaClass}">${ctaText}</span>
+        </a>`;
+    }).join('');
+  }
+
+  function escapeHtml(s) {
+    return String(s).replace(/[&<>"']/g, c => (
+      { '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;' }[c]
+    ));
+  }
+
+  // ── tab filter ───────────────────────────────────
+  document.querySelectorAll('.tab').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.tab').forEach(b => b.classList.remove('is-active'));
+      btn.classList.add('is-active');
+      const titles = window.GrammarLoader.getAllTitles();
+      const completedIds = new Set(window.Progress.get().completedUnits.map(u => u.id));
+      renderUnitList(btn.dataset.filter, titles, completedIds, window.Progress.get());
+    });
+  });
+
+  // ── boot ─────────────────────────────────────────
+  window.GrammarLoader.onReady(() => {
+    if (window.Gamification) {
+      try { window.Gamification.trackStreak(); window.Gamification.evaluateBadges(); }
+      catch (e) { console.warn(e); }
+    }
+    renderDashboard();
+
+    // Analytics: track dashboard visit with completion state
+    if (window.Analytics) {
+      const prog  = window.Progress.get();
+      const done  = prog.completedUnits.length;
+      Analytics.trackAction('dashboard_visit');
+      if (done > 0) Analytics.trackAction('units_completed_total', done);
+    }
+  });
+
+  // ── service worker ───────────────────────────────
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => navigator.serviceWorker.register('sw.js').catch(() => {}));
+  }
+</script>
+
+</body>
+</html>
+<script>
+// ── Progress export / import ──────────────────────────────────────────────
+(function() {
+  var exportBtn   = document.getElementById('export-btn');
+  var importInput = document.getElementById('import-input');
+  var statusEl    = document.getElementById('import-status');
+
+  if (exportBtn) {
+    exportBtn.addEventListener('click', function() {
+      var KEYS = ['grammar_progress','gh_wrong_exercises','gh_theme','em_anon_user_id','gh_bookmarks'];
+      var backup = { version: 1, date: new Date().toISOString(), data: {} };
+      KEYS.forEach(function(k) { var v = localStorage.getItem(k); if (v) backup.data[k] = v; });
+      Object.keys(localStorage).forEach(function(k) {
+        if (k.startsWith('em_user_data_')) backup.data[k] = localStorage.getItem(k);
+      });
+      var blob = new Blob([JSON.stringify(backup, null, 2)], { type: 'application/json' });
+      var url  = URL.createObjectURL(blob);
+      var a    = document.createElement('a');
+      a.href   = url;
+      a.download = 'grammarhub-backup-' + new Date().toISOString().slice(0,10) + '.json';
+      a.click();
+      URL.revokeObjectURL(url);
+    });
+  }
+
+  if (importInput) {
+    importInput.addEventListener('change', function(e) {
+      var file = e.target.files[0];
+      if (!file) return;
+      var reader = new FileReader();
+      reader.onload = function(ev) {
+        try {
+          var backup = JSON.parse(ev.target.result);
+          if (!backup.data || typeof backup.data !== 'object') throw new Error('Invalid file format');
+          var restored = 0;
+          Object.keys(backup.data).forEach(function(k) { localStorage.setItem(k, backup.data[k]); restored++; });
+          if (statusEl) {
+            statusEl.textContent = '✓ Restored ' + restored + ' entries from ' +
+              (backup.date ? backup.date.slice(0,10) : 'backup') + '. Refreshing…';
+            statusEl.style.color = '#2d5f3f';
+          }
+          setTimeout(function() { location.reload(); }, 1500);
+        } catch(err) {
+          if (statusEl) { statusEl.textContent = '✗ ' + err.message; statusEl.style.color = '#d9442b'; }
+        }
+      };
+      reader.readAsText(file);
+      e.target.value = '';
+    });
+  }
+})();
+</script>

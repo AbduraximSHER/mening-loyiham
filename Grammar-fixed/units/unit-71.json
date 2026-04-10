@@ -1,0 +1,114 @@
+{
+  "id": 71,
+  "title": "Cause and Effect",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Expressing causes",
+      "content": "<div class=\"web-text\">Advanced ways to explain why something happens:</div><div class=\"web-example\"><span>• <strong>stem from</strong> — originate from. <em>Many health problems stem from poor diet.</em></span></div><div class=\"web-example\"><span>• <strong>trigger</strong> — cause something to begin. <em>The announcement triggered widespread protests.</em></span></div><div class=\"web-example\"><span>• <strong>attribute to</strong> — regard as caused by. <em>She attributed her success to hard work.</em></span></div><div class=\"web-example\"><span>• <strong>give rise to</strong> — cause to happen. <em>Rapid urbanisation has given rise to housing shortages.</em></span></div><div class=\"web-example\"><span>• <strong>owing to</strong> — because of (formal). <em>The match was cancelled owing to heavy rain.</em></span></div>"
+    },
+    {
+      "id": "B",
+      "title": "Expressing effects",
+      "content": "<div class=\"web-text\">Describing outcomes and consequences:</div><div class=\"web-example\"><span>• <strong>consequently</strong> — as a result. <em>Sales dropped; consequently, staff were laid off.</em></span></div><div class=\"web-example\"><span>• <strong>bring about</strong> — cause to happen. <em>New technology has brought about major changes.</em></span></div><div class=\"web-example\"><span>• <strong>impact</strong> — have a strong effect on. <em>Climate change impacts agriculture worldwide.</em></span></div><div class=\"web-example\"><span>• <strong>repercussion</strong> — an unintended consequence. <em>The policy had serious economic repercussions.</em></span></div><div class=\"web-example\"><span>• <strong>ramification</strong> — a complex consequence. <em>The legal ramifications of this decision are enormous.</em></span></div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "'Many problems stem from poverty' means poverty is the:",
+      "options": [
+        "prevention",
+        "origin",
+        "solution",
+        "effect"
+      ],
+      "correctAnswer": 1,
+      "hint": "Where problems begin.",
+      "explanation": "<strong>Stem from</strong> means to originate from or be caused by."
+    },
+    {
+      "question": "An unintended negative consequence is a:",
+      "options": [
+        "reduce",
+        "ramification",
+        "attribute",
+        "repercussion"
+      ],
+      "correctAnswer": 3,
+      "hint": "Something you didn't plan for.",
+      "explanation": "A <strong>repercussion</strong> is an unintended consequence of an action."
+    },
+    {
+      "question": "'Owing to bad weather, the flight was delayed' — 'owing to' means:",
+      "options": [
+        "because of",
+        "in addition to",
+        "despite",
+        "instead of"
+      ],
+      "correctAnswer": 0,
+      "hint": "It explains the reason.",
+      "explanation": "<strong>Owing to</strong> is a formal way of saying 'because of'."
+    },
+    {
+      "question": "To cause something to start suddenly is to:",
+      "options": [
+        "trigger",
+        "impact",
+        "attribute",
+        "stem from"
+      ],
+      "correctAnswer": 0,
+      "hint": "Like pulling a trigger.",
+      "explanation": "<strong>Trigger</strong> means to cause an event or situation to happen."
+    },
+    {
+      "question": "'She attributed her success to luck' means she:",
+      "options": [
+        "believed luck was the cause",
+        "created her luck",
+        "had no luck",
+        "denied luck helped"
+      ],
+      "correctAnswer": 0,
+      "hint": "She credited luck for her success.",
+      "explanation": "<strong>Attribute to</strong> means to regard something as being caused by."
+    },
+    {
+      "question": "'Consequently' is closest in meaning to:",
+      "options": [
+        "in contrast",
+        "however",
+        "moreover",
+        "as a result"
+      ],
+      "correctAnswer": 3,
+      "hint": "It introduces an outcome.",
+      "explanation": "<strong>Consequently</strong> means as a result or therefore."
+    },
+    {
+      "question": "Complex, far-reaching consequences of a decision are:",
+      "options": [
+        "repercussions",
+        "attributes",
+        "triggers",
+        "ramifications"
+      ],
+      "correctAnswer": 3,
+      "hint": "Multiple layers of consequence.",
+      "explanation": "<strong>Ramifications</strong> are complex or unwelcome consequences of an action."
+    },
+    {
+      "question": "To 'bring about' change means to:",
+      "options": [
+        "delay it",
+        "reverse it",
+        "cause it",
+        "prevent it"
+      ],
+      "correctAnswer": 2,
+      "hint": "Making change happen.",
+      "explanation": "<strong>Bring about</strong> means to cause something to happen."
+    }
+  ]
+}

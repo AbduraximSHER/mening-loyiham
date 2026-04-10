@@ -1,0 +1,114 @@
+{
+  "id": 75,
+  "title": "Linking Words and Discourse Markers",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Adding information",
+      "content": "<div class=\"web-text\">Words that add ideas or information:</div><div class=\"web-example\"><span>• <strong>furthermore</strong> — in addition (formal). <em>The plan is expensive; furthermore, it's unlikely to work.</em></span></div><div class=\"web-example\"><span>• <strong>moreover</strong> — what's more (formal). <em>The hotel was dirty. Moreover, the staff were unhelpful.</em></span></div><div class=\"web-example\"><span>• <strong>in addition to</strong> — as well as. <em>In addition to English, she speaks French and Arabic.</em></span></div><div class=\"web-example\"><span>• <strong>not only... but also</strong> — <em>She is not only intelligent but also extremely hard-working.</em></span></div><div class=\"web-example\"><span>• <strong>on top of that</strong> — (informal) additionally. <em>The train was late. On top of that, it started raining.</em></span></div>"
+    },
+    {
+      "id": "B",
+      "title": "Contrasting and conceding",
+      "content": "<div class=\"web-text\">Words that show contrast or concession:</div><div class=\"web-example\"><span>• <strong>although / even though</strong> — despite the fact. <em>Although it rained, we enjoyed the trip.</em></span></div><div class=\"web-example\"><span>• <strong>despite / in spite of</strong> — notwithstanding. <em>Despite the risks, they went ahead with the plan.</em></span></div><div class=\"web-example\"><span>• <strong>admittedly</strong> — acknowledging a point. <em>Admittedly, the project is over budget.</em></span></div><div class=\"web-example\"><span>• <strong>be that as it may</strong> — accepting a point but continuing. <em>Be that as it may, we still need to find a solution.</em></span></div><div class=\"web-example\"><span>• <strong>having said that</strong> — acknowledging but pivoting. <em>The food was expensive. Having said that, the quality was excellent.</em></span></div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "'Furthermore' is used to:",
+      "options": [
+        "contrast ideas",
+        "add information",
+        "show cause",
+        "give examples"
+      ],
+      "correctAnswer": 1,
+      "hint": "Adding more to what was said.",
+      "explanation": "<strong>Furthermore</strong> is used to add extra information that supports the point."
+    },
+    {
+      "question": "'Despite' is followed by:",
+      "options": [
+        "a clause with a verb",
+        "a noun or -ing form",
+        "an infinitive",
+        "a conjunction"
+      ],
+      "correctAnswer": 1,
+      "hint": "Despite + noun/gerund.",
+      "explanation": "<strong>Despite</strong> is followed by a noun or -ing form, not a clause."
+    },
+    {
+      "question": "'Admittedly' is used when you:",
+      "options": [
+        "disagree completely",
+        "acknowledge a valid point",
+        "ask for clarification",
+        "give a strong opinion"
+      ],
+      "correctAnswer": 1,
+      "hint": "You accept something is true.",
+      "explanation": "<strong>Admittedly</strong> is used to acknowledge that something is true, often before countering it."
+    },
+    {
+      "question": "Which is the INFORMAL alternative to 'moreover'?",
+      "options": [
+        "furthermore",
+        "in addition",
+        "on top of that",
+        "besides which"
+      ],
+      "correctAnswer": 2,
+      "hint": "Very casual, everyday English.",
+      "explanation": "<strong>On top of that</strong> is the informal equivalent of 'moreover' or 'furthermore'."
+    },
+    {
+      "question": "'Be that as it may' means:",
+      "options": [
+        "that's impossible",
+        "I accept that, but...",
+        "I completely agree",
+        "that's irrelevant"
+      ],
+      "correctAnswer": 1,
+      "hint": "Accepting a point and moving on.",
+      "explanation": "<strong>Be that as it may</strong> means accepting something while indicating it doesn't change the main argument."
+    },
+    {
+      "question": "'Even though' is stronger than:",
+      "options": [
+        "moreover",
+        "although",
+        "despite",
+        "however"
+      ],
+      "correctAnswer": 1,
+      "hint": "Both show concession, one is more emphatic.",
+      "explanation": "<strong>Even though</strong> is more emphatic than 'although', stressing the surprise of the contrast."
+    },
+    {
+      "question": "'Having said that' is used to:",
+      "options": [
+        "agree completely",
+        "introduce a counter-point",
+        "ask a question",
+        "end a conversation"
+      ],
+      "correctAnswer": 1,
+      "hint": "But on the other hand...",
+      "explanation": "<strong>Having said that</strong> introduces a contrasting or qualifying statement."
+    },
+    {
+      "question": "'Not only... but also' is used to:",
+      "options": [
+        "show contrast",
+        "express cause",
+        "emphasise two points",
+        "show time sequence"
+      ],
+      "correctAnswer": 2,
+      "hint": "Two things are both true and noteworthy.",
+      "explanation": "<strong>Not only... but also</strong> emphasises that two things are both true."
+    }
+  ]
+}

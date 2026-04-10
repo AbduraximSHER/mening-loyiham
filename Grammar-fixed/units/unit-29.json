@@ -1,0 +1,149 @@
+{
+  "id": 29,
+  "title": "Verb + two objects",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Direct and indirect objects",
+      "content": "\n            <div class=\"web-text\">Some verbs can be followed by two objects. Usually the first object (= the <strong>indirect object (IO)</strong>) is a person or group of people and the second object (= the <strong>direct object (DO)</strong>) is a thing:</div>\n            <div class=\"web-example\">\n                <span>• Can you <strong>bring</strong> <em>me</em> (= IO) <em>some milk</em> (= DO) from the shops?</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• He <strong>made</strong> <em>himself</em> (= IO) <em>a cup of coffee</em>. (= DO)</span>\n            </div>\n            <div class=\"web-text\">We can often reverse the order of the objects if we put <strong>for</strong> or <strong>to</strong> before the IO (this is then called a <strong>prepositional object</strong>). Compare:</div>\n            <div class=\"web-example\">\n                <span>• I <strong>built</strong> <em>my daughter a doll’s house</em>. <em>and</em> I <strong>built</strong> <em>a doll’s house</em> <strong>for</strong> <em>my daughter</em>.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• Can you <strong>pass</strong> <em>me that bandage</em>? <em>and</em> Can you <strong>pass</strong> <em>that bandage</em> <strong>to</strong> <em>me</em>?</span>\n            </div>\n        "
+    },
+    {
+      "id": "B",
+      "title": "For vs To",
+      "content": "\n            <div class=\"web-text\">Some verbs can be used with either <strong>for</strong> or <strong>to</strong>. Often there is a difference in meaning: <strong>to</strong> suggests that there is a transfer of something to someone, and <strong>for</strong> suggests that someone benefits from something. Compare:</div>\n            <div class=\"web-example\">\n                <span>• I hadn’t got time to visit Mira, so I <strong>wrote a letter to her</strong>. (transfer)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• Mira had broken her wrist, so I <strong>wrote a letter for her</strong>. (benefit)</span>\n            </div>\n            <div class=\"web-text\">Also: <strong>bring, leave, pay, play, post, read, sell, send, sing, take</strong></div>\n        "
+    },
+    {
+      "id": "C",
+      "title": "Verbs that don’t take two objects",
+      "content": "\n            <div class=\"web-text\">Some verbs that are followed by two objects cannot have their objects reversed with <strong>for / to</strong>:</div>\n            <div class=\"web-example\">\n                <span>• We all <strong>envied</strong> <em>him his lifestyle</em>. (<em>but not</em> We all envied his lifestyle for / to him.)</span>\n            </div>\n            <div class=\"web-text\">Also: <strong>allow, ask, cost, deny, forgive, guarantee, permit, refuse</strong></div>\n        "
+    },
+    {
+      "id": "D",
+      "title": "Describe and Fix",
+      "content": "\n            <div class=\"web-text\">Some verbs, such as <strong>describe</strong> and <strong>fix</strong>, can <em>only</em> have a second object if this is a prepositional object:</div>\n            <div class=\"web-example\">\n                <span>• She <strong>described</strong> <em>the situation</em> (<strong>to me</strong>). (<em>not</em> She described me the situation.)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• He <strong>fixed</strong> <em>the tap</em> (<strong>for me</strong>). (<em>not</em> He fixed me the tap.)</span>\n            </div>\n            <div class=\"web-text\">Also: <strong>admit, announce, demonstrate, explain, introduce, mention, point out, prove, report, say, suggest</strong> (with <em>to</em>)</div>\n            <div class=\"web-text\">Also: <strong>collect, mend, repair</strong> (with <em>for</em>)</div>\n        "
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "question": "Elias hasn't got any money so I'll have to pay the bill ___ him.",
+      "answer": "for",
+      "acceptable": [
+        "for him"
+      ],
+      "hint": "'Pay for someone' = cover the cost on their behalf.",
+      "explanation": "<strong>Answer: for</strong><br>'Pay for someone' means to cover their cost: 'I'll pay for him'. Compare: 'pay someone' = hand money directly to them. 'Pay for + person/thing' is the correct pattern when meeting an expense on behalf of someone."
+    },
+    {
+      "type": "fill",
+      "question": "You're staying with Dimitra at the weekend. Can you take this present ___ her?",
+      "answer": "to",
+      "acceptable": [
+        "to her"
+      ],
+      "hint": "'Take something to someone' — not 'for'.",
+      "explanation": "<strong>Answer: to</strong><br>'Take something to someone' = deliver or bring it to their location. 'Take something for someone' would mean take it on their behalf for a different purpose. Here, delivering the present → 'to'."
+    },
+    {
+      "type": "correct",
+      "sentence": "Could you describe me the symptoms you've been experiencing?",
+      "correction": "Could you describe the symptoms you've been experiencing to me?",
+      "acceptable": [
+        "describe the symptoms to me",
+        "describe them to me"
+      ],
+      "hint": "'Describe' takes 'describe X to Y' — not a double object.",
+      "explanation": "<strong>Answer: describe the symptoms to me</strong><br>'Describe' does not take a double object. Like 'explain' and 'suggest', it requires: describe + direct object + to + person. You cannot say 'describe me something' — the indirect object always needs 'to'. Compare: 'tell me something' (tell takes double object) vs 'describe something to me'."
+    },
+    {
+      "question": "He described us the house. (Correct if necessary)",
+      "options": [
+        "He described the house to us.",
+        "He described for us the house.",
+        "He described the house for us.",
+        "Correct as is"
+      ],
+      "correctAnswer": 0,
+      "hint": "Describe only takes a prepositional object with 'to'.",
+      "explanation": "<strong>Answer: He described the house to us.</strong><br>Describe only takes a prepositional object with 'to'. The grammatical signals in this sentence — the key words, connectors, or context — require this specific form. Look for these signals to make the same choice independently."
+    },
+    {
+      "question": "She explained me the problem. (Correct if necessary)",
+      "options": [
+        "She explained the problem to me.",
+        "She explained me about the problem.",
+        "She explained the problem for me.",
+        "Correct as is"
+      ],
+      "correctAnswer": 0,
+      "hint": "Explain only takes a prepositional object with 'to'.",
+      "explanation": "<strong>Answer: She explained the problem to me.</strong><br>Explain only takes a prepositional object with 'to'. The grammatical signals in this sentence — the key words, connectors, or context — require this specific form. Look for these signals to make the same choice independently."
+    },
+    {
+      "type": "correct",
+      "sentence": "She recommended me a very good dentist near the office.",
+      "correction": "She recommended a very good dentist to me.",
+      "acceptable": [
+        "recommended a very good dentist to me",
+        "recommended it to me"
+      ],
+      "hint": "'Recommend' takes 'recommend X to Y' — not a double object.",
+      "explanation": "<strong>Answer: She recommended a very good dentist to me</strong><br>'Recommend' does not take a double object — use 'recommend + thing + to + person'. This is consistent with 'suggest', 'describe', 'explain', 'propose'. Contrast with 'give', 'send', 'offer', 'show', 'tell' — which all accept double objects."
+    },
+    {
+      "question": "I prepared them a meal. (Correct if necessary)",
+      "options": [
+        "I prepared a meal for them.",
+        "I prepared them for a meal.",
+        "I prepared a meal to them.",
+        "Correct as is"
+      ],
+      "correctAnswer": 0,
+      "hint": "Prepare usually takes DO + for + IO.",
+      "explanation": "<strong>Answer: I prepared a meal for them.</strong><br>Prepare usually takes DO + for + IO. The grammatical signals in this sentence — the key words, connectors, or context — require this specific form. Look for these signals to make the same choice independently."
+    },
+    {
+      "type": "fill",
+      "question": "I'll have to send him an email to explain the problem ___ him.",
+      "answer": "to",
+      "acceptable": [
+        "to him"
+      ],
+      "hint": "'Explain something to someone' — 'explain' never takes a double object.",
+      "explanation": "<strong>Answer: to</strong><br>'Explain' always uses 'to + person': 'explain the problem to him'. Unlike 'give', 'tell', or 'send', 'explain' never takes a double object. Wrong: 'explain him the problem'. Correct: 'explain the problem to him'."
+    },
+    {
+      "type": "fill",
+      "question": "He ___ her a beautiful bunch of flowers on their anniversary.",
+      "answer": "gave",
+      "acceptable": [
+        "bought",
+        "sent"
+      ],
+      "hint": "'Give' takes a double object: give + person + thing.",
+      "explanation": "<strong>Answer: gave</strong><br>'Give' follows the double-object pattern: give + indirect object (person) + direct object (thing). This pattern is shared by: give, send, offer, lend, owe, show, tell, teach, pay, bring, take, hand, pass. The alternative: 'gave flowers to her' (prepositional object)."
+    },
+    {
+      "question": "A: Your new motorbike must have cost ___.",
+      "options": [
+        "you a fortune",
+        "a fortune to you",
+        "a fortune for you",
+        "you for a fortune"
+      ],
+      "correctAnswer": 0,
+      "hint": "Cost is a verb that doesn't reverse objects with for/to.",
+      "explanation": "<strong>Answer: you a fortune</strong><br>Cost is a verb that doesn't reverse objects with for/to. The grammatical signals in this sentence — the key words, connectors, or context — require this specific form. Look for these signals to make the same choice independently."
+    },
+    {
+      "type": "fill",
+      "question": "I poured Ben a drink and gave the glass ___ him.",
+      "answer": "to",
+      "acceptable": [
+        "to him"
+      ],
+      "hint": "'Give X to Y' — prepositional pattern, not double object here.",
+      "explanation": "<strong>Answer: to</strong><br>'Give the glass to him' uses the prepositional pattern. 'Give him the glass' uses the double-object pattern. Both are correct for 'give', but the sentence already has 'poured Ben a drink' (double object), so the parallel prepositional form 'gave the glass to him' is more natural here."
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "id": 23,
+  "title": "Forming passive sentences: objects, complements and multi-word verbs",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Verbs with two objects",
+      "content": "\n            <div class=\"web-text\">Verbs such as <strong>give</strong> take both a direct object (DO) and an indirect object (IO) in two patterns: <strong>V + IO + DO</strong> or <strong>V + DO + preposition + IO</strong>. These verbs have two corresponding passives:</div>\n            <div class=\"web-example\">\n                <span>• Alice gave us that vase. ✓ &nbsp;&nbsp; -> &nbsp;&nbsp; We were given that vase (by Alice). (<em>IO becomes subject</em>)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• Alice gave that vase to us. ✓ &nbsp;&nbsp; -> &nbsp;&nbsp; That vase was given (to) us (by Alice). (<em>DO becomes subject</em>)</span>\n            </div>\n            <div class=\"web-text\">The passive form you choose depends on which is more appropriate in a particular context. If we specify an agent, this follows <strong>by</strong> at the end of the clause. Note that in informal contexts 'to' can be left out in the second passive pattern.</div>\n            <div class=\"web-text\">Also with: <strong>award, hand, lend, offer, send, throw</strong> (= 'giving' verbs); <strong>ask, read, teach</strong> (= 'telling' verbs).</div>\n            <div class=\"web-text\">Verbs that can't be followed by <strong>IO + DO</strong> in the active must use <strong>preposition + IO</strong> in the passive:</div>\n            <div class=\"web-example\">\n                <span>• He explained the problem to me. (<em>active</em>) ✓ &nbsp;&nbsp; -> &nbsp;&nbsp; The problem was explained to me. ✓ &nbsp;&nbsp; (<em>not</em> I was explained the problem.)</span>\n            </div>\n            <div class=\"web-text\">Also with: <strong>announce, demonstrate, describe, introduce, mention, propose, report, suggest</strong> (= 'reporting' verbs).</div>\n        "
+    },
+    {
+      "id": "B",
+      "title": "Verb + object + complement",
+      "content": "\n            <div class=\"web-text\">Verbs followed by <strong>object + complement</strong> in the active have one passive form:</div>\n            <div class=\"web-example\">\n                <span>• They elected her president. (<em>active</em>) &nbsp;&nbsp; -> &nbsp;&nbsp; She was elected president. (<em>passive</em>)</span>\n            </div>\n            <div class=\"web-text\">Also with: <strong>appoint, declare, make, nominate, vote</strong> (to do with giving a particular position); <strong>call, name</strong> (= 'naming' verbs).</div>\n        "
+    },
+    {
+      "id": "C",
+      "title": "Verb + object + bare infinitive",
+      "content": "\n            <div class=\"web-text\">Some verbs that are followed by <strong>object + bare infinitive</strong> (= an infinitive without 'to') in the active are followed by a <strong>to-infinitive</strong> in the passive:</div>\n            <div class=\"web-example\">\n                <span>• They have made him return the money. (<em>active</em>) &nbsp;&nbsp; -> &nbsp;&nbsp; He has been made to return the money. (<em>passive</em>)</span>\n            </div>\n            <div class=\"web-text\">Also with: <strong>feel, hear, help</strong> (also + object + to-infinitive), <strong>observe, see</strong> (see also Unit 23A).</div>\n        "
+    },
+    {
+      "id": "D",
+      "title": "Transitive multi-word verbs",
+      "content": "\n            <div class=\"web-text\">Some have passive forms: Ella looked after him. -> He was looked after (by Ella).</div>\n            <div class=\"web-text\">Also: <strong>carry out</strong> (= put into practice), <strong>deprive of</strong>, <strong>disapprove of</strong>, <strong>fence off</strong>, <strong>hold over</strong> (= delay), <strong>look up to</strong>, <strong>phase out</strong>, <strong>prevent from</strong>, <strong>talk down to</strong> (= patronise).</div>\n            <div class=\"web-text\">Some are not used in the passive: We came up against a problem. (<em>not</em> A problem was come up against).</div>\n            <div class=\"web-text\">Also: <strong>brush up on</strong> (= revise), <strong>cast (your mind) back</strong> (= try to remember), <strong>get (something) down</strong> (= write), <strong>take after</strong> (= resemble).</div>\n            <div class=\"web-text\">Some can be only used in the passive with certain senses: They put out the fire. -> The fire was put out. (<em>but not</em> I put out a hand to steady myself. -> A hand was put out to steady myself.)</div>\n            <div class=\"web-text\">Also (passive possible / no passive): <strong>call (someone) up</strong> (order to join the army / telephone); <strong>call (someone) back</strong> (ask to return / telephone); <strong>let in</strong> (allow into a place / allow rain, etc. in); <strong>let out</strong> (allow to leave / let out a sound).</div>\n        "
+    }
+  ],
+  "exercises": [
+    {
+      "question": "Someone handed me a note. (Two possible passives)",
+      "options": [
+        "I was handed a note. / A note was handed to me.",
+        "I was handed a note. / A note handed to me.",
+        "I handed a note. / A note was handed me.",
+        "I was hand a note. / A note was handed to me."
+      ],
+      "correctAnswer": 0,
+      "hint": "Verbs like hand/give can have two passive forms.",
+      "explanation": "<strong>Answer: I was handed a note. / A note was handed to me.</strong><br>Verbs like hand/give can have two passive forms. The grammatical signals in this sentence — the key words, connectors, or context — require this specific form. Look for these signals to make the same choice independently."
+    },
+    {
+      "question": "Someone offered her a second-hand bicycle.",
+      "options": [
+        "She was offered a second-hand bicycle. / A second-hand bicycle was offered (to) her.",
+        "She was offered a second-hand bicycle. / A second-hand bicycle offered her.",
+        "A second-hand bicycle was offered her. / She offered a second-hand bicycle.",
+        "She was offer a second-hand bicycle. / A second-hand bicycle was offered to her."
+      ],
+      "correctAnswer": 0,
+      "hint": "She (IO) becomes subject or bicycle (DO) becomes subject.",
+      "explanation": "<strong>Answer: She was offered a second-hand bicycle. / A second-hand bicycle was offered (to) her.</strong><br>She (IO) becomes subject or bicycle (DO) becomes subject. The grammatical signals in this sentence — the key words, connectors, or context — require this specific form. Look for these signals to make the same choice independently."
+    },
+    {
+      "type": "correct",
+      "sentence": "The package will been delivered by Friday.",
+      "correction": "The package will be delivered by Friday.",
+      "acceptable": [
+        "will be delivered by Friday"
+      ],
+      "hint": "Future passive: will + be + past participle — not 'will been'.",
+      "explanation": "<strong>Answer: will be delivered</strong><br>Future passive: will + be + past participle. 'Will been' is never correct in English. The auxiliary after 'will' is always the bare form 'be', not 'been'. 'Been' is only used after 'have/has/had': 'has been delivered'."
+    },
+    {
+      "question": "Someone has proposed improvements to the developers.",
+      "options": [
+        "Improvements have been proposed to the developers.",
+        "The developers have been proposed improvements.",
+        "Improvements has been proposed to the developers.",
+        "Both are possible."
+      ],
+      "correctAnswer": 0,
+      "hint": "Verb 'propose' (reporting verb) can only have the DO as subject.",
+      "explanation": "<strong>Answer: Improvements have been proposed to the developers.</strong><br>News reports and announcements use the present perfect to introduce a recent event with current relevance. The exact time is less important than the fact that the event has just happened and affects the present situation. After the first mention, the past simple is used for the details."
+    },
+    {
+      "question": "Someone had mentioned the password to the thieves.",
+      "options": [
+        "The password had been mentioned to the thieves.",
+        "The thieves had been mentioned the password.",
+        "The password has been mentioned to the thieves.",
+        "Both are possible."
+      ],
+      "correctAnswer": 0,
+      "hint": "Verb 'mention' (reporting verb) can only have the DO as subject.",
+      "explanation": "<strong>Answer: The password had been mentioned to the thieves.</strong><br>We use the <em>past perfect</em> here because this action happened before another past event.<br><small>💡 Verb 'mention' (reporting verb) can only have the DO as subject.</small>"
+    },
+    {
+      "type": "correct",
+      "sentence": "The suspect is being questioned by police at the moment.",
+      "correction": "The suspect is being questioned by police at the moment.",
+      "acceptable": [
+        "The suspect is being questioned by police at the moment."
+      ],
+      "hint": "Present continuous passive: is/are + being + past participle. This is correct.",
+      "explanation": "<strong>Answer: The suspect is being questioned — CORRECT</strong><br>Present continuous passive: is/are + being + past participle. This is used for ongoing actions in progress now. 'Is being questioned' = being questioned right now. This form is often confused with 'is being + -ing' (which does not exist as a passive).",
+      "prompt": "Is this sentence correct? If not, rewrite it correctly."
+    },
+    {
+      "question": "People helped Rob to his feet after the accident.",
+      "options": [
+        "Rob was helped to his feet after the accident.",
+        "Rob helped to his feet after the accident.",
+        "Rob was help to his feet after the accident.",
+        "Rob has been helped to his feet after the accident."
+      ],
+      "correctAnswer": 0,
+      "hint": "Passive of help + to-infinitive.",
+      "explanation": "<strong>Answer: Rob was helped to his feet after the accident.</strong><br>Passive of help + to-infinitive. The grammatical signals in this sentence — the key words, connectors, or context — require this specific form. Look for these signals to make the same choice independently."
+    },
+    {
+      "question": "They ___ Sven Larsen Regional Sales Director for Scandinavia.",
+      "options": [
+        "appointed",
+        "was appointed",
+        "named",
+        "were named"
+      ],
+      "correctAnswer": 0,
+      "hint": "Active: they (subject) appointed Sven (object).",
+      "explanation": "<strong>Answer: appointed</strong><br>Active: they (subject) appointed Sven (object). "
+    },
+    {
+      "type": "correct",
+      "sentence": "A decision is expected be announced this afternoon.",
+      "correction": "A decision is expected to be announced this afternoon.",
+      "acceptable": [
+        "is expected to be announced"
+      ],
+      "hint": "Passive + to-infinitive: is expected to be + past participle.",
+      "explanation": "<strong>Answer: is expected to be announced</strong><br>The construction 'be + expected/believed/thought/said/rumoured' requires 'to + infinitive'. In the passive: is expected to be + past participle. 'Is expected be announced' is missing the 'to'. Compare: 'is said to be true', 'is thought to have left'."
+    },
+    {
+      "question": "Sven Larsen ___ Regional Sales Director for Scandinavia.",
+      "options": [
+        "was appointed",
+        "appointed",
+        "were appointed",
+        "is appointed"
+      ],
+      "correctAnswer": 0,
+      "hint": "Passive: Sven (subject) was appointed.",
+      "explanation": "<strong>Answer: was appointed</strong><br>Passive: Sven (subject) was appointed. Choose the passive form that matches the tense and aspect of the active version."
+    },
+    {
+      "question": "They ___ Alan Watson winner of the election after a recount.",
+      "options": [
+        "declared",
+        "was declared",
+        "named",
+        "were declared"
+      ],
+      "correctAnswer": 0,
+      "hint": "Active form.",
+      "explanation": "<strong>Answer: declared</strong><br>Use the active form of the verb here. The sentence structure identifies the subject as the agent performing the action, not the entity receiving it. Check whether a passive construction would change the meaning."
+    },
+    {
+      "type": "reorder",
+      "prompt": "Form a passive sentence with 'get':",
+      "tokens": [
+        "she",
+        "always",
+        "gets",
+        "penalised",
+        "for",
+        "being",
+        "late"
+      ],
+      "correctOrder": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "hint": "Subject + gets + past participle + for + gerund/noun",
+      "explanation": "<strong>Answer: She always gets penalised for being late</strong><br>Informal passive with 'get': subject + get/gets + past participle. This structure implies the action happens as a consequence of the subject's behaviour. 'For + gerund' explains the reason. Compare: 'She is always penalised' (formal) vs 'She always gets penalised' (informal)."
+    },
+    {
+      "question": "Alan Watson ___ winner of the election after a recount.",
+      "options": [
+        "was declared",
+        "declared",
+        "were declared",
+        "has been declared"
+      ],
+      "correctAnswer": 0,
+      "hint": "Passive form.",
+      "explanation": "<strong>Answer: was declared</strong><br>Passive form. Choose the passive form that matches the tense and aspect of the active version."
+    },
+    {
+      "question": "Children often look up to strict teachers.",
+      "options": [
+        "Strict teachers are often looked up to (by children).",
+        "Strict teachers often looked up to.",
+        "Strict teachers were often looked up to.",
+        "No passive possible."
+      ],
+      "correctAnswer": 0,
+      "hint": "Multi-word verb 'look up to' can be passive.",
+      "explanation": "<strong>Answer: Strict teachers are often looked up to (by children).</strong><br>Multi-word verb 'look up to' can be passive. Choose the passive form that matches the tense and aspect of the active version."
+    },
+    {
+      "question": "The students got the information down as fast as they could.",
+      "options": [
+        "No passive possible.",
+        "The information was got down as fast as they could.",
+        "The information was getting down.",
+        "The information got down."
+      ],
+      "correctAnswer": 0,
+      "hint": "'Get down' (= write) is not usually used in the passive.",
+      "explanation": "<strong>Answer: No passive possible.</strong><br>'Get down' (= write) is not usually used in the passive. Choose the passive form that matches the tense and aspect of the active version."
+    },
+    {
+      "question": "The decision has deprived many people of the right to vote.",
+      "options": [
+        "Many people have been deprived of the right to vote by the decision.",
+        "Many people have deprived of the right to vote.",
+        "Many people were deprived of the right to vote.",
+        "No passive possible."
+      ],
+      "correctAnswer": 0,
+      "hint": "'Deprive of' can be used in the passive.",
+      "explanation": "<strong>Answer: Many people have been deprived of the right to vote by the decision.</strong><br>'Deprive of' can be used in the passive. The present perfect links past events to the present. The key signals are: <em>just, already, yet, ever, never, since, for, recently</em>, and incomplete time expressions like <em>this week</em> or <em>today</em> (when not yet over)."
+    }
+  ]
+}

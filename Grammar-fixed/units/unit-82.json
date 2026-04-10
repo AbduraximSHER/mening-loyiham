@@ -1,0 +1,114 @@
+{
+  "id": 82,
+  "title": "Science and Research",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Scientific method",
+      "content": "<div class=\"web-text\">Key terms in scientific investigation:</div><div class=\"web-example\"><span>• <strong>hypothesis</strong> — a proposed explanation to be tested. <em>The scientist formed a hypothesis about the results.</em></span></div><div class=\"web-example\"><span>• <strong>empirical</strong> — based on observation and experiment. <em>Empirical evidence supports the theory.</em></span></div><div class=\"web-example\"><span>• <strong>variable</strong> — a factor that can change in an experiment. <em>The researchers controlled all variables except temperature.</em></span></div><div class=\"web-example\"><span>• <strong>correlation</strong> — a connection between two things. <em>There is a strong correlation between exercise and mental health.</em></span></div><div class=\"web-example\"><span>• <strong>peer-reviewed</strong> — evaluated by experts before publication. <em>Always cite peer-reviewed sources in academic papers.</em></span></div>"
+    },
+    {
+      "id": "B",
+      "title": "Discoveries and innovation",
+      "content": "<div class=\"web-text\">Discussing scientific progress:</div><div class=\"web-example\"><span>• <strong>groundbreaking</strong> — innovative and pioneering. <em>The groundbreaking study changed our understanding of genetics.</em></span></div><div class=\"web-example\"><span>• <strong>clinical trial</strong> — a test of a medical treatment. <em>The drug is currently in clinical trials.</em></span></div><div class=\"web-example\"><span>• <strong>phenomenon</strong> — an observable event. <em>Scientists are studying this unusual phenomenon.</em></span></div><div class=\"web-example\"><span>• <strong>replicate</strong> — reproduce results in another experiment. <em>Other labs were unable to replicate the findings.</em></span></div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "A proposed explanation that can be tested is a:",
+      "options": [
+        "applied",
+        "hypothesis",
+        "theoretical",
+        "replication"
+      ],
+      "correctAnswer": 1,
+      "hint": "The starting point of research.",
+      "explanation": "A <strong>hypothesis</strong> is a proposed explanation made as a starting point for investigation."
+    },
+    {
+      "question": "Evidence based on observation rather than theory is:",
+      "options": [
+        "clinical",
+        "theoretical",
+        "empirical",
+        "hypothetical"
+      ],
+      "correctAnswer": 2,
+      "hint": "From real-world data.",
+      "explanation": "<strong>Empirical</strong> means based on verifiable observation or experience rather than theory."
+    },
+    {
+      "question": "Research evaluated by other experts before publication is:",
+      "options": [
+        "peer-reviewed",
+        "qualitative",
+        "clinical",
+        "replicated"
+      ],
+      "correctAnswer": 0,
+      "hint": "Other scientists check the work.",
+      "explanation": "<strong>Peer-reviewed</strong> means evaluated by qualified experts in the same field."
+    },
+    {
+      "question": "A factor that changes during an experiment is a:",
+      "options": [
+        "variable",
+        "placebo",
+        "theoretical",
+        "replication"
+      ],
+      "correctAnswer": 0,
+      "hint": "What you measure or control.",
+      "explanation": "A <strong>variable</strong> is an element that can change or be changed in an experiment."
+    },
+    {
+      "question": "A connection between two things without proving cause is a:",
+      "options": [
+        "correlation",
+        "longitudinal",
+        "quantitative",
+        "replication"
+      ],
+      "correctAnswer": 0,
+      "hint": "They're linked but one may not cause the other.",
+      "explanation": "A <strong>correlation</strong> is a mutual relationship between two things."
+    },
+    {
+      "question": "To reproduce experimental results is to:",
+      "options": [
+        "replicate",
+        "hypothesise",
+        "peer-review",
+        "correlate"
+      ],
+      "correctAnswer": 0,
+      "hint": "Getting the same results again.",
+      "explanation": "To <strong>replicate</strong> means to reproduce or duplicate the results of an experiment."
+    },
+    {
+      "question": "An observable event or fact is a:",
+      "options": [
+        "qualitative",
+        "placebo",
+        "quantitative",
+        "phenomenon"
+      ],
+      "correctAnswer": 3,
+      "hint": "Something you can witness.",
+      "explanation": "A <strong>phenomenon</strong> is a fact or situation that is observed to exist or happen."
+    },
+    {
+      "question": "Research that is innovative and pioneering is:",
+      "options": [
+        "groundbreaking",
+        "clinical",
+        "longitudinal",
+        "placebo"
+      ],
+      "correctAnswer": 0,
+      "hint": "It changes everything.",
+      "explanation": "<strong>Groundbreaking</strong> means innovative and pioneering."
+    }
+  ]
+}

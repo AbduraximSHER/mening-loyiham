@@ -1,0 +1,114 @@
+{
+  "id": 98,
+  "title": "Expressing Probability and Certainty",
+  "sections": [
+    {
+      "id": "A",
+      "title": "High probability",
+      "content": "<div class=\"web-text\">Expressing that something is very likely:</div><div class=\"web-example\"><span>• <strong>bound to</strong> — certain to. <em>She's bound to pass the exam — she's very well prepared.</em></span></div><div class=\"web-example\"><span>• <strong>inevitable</strong> — unavoidable. <em>Delays are inevitable during the construction work.</em></span></div><div class=\"web-example\"><span>• <strong>undoubtedly</strong> — without a doubt. <em>She is undoubtedly the most qualified candidate.</em></span></div><div class=\"web-example\"><span>• <strong>in all likelihood</strong> — very probably. <em>In all likelihood, the project will be completed on time.</em></span></div><div class=\"web-example\"><span>• <strong>odds are</strong> — it's probable. <em>The odds are that prices will continue to rise.</em></span></div>"
+    },
+    {
+      "id": "B",
+      "title": "Low probability and uncertainty",
+      "content": "<div class=\"web-text\">Expressing doubt or low likelihood:</div><div class=\"web-example\"><span>• <strong>unlikely</strong> — probably won't happen. <em>It's unlikely that we'll finish before Friday.</em></span></div><div class=\"web-example\"><span>• <strong>doubtful</strong> — seeming unlikely. <em>It's doubtful whether they'll accept the offer.</em></span></div><div class=\"web-example\"><span>• <strong>remote chance</strong> — a very small possibility. <em>There's only a remote chance of success.</em></span></div><div class=\"web-example\"><span>• <strong>supposedly</strong> — according to what is believed. <em>The new system is supposedly much faster.</em></span></div><div class=\"web-example\"><span>• <strong>conceivable</strong> — possible to imagine. <em>It's conceivable that technology will solve the problem.</em></span></div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "'Bound to happen' means it is:",
+      "options": [
+        "unlikely",
+        "impossible",
+        "certain",
+        "uncertain"
+      ],
+      "correctAnswer": 2,
+      "hint": "It will definitely happen.",
+      "explanation": "<strong>Bound to</strong> means certain or sure to."
+    },
+    {
+      "question": "A very small possibility is a ___ chance:",
+      "options": [
+        "fair",
+        "golden",
+        "remote",
+        "high"
+      ],
+      "correctAnswer": 2,
+      "hint": "Very unlikely but not impossible.",
+      "explanation": "A <strong>remote chance</strong> is a very small possibility."
+    },
+    {
+      "question": "'Undoubtedly' means:",
+      "options": [
+        "certainly",
+        "possibly",
+        "supposedly",
+        "unlikely"
+      ],
+      "correctAnswer": 0,
+      "hint": "Without any doubt.",
+      "explanation": "<strong>Undoubtedly</strong> means without doubt; certainly."
+    },
+    {
+      "question": "Something that seems unlikely or uncertain is:",
+      "options": [
+        "doubtful",
+        "theoretical",
+        "bound",
+        "speculative"
+      ],
+      "correctAnswer": 0,
+      "hint": "You're not sure it will happen.",
+      "explanation": "<strong>Doubtful</strong> means feeling uncertain about something."
+    },
+    {
+      "question": "'In all likelihood' means:",
+      "options": [
+        "rarely",
+        "very probably",
+        "impossibly",
+        "slightly"
+      ],
+      "correctAnswer": 1,
+      "hint": "It's highly expected.",
+      "explanation": "<strong>In all likelihood</strong> means very probably; almost certainly."
+    },
+    {
+      "question": "'Supposedly' indicates information that is:",
+      "options": [
+        "tentative",
+        "impossible",
+        "believed but not proven",
+        "confirmed"
+      ],
+      "correctAnswer": 2,
+      "hint": "That's what people say.",
+      "explanation": "<strong>Supposedly</strong> means according to what is generally assumed or believed."
+    },
+    {
+      "question": "Something possible to imagine, even if unlikely, is:",
+      "options": [
+        "conceivable",
+        "improbable",
+        "definite",
+        "inconceivable"
+      ],
+      "correctAnswer": 0,
+      "hint": "You can picture it happening.",
+      "explanation": "<strong>Conceivable</strong> means capable of being imagined or grasped mentally."
+    },
+    {
+      "question": "Something that cannot be avoided is:",
+      "options": [
+        "unlikely",
+        "conditional",
+        "feasible",
+        "inevitable"
+      ],
+      "correctAnswer": 3,
+      "hint": "It must happen.",
+      "explanation": "<strong>Inevitable</strong> means certain to happen; unavoidable."
+    }
+  ]
+}

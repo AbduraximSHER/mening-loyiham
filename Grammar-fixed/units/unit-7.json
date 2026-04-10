@@ -1,0 +1,245 @@
+{
+  "id": 7,
+  "title": "Past perfect continuous, past perfect and past continuous",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Past perfect continuous vs. past perfect",
+      "content": "\n            <div class=\"web-text\">We use the past perfect continuous to talk about something that was in progress recently before or up to a past point in time, and the past perfect when we talk about a finished activity before a past time:</div>\n            <div class=\"web-example\">\n                <span>• I'<strong>d been doing</strong> some work in the garden when Lea arrived, so I didn't hear her come in. (<em>not</em> I'd done some work in the garden when Lea arrived, so I didn't hear her come in.)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• I'<strong>d done</strong> all the ironing so I started cleaning the windows. (<em>not</em> I'd been doing all the ironing so I started cleaning the windows.)</span>\n            </div>\n            <div class=\"web-text\">We can often use either the past perfect continuous or the past perfect with a similar meaning:</div>\n            <div class=\"web-example\">\n                <span>• I'<strong>d been working</strong> / I'<strong>d worked</strong> hard all year, so I felt that I deserved a holiday.</span>\n            </div>\n        "
+    },
+    {
+      "id": "B",
+      "title": "How many times: use past perfect",
+      "content": "\n            <div class=\"web-text\">If we talk about <em>how many</em> times something happened in a period up to a particular past time, we use the past perfect, not the past perfect continuous:</div>\n            <div class=\"web-example\">\n                <span>• How many times <strong>had</strong> you <strong>met</strong> him before yesterday? (<em>not</em> How many times had you been meeting him?)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• I <strong>had stayed</strong> in the hotel twice in the 1990s. (<em>not</em> I had been staying in the hotel twice …)</span>\n            </div>\n        "
+    },
+    {
+      "id": "C",
+      "title": "Situations going on before a past time",
+      "content": "\n            <div class=\"web-text\">The past perfect continuous can be used to talk about a situation or activity that went on before a particular past time and (i) finished at that time, (ii) continued beyond it, or (iii) finished shortly before it:</div>\n            <div class=\"web-example\">\n                <span>• (i) We'<strong>d been driving</strong> for about an hour when the engine suddenly stopped.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• (ii) She felt terrible during the interview because she <strong>had been suffering</strong> from flu since the previous day.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• (iii) When I last saw Omar, he'<strong>d been running</strong> and was out of breath.</span>\n            </div>\n            <div class=\"web-text\">If we are not interested in how long the activity went on, we can use the past continuous instead of the past perfect continuous. Compare:</div>\n            <div class=\"web-example\">\n                <span>• When the merger was announced it became apparent that the two companies <strong>had been discussing</strong> the possibility <em>since last year</em>. <em>and</em></span>\n            </div>\n            <div class=\"web-example\">\n                <span>• A friend told me about a conversation she'd recently overheard. Two women <strong>were discussing</strong> their holiday plans …</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• I first met Mateo and Lucia when they <strong>had been going out</strong> together <em>for five years</em>, and they didn't get married for another three years after that. <em>and</em></span>\n            </div>\n            <div class=\"web-example\">\n                <span>• Karin met Lars when she <strong>was going out</strong> with his best friend.</span>\n            </div>\n        "
+    },
+    {
+      "id": "D",
+      "title": "State verbs: use past perfect only",
+      "content": "\n            <div class=\"web-text\">Remember that we don't describe states with continuous tenses (see Unit 1), and we use the past perfect, not the past perfect continuous, even when we focus on the length of a situation up to a particular past time:</div>\n            <div class=\"web-example\">\n                <span>• We <strong>had</strong> only <strong>owned</strong> the car for six weeks when the clutch broke. (<em>not</em> We had been owning the car for six weeks …)</span>\n            </div>\n        "
+    },
+    {
+      "id": "E",
+      "title": "Past perfect continuous in written texts",
+      "content": "\n            <div class=\"web-text\">The past perfect continuous is mainly used in written texts and is less common in speech. Here is an example in a newspaper article:</div>\n            <div class=\"web-example\">\n                <span>• The body of a climber who went missing in the Alps was finally found yesterday. Carl Sims <strong>had been climbing</strong> alone near the Harz Waterfall, which has claimed many lives in the past.</span>\n            </div>\n        "
+    }
+  ],
+  "exercises": [
+    {
+      "question": "She ___ only ___ for the company for a couple of months, so I was surprised to hear that she'd left. (apply)",
+      "options": [
+        "had only been working",
+        "had worked only",
+        "was only working",
+        "only worked"
+      ],
+      "correctAnswer": 0,
+      "hint": "Use past perfect continuous for an activity in progress before a past event.",
+      "explanation": "<strong>Answer: had only been working</strong><br>Use past perfect continuous for an activity in progress before a past event. "
+    },
+    {
+      "question": "She finally ___ her way up from trainee to a management position, and she celebrated her promotion with a big party. (carry)",
+      "options": [
+        "had carried",
+        "had been carrying",
+        "was carrying",
+        "carried"
+      ],
+      "correctAnswer": 0,
+      "hint": "For a finished achievement/result, use past perfect simple.",
+      "explanation": "<strong>Answer: had carried</strong><br>We use the <em>past perfect</em> here because this action happened before another past event.<br><small>💡 For a finished achievement/result, use past perfect simple.</small>"
+    },
+    {
+      "question": "The avalanche ___ them 500 metres down the mountain but no one was hurt. (carry)",
+      "options": [
+        "had carried",
+        "had been carrying",
+        "was carrying",
+        "carried"
+      ],
+      "correctAnswer": 0,
+      "hint": "A completed action before a past time uses past perfect simple.",
+      "explanation": "<strong>Answer: had carried</strong><br>We use the <em>past perfect</em> here because this action happened before another past event.<br><small>💡 A completed action before a past time uses past perfect simple.</small>"
+    },
+    {
+      "question": "She took a bottle from the bag she ___ all the way from home. (carry)",
+      "options": [
+        "had carried",
+        "had been carrying",
+        "was carrying",
+        "carries"
+      ],
+      "correctAnswer": 0,
+      "hint": "A completed action (bringing it) before taking it out = past perfect simple.",
+      "explanation": "<strong>Answer: had carried</strong><br>We use the <em>past perfect</em> here because this action happened before another past event.<br><small>💡 A completed action (bringing it) before taking it out = past perfect simple.</small>"
+    },
+    {
+      "question": "We ___ for visas early, but still hadn't got them by the week before the holiday. (apply)",
+      "options": [
+        "had applied",
+        "had been applying",
+        "were applying",
+        "applied"
+      ],
+      "correctAnswer": 0,
+      "hint": "Completed action before another past reference.",
+      "explanation": "<strong>Answer: had applied</strong><br>We use the <em>past perfect</em> here because this action happened before another past event.<br><small>💡 Completed action before another past reference.</small>"
+    },
+    {
+      "type": "fill",
+      "question": "She was tired because she ___ (drive) for six hours.",
+      "answer": "had been driving",
+      "hint": "Extended activity before a past moment explaining its result → past perfect continuous.",
+      "explanation": "<strong>Answer: had been driving</strong><br>The past perfect continuous describes an extended activity that occurred before a past moment and explains its result. The tiredness is the present-past result of six hours of driving.",
+      "acceptable": [
+        "'d been driving"
+      ]
+    },
+    {
+      "question": "She ___ for jobs, without success, since leaving university.",
+      "options": [
+        "had been applying",
+        "had applied",
+        "was applying",
+        "applied"
+      ],
+      "correctAnswer": 0,
+      "hint": "Ongoing activity over a period up to a past time = past perfect continuous.",
+      "explanation": "<strong>Answer: had been applying</strong><br>We use the <em>past perfect continuous</em> here to show an activity was ongoing before another past event.<br><small>💡 Ongoing activity over a period up to a past time = past perfect continuous.</small>"
+    },
+    {
+      "question": "He ___ all the way from New York to be at yesterday's meeting. (fly)",
+      "options": [
+        "had flown",
+        "had been flying",
+        "was flying",
+        "flew"
+      ],
+      "correctAnswer": 0,
+      "hint": "A completed action before the meeting = past perfect simple.",
+      "explanation": "<strong>Answer: had flown</strong><br>A completed action before the meeting = past perfect simple. "
+    },
+    {
+      "question": "When the plane was diverted, shortly after take-off, it ___ from London to Frankfurt.",
+      "options": [
+        "had been flying",
+        "had flown",
+        "was flying",
+        "flew"
+      ],
+      "correctAnswer": 0,
+      "hint": "An activity in progress at the point of diversion = past perfect continuous.",
+      "explanation": "<strong>Answer: had been flying</strong><br>We use the <em>past perfect continuous</em> here to show an activity was ongoing before another past event.<br><small>💡 An activity in progress at the point of diversion = past perfect continuous.</small>"
+    },
+    {
+      "question": "Mrs Bishop ___ to have children for years, and only became pregnant at the age of 45.",
+      "options": [
+        "had been trying",
+        "had tried",
+        "was trying",
+        "tried"
+      ],
+      "correctAnswer": 0,
+      "hint": "Length of an activity up to a past time = past perfect continuous.",
+      "explanation": "<strong>Answer: had been trying</strong><br>We use the <em>past perfect continuous</em> here to show an activity was ongoing before another past event.<br><small>💡 Length of an activity up to a past time = past perfect continuous.</small>"
+    },
+    {
+      "question": "This was the first time we had been to the castle, even though we ___ Prague a few times before.",
+      "options": [
+        "had visited",
+        "had been visiting",
+        "was visiting",
+        "visited"
+      ],
+      "correctAnswer": 0,
+      "hint": "'How many times' before = past perfect simple.",
+      "explanation": "<strong>Answer: had visited</strong><br>We use the <em>past perfect</em> here because this action happened before another past event.<br><small>💡 'How many times' before = past perfect simple.</small>"
+    },
+    {
+      "type": "fill",
+      "question": "When the rescue team arrived, the climbers ___ (wait) for eight hours.",
+      "answer": "had been waiting",
+      "hint": "Duration of activity before the arrival moment → past perfect continuous.",
+      "explanation": "<strong>Answer: had been waiting</strong><br>'For eight hours' signals duration. Since this activity was ongoing before the rescue team arrived, use the past perfect continuous to show both duration and anteriority.",
+      "acceptable": [
+        "'d been waiting"
+      ]
+    },
+    {
+      "question": "She bought her first watch at the age of eight. It ___ two pounds.",
+      "options": [
+        "had cost",
+        "had been costing",
+        "was costing",
+        "cost"
+      ],
+      "correctAnswer": 0,
+      "hint": "State verb — use past perfect simple, not continuous.",
+      "explanation": "<strong>Answer: had cost</strong><br>We use the <em>past perfect</em> here because this action happened before another past event.<br><small>💡 State verb — use past perfect simple, not continuous.</small>"
+    },
+    {
+      "question": "Emma Willems ___ novels for ten years before she published her first book. (write)",
+      "options": [
+        "had been writing",
+        "had written",
+        "was writing",
+        "wrote"
+      ],
+      "correctAnswer": 0,
+      "hint": "Duration of activity before a past event = past perfect continuous.",
+      "explanation": "<strong>Answer: had been writing</strong><br>We use the <em>past perfect continuous</em> here to show an activity was ongoing before another past event.<br><small>💡 Duration of activity before a past event = past perfect continuous.</small>"
+    },
+    {
+      "question": "For some time Daniel ___ about passing the exams and eventually decided to change the course he was taking.",
+      "options": [
+        "had been worrying",
+        "had worried",
+        "was worrying",
+        "worried"
+      ],
+      "correctAnswer": 0,
+      "hint": "Ongoing mental activity over a period = past perfect continuous.",
+      "explanation": "<strong>Answer: had been worrying</strong><br>We use the <em>past perfect continuous</em> here to show an activity was ongoing before another past event.<br><small>💡 Ongoing mental activity over a period = past perfect continuous.</small>"
+    },
+    {
+      "question": "My teacher was really annoyed with me. It was the third time I ___ late for school that week.",
+      "options": [
+        "had arrived",
+        "had been arriving",
+        "was arriving",
+        "arrived"
+      ],
+      "correctAnswer": 0,
+      "hint": "'How many times' (third time) = past perfect simple.",
+      "explanation": "<strong>Answer: had arrived</strong><br>We use the <em>past perfect</em> here because this action happened before another past event.<br><small>💡 'How many times' (third time) = past perfect simple.</small>"
+    },
+    {
+      "question": "I ___ always ___ it would be easy to get a job, and was disappointed to be rejected.",
+      "options": [
+        "had always believed",
+        "had always been believing",
+        "was always believing",
+        "always believed"
+      ],
+      "correctAnswer": 0,
+      "hint": "State verb 'believe' — use past perfect simple.",
+      "explanation": "<strong>Answer: had always believed</strong><br>State verb 'believe' — use past perfect simple. State verbs describe mental states, emotions, or senses and are not normally used in continuous forms."
+    },
+    {
+      "question": "We ___ about Sarah when, to our amazement, she walked through the door.",
+      "options": [
+        "had been talking",
+        "had talked",
+        "were talking",
+        "talked"
+      ],
+      "correctAnswer": 0,
+      "hint": "Activity in progress just before a past event = past perfect continuous.",
+      "explanation": "<strong>Answer: had been talking</strong><br>We use the <em>past perfect continuous</em> here to show an activity was ongoing before another past event.<br><small>💡 Activity in progress just before a past event = past perfect continuous.</small>"
+    }
+  ]
+}

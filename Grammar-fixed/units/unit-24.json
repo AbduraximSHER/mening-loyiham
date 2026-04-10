@@ -1,0 +1,207 @@
+{
+  "id": 24,
+  "title": "Forming passive sentences: verb + -ing or to-infinitive",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Active patterns with verb + -ing",
+      "content": "\n            <div class=\"web-text\">Verbs followed by <strong>object + -ing</strong> in the active are made passive with '<strong>be' + past participle + -ing</strong>:</div>\n            <div class=\"web-example\">\n                <span>• They <strong>saw</strong> the monkey <strong>climbing</strong> over the fence. (= active)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• The monkey <strong>was seen climbing</strong> over the fence. (= passive)</span>\n            </div>\n            <div class=\"web-text\">Also: <strong>bring, catch, hear, find, keep, leave, notice, observe, send, show</strong>.</div>\n        "
+    },
+    {
+      "id": "B",
+      "title": "Verbs followed by being + past participle",
+      "content": "\n            <div class=\"web-text\">Some verbs that can be followed by an <strong>-ing</strong> form can be used with a passive form <strong>being + past participle</strong>:</div>\n            <div class=\"web-example\">\n                <span>• I really <strong>love being given</strong> presents.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• The children <strong>enjoyed being taken</strong> to the zoo.</span>\n            </div>\n            <div class=\"web-text\">Also: <strong>avoid, deny, describe, dislike, face, hate, (not) imagine, like, remember, report, resent</strong>.</div>\n        "
+    },
+    {
+      "id": "C",
+      "title": "Verbs with object consisting of a noun phrase and -ing clause",
+      "content": "\n            <div class=\"web-text\">Verbs which in the active are followed by an object consisting of a noun phrase and <strong>-ing clause</strong> usually have no passive:</div>\n            <div class=\"web-example\">\n                <span>• I dread <strong>him (or his) finding</strong> out. (<em>but not</em> He is dreaded finding out)</span>\n            </div>\n            <div class=\"web-text\">Also: <strong>anticipate, appreciate, dislike, forget, hate, imagine, like, (not) mind, recall, remember</strong>.</div>\n        "
+    },
+    {
+      "id": "D",
+      "title": "Active patterns with verb + to-infinitive",
+      "content": "\n            <div class=\"web-text\">The active pattern <strong>verb + object + to-infinitive</strong> is made passive with '<strong>be' + past participle + to-infinitive</strong>. Compare:</div>\n            <div class=\"web-example\">\n                <span>• Mr Wang <strong>has taught</strong> Peter <strong>to sing</strong> for years. <em>and</em></span>\n            </div>\n            <div class=\"web-example\">\n                <span>• Peter <strong>has been taught to sing</strong> (by Mr Wang) for years.</span>\n            </div>\n            <div class=\"web-text\">Also: <strong>advise, allow, ask, believe, consider, expect, feel, instruct, mean, order, require, tell, understand</strong>.</div>\n            <div class=\"web-text\">Note that in some contexts it is possible to make both verbs passive:</div>\n            <div class=\"web-example\">\n                <span>• Changes to the taxation system <strong>are expected to be proposed</strong>. (<em>compare the active</em> We <strong>expect</strong> the government <strong>to propose</strong> changes to the taxation system.)</span>\n            </div>\n            <div class=\"web-text\">Some verbs followed by an <strong>object + to-infinitive</strong> in the active have no passive:</div>\n            <div class=\"web-text\">Also: <strong>(can't) bear, hate, love, need, prefer, want, wish</strong> (= 'liking' and 'wanting' verbs).</div>\n        "
+    },
+    {
+      "id": "E",
+      "title": "Active pattern verb + to-infinitive + object",
+      "content": "\n            <div class=\"web-text\">The active pattern <strong>verb + to-infinitive + object</strong> is made passive with <strong>verb + to be + past participle</strong>. Compare:</div>\n            <div class=\"web-example\">\n                <span>• Supermarkets <strong>started to sell</strong> fresh pasta only in the 1990s. <em>and</em></span>\n            </div>\n            <div class=\"web-example\">\n                <span>• Fresh pasta <strong>started to be sold</strong> by supermarkets only in the 1990s.</span>\n            </div>\n            <div class=\"web-text\">Some verbs have corresponding meanings in the active and passive. Compare:</div>\n            <div class=\"web-example\">\n                <span>• People have come to see organic food as something only the wealthy eat. (active) <em>corresponds to</em></span>\n            </div>\n            <div class=\"web-example\">\n                <span>• Organic food has come to be seen as something only the wealthy eat. (passive)</span>\n            </div>\n            <div class=\"web-text\">Also: <strong>appear, begin, continue, seem, start, tend</strong>.</div>\n            <div class=\"web-text\">The meaning of some other verbs does not correspond. Compare:</div>\n            <div class=\"web-example\">\n                <span>• Petra wanted to help me. (active) <em>does not correspond to</em></span>\n            </div>\n            <div class=\"web-example\">\n                <span>• I wanted to be helped by Petra. (passive)</span>\n            </div>\n            <div class=\"web-text\">Also: <strong>agree, aim, arrange, attempt, hope, refuse</strong>.</div>\n        "
+    }
+  ],
+  "exercises": [
+    {
+      "question": "Inger ___ for over three hours when she went for her dental appointment. (keep - wait)",
+      "options": [
+        "was kept waiting",
+        "was keeping waiting",
+        "kept waiting",
+        "has been kept waiting"
+      ],
+      "correctAnswer": 0,
+      "hint": "Passive: was + past participle + -ing.",
+      "explanation": "<strong>Answer: was kept waiting</strong><br>Passive: was + past participle + -ing. Choose the passive form that matches the tense and aspect of the active version."
+    },
+    {
+      "question": "When the police first questioned him, Wayne ___ in the robbery. (deny - involve)",
+      "options": [
+        "denied being involved",
+        "denied to be involved",
+        "was denied involving",
+        "denied involved"
+      ],
+      "correctAnswer": 0,
+      "hint": "Passive form of -ing form: being + past participle.",
+      "explanation": "<strong>Answer: denied being involved</strong><br>Passive form of -ing form: being + past participle. Choose the passive form that matches the tense and aspect of the active version."
+    },
+    {
+      "question": "I ___ the baby while Karen went to answer the door. (observe - hide)",
+      "options": [
+        "was observed hiding",
+        "observed hiding",
+        "was observing hiding",
+        "observed being hidden"
+      ],
+      "correctAnswer": 0,
+      "hint": "Passive: was observed -ing.",
+      "explanation": "<strong>Answer: was observed hiding</strong><br>Passive: was observed -ing. Choose the passive form that matches the tense and aspect of the active version."
+    },
+    {
+      "type": "correct",
+      "sentence": "She is believed to being one of the most talented scientists of her generation.",
+      "correction": "She is believed to be one of the most talented scientists of her generation.",
+      "acceptable": [
+        "is believed to be"
+      ],
+      "hint": "Passive + to-infinitive: is believed to BE (not 'to being').",
+      "explanation": "<strong>Answer: is believed to be</strong><br>The construction 'be + believed/thought/said/reported/known + to-infinitive' uses a plain to-infinitive: 'to be', 'to have', 'to work'. 'To being' is never correct in standard English — the -ing form here is wrong."
+    },
+    {
+      "question": "When I woke up in hospital, I ___ by the snake but nothing after that. (remember - bite)",
+      "options": [
+        "remembered being bitten",
+        "remembered to be bitten",
+        "was remembered biting",
+        "remembered bitten"
+      ],
+      "correctAnswer": 0,
+      "hint": "Passive form of -ing: being + past participle.",
+      "explanation": "<strong>Answer: remembered being bitten</strong><br>Passive form of -ing: being + past participle. Choose the passive form that matches the tense and aspect of the active version."
+    },
+    {
+      "question": "The man ___ a suspicious package under a seat in the train. (find - wander)",
+      "options": [
+        "was found wandering",
+        "found wandering",
+        "was finding wandering",
+        "was found to wander"
+      ],
+      "correctAnswer": 0,
+      "hint": "Passive: was found + -ing.",
+      "explanation": "<strong>Answer: was found wandering</strong><br>Passive: was found + -ing. Choose the passive form that matches the tense and aspect of the active version."
+    },
+    {
+      "question": "Two teenagers yesterday ___ from school after they were found with over a hundred stolen mobile phones. (face - expel)",
+      "options": [
+        "faced being expelled",
+        "faced to be expelled",
+        "were faced expelling",
+        "faced expelling"
+      ],
+      "correctAnswer": 0,
+      "hint": "Passive form of -ing: being + past participle.",
+      "explanation": "<strong>Answer: faced being expelled</strong><br>Passive form of -ing: being + past participle. Choose the passive form that matches the tense and aspect of the active version."
+    },
+    {
+      "type": "correct",
+      "sentence": "The company is reported to have making significant losses this year.",
+      "correction": "The company is reported to have made significant losses this year.",
+      "acceptable": [
+        "is reported to have made"
+      ],
+      "hint": "For past reference: be + reported + to have + PAST PARTICIPLE (not -ing).",
+      "explanation": "<strong>Answer: is reported to have made</strong><br>For events before the time of reporting, use: be + reported/said/believed + to HAVE + past participle. 'To have made' = the making happened before the reporting. 'To have making' confusingly mixes the infinitive with a gerund — incorrect."
+    },
+    {
+      "question": "We were asked to show our passports at the border. (active: They asked me to wait.)",
+      "options": [
+        "We were asked to show our passports at the border.",
+        "We were ask to show our passports at the border.",
+        "We were being asked to show our passports at the border.",
+        "We asked to show our passports at the border."
+      ],
+      "correctAnswer": 0,
+      "hint": "Passive: were asked to show.",
+      "explanation": "<strong>Answer: We were asked to show our passports at the border.</strong><br>Passive: were asked to show. The grammatical signals in this sentence — the key words, connectors, or context — require this specific form. Look for these signals to make the same choice independently."
+    },
+    {
+      "question": "They could hear Emil and Laura shouting at each other next door. (Start: Emil and Laura...)",
+      "options": [
+        "Emil and Laura could be heard shouting at each other next door.",
+        "Emil and Laura could hear shouting at each other next door.",
+        "Emil and Laura were heard shouting at each other next door.",
+        "Emil and Laura could being heard shouting at each other next door."
+      ],
+      "correctAnswer": 0,
+      "hint": "Passive: could be heard + -ing.",
+      "explanation": "<strong>Answer: Emil and Laura could be heard shouting at each other next door.</strong><br>Passive: could be heard + -ing. The grammatical signals in this sentence — the key words, connectors, or context — require this specific form. Look for these signals to make the same choice independently."
+    },
+    {
+      "question": "They saw the burglar getting into the museum through a window. (Start: The burglar...)",
+      "options": [
+        "The burglar was seen getting into the museum through a window.",
+        "The burglar saw getting into the museum through a window.",
+        "The burglar was seen to get into the museum through a window.",
+        "The burglar being seen getting into the museum through a window."
+      ],
+      "correctAnswer": 0,
+      "hint": "Passive: was seen + -ing.",
+      "explanation": "<strong>Answer: The burglar was seen getting into the museum through a window.</strong><br>Passive: was seen + -ing. The grammatical signals in this sentence — the key words, connectors, or context — require this specific form. Look for these signals to make the same choice independently."
+    },
+    {
+      "type": "fill",
+      "question": "The exhibit is said ___ (attract) over two million visitors since it opened.",
+      "answer": "to have attracted",
+      "acceptable": [
+        "to have drawn"
+      ],
+      "hint": "Event happened before 'now' → to have + past participle.",
+      "explanation": "<strong>Answer: to have attracted</strong><br>'Is said to have + past participle' describes an event that occurred before the present moment. Compare: 'is said to attract' (currently attracts) vs 'is said to have attracted' (attracted in a completed period up to now)."
+    },
+    {
+      "question": "Kay's questions began to irritate Marco. (Start: Marco...)",
+      "options": [
+        "Marco began to be irritated by Kay's questions.",
+        "Marco began being irritated by Kay's questions.",
+        "Marco began to irritate by Kay's questions.",
+        "Marco was began to be irritated by Kay's questions."
+      ],
+      "correctAnswer": 0,
+      "hint": "Passive: began to be + past participle.",
+      "explanation": "<strong>Answer: Marco began to be irritated by Kay's questions.</strong><br>Passive: began to be + past participle. The grammatical signals in this sentence — the key words, connectors, or context — require this specific form. Look for these signals to make the same choice independently."
+    },
+    {
+      "question": "The team captain hopes to select Omar. (Start: Omar...)",
+      "options": [
+        "Omar hopes to be selected by the team captain.",
+        "Omar is hoped to be selected by the team captain.",
+        "Omar hopes being selected by the team captain.",
+        "Omar was hoped to be selected by the team captain."
+      ],
+      "correctAnswer": 0,
+      "hint": "Passive: hopes to be + past participle.",
+      "explanation": "<strong>Answer: Omar hopes to be selected by the team captain.</strong><br>Passive: hopes to be + past participle. The grammatical signals in this sentence — the key words, connectors, or context — require this specific form. Look for these signals to make the same choice independently."
+    },
+    {
+      "question": "The south coast continues to attract holidaymakers. (Start: Holidaymakers...)",
+      "options": [
+        "Holidaymakers continue to be attracted to the south coast.",
+        "Holidaymakers continues being attracted to the south coast.",
+        "Holidaymakers are continued to be attracted to the south coast.",
+        "Holidaymakers continue to attract to the south coast."
+      ],
+      "correctAnswer": 0,
+      "hint": "Passive: continue to be + past participle.",
+      "explanation": "<strong>Answer: Holidaymakers continue to be attracted to the south coast.</strong><br>Passive: continue to be + past participle. The grammatical signals in this sentence — the key words, connectors, or context — require this specific form. Look for these signals to make the same choice independently."
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "id": 78,
+  "title": "Housing and Architecture",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Types of homes",
+      "content": "<div class=\"web-text\">Vocabulary for different living spaces:</div><div class=\"web-example\"><span>• <strong>detached house</strong> — a house not joined to another. <em>They bought a detached house with a large garden.</em></span></div><div class=\"web-example\"><span>• <strong>penthouse</strong> — a luxury flat on the top floor. <em>The penthouse offers stunning views of the city.</em></span></div><div class=\"web-example\"><span>• <strong>studio flat</strong> — a small flat with one main room. <em>Studio flats are popular with young professionals.</em></span></div><div class=\"web-example\"><span>• <strong>suburbs</strong> — residential areas outside the city centre. <em>Many families prefer living in the suburbs.</em></span></div><div class=\"web-example\"><span>• <strong>renovation</strong> — restoring a building to good condition. <em>The renovation of the old theatre took two years.</em></span></div>"
+    },
+    {
+      "id": "B",
+      "title": "Building and design",
+      "content": "<div class=\"web-text\">Architectural vocabulary:</div><div class=\"web-example\"><span>• <strong>facade</strong> — the front of a building. <em>The glass facade reflects the sky beautifully.</em></span></div><div class=\"web-example\"><span>• <strong>spacious</strong> — having a lot of room. <em>The apartment is surprisingly spacious for the price.</em></span></div><div class=\"web-example\"><span>• <strong>infrastructure</strong> — basic physical structures of a society. <em>The city needs to invest in its ageing infrastructure.</em></span></div><div class=\"web-example\"><span>• <strong>landmark</strong> — a recognisable building or feature. <em>The tower has become a famous landmark.</em></span></div><div class=\"web-example\"><span>• <strong>sustainable architecture</strong> — eco-friendly building design. <em>Sustainable architecture uses energy-efficient materials.</em></span></div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "A house not connected to any other building is:",
+      "options": [
+        "semi-detached",
+        "detached",
+        "terraced",
+        "studio"
+      ],
+      "correctAnswer": 1,
+      "hint": "It stands completely alone.",
+      "explanation": "A <strong>detached house</strong> is not joined to any other building."
+    },
+    {
+      "question": "Restoring an old building to good condition is:",
+      "options": [
+        "terrace",
+        "renovation",
+        "demolition",
+        "construction"
+      ],
+      "correctAnswer": 1,
+      "hint": "Making something old look new.",
+      "explanation": "<strong>Renovation</strong> is the process of repairing and restoring a building."
+    },
+    {
+      "question": "The front exterior of a building is its:",
+      "options": [
+        "contemporary",
+        "minimalist",
+        "renovated",
+        "facade"
+      ],
+      "correctAnswer": 3,
+      "hint": "What you see from the street.",
+      "explanation": "The <strong>facade</strong> is the principal front of a building facing a street."
+    },
+    {
+      "question": "A recognisable building used as a point of reference is a:",
+      "options": [
+        "landmark",
+        "suburb",
+        "bungalow",
+        "duplex"
+      ],
+      "correctAnswer": 0,
+      "hint": "Everyone knows it.",
+      "explanation": "A <strong>landmark</strong> is a recognisable feature of a landscape or town."
+    },
+    {
+      "question": "An area with plenty of room and not cramped is:",
+      "options": [
+        "cosy",
+        "cramped",
+        "spacious",
+        "compact"
+      ],
+      "correctAnswer": 2,
+      "hint": "Lots of space.",
+      "explanation": "<strong>Spacious</strong> means having ample space."
+    },
+    {
+      "question": "Roads, bridges, and utilities are part of:",
+      "options": [
+        "dilapidated",
+        "bungalow",
+        "infrastructure",
+        "maisonette"
+      ],
+      "correctAnswer": 2,
+      "hint": "The basic systems a city needs.",
+      "explanation": "<strong>Infrastructure</strong> is the basic physical systems of a community (roads, power, water)."
+    },
+    {
+      "question": "Residential areas on the edge of a city are:",
+      "options": [
+        "renovated",
+        "downtown",
+        "duplex",
+        "suburbs"
+      ],
+      "correctAnswer": 3,
+      "hint": "Outside the centre but within the city area.",
+      "explanation": "<strong>Suburbs</strong> are residential areas on the outskirts of a city."
+    },
+    {
+      "question": "A luxury apartment on the top floor is a:",
+      "options": [
+        "terrace",
+        "detached house",
+        "penthouse",
+        "studio flat"
+      ],
+      "correctAnswer": 2,
+      "hint": "The highest, most exclusive flat.",
+      "explanation": "A <strong>penthouse</strong> is a luxurious flat on the top floor of a tall building."
+    }
+  ]
+}

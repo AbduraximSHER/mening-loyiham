@@ -1,0 +1,114 @@
+{
+  "id": 74,
+  "title": "Word Formation: Suffixes",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Noun suffixes",
+      "content": "<div class=\"web-text\">Suffixes that turn words into nouns:</div><div class=\"web-example\"><span>• <strong>-ment</strong>: achieve → achievement, develop → development. <em>This is a remarkable achievement.</em></span></div><div class=\"web-example\"><span>• <strong>-tion/-sion</strong>: educate → education, decide → decision. <em>Education opens doors to opportunity.</em></span></div><div class=\"web-example\"><span>• <strong>-ness</strong>: happy → happiness, aware → awareness. <em>Awareness of the issue is growing.</em></span></div><div class=\"web-example\"><span>• <strong>-ity</strong>: creative → creativity, electric → electricity. <em>Creativity is valued in every profession.</em></span></div><div class=\"web-example\"><span>• <strong>-er/-or</strong>: teach → teacher, invent → inventor. <em>The inventor was awarded a patent.</em></span></div>"
+    },
+    {
+      "id": "B",
+      "title": "Adjective and verb suffixes",
+      "content": "<div class=\"web-text\">Suffixes for forming adjectives and verbs:</div><div class=\"web-example\"><span>• <strong>-able/-ible</strong>: enjoy → enjoyable, access → accessible. <em>The museum is fully accessible to wheelchair users.</em></span></div><div class=\"web-example\"><span>• <strong>-ful</strong>: care → careful, hope → hopeful. <em>She remains hopeful about the future.</em></span></div><div class=\"web-example\"><span>• <strong>-less</strong>: care → careless, hope → hopeless. <em>The situation seemed completely hopeless.</em></span></div><div class=\"web-example\"><span>• <strong>-ise/-ize</strong>: modern → modernise, real → realise. <em>They plan to modernise the entire building.</em></span></div><div class=\"web-example\"><span>• <strong>-ous</strong>: danger → dangerous, fame → famous. <em>Swimming in the river can be dangerous.</em></span></div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "What is the noun form of 'achieve'?",
+      "options": [
+        "achievable",
+        "achiever",
+        "achievement",
+        "achieving"
+      ],
+      "correctAnswer": 2,
+      "hint": "Suffix: -ment",
+      "explanation": "<strong>Achievement</strong> is formed using the suffix -ment."
+    },
+    {
+      "question": "Which suffix means 'without'?",
+      "options": [
+        "-ful",
+        "-less",
+        "-ness",
+        "-able"
+      ],
+      "correctAnswer": 1,
+      "hint": "The opposite of -ful.",
+      "explanation": "The suffix <strong>-less</strong> means without (e.g., careless = without care)."
+    },
+    {
+      "question": "The adjective form of 'enjoy' is:",
+      "options": [
+        "enjoyment",
+        "enjoying",
+        "enjoyable",
+        "enjoyness"
+      ],
+      "correctAnswer": 2,
+      "hint": "Suffix: -able",
+      "explanation": "<strong>Enjoyable</strong> is formed with the suffix -able, meaning 'able to be enjoyed'."
+    },
+    {
+      "question": "Which suffix turns a verb into 'a person who does something'?",
+      "options": [
+        "-ment",
+        "-tion",
+        "-er",
+        "-ness"
+      ],
+      "correctAnswer": 2,
+      "hint": "As in teacher, driver.",
+      "explanation": "The suffix <strong>-er</strong> creates nouns meaning 'a person who does' (teacher, writer)."
+    },
+    {
+      "question": "The noun form of 'creative' is:",
+      "options": [
+        "creativeness",
+        "creation",
+        "creativity",
+        "creativer"
+      ],
+      "correctAnswer": 2,
+      "hint": "Suffix: -ity",
+      "explanation": "<strong>Creativity</strong> is formed using the suffix -ity."
+    },
+    {
+      "question": "Adding -ise/-ize to 'modern' creates:",
+      "options": [
+        "modernful",
+        "modernness",
+        "modernly",
+        "modernise"
+      ],
+      "correctAnswer": 3,
+      "hint": "To make something modern.",
+      "explanation": "<strong>Modernise</strong> is a verb formed with -ise, meaning 'to make modern'."
+    },
+    {
+      "question": "The suffix '-ous' creates which type of word?",
+      "options": [
+        "noun",
+        "verb",
+        "adjective",
+        "adverb"
+      ],
+      "correctAnswer": 2,
+      "hint": "As in dangerous, famous.",
+      "explanation": "The suffix <strong>-ous</strong> creates adjectives (danger → dangerous)."
+    },
+    {
+      "question": "'Awareness' is the noun form of:",
+      "options": [
+        "aware",
+        "awaring",
+        "awared",
+        "awarer"
+      ],
+      "correctAnswer": 0,
+      "hint": "Suffix: -ness added to an adjective.",
+      "explanation": "<strong>Awareness</strong> comes from the adjective 'aware' + suffix -ness."
+    }
+  ]
+}

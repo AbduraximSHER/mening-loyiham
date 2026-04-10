@@ -1,0 +1,116 @@
+{
+  "id": 39,
+  "title": "Should in that-clauses; the present subjunctive",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Should in that-clauses",
+      "content": "<div class=\"web-text\">We can sometimes report advice, orders, requests, suggestions, etc. about things that need to be done or are desirable using a <strong>that-clause</strong> with <strong>should + bare infinitive</strong>:</div>\n            <div class=\"web-example\">\n                <span>• They have proposed that Felix <strong>should move</strong> to their Munich office.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• We advised <strong>that</strong> the company <strong>should not raise</strong> its prices.</span>\n            </div>\n            <div class=\"web-text\">After <strong>should</strong> we often use <strong>be + past participle</strong> (passive) or <strong>be + adjective</strong>:</div>\n            <div class=\"web-example\">\n                <span>• They directed <strong>that</strong> the building <strong>should be pulled down</strong>.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• We insist <strong>that</strong> the money <strong>should be available</strong> to all students in financial difficulties.</span>\n            </div>"
+    },
+    {
+      "id": "B",
+      "title": "The present subjunctive",
+      "content": "<div class=\"web-text\">In formal contexts, particularly in written English, we can often leave out <strong>should</strong> and use only the bare infinitive. This form is the <em>present subjunctive</em> and is used to describe bringing about the situation expressed in the <strong>that-clause</strong>:</div>\n            <div class=\"web-example\">\n                <span>• They have proposed that Felix <strong>move</strong> to their Munich office.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• They directed that the building <strong>be pulled down</strong>.</span>\n            </div>\n            <div class=\"web-text\">Other verbs used with the present subjunctive: <strong>advise, ask, beg, command, demand, insist, instruct, intend, order, prefer, recommend, request, require, stipulate, suggest, urge, warn</strong>.</div>\n            <div class=\"web-text\">To make a negative form, we use <strong>not</strong> (without 'do') before the verb:</div>\n            <div class=\"web-example\">\n                <span>• We advised that the company <strong>not raise</strong> its prices.</span>\n            </div>\n            <div class=\"web-text\">In less formal contexts we can use ordinary forms of the verb instead of the subjunctive. Compare:</div>\n            <div class=\"web-example\">\n                <span>• I suggested that he <strong>should give up</strong> golf. (negative: ... that he <strong>shouldn't</strong> give up ...)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• I suggested that he <strong>give</strong> up golf. (more formal) (negative: ... that he <strong>not</strong> give up ...)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• I suggested that he <strong>gives</strong> up golf. (less formal) (negative: ... that he <strong>doesn't</strong> give up ...)</span>\n            </div>"
+    },
+    {
+      "id": "C",
+      "title": "With nouns and adjectives",
+      "content": "<div class=\"web-text\">We can also use <strong>that-clauses</strong> with <strong>should</strong> or the subjunctive after <em>reporting clauses</em> with nouns related to the verbs in B (e.g. <strong>advice, order, proposal, warning</strong>):</div>\n            <div class=\"web-example\">\n                <span>• The police issued an <strong>order</strong> that all weapons (should) be handed in immediately.</span>\n            </div>\n            <div class=\"web-text\">We can also use <strong>that-clauses</strong> with <strong>should</strong> or the subjunctive after adjectives such as <strong>advisable, crucial, desirable, essential, imperative, important, necessary, vital</strong>:</div>\n            <div class=\"web-example\">\n                <span>• It is <strong>essential</strong> that she (should) have a medical examination.</span>\n            </div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "Lee felt that business in South America ___ ___ (expand - passive).",
+      "options": [
+        "should be expanded",
+        "should expand",
+        "should being expanded",
+        "should have been expanded"
+      ],
+      "correctAnswer": 0,
+      "hint": "Passive form after 'should': be + past participle.",
+      "explanation": "<strong>Answer: should be expanded</strong><br>Passive form after 'should': be + past participle. Choose the passive form that matches the tense and aspect of the active version."
+    },
+    {
+      "type": "correct",
+      "sentence": "The doctor recommended that she takes complete rest for a week.",
+      "correction": "The doctor recommended that she take complete rest for a week.",
+      "acceptable": [
+        "that she take complete rest",
+        "that she should take complete rest"
+      ],
+      "hint": "After verbs of recommendation/demand, use the bare subjunctive (no -s) or 'should + infinitive'.",
+      "explanation": "<strong>Answer: that she take complete rest</strong><br>After verbs of recommendation, demand, and suggestion (recommend, suggest, insist, demand, require, propose, request, urge), the that-clause uses either: (1) the bare subjunctive: 'that she take' (no -s even for third person) or (2) 'should + infinitive': 'that she should take'. Both are correct."
+    },
+    {
+      "question": "It would be valuable for us to send a sales representative to South Africa. -> Alice recommended that a sales representative ___ to South Africa.",
+      "options": [
+        "(should) be sent",
+        "(should) sent",
+        "(should) to send",
+        "is sending"
+      ],
+      "correctAnswer": 0,
+      "hint": "Passive subjunctive: be + past participle.",
+      "explanation": "<strong>Answer: (should) be sent</strong><br>Passive subjunctive: be + past participle. Choose the passive form that matches the tense and aspect of the active version."
+    },
+    {
+      "type": "correct",
+      "sentence": "It is essential that he is present at the board meeting.",
+      "correction": "It is essential that he be present at the board meeting.",
+      "acceptable": [
+        "that he be present",
+        "that he should be present"
+      ],
+      "hint": "After 'it is essential/vital/crucial/important that', use the bare subjunctive 'be' not 'is'.",
+      "explanation": "<strong>Answer: that he be present</strong><br>Adjective constructions expressing necessity (essential, vital, crucial, important, necessary, imperative + that) trigger the subjunctive. Use the bare form 'be' for all persons: 'that he be', 'that she be', 'that they be'. 'That he should be' is also correct and is common in British English."
+    },
+    {
+      "question": "Look at this sentence: 'Lee felt that business in South America should be expanded.' Can it be written without 'should' (subjunctive)?",
+      "options": [
+        "Yes (be expanded)",
+        "No",
+        "Yes (is expanded)",
+        "No (must have should)"
+      ],
+      "correctAnswer": 1,
+      "hint": "With 'feel' we don't usually use the subjunctive.",
+      "explanation": "<strong>Answer: No</strong><br>The subjunctive is triggered by verbs of recommendation/demand/necessity (suggest, insist, recommend, require). 'Feel' does not trigger the subjunctive — use an indicative that-clause or a to-infinitive instead."
+    },
+    {
+      "type": "correct",
+      "sentence": "The committee proposed that the funding should allocated equally.",
+      "correction": "The committee proposed that the funding should be allocated equally.",
+      "acceptable": [
+        "should be allocated equally",
+        "be allocated equally"
+      ],
+      "hint": "Passive + subjunctive: should be + past participle (missing 'be').",
+      "explanation": "<strong>Answer: should be allocated equally</strong><br>In passive subjunctive constructions: should + be + past participle. 'Should allocated' is missing the auxiliary 'be'. The full passive structure must be: should + be + past participle. Compare active: 'that they allocate equally' vs passive: 'that it should be allocated equally'."
+    },
+    {
+      "question": "It is ___ / she / marry Ben. (Select the most appropriate adjective for a strong recommendation/necessity).",
+      "options": [
+        "inconceivable that she should marry Ben.",
+        "amused that she should marry Ben.",
+        "upset that she should marry Ben.",
+        "shocked that she should marry Ben."
+      ],
+      "correctAnswer": 0,
+      "hint": "Inconceivable fits the structural prompt well.",
+      "explanation": "<strong>Answer: inconceivable that she should marry Ben.</strong><br>Inconceivable fits the structural prompt well. "
+    },
+    {
+      "question": "I am ___ / Kristina / behave so badly. (Select adj expressing emotional reaction).",
+      "options": [
+        "shocked that Kristina should behave so badly.",
+        "imperative that Kristina should behave so badly.",
+        "urgent that Kristina should behave so badly.",
+        "vital that Kristina should behave so badly."
+      ],
+      "correctAnswer": 0,
+      "hint": "'Shocked' expresses an emotional reaction to a fact, followed by a should-clause.",
+      "explanation": "<strong>Answer: shocked that Kristina should behave so badly.</strong><br>'Shocked' expresses an emotional reaction to a fact, followed by a should-clause. The grammatical signals in this sentence — the key words, connectors, or context — require this specific form. Look for these signals to make the same choice independently."
+    }
+  ]
+}

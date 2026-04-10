@@ -1,0 +1,119 @@
+{
+  "id": 43,
+  "title": "Compound nouns and noun phrases",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Noun + noun compounds",
+      "content": "<div class=\"web-text\">In a compound consisting of <strong>noun + noun</strong>, often the second noun gives the general class of things to which the compound belongs and the first noun indicates the type within this class. The first noun usually has a singular form:</div>\n            <div class=\"web-example\">\n                <span>• an <strong>address book</strong> (= a book for addresses; not an addresses book)</span>\n            </div>\n            <div class=\"web-text\">However, there are a number of exceptions. These include:</div>\n            <div class=\"web-text\">1. When the first noun only has a plural form or refers to an institution (an industry, department, etc.):</div>\n            <div class=\"web-example\">\n                <span>• a <strong>savings account</strong>, a <strong>customs officer</strong>, a <strong>clothes shop</strong> (compare a shoe shop), the <strong>arms trade</strong>, a <strong>glasses case</strong>, an <strong>arts festival</strong></span>\n            </div>\n            <div class=\"web-example\">\n                <span>• the <strong>building materials industry</strong>, the <strong>publications department</strong></span>\n            </div>\n            <div class=\"web-text\">Note that to make a compound noun plural we usually make the <strong>second</strong> noun plural:</div>\n            <div class=\"web-example\">\n                <span>• coal <strong>mines</strong>, office <strong>workers</strong>, tea <strong>leaves</strong></span>\n            </div>"
+    },
+    {
+      "id": "B",
+      "title": "Noun + -'s + noun vs Noun + preposition + noun",
+      "content": "<div class=\"web-text\">Sometimes a noun + noun is not appropriate. We prefer <strong>noun + -'s + noun</strong> (possessive form) when:</div>\n            <div class=\"web-text\">- the first noun is the user (a person or animal) of the item in the second noun: <strong>a baby's bedroom, a lion's den, a women's clinic, a girls' school, birds' nests</strong></div>\n            <div class=\"web-text\">- the item in the second noun is produced by the thing in the first: <strong>goat's cheese, duck's eggs, cow's milk</strong> (but note <strong>lamb chops</strong> and <strong>chicken drumsticks</strong>)</div>\n            <div class=\"web-text\">- we talk about parts of people or animals (but we use noun + noun for parts of things): <strong>a woman's face, a boy's arm</strong> (but <strong>a pen top, a computer keyboard</strong>)</div>\n            <div class=\"web-text\">We prefer <strong>noun + preposition + noun</strong> when:</div>\n            <div class=\"web-text\">- we talk about some kind of container together with its contents: <strong>a cup of tea</strong> (= a cup with tea in it) vs <strong>a tea cup</strong> (= a cup for drinking tea from)</div>\n            <div class=\"web-text\">- the combination of nouns does not refer to a well-known class of items: <strong>a tax on children's clothes</strong> (rather than 'a children's clothes tax') vs <strong>income tax</strong> (recognised class of tax).</div>"
+    },
+    {
+      "id": "C",
+      "title": "Compound nouns from phrasal verbs",
+      "content": "<div class=\"web-text\">Some compound nouns are made up of verbs and prepositions or adverbs, and may be related to a multi-word verb. Compare:</div>\n            <div class=\"web-example\">\n                <span>• He <strong>broke out</strong> of the prison by digging a hole through the wall. (= escaped)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• There was a major <strong>break-out</strong> from the prison last night. (= prisoners escaped)</span>\n            </div>\n            <div class=\"web-text\">Countable compound nouns like this have a plural form ending in <strong>-s</strong>: <strong>printout(s), push-up(s), intake(s), outcome(s)</strong>.</div>\n            <div class=\"web-text\">However, there are exceptions. For example: <strong>looker(s)-on</strong> (or <strong>onlooker[s]</strong>), <strong>runner(s)-up</strong>, <strong>passer(s)-by</strong>, <strong>hanger(s)-on</strong>.</div>"
+    },
+    {
+      "id": "D",
+      "title": "Hyphenated phrases",
+      "content": "<div class=\"web-text\">We can form other kinds of hyphenated phrases that are placed before nouns to say more precisely what the noun refers to:</div>\n            <div class=\"web-example\">\n                <span>• a <strong>state-of-the-art</strong> (= very modern) tablet PC</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>up-to-date</strong> information</span>\n            </div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "He wants to be (a) a films star. Which word is incorrect?",
+      "options": [
+        "films star -> film star",
+        "a films -> the films",
+        "no correction needed",
+        "films star -> filming star"
+      ],
+      "correctAnswer": 0,
+      "hint": "In noun+noun compounds, the first noun is usually singular (film star).",
+      "explanation": "<strong>Answer: films star -> film star</strong><br>In noun+noun compounds, the first noun is usually singular (film star). "
+    },
+    {
+      "type": "correct",
+      "sentence": "We have a two-hours meeting scheduled for this afternoon.",
+      "correction": "We have a two-hour meeting scheduled for this afternoon.",
+      "acceptable": [
+        "a two-hour meeting"
+      ],
+      "hint": "In hyphenated compound adjectives before nouns, the number + noun stays singular.",
+      "explanation": "<strong>Answer: a two-hour meeting</strong><br>When numbers combine with nouns to form compound adjectives before another noun, the modifying noun is always singular — no matter how large the number: a two-hour meeting, a five-day course, a ten-mile walk, a three-year plan. The plural -s only appears in the main noun: 'two hours' but 'a two-hour meeting'."
+    },
+    {
+      "question": "The tracks on his latest album range from (a) love songs to (b) pollution songs. Which phrase is unnatural?",
+      "options": [
+        "pollution songs -> songs about pollution",
+        "love songs -> songs of love",
+        "both are unnatural",
+        "neither is unnatural"
+      ],
+      "correctAnswer": 0,
+      "hint": "'Pollution songs' doesn't refer to a well-known class of items, so noun+preposition+noun is preferred.",
+      "explanation": "<strong>Answer: pollution songs -> songs about pollution</strong><br>'Pollution songs' doesn't refer to a well-known class of items, so noun+preposition+noun is preferred. "
+    },
+    {
+      "type": "correct",
+      "sentence": "The company's glass windows needed replacing after the storm.",
+      "correction": "The company's glass windows needed replacing after the storm.",
+      "acceptable": [
+        "The company's glass windows needed replacing after the storm."
+      ],
+      "hint": "'Glass windows' is a valid compound noun (glass = modifier). This is correct.",
+      "explanation": "<strong>Answer: The company's glass windows — CORRECT</strong><br>Compound nouns follow the pattern: modifier + noun. 'Glass windows' is a standard compound noun where 'glass' describes the material of the windows. The possessive ('company's') correctly modifies 'windows'. This sentence is grammatically correct.",
+      "prompt": "Is this sentence correct? If not, rewrite it correctly."
+    },
+    {
+      "question": "Nathan tried to cover up the fact that he had lied. -> He attempted a ___ .",
+      "options": [
+        "cover-up",
+        "cover up",
+        "covering-up",
+        "up-cover"
+      ],
+      "correctAnswer": 0,
+      "hint": "A compound noun from a phrasal verb is often hyphenated or joined.",
+      "explanation": "<strong>Answer: cover-up</strong><br>A compound noun from a phrasal verb is often hyphenated or joined. "
+    },
+    {
+      "type": "fill",
+      "question": "She works as a ___ (analyse / data) at a tech firm. Use a compound noun.",
+      "answer": "data analyst",
+      "acceptable": [
+        "data analyser"
+      ],
+      "hint": "Compound nouns: modifier (data) + head noun. What's the job title?",
+      "explanation": "<strong>Answer: data analyst</strong><br>Compound nouns put the modifier first, then the main noun: 'data' (modifier) + 'analyst' (job title) = 'data analyst'. Other examples: software engineer, project manager, marketing director. The first noun classifies the type; the second noun names the role."
+    },
+    {
+      "question": "Since the attempt to assassinate him last year, the Defence Minister has been given ___ protection by the police.",
+      "options": [
+        "round-the-clock",
+        "day-to-day",
+        "once-in-a-lifetime",
+        "step-by-step"
+      ],
+      "correctAnswer": 0,
+      "hint": "'Round-the-clock' means all day and all night.",
+      "explanation": "<strong>Answer: round-the-clock</strong><br>'Round-the-clock' means all day and all night. The grammatical signals in this sentence — the key words, connectors, or context — require this specific form. Look for these signals to make the same choice independently."
+    },
+    {
+      "question": "Eleni has a refreshing, ___ approach to management. She's much less concerned with theory than with getting things done.",
+      "options": [
+        "middle-of-the-road",
+        "larger-than-life",
+        "down-to-earth",
+        "step-by-step"
+      ],
+      "correctAnswer": 2,
+      "hint": "'Down-to-earth' means practical rather than theoretical.",
+      "explanation": "<strong>Answer: down-to-earth</strong><br>'Down-to-earth' means practical rather than theoretical. "
+    }
+  ]
+}

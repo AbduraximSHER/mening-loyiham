@@ -1,0 +1,114 @@
+{
+  "id": 70,
+  "title": "Success, Failure, and Achievement",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Words for success",
+      "content": "<div class=\"web-text\">Vocabulary for talking about achievements:</div><div class=\"web-example\"><span>• <strong>accomplish</strong> — achieve something successfully. <em>She accomplished all her goals before turning 30.</em></span></div><div class=\"web-example\"><span>• <strong>thrive</strong> — grow and develop well. <em>Small businesses thrive when the economy is strong.</em></span></div><div class=\"web-example\"><span>• <strong>breakthrough</strong> — an important discovery or development. <em>Scientists made a major breakthrough in cancer research.</em></span></div><div class=\"web-example\"><span>• <strong>excel</strong> — be exceptionally good at something. <em>She excels in mathematics and physics.</em></span></div><div class=\"web-example\"><span>• <strong>milestone</strong> — an important event or stage. <em>Graduating from university was a major milestone.</em></span></div>"
+    },
+    {
+      "id": "B",
+      "title": "Words for failure",
+      "content": "<div class=\"web-text\">Describing setbacks and difficulties:</div><div class=\"web-example\"><span>• <strong>setback</strong> — a problem that delays progress. <em>The project suffered a major setback when funding was cut.</em></span></div><div class=\"web-example\"><span>• <strong>downfall</strong> — a loss of power or success. <em>Greed was the cause of his downfall.</em></span></div><div class=\"web-example\"><span>• <strong>undermine</strong> — weaken gradually. <em>Constant criticism can undermine a person's confidence.</em></span></div><div class=\"web-example\"><span>• <strong>fall short</strong> — fail to reach a standard. <em>The results fell short of expectations.</em></span></div><div class=\"web-example\"><span>• <strong>obstacle</strong> — something that blocks progress. <em>Lack of funding is the biggest obstacle to growth.</em></span></div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "An important discovery that opens new possibilities is a:",
+      "options": [
+        "deteriorate",
+        "setback",
+        "breakthrough",
+        "persevere"
+      ],
+      "correctAnswer": 2,
+      "hint": "A major advance in knowledge.",
+      "explanation": "A <strong>breakthrough</strong> is a sudden, important development or discovery."
+    },
+    {
+      "question": "To gradually weaken someone's confidence or position is to:",
+      "options": [
+        "accomplish",
+        "undermine",
+        "pursue",
+        "accomplish"
+      ],
+      "correctAnswer": 1,
+      "hint": "Slowly destroying from within.",
+      "explanation": "<strong>Undermine</strong> means to damage or weaken something gradually."
+    },
+    {
+      "question": "When results don't meet expectations, they:",
+      "options": [
+        "fall short",
+        "accomplish",
+        "pursue",
+        "persevere"
+      ],
+      "correctAnswer": 0,
+      "hint": "Not quite good enough.",
+      "explanation": "<strong>Fall short</strong> means to fail to reach a desired standard or level."
+    },
+    {
+      "question": "A significant event marking an important stage in development is a:",
+      "options": [
+        "overcome",
+        "setback",
+        "accomplish",
+        "milestone"
+      ],
+      "correctAnswer": 3,
+      "hint": "A key point in a journey.",
+      "explanation": "A <strong>milestone</strong> is a significant stage or event in the development of something."
+    },
+    {
+      "question": "Something that blocks your path to success is an:",
+      "options": [
+        "overcome",
+        "persevere",
+        "obstacle",
+        "accomplishment"
+      ],
+      "correctAnswer": 2,
+      "hint": "It stands in your way.",
+      "explanation": "An <strong>obstacle</strong> is something that blocks progress or makes it difficult."
+    },
+    {
+      "question": "To grow and develop successfully is to:",
+      "options": [
+        "stagnate",
+        "recover",
+        "thrive",
+        "capitulate"
+      ],
+      "correctAnswer": 2,
+      "hint": "Flourishing and doing well.",
+      "explanation": "<strong>Thrive</strong> means to prosper, flourish, and grow vigorously."
+    },
+    {
+      "question": "The cause of someone's ruin or loss of power is their:",
+      "options": [
+        "downfall",
+        "overcome",
+        "deteriorate",
+        "setback"
+      ],
+      "correctAnswer": 0,
+      "hint": "The end of their success.",
+      "explanation": "<strong>Downfall</strong> is a loss of power, prosperity, or status."
+    },
+    {
+      "question": "To be exceptionally good at a particular activity is to:",
+      "options": [
+        "stagnate",
+        "overcome",
+        "excel",
+        "capitulate"
+      ],
+      "correctAnswer": 2,
+      "hint": "You're outstanding at it.",
+      "explanation": "<strong>Excel</strong> means to be exceptionally good at or proficient in something."
+    }
+  ]
+}

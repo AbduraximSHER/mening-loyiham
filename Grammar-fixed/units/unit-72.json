@@ -1,0 +1,114 @@
+{
+  "id": 72,
+  "title": "Comparison and Contrast",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Comparing similarities",
+      "content": "<div class=\"web-text\">Ways to show things are similar:</div><div class=\"web-example\"><span>• <strong>likewise</strong> — in the same way. <em>She is talented; likewise, her brother is gifted.</em></span></div><div class=\"web-example\"><span>• <strong>correspond to</strong> — be equivalent to. <em>Their findings correspond to our own research.</em></span></div><div class=\"web-example\"><span>• <strong>akin to</strong> — similar to. <em>The experience was akin to flying.</em></span></div><div class=\"web-example\"><span>• <strong>analogous</strong> — comparable in certain respects. <em>The human brain is often described as analogous to a computer.</em></span></div><div class=\"web-example\"><span>• <strong>parallel</strong> — occurring at the same time in a similar way. <em>There are obvious parallels between the two cases.</em></span></div>"
+    },
+    {
+      "id": "B",
+      "title": "Showing contrasts",
+      "content": "<div class=\"web-text\">Ways to highlight differences:</div><div class=\"web-example\"><span>• <strong>whereas</strong> — in contrast. <em>She prefers coffee, whereas he drinks tea.</em></span></div><div class=\"web-example\"><span>• <strong>on the contrary</strong> — the opposite is true. <em>He isn't lazy; on the contrary, he works extremely hard.</em></span></div><div class=\"web-example\"><span>• <strong>conversely</strong> — introducing an opposing point. <em>Rich nations produce more waste; conversely, poorer nations produce less.</em></span></div><div class=\"web-example\"><span>• <strong>nevertheless</strong> — despite that. <em>The task was difficult; nevertheless, she completed it perfectly.</em></span></div><div class=\"web-example\"><span>• <strong>distinct from</strong> — clearly different. <em>This approach is distinct from traditional methods.</em></span></div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "'Akin to' means:",
+      "options": [
+        "different from",
+        "similar to",
+        "opposed to",
+        "unrelated to"
+      ],
+      "correctAnswer": 1,
+      "hint": "They share similarities.",
+      "explanation": "<strong>Akin to</strong> means of similar character or nature."
+    },
+    {
+      "question": "'Nevertheless' is closest in meaning to:",
+      "options": [
+        "therefore",
+        "however",
+        "moreover",
+        "consequently"
+      ],
+      "correctAnswer": 1,
+      "hint": "Despite what was just said.",
+      "explanation": "<strong>Nevertheless</strong> means in spite of that; notwithstanding."
+    },
+    {
+      "question": "'Whereas' is used to show:",
+      "options": [
+        "addition",
+        "cause",
+        "contrast",
+        "time"
+      ],
+      "correctAnswer": 2,
+      "hint": "Two things are different.",
+      "explanation": "<strong>Whereas</strong> introduces a contrast between two facts or ideas."
+    },
+    {
+      "question": "Two things that are comparable in certain ways are:",
+      "options": [
+        "distinct",
+        "analogous",
+        "contrary",
+        "diverse"
+      ],
+      "correctAnswer": 1,
+      "hint": "Similar in some respects.",
+      "explanation": "<strong>Analogous</strong> means comparable in certain respects, typically in a way that helps explanation."
+    },
+    {
+      "question": "'On the contrary' is used when:",
+      "options": [
+        "you agree",
+        "the opposite is true",
+        "you add information",
+        "you give an example"
+      ],
+      "correctAnswer": 1,
+      "hint": "The previous statement was wrong.",
+      "explanation": "<strong>On the contrary</strong> means the opposite of what has been stated is true."
+    },
+    {
+      "question": "'Conversely' introduces:",
+      "options": [
+        "a similar idea",
+        "a cause",
+        "an opposing view",
+        "an example"
+      ],
+      "correctAnswer": 2,
+      "hint": "The flip side.",
+      "explanation": "<strong>Conversely</strong> introduces a statement that reverses the previous one."
+    },
+    {
+      "question": "'Likewise' means:",
+      "options": [
+        "differently",
+        "in the same way",
+        "in contrast",
+        "despite"
+      ],
+      "correctAnswer": 1,
+      "hint": "Also, similarly.",
+      "explanation": "<strong>Likewise</strong> means in the same way; also."
+    },
+    {
+      "question": "Something clearly different from another thing is:",
+      "options": [
+        "analogous to",
+        "akin to",
+        "parallel to",
+        "distinct from"
+      ],
+      "correctAnswer": 3,
+      "hint": "Noticeably separate.",
+      "explanation": "<strong>Distinct from</strong> means clearly different or separate."
+    }
+  ]
+}

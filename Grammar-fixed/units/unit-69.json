@@ -1,0 +1,114 @@
+{
+  "id": 69,
+  "title": "Describing Trends and Changes",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Upward and downward movement",
+      "content": "<div class=\"web-text\">Vocabulary for describing statistical or economic changes:</div><div class=\"web-example\"><span>• <strong>surge</strong> — a sudden large increase. <em>There was a surge in online shopping during the pandemic.</em></span></div><div class=\"web-example\"><span>• <strong>plummet</strong> — fall sharply and rapidly. <em>Oil prices plummeted by 30% overnight.</em></span></div><div class=\"web-example\"><span>• <strong>fluctuate</strong> — rise and fall irregularly. <em>Currency exchange rates fluctuate daily.</em></span></div><div class=\"web-example\"><span>• <strong>soar</strong> — rise quickly to a high level. <em>House prices soared in the last decade.</em></span></div><div class=\"web-example\"><span>• <strong>decline</strong> — gradually decrease. <em>The population in rural areas continues to decline.</em></span></div><div class=\"web-example\"><span>• <strong>stagnate</strong> — stop developing or making progress. <em>Wages have stagnated while living costs rise.</em></span></div>"
+    },
+    {
+      "id": "B",
+      "title": "Describing the pace of change",
+      "content": "<div class=\"web-text\">How quickly change happens:</div><div class=\"web-example\"><span>• <strong>gradual</strong> — happening slowly over time. <em>There has been a gradual shift in public opinion.</em></span></div><div class=\"web-example\"><span>• <strong>dramatic</strong> — sudden and striking. <em>The company saw dramatic growth in its second year.</em></span></div><div class=\"web-example\"><span>• <strong>steady</strong> — consistent and unchanging in direction. <em>There has been a steady increase in life expectancy.</em></span></div><div class=\"web-example\"><span>• <strong>unprecedented</strong> — never happened before. <em>The heatwave was unprecedented in recorded history.</em></span></div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "A sudden, large increase is called a:",
+      "options": [
+        "stagnation",
+        "decline",
+        "surge",
+        "fluctuation"
+      ],
+      "correctAnswer": 2,
+      "hint": "A rapid jump upward.",
+      "explanation": "A <strong>surge</strong> is a sudden, powerful increase."
+    },
+    {
+      "question": "If prices fall sharply and rapidly, they:",
+      "options": [
+        "escalate",
+        "recover",
+        "plummet",
+        "fluctuate"
+      ],
+      "correctAnswer": 2,
+      "hint": "A very steep drop.",
+      "explanation": "<strong>Plummet</strong> means to fall or drop straight down at high speed."
+    },
+    {
+      "question": "When something goes up and down irregularly, it:",
+      "options": [
+        "declines",
+        "fluctuates",
+        "surges",
+        "stagnates"
+      ],
+      "correctAnswer": 1,
+      "hint": "Like a zigzag pattern.",
+      "explanation": "<strong>Fluctuate</strong> means to rise and fall irregularly in number or amount."
+    },
+    {
+      "question": "Something that has never happened before in history is:",
+      "options": [
+        "fluctuate",
+        "unprecedented",
+        "reverse",
+        "dramatic"
+      ],
+      "correctAnswer": 1,
+      "hint": "Completely new in history.",
+      "explanation": "<strong>Unprecedented</strong> means never done or known before."
+    },
+    {
+      "question": "When wages stop growing and remain at the same level, they:",
+      "options": [
+        "plateau",
+        "recover",
+        "diverge",
+        "stagnate"
+      ],
+      "correctAnswer": 3,
+      "hint": "No movement at all.",
+      "explanation": "<strong>Stagnate</strong> means to cease developing or making progress."
+    },
+    {
+      "question": "A change that happens slowly over a long period is:",
+      "options": [
+        "sudden",
+        "gradual",
+        "expand",
+        "dramatic"
+      ],
+      "correctAnswer": 1,
+      "hint": "Step by step, not all at once.",
+      "explanation": "<strong>Gradual</strong> means taking place or progressing slowly over a period of time."
+    },
+    {
+      "question": "When house prices rise very quickly to a high level, they:",
+      "options": [
+        "decline",
+        "diverge",
+        "recover",
+        "soar"
+      ],
+      "correctAnswer": 3,
+      "hint": "Going very high, very fast.",
+      "explanation": "<strong>Soar</strong> means to increase rapidly above the usual level."
+    },
+    {
+      "question": "A consistent increase that doesn't change pace is:",
+      "options": [
+        "dramatic",
+        "fluctuating",
+        "steady",
+        "expand"
+      ],
+      "correctAnswer": 2,
+      "hint": "Regular and predictable.",
+      "explanation": "<strong>Steady</strong> means regular, even, and continuous in development."
+    }
+  ]
+}

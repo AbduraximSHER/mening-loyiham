@@ -1,0 +1,114 @@
+{
+  "id": 96,
+  "title": "Idioms with Colours",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Common colour idioms",
+      "content": "<div class=\"web-text\">English has many idioms using colours:</div><div class=\"web-example\"><span>• <strong>in the red</strong> — in debt. <em>The company has been in the red for three years.</em></span></div><div class=\"web-example\"><span>• <strong>out of the blue</strong> — unexpectedly. <em>She called me out of the blue after ten years.</em></span></div><div class=\"web-example\"><span>• <strong>green with envy</strong> — very jealous. <em>He was green with envy when he saw her new car.</em></span></div><div class=\"web-example\"><span>• <strong>see red</strong> — become very angry. <em>I saw red when I discovered they had lied.</em></span></div><div class=\"web-example\"><span>• <strong>grey area</strong> — an unclear or undefined topic. <em>The legal rules on this issue remain a grey area.</em></span></div>"
+    },
+    {
+      "id": "B",
+      "title": "More colour expressions",
+      "content": "<div class=\"web-text\">Additional idioms and expressions with colours:</div><div class=\"web-example\"><span>• <strong>white lie</strong> — a harmless lie told to be polite. <em>I told a white lie to spare her feelings.</em></span></div><div class=\"web-example\"><span>• <strong>black market</strong> — illegal trade. <em>Luxury goods are often sold on the black market.</em></span></div><div class=\"web-example\"><span>• <strong>golden opportunity</strong> — an excellent chance. <em>This internship is a golden opportunity for your career.</em></span></div><div class=\"web-example\"><span>• <strong>paint the town red</strong> — go out and celebrate wildly. <em>It's her birthday — let's paint the town red!</em></span></div><div class=\"web-example\"><span>• <strong>once in a blue moon</strong> — very rarely. <em>I only eat fast food once in a blue moon.</em></span></div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "When something happens unexpectedly, it comes out of the:",
+      "options": [
+        "brown",
+        "blue",
+        "purple",
+        "silver"
+      ],
+      "correctAnswer": 1,
+      "hint": "A clear sky colour.",
+      "explanation": "<strong>Out of the blue</strong> means without warning; unexpectedly."
+    },
+    {
+      "question": "A company losing money is 'in the ___':",
+      "options": [
+        "silver",
+        "green",
+        "orange",
+        "red"
+      ],
+      "correctAnswer": 3,
+      "hint": "Financial trouble.",
+      "explanation": "<strong>In the red</strong> means in debt or operating at a loss."
+    },
+    {
+      "question": "A small, harmless lie told to be polite is a ___ lie:",
+      "options": [
+        "white",
+        "silver",
+        "brown",
+        "orange"
+      ],
+      "correctAnswer": 0,
+      "hint": "An innocent fib.",
+      "explanation": "A <strong>white lie</strong> is a harmless or trivial lie told to avoid hurting someone's feelings."
+    },
+    {
+      "question": "An unclear topic with no definite rules is a ___ area:",
+      "options": [
+        "grey",
+        "silver",
+        "green",
+        "purple"
+      ],
+      "correctAnswer": 0,
+      "hint": "Neither black nor white.",
+      "explanation": "A <strong>grey area</strong> is a situation that is not clear or well-defined."
+    },
+    {
+      "question": "Being extremely jealous is being green with:",
+      "options": [
+        "envy",
+        "fear",
+        "anger",
+        "sadness"
+      ],
+      "correctAnswer": 0,
+      "hint": "Wanting what someone else has.",
+      "explanation": "<strong>Green with envy</strong> means extremely jealous."
+    },
+    {
+      "question": "Something that happens very rarely happens once in a blue:",
+      "options": [
+        "sky",
+        "moon",
+        "day",
+        "year"
+      ],
+      "correctAnswer": 1,
+      "hint": "An extremely rare event.",
+      "explanation": "<strong>Once in a blue moon</strong> means very rarely."
+    },
+    {
+      "question": "An excellent chance that shouldn't be missed is a ___ opportunity:",
+      "options": [
+        "bronze",
+        "platinum",
+        "golden",
+        "silver"
+      ],
+      "correctAnswer": 2,
+      "hint": "Precious and valuable.",
+      "explanation": "A <strong>golden opportunity</strong> is a very favourable chance."
+    },
+    {
+      "question": "Illegal buying and selling is the ___ market:",
+      "options": [
+        "black",
+        "pink",
+        "brown",
+        "purple"
+      ],
+      "correctAnswer": 0,
+      "hint": "Underground trade.",
+      "explanation": "The <strong>black market</strong> is illegal trade in goods."
+    }
+  ]
+}

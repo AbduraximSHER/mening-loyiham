@@ -1,0 +1,118 @@
+{
+  "id": 40,
+  "title": "Agreement between subject and verb 1",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Basic agreement rules",
+      "content": "<div class=\"web-text\">If a sentence has a singular subject, it is followed by a singular verb, and if it has a plural subject, it is followed by a plural verb; that is, the verb agrees with the subject. Compare:</div>\n            <div class=\"web-example\">\n                <span>• <strong>She lives</strong> in China. and • <strong>More people live</strong> in Asia than in any other continent.</span>\n            </div>\n            <div class=\"web-text\">When the subject of the sentence is complex, the following verb must agree with the <em>main noun</em> in the subject:</div>\n            <div class=\"web-example\">\n                <span>• Many leading <strong>members</strong> of the opposition party <strong>have</strong> criticised the delay.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• The only <strong>excuse</strong> that he gave for his actions <strong>was</strong> that he was tired.</span>\n            </div>\n            <div class=\"web-text\">The verb must agree with the subject when the subject follows the verb:</div>\n            <div class=\"web-example\">\n                <span>• Displayed on the board <strong>were the exam results</strong>. (compare The exam results were displayed ...)</span>\n            </div>"
+    },
+    {
+      "id": "B",
+      "title": "Clauses as subjects",
+      "content": "<div class=\"web-text\">If the subject is a clause, we usually use a <strong>singular verb</strong>:</div>\n            <div class=\"web-example\">\n                <span>• <strong>To keep these young people in prison</strong> <em>is</em> inhuman.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>Having overall responsibility for the course</strong> <em>means</em> that I have a lot of meetings.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>Whoever took them</strong> <em>remains</em> a mystery.</span>\n            </div>\n            <div class=\"web-text\">However, if we use a <strong>what-clause</strong> as subject, we use a <strong>singular verb</strong> if the following main noun is singular, and either a singular or a plural verb if the following main noun is plural (although a plural verb is preferred in more formal contexts):</div>\n            <div class=\"web-example\">\n                <span>• <strong>What worries us</strong> <em>is</em> the poor selection <strong>process</strong>.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>What is needed</strong> <em>are</em> additional <strong>resources</strong>. (or more colloquially ... needed is ...)</span>\n            </div>"
+    },
+    {
+      "id": "C",
+      "title": "Collective nouns (groups)",
+      "content": "<div class=\"web-text\">Some nouns with a singular form, referring to groups of some kind, can be used with either a <strong>singular</strong> or <strong>plural</strong> form of the verb. These nouns are sometimes called <em>collective nouns</em>:</div>\n            <div class=\"web-example\">\n                <span>• <strong>The council</strong> <em>has</em> (or <em>have</em>) postponed a decision on the new road.</span>\n            </div>\n            <div class=\"web-text\">We use a <strong>singular verb</strong> if the institution or organisation is thought of as a whole unit, and a <strong>plural verb</strong> if it is thought of as a collection of individuals. Often you can use either with very little difference in meaning, although in formal contexts (such as academic writing) it is common to use a singular verb.</div>\n            <div class=\"web-text\">Also: <strong>army, association, audience, class, club, college, commission, committee, community, company, crew, crowd, department, electorate, enemy, family, federation, generation, government, group, institute, jury, opposition, orchestra, population, press, public, school, team, university; the Bank of England, the BBC, IBM, Sony, the United Nations</strong></div>\n            <div class=\"web-text\">In some contexts we have to use a singular or a plural form of the verb:</div>\n            <div class=\"web-example\">\n                <span>• The committee usually <strong>raise</strong> their hands to vote 'Yes'. (<em>This is something the individuals do, not the committee as a whole.</em>)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• The school <strong>is</strong> to close next year. (<em>This is something that will happen to the school as a building or institution, not to the individuals in the school.</em>)</span>\n            </div>"
+    },
+    {
+      "id": "D",
+      "title": "Names and titles ending in -s",
+      "content": "<div class=\"web-text\">When names and titles ending in <strong>-s</strong> refer to a single unit we use a <strong>singular verb</strong>. Examples include countries; newspapers; titles of books, films, etc.; and quoted plural words or phrases:</div>\n            <div class=\"web-example\">\n                <span>• At this time of the year <strong>the Netherlands is</strong> one hour ahead of the UK.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>The Machine Gunners was</strong> one of Robert Westall's most successful books.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>'Daps' is</strong> the word used in the south-west of the country for sports shoes.</span>\n            </div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "The museum's incredible collection of seashells and fossils in the final room ___ sure to be of interest.",
+      "options": [
+        "is",
+        "are",
+        "be",
+        "have"
+      ],
+      "correctAnswer": 0,
+      "hint": "The main noun in the subject block is 'collection' (singular).",
+      "explanation": "<strong>Answer: is</strong><br>The main noun in the subject block is 'collection' (singular). "
+    },
+    {
+      "type": "correct",
+      "sentence": "Neither the manager nor the employees was informed about the changes.",
+      "correction": "Neither the manager nor the employees were informed about the changes.",
+      "acceptable": [
+        "the employees were informed"
+      ],
+      "hint": "With 'neither...nor', the verb agrees with the nearest subject ('employees' = plural).",
+      "explanation": "<strong>Answer: the employees were informed</strong><br>With 'neither...nor' and 'either...or', the verb agrees with the subject NEAREST to it (proximity rule). Here, 'employees' (plural) is nearest to the verb, so use 'were'. If 'manager' were nearest: 'Neither the employees nor the manager was informed'."
+    },
+    {
+      "question": "Whoever created these figures apparently ___ a mystery.",
+      "options": [
+        "remains",
+        "remain",
+        "remaining",
+        "are remaining"
+      ],
+      "correctAnswer": 0,
+      "hint": "A clause as subject ('Whoever created these figures') takes a singular verb.",
+      "explanation": "<strong>Answer: remains</strong><br>A clause as subject ('Whoever created these figures') takes a singular verb. "
+    },
+    {
+      "type": "correct",
+      "sentence": "The news are very worrying — have you seen the latest reports?",
+      "correction": "The news is very worrying — have you seen the latest reports?",
+      "acceptable": [
+        "The news is very worrying"
+      ],
+      "hint": "'News' is an uncountable noun — always singular, even though it ends in -s.",
+      "explanation": "<strong>Answer: The news is very worrying</strong><br>'News' is uncountable in English despite the -s ending and always takes a singular verb. Other similar nouns: 'economics is', 'mathematics is', 'physics is', 'the United States is', 'measles is'. These are grammatically singular even though they look plural."
+    },
+    {
+      "question": "The junior book prize jury ___ three adults and three children. (Select one choice that cannot be wrong in either British or American style depending on context, or focus on the fact that they consist of individuals but form a single entity).",
+      "options": [
+        "include",
+        "includes",
+        "both 'include' and 'includes'",
+        "neither"
+      ],
+      "correctAnswer": 2,
+      "hint": "Collective nouns like 'jury' can take singular or plural verbs.",
+      "explanation": "<strong>Answer: both 'include' and 'includes'</strong><br>Collective nouns like 'jury' can take singular or plural verbs. "
+    },
+    {
+      "type": "correct",
+      "sentence": "A large number of students has complained about the new policy.",
+      "correction": "A large number of students have complained about the new policy.",
+      "acceptable": [
+        "A large number of students have complained"
+      ],
+      "hint": "'A number of' = several/many → plural verb. 'The number of' = a specific count → singular verb.",
+      "explanation": "<strong>Answer: A large number of students have complained</strong><br>'A number of + plural noun' takes a plural verb because the meaning is 'several/many'. Contrast with 'THE number of + plural noun', which takes a singular verb: 'The number of complaints has increased'. This distinction is consistently tested at advanced level."
+    },
+    {
+      "question": "The phrase 'men in white coats' ___ used to talk about psychiatrists.",
+      "options": [
+        "is",
+        "are",
+        "be",
+        "were"
+      ],
+      "correctAnswer": 0,
+      "hint": "A quoted plural phrase as a single linguistic term takes a singular verb.",
+      "explanation": "<strong>Answer: is</strong><br>A quoted plural phrase as a single linguistic term takes a singular verb. "
+    },
+    {
+      "question": "Northern Lights ___ one of Suzanne's favourite books.",
+      "options": [
+        "is",
+        "are",
+        "have been",
+        "were"
+      ],
+      "correctAnswer": 0,
+      "hint": "Titles of books ending in -s take a singular verb.",
+      "explanation": "<strong>Answer: is</strong><br>Titles of books ending in -s take a singular verb. "
+    }
+  ]
+}

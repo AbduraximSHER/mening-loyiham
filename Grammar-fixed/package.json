@@ -1,0 +1,19 @@
+{
+  "name": "grammarhub",
+  "version": "2.0.0",
+  "description": "Advanced English Grammar — 100 interactive units",
+  "private": true,
+  "scripts": {
+    "validate": "node scripts/validate-units.js",
+    "build": "node scripts/build.js",
+    "build:watch": "node scripts/build.js --watch",
+    "serve": "python3 -m http.server 8000",
+    "check": "npm run validate && npm run build"
+  },
+  "devDependencies": {
+    "esbuild": "^0.24.2"
+  },
+  "dependencies": {
+    "jsdom": "^29.0.2"
+  }
+}

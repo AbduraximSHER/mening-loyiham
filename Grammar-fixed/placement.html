@@ -1,0 +1,350 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#F7F6F2">
+<title>Where should I start? — GrammarHub</title>
+<meta name="description" content="15-question placement quiz to find your ideal starting unit on GrammarHub.">
+<meta property="og:title"       content="Placement Quiz - GrammarHub">
+<meta property="og:description" content="Answer 15 quick grammar questions to find the right starting point for you.">
+<meta property="og:url"         content="https://grammar-a7x.pages.dev/placement.html">
+<meta property="og:image"       content="https://grammar-a7x.pages.dev/og-image.svg">
+<link rel="manifest" href="manifest.json">
+<link rel="stylesheet" href="css/theme.css?v=5">
+<script>
+  (function(){try{var t=localStorage.getItem('gh_theme');if(!t){t=window.matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light';}document.documentElement.setAttribute('data-theme',t);}catch(e){}})();
+</script>
+</head>
+<body>
+
+<header class="site-header" id="site-header">
+  <div class="site-header__inner">
+    <a href="index.html" class="brand" aria-label="GrammarHub home">
+      <span class="brand__dot" aria-hidden="true"></span>
+      <span class="brand__name">Grammar<em>hub</em></span>
+    </a>
+    <div class="header-actions">
+      <button class="theme-toggle" data-action="toggle-theme" aria-label="Toggle theme">
+        <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+        <svg class="icon-sun"  viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41"/></svg>
+      </button>
+      <a href="dashboard.html" class="nav-cta">Dashboard</a>
+    </div>
+  </div>
+</header>
+
+<main>
+<section class="container" style="max-width:640px; padding-top:2.5rem; padding-bottom:4rem;">
+
+  <!-- INTRO ─────────────────────────────────── -->
+  <div id="intro-view">
+    <div class="eyebrow">Placement quiz</div>
+    <h1 class="display" style="font-size:var(--fs-h1); margin:.5rem 0 .75rem;">
+      Where should<br>you start?
+    </h1>
+    <p style="color:var(--muted); margin-bottom:2rem;">
+      15 questions · 5 minutes · no account needed.<br>
+      We'll point you to the right unit.
+    </p>
+    <button class="btn btn--big" id="start-btn">Start the quiz →</button>
+    <p class="sm" style="margin-top:1rem; color:var(--muted);">
+      Already know where you are?
+      <a href="advanced-grammar.html">Browse all 100 units →</a>
+    </p>
+  </div>
+
+  <!-- QUIZ ──────────────────────────────────── -->
+  <div id="quiz-view" hidden>
+    <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:1.5rem;">
+      <div class="eyebrow" id="q-label">Question 1 of 15</div>
+      <div class="bar" style="width:200px; max-width:40vw;">
+        <div class="bar__fill bar__fill--accent" id="progress-bar" style="width:0%; transition:width .3s;"></div>
+      </div>
+    </div>
+    <div class="card" id="question-card" style="margin-bottom:1rem;">
+      <p id="q-text" style="font-size:1.1rem; font-weight:500; line-height:1.6; margin:0 0 1.25rem;"></p>
+      <div id="q-options" role="radiogroup" aria-label="Answer choices"></div>
+    </div>
+    <div id="q-feedback" hidden style="margin-bottom:1rem;"></div>
+    <button class="btn btn--wide" id="next-btn" hidden>Next →</button>
+  </div>
+
+  <!-- RESULT ────────────────────────────────── -->
+  <div id="result-view" hidden>
+    <div class="eyebrow">Your result</div>
+    <h2 class="display" style="font-size:var(--fs-h1); margin:.5rem 0 .5rem;" id="result-title">—</h2>
+    <p style="color:var(--muted); margin-bottom:1.5rem;" id="result-desc">—</p>
+
+    <div class="card card--dark" style="margin-bottom:1.5rem;">
+      <div class="eyebrow" style="color:var(--dark-muted); margin-bottom:.5rem;">Suggested starting point</div>
+      <h3 style="color:var(--dark-ink); font-family:var(--font-display); font-weight:400; font-size:1.6rem; line-height:1.15; margin:0 0 1rem;" id="result-unit-title">—</h3>
+      <a href="#" class="btn btn--accent btn--wide" id="result-cta">Go to this unit →</a>
+    </div>
+
+    <p class="sm" style="color:var(--muted); margin-bottom:1.5rem;" id="result-score-line">—</p>
+
+    <div style="display:flex; gap:.75rem; flex-wrap:wrap;">
+      <a href="advanced-grammar.html" class="btn btn--ghost">Browse all units</a>
+      <button class="btn btn--ghost" id="retake-btn">Retake quiz</button>
+    </div>
+  </div>
+
+</section>
+</main>
+
+<script src="analytics.js?v=5"></script>
+<script src="ui-extras.js?v=5"></script>
+<script>
+// ─── Quiz questions ────────────────────────────────────────────────────────
+// 15 questions, 3 per band (covering units 1-50).
+// Each question has a unitBand (1-5) indicating the difficulty level it probes.
+// Correct answers contribute to the band score; final result maps to a start unit.
+
+const QUESTIONS = [
+  // Band 1 — Units 1-10: Present/past tenses, present perfect
+  {
+    band: 1,
+    q: 'She ___ the company since she was 25.',
+    opts: ['runs', 'is running', 'has run', 'ran'],
+    correct: 2,
+    explain: "'Since' + a past point = present perfect. The company is still running."
+  },
+  {
+    band: 1,
+    q: 'By the time the fire brigade arrived, the building ___ completely.',
+    opts: ['burns', 'has burned', 'had burned', 'was burning'],
+    correct: 2,
+    explain: "Earlier of two past events → past perfect ('had burned')."
+  },
+  {
+    band: 1,
+    q: 'I ___ him yesterday at the supermarket — he looked well.',
+    opts: ['have seen', 'see', 'saw', 'was seeing'],
+    correct: 2,
+    explain: "'Yesterday' = specific past time → past simple ('saw')."
+  },
+
+  // Band 2 — Units 11-20: Future forms, modals
+  {
+    band: 2,
+    q: 'Look at those clouds — it ___ rain.',
+    opts: ["will rain", "is going to rain", "rains", "is raining"],
+    correct: 1,
+    explain: "Prediction based on present evidence (clouds) → 'be going to'."
+  },
+  {
+    band: 2,
+    q: 'You ___ have told me earlier — I could have helped.',
+    opts: ['should', 'must', 'would', 'shall'],
+    correct: 0,
+    explain: "'Should have + past participle' = criticism about a past omission."
+  },
+  {
+    band: 2,
+    q: 'When I arrived, she ___ for three hours — the empty coffee cups proved it.',
+    opts: ['studied', 'has been studying', 'had been studying', 'was studying'],
+    correct: 2,
+    explain: "Duration of activity before a past moment → past perfect continuous."
+  },
+
+  // Band 3 — Units 21-30: Linking verbs, passives, verb patterns
+  {
+    band: 3,
+    q: 'The soup ___ a little salty. Did you add extra salt?',
+    opts: ['is tasting', 'tastes', 'taste', 'has tasted'],
+    correct: 1,
+    explain: "'Taste' as a linking verb (= has a taste of) is stative → present simple."
+  },
+  {
+    band: 3,
+    q: 'The results of the experiment ___ to be very promising.',
+    opts: ['proved', 'are proving', 'are proved', 'prove'],
+    correct: 0,
+    explain: "'Prove to be' = turn out to be. Past simple used for a completed discovery."
+  },
+  {
+    band: 3,
+    q: 'He suggested ___ the meeting until the following week.',
+    opts: ['to postpone', 'postponing', 'postpone', 'that postponing'],
+    correct: 1,
+    explain: "'Suggest' takes a gerund (-ing) or a that-clause — never 'to + infinitive'."
+  },
+
+  // Band 4 — Units 31-40: Infinitives, reported speech, subjunctive
+  {
+    band: 4,
+    q: "I remember ___ the door, but when I got back the key was in the lock.",
+    opts: ['to lock', 'locking', 'lock', 'having locked'],
+    correct: 1,
+    explain: "'Remember + -ing' = remember a past action. 'Remember to do' = don't forget (future task)."
+  },
+  {
+    band: 4,
+    q: 'She told me she ___ me the money the following day.',
+    opts: ['will lend', 'would lend', 'lends', 'has lent'],
+    correct: 1,
+    explain: "In reported speech, 'will' shifts to 'would'. Time expression also shifts."
+  },
+  {
+    band: 4,
+    q: 'The committee recommended that the proposal ___ immediately.',
+    opts: ['should implement', 'be implemented', 'is implemented', 'implemented'],
+    correct: 1,
+    explain: "After 'recommend/suggest/insist that', use the bare subjunctive (be, do, have) or 'should + infinitive'."
+  },
+
+  // Band 5 — Units 41-50: Agreement, articles, determiners
+  {
+    band: 5,
+    q: 'The news ___ very encouraging — profits are up for the third quarter.',
+    opts: ['are', 'were', 'is', 'have been'],
+    correct: 2,
+    explain: "'News' is uncountable and always takes a singular verb, despite the -s ending."
+  },
+  {
+    band: 5,
+    q: "She went to ___ prison to visit her brother.",
+    opts: ['a', 'the', 'no article', 'any'],
+    correct: 1,
+    explain: "Visitor going to prison → 'the prison' (a specific building). Compare: 'He went to prison' (as a prisoner — zero article)."
+  },
+  {
+    band: 5,
+    q: 'Neither the CEO nor the board members ___ aware of the problem.',
+    opts: ['was', 'were', 'has been', 'is'],
+    correct: 1,
+    explain: "With 'neither...nor', the verb agrees with the nearest subject. 'Board members' (plural) is nearest → 'were'."
+  },
+];
+
+// Band → recommended start unit
+const BAND_TO_UNIT = {
+  1: { unit: 1,  title: 'Unit 1 — Present simple and continuous',      desc: 'Start at the beginning of the grammar sequence.' },
+  2: { unit: 9,  title: 'Unit 9 — Will and be going to',                desc: 'You have solid tense foundations. Move on to future forms and modals.' },
+  3: { unit: 16, title: 'Unit 16 — Will, would and used to',             desc: 'You know the basics well. Start with the mid-range grammar.' },
+  4: { unit: 30, title: 'Unit 30 — Verb + -ing forms and infinitives',   desc: 'Strong grammar. Focus on verb patterns and reported speech.' },
+  5: { unit: 40, title: 'Unit 40 — Agreement between subject and verb',  desc: 'Advanced level. Jump to agreement, articles, and fine-grained distinctions.' },
+};
+
+// ─── State ─────────────────────────────────────────────────────────────────
+let current = 0;
+let score = [0, 0, 0, 0, 0]; // per band
+let answered = false;
+
+// ─── DOM ───────────────────────────────────────────────────────────────────
+const $ = id => document.getElementById(id);
+
+function showQuestion(i) {
+  answered = false;
+  const q = QUESTIONS[i];
+  $('q-label').textContent     = `Question ${i + 1} of ${QUESTIONS.length}`;
+  $('progress-bar').style.width = `${Math.round((i / QUESTIONS.length) * 100)}%`;
+  $('q-text').textContent       = q.q;
+  $('q-feedback').hidden        = true;
+  $('next-btn').hidden          = true;
+
+  const opts = $('q-options');
+  opts.innerHTML = '';
+  q.opts.forEach((opt, j) => {
+    const btn = document.createElement('button');
+    btn.type      = 'button';
+    btn.className = 'mcq__option';
+    btn.style.marginBottom = '.5rem';
+    btn.setAttribute('role', 'radio');
+    btn.setAttribute('aria-checked', 'false');
+    btn.innerHTML = `<span class="mcq__letter">${String.fromCharCode(65 + j)}</span><span>${opt}</span>`;
+    btn.addEventListener('click', () => onAnswer(j));
+    opts.appendChild(btn);
+  });
+}
+
+function onAnswer(chosen) {
+  if (answered) return;
+  answered = true;
+  const q = QUESTIONS[current];
+  const correct = chosen === q.correct;
+
+  if (correct) score[q.band - 1]++;
+
+  // Visual feedback on buttons
+  [...$('q-options').children].forEach((btn, j) => {
+    btn.setAttribute('aria-disabled', 'true');
+    btn.style.cursor = 'default';
+    if (j === q.correct) btn.classList.add('is-correct');
+    else if (j === chosen) btn.classList.add('is-wrong');
+  });
+
+  // Explanation
+  const fb = $('q-feedback');
+  fb.className = `card sm ${correct ? '' : ''}`;
+  fb.style.cssText = `padding:.75rem 1rem; border-radius:10px; margin-bottom:.5rem; background:${correct ? 'var(--success-bg,#e8f5ec)' : 'var(--danger-bg,#fde9e4)'}; color:${correct ? 'var(--success-ink,#1f4a2e)' : 'var(--danger-ink,#6b1f0f)'};`;
+  fb.innerHTML = `<strong>${correct ? '✓ Correct.' : '✗ Not quite.'}</strong> ${q.explain}`;
+  fb.hidden = false;
+
+  $('next-btn').hidden = false;
+  $('next-btn').textContent = current < QUESTIONS.length - 1 ? 'Next →' : 'See my result →';
+  $('next-btn').focus();
+}
+
+function showResult() {
+  $('quiz-view').hidden   = true;
+  $('result-view').hidden = false;
+
+  const totalCorrect = score.reduce((a, b) => a + b, 0);
+  const pct = Math.round((totalCorrect / QUESTIONS.length) * 100);
+
+  // Find highest consecutive band where learner scored < 2/3
+  let recommendedBand = 1;
+  for (let b = 0; b < 5; b++) {
+    if (score[b] >= 2) recommendedBand = b + 2; // passed this band, move up
+  }
+  recommendedBand = Math.min(recommendedBand, 5);
+
+  const rec = BAND_TO_UNIT[recommendedBand];
+
+  const titles = ['Getting there', 'Solid foundations', 'Good progress', 'Strong grammar', 'Advanced level'];
+  $('result-title').textContent   = titles[recommendedBand - 1] || 'Advanced level';
+  $('result-desc').textContent    = rec.desc;
+  $('result-unit-title').textContent = rec.title;
+  $('result-cta').href            = `advanced-grammar.html#unit-${rec.unit}`;
+  $('result-score-line').textContent = `You got ${totalCorrect} of ${QUESTIONS.length} correct (${pct}%). Band scores: ${score.join(' | ')}.`;
+
+  if (window.Analytics) {
+    Analytics.trackAction('placement_completed', rec.unit);
+    Analytics.trackAction('placement_score', totalCorrect);
+  }
+}
+
+// ─── Handlers ──────────────────────────────────────────────────────────────
+$('start-btn').addEventListener('click', () => {
+  $('intro-view').hidden = true;
+  $('quiz-view').hidden  = false;
+  showQuestion(0);
+  if (window.Analytics) Analytics.trackAction('placement_started');
+});
+
+$('next-btn').addEventListener('click', () => {
+  current++;
+  if (current < QUESTIONS.length) {
+    showQuestion(current);
+  } else {
+    showResult();
+  }
+});
+
+$('retake-btn').addEventListener('click', () => {
+  current = 0;
+  score   = [0, 0, 0, 0, 0];
+  $('result-view').hidden = true;
+  $('quiz-view').hidden   = false;
+  showQuestion(0);
+});
+
+// ─── Sticky header ──────────────────────────────────────────────────────────
+const header = document.getElementById('site-header');
+window.addEventListener('scroll', () =>
+  header.classList.toggle('is-scrolled', window.scrollY > 8), { passive: true });
+</script>
+</body>
+</html>

@@ -1,0 +1,119 @@
+{
+  "id": 51,
+  "title": "Personality and Character",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Positive traits",
+      "content": "<div class=\"web-text\">People often have a mix of characteristics. Here are some advanced adjectives for describing positive personality traits:</div><div class=\"web-example\"><span>• <strong>conscientious</strong> — careful and thorough in work. <em>She's incredibly conscientious about meeting deadlines.</em></span></div><div class=\"web-example\"><span>• <strong>compassionate</strong> — showing deep concern for others. <em>A compassionate leader listens to everyone's problems.</em></span></div><div class=\"web-example\"><span>• <strong>resilient</strong> — able to recover from difficulties. <em>After losing his job, he proved how resilient he was.</em></span></div><div class=\"web-example\"><span>• <strong>versatile</strong> — able to adapt to many different activities. <em>She's a versatile employee who can handle any department.</em></span></div><div class=\"web-example\"><span>• <strong>diligent</strong> — showing careful and persistent effort. <em>Diligent students often achieve the best results.</em></span></div>"
+    },
+    {
+      "id": "B",
+      "title": "Negative traits",
+      "content": "<div class=\"web-text\">Some adjectives describe less desirable characteristics:</div><div class=\"web-example\"><span>• <strong>arrogant</strong> — having an exaggerated sense of importance. <em>His arrogant attitude made him unpopular.</em></span></div><div class=\"web-example\"><span>• <strong>stubborn</strong> — refusing to change one's mind. <em>She can be incredibly stubborn once she's made a decision.</em></span></div><div class=\"web-example\"><span>• <strong>impulsive</strong> — acting without thinking. <em>His impulsive spending left him in debt.</em></span></div><div class=\"web-example\"><span>• <strong>self-centred</strong> — concerned only with oneself. <em>Self-centred people rarely consider how others feel.</em></span></div><div class=\"web-example\"><span>• <strong>vindictive</strong> — seeking revenge. <em>A vindictive colleague can create a toxic workplace.</em></span></div>"
+    },
+    {
+      "id": "C",
+      "title": "Complex characters",
+      "content": "<div class=\"web-text\">Some words describe personalities that are more nuanced:</div><div class=\"web-example\"><span>• <strong>enigmatic</strong> — mysterious and difficult to understand. <em>The new director has an enigmatic personality.</em></span></div><div class=\"web-example\"><span>• <strong>unassuming</strong> — modest, not drawing attention. <em>Despite his wealth, he remained remarkably unassuming.</em></span></div><div class=\"web-example\"><span>• <strong>forthright</strong> — direct and honest in manner. <em>I appreciate her forthright approach to feedback.</em></span></div><div class=\"web-example\"><span>• <strong>shrewd</strong> — having sharp judgement. <em>A shrewd businessperson knows when to invest.</em></span></div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "Someone who is careful and thorough in their work is described as:",
+      "options": [
+        "assertive",
+        "vindictive",
+        "conscientious",
+        "tenacious"
+      ],
+      "correctAnswer": 2,
+      "hint": "Think about being thorough at work.",
+      "explanation": "<strong>Conscientious</strong> means careful and diligent about doing things correctly."
+    },
+    {
+      "question": "If a person refuses to change their mind despite strong arguments, they are:",
+      "options": [
+        "versatile",
+        "stubborn",
+        "forthright",
+        "meticulous"
+      ],
+      "correctAnswer": 1,
+      "hint": "This is generally seen as a negative trait.",
+      "explanation": "<strong>Stubborn</strong> describes someone who won't change their position or opinion."
+    },
+    {
+      "question": "A person who is modest and doesn't seek attention is:",
+      "options": [
+        "self-centred",
+        "unassuming",
+        "arrogant",
+        "tenacious"
+      ],
+      "correctAnswer": 1,
+      "hint": "The opposite of showing off.",
+      "explanation": "<strong>Unassuming</strong> means modest and not pretentious."
+    },
+    {
+      "question": "Which word means 'able to recover quickly from difficulties'?",
+      "options": [
+        "obstinate",
+        "resilient",
+        "pedantic",
+        "diligent"
+      ],
+      "correctAnswer": 1,
+      "hint": "Think of bouncing back from hard times.",
+      "explanation": "<strong>Resilient</strong> describes the ability to recover quickly from tough situations."
+    },
+    {
+      "question": "A person who acts without thinking about consequences is:",
+      "options": [
+        "introverted",
+        "obstinate",
+        "diligent",
+        "impulsive"
+      ],
+      "correctAnswer": 3,
+      "hint": "They don't plan ahead.",
+      "explanation": "<strong>Impulsive</strong> means acting suddenly without careful thought."
+    },
+    {
+      "question": "Someone who shows deep sympathy for others' suffering is:",
+      "options": [
+        "arrogant",
+        "gregarious",
+        "compassionate",
+        "vindictive"
+      ],
+      "correctAnswer": 2,
+      "hint": "They care deeply about others.",
+      "explanation": "<strong>Compassionate</strong> means feeling concern for the suffering of others."
+    },
+    {
+      "question": "Which word describes someone who is mysterious and hard to understand?",
+      "options": [
+        "enigmatic",
+        "versatile",
+        "forthright",
+        "diligent"
+      ],
+      "correctAnswer": 0,
+      "hint": "Think of puzzles and mysteries.",
+      "explanation": "<strong>Enigmatic</strong> means difficult to interpret or understand."
+    },
+    {
+      "question": "A person with sharp practical judgement in business is:",
+      "options": [
+        "assertive",
+        "stoic",
+        "obstinate",
+        "shrewd"
+      ],
+      "correctAnswer": 3,
+      "hint": "They make smart decisions.",
+      "explanation": "<strong>Shrewd</strong> means having sharp powers of judgement, especially in practical matters."
+    }
+  ]
+}

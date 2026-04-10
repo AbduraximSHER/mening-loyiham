@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://grammar-a7x.pages.dev/sitemap.xml

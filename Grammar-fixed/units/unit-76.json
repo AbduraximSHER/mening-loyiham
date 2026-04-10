@@ -1,0 +1,114 @@
+{
+  "id": 76,
+  "title": "Collocations with Take, Give, and Get",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Collocations with TAKE",
+      "content": "<div class=\"web-text\">Common fixed expressions with TAKE:</div><div class=\"web-example\"><span>• <strong>take responsibility</strong> — <em>Leaders must take responsibility for their decisions.</em></span></div><div class=\"web-example\"><span>• <strong>take into account</strong> — <em>We need to take all factors into account.</em></span></div><div class=\"web-example\"><span>• <strong>take advantage of</strong> — <em>She took advantage of the free training courses.</em></span></div><div class=\"web-example\"><span>• <strong>take place</strong> — <em>The meeting will take place on Friday.</em></span></div><div class=\"web-example\"><span>• <strong>take turns</strong> — <em>The children took turns reading aloud.</em></span></div>"
+    },
+    {
+      "id": "B",
+      "title": "Collocations with GIVE and GET",
+      "content": "<div class=\"web-text\">Essential expressions with GIVE and GET:</div><div class=\"web-example\"><span>• <strong>give priority to</strong> — <em>We must give priority to patient safety.</em></span></div><div class=\"web-example\"><span>• <strong>give rise to</strong> — <em>Inequality gives rise to social unrest.</em></span></div><div class=\"web-example\"><span>• <strong>give the impression</strong> — <em>He gives the impression of being confident.</em></span></div><div class=\"web-example\"><span>• <strong>get rid of</strong> — <em>We need to get rid of old files.</em></span></div><div class=\"web-example\"><span>• <strong>get the hang of</strong> — <em>Once you get the hang of it, driving becomes easy.</em></span></div><div class=\"web-example\"><span>• <strong>get to grips with</strong> — <em>New employees must get to grips with the software quickly.</em></span></div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "___ responsibility means to accept blame or duty:",
+      "options": [
+        "get",
+        "give",
+        "take",
+        "make"
+      ],
+      "correctAnswer": 2,
+      "hint": "Accepting ownership.",
+      "explanation": "We say <strong>take responsibility</strong> for actions."
+    },
+    {
+      "question": "To consider all relevant factors is to take them into ___:",
+      "options": [
+        "mind",
+        "order",
+        "account",
+        "do"
+      ],
+      "correctAnswer": 2,
+      "hint": "Accounting for everything.",
+      "explanation": "<strong>Take into account</strong> means to consider something."
+    },
+    {
+      "question": "To remove something unwanted is to get ___ of it:",
+      "options": [
+        "out",
+        "away",
+        "rid",
+        "hold"
+      ],
+      "correctAnswer": 2,
+      "hint": "Eliminating it.",
+      "explanation": "<strong>Get rid of</strong> means to remove or dispose of."
+    },
+    {
+      "question": "'Give ___ to' means to cause something:",
+      "options": [
+        "rise",
+        "keep",
+        "make",
+        "set"
+      ],
+      "correctAnswer": 0,
+      "hint": "Causing something to happen.",
+      "explanation": "<strong>Give rise to</strong> means to cause or produce."
+    },
+    {
+      "question": "To learn how to do something new is to get the ___ of it:",
+      "options": [
+        "hold",
+        "grip",
+        "hang",
+        "way"
+      ],
+      "correctAnswer": 2,
+      "hint": "Understanding how it works.",
+      "explanation": "<strong>Get the hang of</strong> means to learn how to do something."
+    },
+    {
+      "question": "The event will take ___ next Monday:",
+      "options": [
+        "part",
+        "time",
+        "place",
+        "turns"
+      ],
+      "correctAnswer": 2,
+      "hint": "When something happens.",
+      "explanation": "<strong>Take place</strong> means to happen or occur."
+    },
+    {
+      "question": "To treat something as most important is to give ___ to it:",
+      "options": [
+        "hold",
+        "set",
+        "priority",
+        "impression"
+      ],
+      "correctAnswer": 2,
+      "hint": "Making it number one.",
+      "explanation": "<strong>Give priority to</strong> means to treat as most important."
+    },
+    {
+      "question": "To benefit from an opportunity is to take ___ of it:",
+      "options": [
+        "part",
+        "have",
+        "turns",
+        "advantage"
+      ],
+      "correctAnswer": 3,
+      "hint": "Making the most of it.",
+      "explanation": "<strong>Take advantage of</strong> means to make good use of an opportunity."
+    }
+  ]
+}

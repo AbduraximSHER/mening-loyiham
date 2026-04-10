@@ -1,0 +1,306 @@
+{
+  "id": 5,
+  "title": "Past perfect and past simple",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Sequence of past events",
+      "content": "\n            <div class=\"web-text\">When we give an account of a sequence of past events we usually put these events in chronological order using the past simple. If we want to refer to an event out of order – that is, an event which happened <em>before</em> the last event in the sequence we have written or spoken about – we can use the past perfect. Study the use of the past perfect and past simple in the text below, then read the notes in the table about the order of events:</div>\n            <div class=\"example-box\">\n                I <strong>wrote</strong> Clara an email to thank her for the present she <strong>had given</strong> me for my birthday last week. But as soon as I pressed the 'send' button, I <strong>realised</strong> that I <strong>had made</strong> a mistake and sent it to her sister instead.\n            </div>\n            <div class=\"web-text\"><strong>Order of events:</strong> 1 gave present, 2 wrote email, 3 made mistake, 4 realised mistake</div>\n            <div class=\"web-text\"><strong>Order events are mentioned:</strong> 1 wrote email, 2 <strong>had given</strong> present, 3 realised mistake, 4 <strong>had made</strong> mistake</div>\n        "
+    },
+    {
+      "id": "B",
+      "title": "Events before another past event",
+      "content": "\n            <div class=\"web-text\">When we understand that we are talking about events before another past event, we don't have to continue using the past perfect:</div>\n            <div class=\"web-example\">\n                <span>• We <strong>bought</strong> a new car last month. We'<strong>d driven</strong> my parents' old car for ages, but it <strong>started</strong> (<em>or</em> <strong>had started</strong>) to fall apart. We <strong>put</strong> (<em>or</em> <strong>had put</strong>) a new engine in it, but that <strong>didn't solve</strong> (<em>or</em> <strong>hadn't solved</strong>) the problems we were having.</span>\n            </div>\n        "
+    },
+    {
+      "id": "C",
+      "title": "When order is clear",
+      "content": "\n            <div class=\"web-text\">If the order of past events is clear from the context (for example, if time expressions make the order clear) we can often use either the past perfect or the past simple:</div>\n            <div class=\"web-example\">\n                <span>• <em>After</em> Ivan <strong>had finished</strong> reading, he put out the light. (<em>or</em> ... Ivan <strong>finished</strong> ...)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• The two leaders agreed to meet, even though <em>earlier</em> talks <strong>had failed</strong> to reach an agreement. (<em>or</em> ... talks <strong>failed</strong> ...)</span>\n            </div>\n        "
+    },
+    {
+      "id": "D",
+      "title": "Reporting past events",
+      "content": "\n            <div class=\"web-text\">The past perfect is often used in reporting what was originally said or thought in the present perfect or past simple. When we report what was said in the past simple, we can use either the past perfect or the past simple (see also Unit 35):</div>\n            <div class=\"web-example\">\n                <span>• <strong>Talking about a past event:</strong> 'I <strong>have met</strong> him before.'<br><strong>Reporting this past event:</strong> I was sure that I <strong>had met</strong> him before. (<em>not</em> ... I met him ...)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>Talking about a past event:</strong> 'The village <strong>hasn't changed</strong> much.'<br><strong>Reporting this past event:</strong> I found that the village <strong>hadn't changed</strong> much. (<em>not</em> ... the village didn't change ...)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>Talking about a past event:</strong> '225 people <strong>drowned</strong> in the recent floods.'<br><strong>Reporting this past event:</strong> Police said that 225 people <strong>had drowned</strong> in the recent floods. (<em>or</em> ... <strong>drowned</strong> ...)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>Talking about a past event:</strong> 'I <strong>stole</strong> the watch.'<br><strong>Reporting this past event:</strong> She admitted that she <strong>had stolen</strong> the watch. (<em>or</em> ... <strong>stole</strong> ...)</span>\n            </div>\n        "
+    },
+    {
+      "id": "E",
+      "title": "Unfulfilled intentions",
+      "content": "\n            <div class=\"web-text\">We can use either the past perfect or past simple (and often past continuous and past perfect continuous; see Units 4 and 7) when we talk about things that we intended to do, but didn't or won't now do in the future:</div>\n            <div class=\"web-example\">\n                <span>• I <strong>had hoped</strong> to visit the gallery before I left Florence, but it's closed on Mondays. (<em>or</em> I <strong>hoped</strong> ..., I <strong>was hoping</strong> ..., I <strong>had been hoping</strong> ...)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• Aron <strong>planned</strong> to retire at 60, but we have persuaded him to stay for a few more years. (<em>or</em> Aron <strong>had planned</strong> ..., Aron <strong>was planning</strong> ..., Aron <strong>had been planning</strong> ...)</span>\n            </div>\n        "
+    }
+  ],
+  "exercises": [
+    {
+      "question": "In the story 'I first saw the old house I had just moved to the area', which event happened first?",
+      "options": [
+        "I moved",
+        "I first saw the old house",
+        "I moveding",
+        "I first saw the old houseing"
+      ],
+      "correctAnswer": 0,
+      "hint": "Past perfect ('had moved') indicates it happened before the past simple ('saw').",
+      "explanation": "<strong>Answer: I moved</strong><br>Past perfect ('had moved') indicates it happened before the past simple ('saw'). "
+    },
+    {
+      "question": "'...I learnt that a property developer had bought it...' Which event happened first?",
+      "options": [
+        "A property developer bought it",
+        "I learnt",
+        "A property developer bought iting",
+        "I learnting"
+      ],
+      "correctAnswer": 0,
+      "hint": "Past perfect shows the action completed before 'learnt'.",
+      "explanation": "<strong>Answer: A property developer bought it</strong><br>Past perfect shows the action completed before 'learnt'. The grammatical signals in this sentence — the key words, connectors, or context — require this specific form. Look for these signals to make the same choice independently."
+    },
+    {
+      "question": "'Six months later I had nearly given up hope... when I heard that the house was for sale again.' Which event happened first?",
+      "options": [
+        "I nearly gave up hope",
+        "I heard",
+        "I nearly gave up hopeing",
+        "I hearding"
+      ],
+      "correctAnswer": 0,
+      "hint": "Past perfect used for the earlier event.",
+      "explanation": "<strong>Answer: I nearly gave up hope</strong><br>Past perfect used for the earlier event. "
+    },
+    {
+      "question": "'The property developer had decided to invest his money in a new housing development... I bought the house immediately.' Which event is mentioned second but happened first?",
+      "options": [
+        "The property developer decided",
+        "I bought the house",
+        "The property developer decideding",
+        "I bought the houseing"
+      ],
+      "correctAnswer": 0,
+      "hint": "The developer's decision precedes the purchase.",
+      "explanation": "<strong>Answer: The property developer decided</strong><br>The developer's decision precedes the purchase. The grammatical signals in this sentence — the key words, connectors, or context — require this specific form. Look for these signals to make the same choice independently."
+    },
+    {
+      "type": "fill",
+      "question": "By the time the ambulance arrived, she ___ (already / lose) consciousness.",
+      "answer": "had already lost",
+      "hint": "Action completed before a past reference point → past perfect.",
+      "explanation": "<strong>Answer: had already lost</strong><br>'By the time' + past simple signals that one past action preceded another. Use the past perfect for the earlier action. 'Already' reinforces this sequence.",
+      "acceptable": [
+        "'d already lost"
+      ]
+    },
+    {
+      "question": "As Jonas was introduced to Mrs Lopez, he realised that he ___ her before. (meet)",
+      "options": [
+        "met",
+        "had met",
+        "Both are correct",
+        "Neither is correct"
+      ],
+      "correctAnswer": 1,
+      "hint": "Reporting a thought based on a present perfect original thought ('I have met her before').",
+      "explanation": "<strong>Answer: had met</strong><br>We use the <em>past perfect</em> here because this action happened before another past event.<br><small>💡 Reporting a thought based on a present perfect original thought ('I have met her before').</small>"
+    },
+    {
+      "question": "During the previous week, I ___ the gym every evening. (visit)",
+      "hint": "Past perfect or past simple can be used when continuing a sequence before another past event.",
+      "explanation": "<strong>Answer: Both are correct</strong><br>Past perfect or past simple can be used when continuing a sequence before another past event. ",
+      "type": "fill",
+      "answer": "visited",
+      "acceptable": [
+        "had visited",
+        "Both are correct"
+      ]
+    },
+    {
+      "question": "He denied that he ___ the money from the office. (take)",
+      "hint": "Reporting what was said in past simple ('I didn't take').",
+      "explanation": "<strong>Answer: Both are correct</strong><br>Reporting what was said in past simple ('I didn't take'). ",
+      "type": "fill",
+      "answer": "visited",
+      "acceptable": [
+        "had visited",
+        "Both are correct"
+      ]
+    },
+    {
+      "question": "I thought it was the best film I ___ in my life.",
+      "options": [
+        "saw",
+        "had seen",
+        "Both are correct",
+        "Neither is correct"
+      ],
+      "correctAnswer": 1,
+      "hint": "Reporting a thought ('It is the best film I have seen').",
+      "explanation": "<strong>Answer: had seen</strong><br>We use the <em>past perfect</em> here because this action happened before another past event.<br><small>💡 Reporting a thought ('It is the best film I have seen').</small>"
+    },
+    {
+      "type": "fill",
+      "question": "When I got to the cinema, the film ___ (already / start).",
+      "answer": "had already started",
+      "hint": "Film started first, arrival second → past perfect for the earlier event.",
+      "explanation": "<strong>Answer: had already started</strong><br>Two past events: arriving and the film starting. Since the film started first, use the past perfect to show it preceded the arrival.",
+      "acceptable": [
+        "'d already started"
+      ]
+    },
+    {
+      "question": "The boy told me that he ___ his train ticket and didn't know how he would get home. (lose)",
+      "options": [
+        "lost",
+        "had lost",
+        "Both are correct",
+        "Neither is correct"
+      ],
+      "correctAnswer": 1,
+      "hint": "Reporting a present perfect original statement ('I have lost my ticket').",
+      "explanation": "<strong>Answer: had lost</strong><br>We use the <em>past perfect</em> here because this action happened before another past event.<br><small>💡 Reporting a present perfect original statement ('I have lost my ticket').</small>"
+    },
+    {
+      "question": "At the conference, scientists reported that they ___ a cure for malaria. (found)",
+      "hint": "Reporting past simple ('We found a cure').",
+      "explanation": "<strong>Answer: Both are correct</strong><br>Reporting past simple ('We found a cure'). ",
+      "type": "fill",
+      "answer": "took",
+      "acceptable": [
+        "had taken",
+        "Both are correct"
+      ]
+    },
+    {
+      "question": "The teacher guessed that some of the children ___ in the exam.",
+      "options": [
+        "cheated",
+        "had cheated",
+        "Both are correct",
+        "Neither is correct"
+      ],
+      "correctAnswer": 1,
+      "hint": "Reporting present perfect original thought ('They have cheated').",
+      "explanation": "<strong>Answer: had cheated</strong><br>We use the <em>past perfect</em> here because this action happened before another past event.<br><small>💡 Reporting present perfect original thought ('They have cheated').</small>"
+    },
+    {
+      "question": "She said that she ___ her mind who to vote for, and that I couldn't persuade her to change. (make up)",
+      "options": [
+        "made up",
+        "had made up",
+        "Both are correct",
+        "Neither is correct"
+      ],
+      "correctAnswer": 1,
+      "hint": "Reporting present perfect ('I have made up my mind').",
+      "explanation": "<strong>Answer: had made up</strong><br>We use the <em>past perfect</em> here because this action happened before another past event.<br><small>💡 Reporting present perfect ('I have made up my mind').</small>"
+    },
+    {
+      "type": "fill",
+      "question": "She ___ (never / fly) before, so she was very nervous.",
+      "answer": "had never flown",
+      "acceptable": [
+        "had never been on a plane"
+      ],
+      "hint": "'Before' + context of past time → past perfect for the earlier (non-)experience.",
+      "explanation": "<strong>Answer: had never flown</strong><br>'Before' signals that we're looking back from a past moment. Use the past perfect to describe the experience (or lack of it) up to that past point."
+    },
+    {
+      "question": "Thomas explained that he ___ home early because he felt ill. (go)",
+      "hint": "Reporting past simple ('I went home').",
+      "explanation": "<strong>Answer: Both are correct</strong><br>Reporting past simple ('I went home'). ",
+      "type": "fill",
+      "answer": "found",
+      "acceptable": [
+        "had found",
+        "Both are correct"
+      ]
+    },
+    {
+      "question": "When I asked Maria about Jakub, she admitted that she ___ from him for ages. (not hear)",
+      "options": [
+        "didn't hear",
+        "hadn't heard",
+        "Both are correct",
+        "Neither is correct"
+      ],
+      "correctAnswer": 1,
+      "hint": "Reporting present perfect ('I haven't heard').",
+      "explanation": "<strong>Answer: hadn't heard</strong><br>Reporting present perfect ('I haven't heard'). The present perfect connects past events to the present moment — used for recent events, life experience, or ongoing results."
+    },
+    {
+      "question": "The waiter took my plate away before I ___ eating. (finish)",
+      "hint": "Time expression 'before' makes the order clear.",
+      "explanation": "<strong>Answer: Both are correct</strong><br>Time expression 'before' makes the order clear. ",
+      "type": "fill",
+      "answer": "went",
+      "acceptable": [
+        "had gone",
+        "Both are correct"
+      ]
+    },
+    {
+      "question": "Julia said she didn't want any dinner. Apparently, she ___ already.",
+      "options": [
+        "ate",
+        "had eaten",
+        "Both are correct",
+        "Neither is correct"
+      ],
+      "correctAnswer": 1,
+      "hint": "Reporting present perfect ('I have eaten already').",
+      "explanation": "<strong>Answer: had eaten</strong><br>We use the <em>past perfect</em> here because this action happened before another past event.<br><small>💡 Reporting present perfect ('I have eaten already').</small>"
+    },
+    {
+      "type": "fill",
+      "question": "I recognised her immediately because we ___ (meet) at a conference the previous year.",
+      "answer": "had met",
+      "hint": "Meeting occurred first (earlier past) → past perfect explains why recognition was possible.",
+      "explanation": "<strong>Answer: had met</strong><br>The meeting at the conference happened before the moment of recognition. The past perfect ('had met') shows the earlier of the two past events.",
+      "acceptable": [
+        "'d met"
+      ]
+    },
+    {
+      "question": "I had hoped to leave by nine..., but I overslept and missed the train.",
+      "options": [
+        "Unfulfilled intention using past perfect",
+        "Reporting a past event",
+        "Sequence of events in order",
+        "Unfulfilled intention using past perfecting"
+      ],
+      "correctAnswer": 0,
+      "hint": "Using 'had hoped' for something intended but not done.",
+      "explanation": "<strong>Answer: Unfulfilled intention using past perfect</strong><br>Using 'had hoped' for something intended but not done. "
+    },
+    {
+      "question": "He ___ insult her; she always wanted to be a vet. (not mean)",
+      "hint": "Either past simple or past perfect for unfulfilled intentions.",
+      "explanation": "<strong>Answer: Both are correct</strong><br>Either past simple or past perfect for unfulfilled intentions. ",
+      "type": "fill",
+      "answer": "finished",
+      "acceptable": [
+        "had finished",
+        "Both are correct"
+      ]
+    },
+    {
+      "question": "I ___ cooking rabbit, but I didn't feel a thing. (not think of)",
+      "hint": "Either past simple or past perfect for unfulfilled intentions.",
+      "explanation": "<strong>Answer: Both are correct</strong><br>Either past simple or past perfect for unfulfilled intentions. ",
+      "type": "fill",
+      "answer": "didn't mean to",
+      "acceptable": [
+        "hadn't meant to",
+        "Both are correct"
+      ]
+    },
+    {
+      "type": "fill",
+      "question": "Lara ___ become a dentist — her original plan was to be a chef.",
+      "answer": "hadn't intended to",
+      "acceptable": [
+        "didn't intend to",
+        "had not intended to",
+        "did not intend to"
+      ],
+      "hint": "Past intention that was not carried out — past perfect or past simple both work.",
+      "explanation": "<strong>Answer: hadn't intended to / didn't intend to</strong><br>Both the past perfect ('hadn't intended to') and past simple ('didn't intend to') are correct here. The past perfect emphasises that the non-intention preceded another past event; the past simple states the fact neutrally. Both are acceptable in standard English."
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "id": 49,
+  "title": "No, none (of) and not any",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Emphasis with no and none",
+      "content": "<div class=\"web-text\">We can use <strong>no</strong> and <strong>none (of)</strong> instead of <strong>not a</strong> or <strong>not any</strong> for particular emphasis. Compare:</div>\n            <div class=\"web-example\">\n                <span>• There isn't <strong>a</strong> train until tomorrow. and There's <strong>no</strong> train until tomorrow. (more emphatic)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• Sorry, there isn't <strong>any</strong> left. and Sorry, there's <strong>none</strong> left.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• He didn't have <strong>any</strong> of the usual symptoms. and He had <strong>none of</strong> the usual symptoms.</span>\n            </div>\n            <div class=\"web-text\">We use other pairs of negative words and phrases in a similar way:</div>\n            <div class=\"web-example\">\n                <span>• There isn't <strong>anyone / anybody</strong> here. and There's <strong>no one / nobody</strong> here. (more emphatic)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• She wasn't <strong>anywhere</strong> to be seen. and She was <strong>nowhere</strong> to be seen.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• Why don't you <strong>ever</strong> call me? and Why do you <strong>never</strong> call me?</span>\n            </div>"
+    },
+    {
+      "id": "B",
+      "title": "Initial position",
+      "content": "<div class=\"web-text\">We don't usually use <strong>not a / any, not anyone</strong>, etc. to begin a sentence or clause, or straight after <strong>and, but</strong> or <strong>that</strong>. Instead we use <strong>no, none of, no one</strong>, etc.:</div>\n            <div class=\"web-example\">\n                <span>• <strong>No</strong> force was needed to make them move. (not Not any force was needed ...)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• Most players are under 16 <em>and</em> <strong>none of</strong> them is over 20. (not ... and not any of them ...)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• I'm sure <em>that</em> <strong>nothing</strong> can go wrong. (not ... that not anything can ...)</span>\n            </div>"
+    },
+    {
+      "id": "C",
+      "title": "Not a in formal style",
+      "content": "<div class=\"web-text\">In a formal or literary style we can use <strong>not a</strong> in initial position or after <strong>and, but</strong> or <strong>that</strong>:</div>\n            <div class=\"web-example\">\n                <span>• <strong>Not a</strong> sound came from the room. (less formally There wasn't a sound from the room.)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• She kept so quiet <em>that</em> <strong>not a</strong> soul in the house knew she was there.</span>\n            </div>"
+    },
+    {
+      "id": "D",
+      "title": "Singular or plural noun after no",
+      "content": "<div class=\"web-text\">After <strong>no</strong>, we can often use either a singular or a plural noun with little difference in meaning, although a singular noun is usually more formal:</div>\n            <div class=\"web-example\">\n                <span>• <strong>No answers</strong> could be found. (or more formally <strong>No answer</strong> ...)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• We want to go to the island but there are <strong>no boats</strong> to take us. (or more formally ... there is <strong>no boat</strong>.)</span>\n            </div>\n            <div class=\"web-text\">However, we use a <em>singular</em> noun in situations where we would expect one of something, and a <em>plural</em> noun where we would expect more than one. Compare:</div>\n            <div class=\"web-example\">\n                <span>• I phoned Sarah at home, but there was <strong>no answer</strong>. (not ... but there were no answers.)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• He seems very lonely at school, and has <strong>no friends</strong>. (not ... no friend.)</span>\n            </div>"
+    },
+    {
+      "id": "E",
+      "title": "Special emphasis",
+      "content": "<div class=\"web-text\">We can give special emphasis to <strong>no</strong> or <strong>none of</strong> using phrases like <strong>no amount of</strong> with uncountable nouns, <strong>not one ... / not a single ...</strong> with singular countable nouns, and <strong>not one of ...</strong> with plural nouns:</div>\n            <div class=\"web-example\">\n                <span>• The company is so badly managed that <strong>no amount of</strong> investment will make it successful.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>Not one</strong> person remembered my birthday. (or <strong>Not a single</strong> person ...)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>Not one of</strong> the families affected by the noise wants to move.</span>\n            </div>\n            <div class=\"web-text\"><strong>Whatsoever</strong> can also be added after a negative phrase to add emphasis:</div>\n            <div class=\"web-example\">\n                <span>• I have <em>no interest</em> <strong>whatsoever</strong> in taking up running.</span>\n            </div>"
+    },
+    {
+      "id": "F",
+      "title": "Informal spoken phrases with no",
+      "content": "<div class=\"web-text\">Some phrases with <strong>no</strong> are commonly used in informal spoken English:</div>\n            <div class=\"web-text\">- <strong>No wonder</strong> (= it's not surprising)</div>\n            <div class=\"web-text\">- <strong>No idea</strong> (= I don't know)</div>\n            <div class=\"web-text\">- <strong>No comment</strong> (= I have nothing to say)</div>\n            <div class=\"web-text\">- <strong>No way, No chance</strong> (= emphatic ways of saying 'no', particularly to express refusal to do or believe something)</div>\n            <div class=\"web-text\">- <strong>No problem, No bother</strong> (= it isn't / wasn't difficult to do something)</div>\n            <div class=\"web-example\">\n                <span>• 'The computer's not working again.' '<strong>No wonder</strong>. It's not plugged in!'</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• 'Thanks for the lift.' '<strong>No problem</strong>. I had to go past the station anyway.'</span>\n            </div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "Where are the biscuits? There are ___ in the cupboard.",
+      "options": [
+        "none",
+        "no",
+        "not any",
+        "nothing"
+      ],
+      "correctAnswer": 0,
+      "hint": "Use 'none' as a pronoun when it stands alone without a noun.",
+      "explanation": "<strong>Answer: none</strong><br>Use 'none' as a pronoun when it stands alone without a noun. "
+    },
+    {
+      "type": "correct",
+      "sentence": "There are no any seats left in the economy section of the flight.",
+      "correction": "There are no seats left in the economy section of the flight.",
+      "acceptable": [
+        "There aren't any seats left",
+        "There are no seats left"
+      ],
+      "hint": "'No' and 'any' are both negatives — never combine them.",
+      "explanation": "<strong>Answer: There are no seats left</strong><br>'No' and 'not any' are equivalent and interchangeable — you cannot combine them. Choose one: 'There are NO seats left' (no + noun) OR 'There AREN'T ANY seats left' (not + any). 'No any' is never correct in standard English."
+    },
+    {
+      "question": "I've got a headache. - ___ . You've been in front of that computer screen for hours.",
+      "options": [
+        "No wonder",
+        "No idea",
+        "No problem",
+        "No comment"
+      ],
+      "correctAnswer": 0,
+      "hint": "'No wonder' means 'it's not surprising'.",
+      "explanation": "<strong>Answer: No wonder</strong><br>'No wonder' is a fixed expression meaning 'it is not surprising'. It is used as a reaction to an explanation: 'You've been working all day — no wonder you're tired.'"
+    },
+    {
+      "type": "correct",
+      "sentence": "None of the solutions that were proposed were entirely satisfactory.",
+      "correction": "None of the solutions that were proposed were entirely satisfactory.",
+      "acceptable": [
+        "None of the solutions that were proposed were entirely satisfactory.",
+        "None of the solutions that were proposed was entirely satisfactory."
+      ],
+      "hint": "'None of' can take singular or plural verb — both are correct in modern English.",
+      "explanation": "<strong>Answer: were/was entirely satisfactory — BOTH CORRECT</strong><br>'None of + plural noun' can take either a singular or plural verb in modern English. Historically, 'none' required singular ('none was'), but plural ('none were') is now widely accepted, especially in informal contexts. Both are grammatically valid; singular is slightly more formal.",
+      "prompt": "Is this sentence correct? If not, rewrite it correctly."
+    },
+    {
+      "question": "I phoned the car hire company and had to wait hours for someone to turn up. It was hot and there (was no shade) as there (is no tree) in that part of the island. (Find the mistake in the phrase in brackets)",
+      "options": [
+        "is no tree -> are no trees",
+        "was no shade -> wasn't any shade",
+        "is no tree -> was no trees",
+        "no mistake"
+      ],
+      "correctAnswer": 0,
+      "hint": "Use a plural noun ('trees') where we would expect more than one.",
+      "explanation": "<strong>Answer: is no tree -> are no trees</strong><br>Use a plural noun ('trees') where we would expect more than one. "
+    },
+    {
+      "type": "fill",
+      "question": "___ of what she said at the meeting made any sense to us at all.",
+      "answer": "None",
+      "hint": "'None of + uncountable/singular noun' refers to zero amount.",
+      "explanation": "<strong>Answer: None of what she said</strong><br>'None of' is used for zero quantity and can precede countable plural nouns ('none of the students') or uncountable/singular nouns ('none of the money', 'none of what she said'). 'No' (without 'of') is used directly before nouns: 'no money', 'no students'."
+    },
+    {
+      "question": "A: 'Can you give me a lift to the station?' B: '___ . I'll pick you up at eight.'",
+      "options": [
+        "No problem",
+        "No way",
+        "No wonder",
+        "No idea"
+      ],
+      "correctAnswer": 0,
+      "hint": "'No problem' means it isn't difficult to do.",
+      "explanation": "<strong>Answer: No problem</strong><br>'No problem' means it isn't difficult to do. "
+    },
+    {
+      "question": "I made lots of cakes for the party but ___ the children liked them. (Use an emphatic phrase)",
+      "options": [
+        "not one of",
+        "no amount of",
+        "not a single",
+        "none"
+      ],
+      "correctAnswer": 0,
+      "hint": "Use 'not one of' with plural nouns for special emphasis.",
+      "explanation": "<strong>Answer: not one of</strong><br>Use 'not one of' with plural nouns for special emphasis. "
+    }
+  ]
+}

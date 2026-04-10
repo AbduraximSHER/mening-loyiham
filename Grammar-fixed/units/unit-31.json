@@ -1,0 +1,122 @@
+{
+  "id": 31,
+  "title": "Verb + -ing forms and infinitives 2",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Verb + object + to-infinitive",
+      "content": "<div class=\"web-text\">After some verbs we need to include an object before a <strong>to-infinitive</strong> in active sentences:</div>\n            <div class=\"web-example\">\n                <span>• The police <strong>warned</strong> <em>everyone to stay</em> inside with their windows closed. (not The police warned to stay ...)</span>\n            </div>\n            <div class=\"web-text\">Also: <strong>advise, allow, believe, cause, command, enable, encourage, entitle, force, invite, order, persuade, remind, teach, tell</strong></div>\n            <div class=\"web-text\">After other verbs, however, we can't include an object before a <strong>to-infinitive</strong>:</div>\n            <div class=\"web-example\">\n                <span>• We've <strong>decided to leave</strong> early. (not We've decided us to leave early.)</span>\n            </div>\n            <div class=\"web-text\">Also: <strong>agree, consent, fail, hope, manage, offer, pretend, refuse, start, threaten, volunteer</strong></div>"
+    },
+    {
+      "id": "B",
+      "title": "Prepositions with object + to-infinitive",
+      "content": "<div class=\"web-text\">After some verbs we have to put a preposition, usually <strong>for</strong>, between the verb and the <strong>object + to-infinitive</strong>:</div>\n            <div class=\"web-example\">\n                <span>• They <strong>arranged for</strong> <em>Rania to stay</em> in London. (not They arranged Rania to stay ...)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• They <strong>applied for</strong> <em>the court appearance to be postponed</em>.</span>\n            </div>\n            <div class=\"web-text\">Also: <strong>advertise, campaign, long, plan, wait</strong></div>\n            <div class=\"web-text\">Other verbs can be followed by different prepositions + <strong>object + to-infinitive</strong>:</div>\n            <div class=\"web-example\">\n                <span>• <strong>at</strong> + object + to-infinitive (<strong>go on, keep on, scream, shout, yell</strong>): I <strong>shouted at</strong> the man to open the door.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>on</strong> + object + to-infinitive (<strong>call, count, depend, prevail, rely</strong>): We're <strong>depending on</strong> you to find a solution soon.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>to</strong> + object + to-infinitive (<strong>appeal, gesture, motion, signal</strong>): He closed the door and <strong>signalled to</strong> the pilot to take off.</span>\n            </div>"
+    },
+    {
+      "id": "C",
+      "title": "Negative forms and other patterns",
+      "content": "<div class=\"web-text\">A number of other <strong>to-infinitive</strong> and <strong>-ing</strong> forms can also follow verbs:</div>\n            <div class=\"web-example\">\n                <span>• <strong>verb + negative to-infinitive/negative -ing</strong>: We <strong>decided not to go</strong> to Paris after all. / Some of my friends <strong>have considered not going</strong> to college.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>verb + to have + past participle</strong>: The accident <strong>seems to have happened</strong> at around 1 pm yesterday. (Often used to give an opinion or report what is said about a past event).</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>verb + having + past participle</strong>: I now <strong>regret buying</strong> the car. or I now <strong>regret having bought</strong> the car. (Often used with admit, deny, forget, recall, regret, remember).</span>\n            </div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "My mother ___ me to throw away my old toys.",
+      "options": [
+        "threatened",
+        "told",
+        "both",
+        "neither"
+      ],
+      "correctAnswer": 1,
+      "hint": "Threatened doesn't take an object before the infinitive.",
+      "explanation": "<strong>Answer: told</strong><br>Threatened doesn't take an object before the infinitive. This verb pattern requires a to-infinitive as its complement."
+    },
+    {
+      "type": "correct",
+      "sentence": "He agreed taking the position despite the long commute involved.",
+      "correction": "He agreed to take the position despite the long commute involved.",
+      "acceptable": [
+        "agreed to take"
+      ],
+      "hint": "'Agree' is followed by a to-infinitive, not a gerund.",
+      "explanation": "<strong>Answer: agreed to take</strong><br>'Agree' is followed by a to-infinitive: agree to do. Other verbs that take only a to-infinitive: decide, expect, hope, intend, manage, offer, plan, prepare, promise, refuse, tend, want, wish. A useful test: if the action follows a conscious decision or intention, it usually takes a to-infinitive."
+    },
+    {
+      "question": "My mother ___ to throw away my old toys.",
+      "options": [
+        "threatened",
+        "told",
+        "both",
+        "neither"
+      ],
+      "correctAnswer": 0,
+      "hint": "Tell requires an object.",
+      "explanation": "<strong>Answer: threatened</strong><br>'Tell' always requires a direct object (a person told): 'tell someone to do something', 'tell someone that...'. Compare 'say', which does not need an object person."
+    },
+    {
+      "type": "correct",
+      "sentence": "They decided going by train rather than driving for the whole journey.",
+      "correction": "They decided to go by train rather than driving for the whole journey.",
+      "acceptable": [
+        "decided to go"
+      ],
+      "hint": "'Decide' takes a to-infinitive: decide to do.",
+      "explanation": "<strong>Answer: decided to go</strong><br>'Decide' is always followed by 'to + infinitive'. It expresses a conscious, deliberate choice. The gerund after 'decide' is not standard: you cannot say 'decide doing'. Note: 'decided on going' is possible but uses a different pattern (decide on + gerund)."
+    },
+    {
+      "question": "When I advertised ___ a website designer...",
+      "options": [
+        "to",
+        "for",
+        "with",
+        "on"
+      ],
+      "correctAnswer": 1,
+      "hint": "Advertise for someone/something.",
+      "explanation": "<strong>Answer: for</strong><br>The preposition after 'advertise' when seeking someone or something is 'for': 'advertise for a job', 'advertise for a flatmate'. 'Advertise' without 'for' means to promote or publicise."
+    },
+    {
+      "type": "fill",
+      "question": "After three rounds of negotiation, they finally managed ___ (reach) an agreement.",
+      "answer": "to reach",
+      "hint": "'Manage' takes a to-infinitive and implies effort or difficulty.",
+      "explanation": "<strong>Answer: to reach</strong><br>'Manage' is always followed by a to-infinitive and implies that achieving the result required effort or was not easy: 'manage to do' = succeed in doing despite difficulty. Compare: 'could do' (general ability) vs 'managed to do' (specific achievement after effort)."
+    },
+    {
+      "question": "But I've now learnt that you can't rely ___ Greta to do anything.",
+      "options": [
+        "to",
+        "for",
+        "on",
+        "with"
+      ],
+      "correctAnswer": 2,
+      "hint": "Rely on someone.",
+      "explanation": "<strong>Answer: on</strong><br>The preposition after 'rely' is always 'on': 'rely on someone'. This is a fixed collocation. Compare: 'depend on', 'count on', 'trust' (no preposition)."
+    },
+    {
+      "question": "I ___ anyone Marta's new address. (agree - not tell)",
+      "options": [
+        "agreed not to tell",
+        "didn't agree to tell",
+        "agreed not telling",
+        "agreed to not tell"
+      ],
+      "correctAnswer": 0,
+      "hint": "Agree + not + to-infinitive.",
+      "explanation": "<strong>Answer: agreed not to tell</strong><br>Agree + not + to-infinitive. This verb pattern requires a to-infinitive as its complement."
+    },
+    {
+      "question": "The prisoners ___ through a broken window last night. (think - escape)",
+      "options": [
+        "thought to have escaped",
+        "are thought to have escaped",
+        "are thinking of escaping",
+        "thought to escaped"
+      ],
+      "correctAnswer": 1,
+      "hint": "Passive report + perfect infinitive.",
+      "explanation": "<strong>Answer: are thought to have escaped</strong><br>News reports and announcements use the present perfect to introduce a recent event with current relevance. The exact time is less important than the fact that the event has just happened and affects the present situation. After the first mention, the past simple is used for the details."
+    }
+  ]
+}

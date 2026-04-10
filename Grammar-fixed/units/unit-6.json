@@ -1,0 +1,327 @@
+{
+  "id": 6,
+  "title": "Present perfect continuous and present perfect",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Activity in progress until recently/now",
+      "content": "\n            <div class=\"web-text\">We use the present perfect continuous to express the idea of an activity in progress until recently or until the time of speaking. It may continue beyond this point:</div>\n            <div class=\"web-example\">\n                <span>• <strong>Have</strong> you <strong>been working</strong> in the garden <em>all day</em>? You look exhausted.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• She'<strong>s been writing</strong> the book <em>since she was in her twenties</em> and at last it's finished.</span>\n            </div>\n            <div class=\"web-text\">Note that we often use time expressions to say how long the activity has been in progress.</div>\n            <div class=\"web-text\">We don't use the present perfect continuous with verbs such as <strong>belong, know, (dis)like</strong>, and <strong>understand</strong> that describe unchanging states:</div>\n            <div class=\"web-example\">\n                <span>• <strong>Have</strong> you <strong>known</strong> each other long? (<em>not</em> Have you been knowing ...)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• I <strong>haven't liked</strong> ice cream <em>since</em> I ate too much and was sick. (<em>not</em> I haven't been liking ...)</span>\n            </div>\n            <div class=\"web-text\">When we talk about situations (general characteristics or circumstances) existing up to the present we can often use either the present perfect or present perfect continuous:</div>\n            <div class=\"web-example\">\n                <span>• We'<strong>ve been looking forward to</strong> this holiday for ages. (<em>or</em> We'<strong>ve looked forward to</strong> ...)</span>\n            </div>\n        "
+    },
+    {
+      "id": "B",
+      "title": "Extended activity vs rapid completion",
+      "content": "\n            <div class=\"web-text\">We often use the present perfect or the present perfect continuous to talk about something that has recently finished if we can still see its results. However, we generally use the present perfect continuous with verbs that suggest extended or repeated activity. Compare:</div>\n            <div class=\"web-example\">\n                <span>• He'<strong>s broken</strong> his finger and is in a lot of pain. (<em>not</em> He's been breaking ...) <em>and</em></span>\n            </div>\n            <div class=\"web-example\">\n                <span>• I'<strong>ve been playing</strong> squash and need a shower! (<em>more likely than</em> I've played ...)</span>\n            </div>\n            <div class=\"web-text\">We use the present perfect continuous rather than the present perfect when we draw a conclusion from what we can see, hear, etc. We often use this form to complain or criticise:</div>\n            <div class=\"web-example\">\n                <span>• Who'<strong>s been messing</strong> around with my papers? They're all over the place.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• You'<strong>ve been eating</strong> chocolate, haven't you? There's some on your shirt.</span>\n            </div>\n            <div class=\"web-text\">When we talk about the <em>result</em> of circumstances or an activity, we use the present perfect, rather than the present perfect continuous. When we focus on the <em>process</em> we often use either the present perfect or the present perfect continuous. Compare:</div>\n            <div class=\"web-example\">\n                <span>• Prices <strong>have decreased</strong> by 7%. (<em>not</em> Prices have been decreasing by 7%.) <em>and</em></span>\n            </div>\n            <div class=\"web-example\">\n                <span>• Prices <strong>have been decreasing</strong> recently. (<em>or</em> Prices <strong>have decreased</strong> ...)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• I'<strong>ve used</strong> three tins of paint on the kitchen walls. (<em>not</em> I've been using three tins of paint on the kitchen walls.) <em>and</em></span>\n            </div>\n            <div class=\"web-example\">\n                <span>• I'<strong>ve been using</strong> a new kind of paint on the kitchen walls. (<em>or</em> I'<strong>ve used</strong> ...)</span>\n            </div>\n        "
+    },
+    {
+      "id": "C",
+      "title": "Ongoing/repeated vs completed/specified",
+      "content": "\n            <div class=\"web-text\">The present perfect continuous emphasises that an activity is ongoing and repeated, while the present perfect suggests the activity happened only once or on a specified number of occasions:</div>\n            <div class=\"web-example\">\n                <span>• Miguel <strong>has been kicking</strong> a football against the wall all day. (<em>more likely than</em> ... <strong>has kicked</strong> ...)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• He <strong>has played</strong> for the national team in 65 matches so far. (<em>not</em> He has been playing for the national team in 65 matches so far.)</span>\n            </div>\n            <div class=\"web-text\">Compare:</div>\n            <div class=\"web-example\">\n                <span>• The workers <strong>have been calling</strong> for the chairman's resignation. (= emphasises a number of times, probably over an extended period) <em>and</em></span>\n            </div>\n            <div class=\"web-example\">\n                <span>• Workers <strong>have called</strong> for management to begin negotiations on pay. (= maybe a number of times or only once.)</span>\n            </div>\n        "
+    }
+  ],
+  "exercises": [
+    {
+      "question": "Martina Gonzalez ___ in a rented flat since returning to Buenos Aires.",
+      "options": [
+        "has stayed",
+        "has been staying",
+        "was staying",
+        "had stayed"
+      ],
+      "correctAnswer": 1,
+      "hint": "Focus on the ongoing process/extended activity over a period.",
+      "explanation": "<strong>Answer: has been staying</strong><br>We use the <em>present perfect continuous</em> here to emphasise an ongoing or recently continuing activity.<br><small>💡 Focus on the ongoing process/extended activity over a period.</small>"
+    },
+    {
+      "question": "We ___ at this hotel a couple of times before.",
+      "options": [
+        "have stayed",
+        "have been staying",
+        "has been staying",
+        "had stayed"
+      ],
+      "correctAnswer": 0,
+      "hint": "A specified number of occasions ('a couple of times').",
+      "explanation": "<strong>Answer: have stayed</strong><br>A specified number of occasions ('a couple of times'). The present perfect links past events to the present. The key signals are: <em>just, already, yet, ever, never, since, for, recently</em>, and incomplete time expressions like <em>this week</em> or <em>today</em> (when not yet over)."
+    },
+    {
+      "question": "All day, the police ___ motorists to question them about the accident.",
+      "options": [
+        "have stopped",
+        "have been stopping",
+        "had stopped",
+        "had been stopping"
+      ],
+      "correctAnswer": 1,
+      "hint": "Ongoing and repeated activity ('All day').",
+      "explanation": "<strong>Answer: have been stopping</strong><br>We use the <em>present perfect continuous</em> here to emphasise an ongoing or recently continuing activity.<br><small>💡 Ongoing and repeated activity ('All day').</small>"
+    },
+    {
+      "question": "Good, the noise ___. I can start concentrating on my work again.",
+      "options": [
+        "has stopped",
+        "has been stopping",
+        "has stoppeding",
+        "has been stopped"
+      ],
+      "correctAnswer": 0,
+      "hint": "Completed single event with a present result.",
+      "explanation": "<strong>Answer: has stopped</strong><br>Completed single event with a present result. The present perfect links past events to the present. The key signals are: <em>just, already, yet, ever, never, since, for, recently</em>, and incomplete time expressions like <em>this week</em> or <em>today</em> (when not yet over)."
+    },
+    {
+      "type": "fill",
+      "question": "I'm exhausted. I ___ (work) all day without a break.",
+      "answer": "have been working",
+      "acceptable": [
+        "'ve been working"
+      ],
+      "hint": "Emphasis on duration of continuous activity up to now → present perfect continuous.",
+      "explanation": "<strong>Answer: have been working</strong><br>The present perfect continuous emphasises the duration of an ongoing activity. 'All day' is the key duration signal. The tiredness is the present result of the extended activity."
+    },
+    {
+      "question": "I ___ any of Dickens' novels. (read - negative)",
+      "options": [
+        "haven't read",
+        "haven't been reading",
+        "hadn't read",
+        "hadn't been reading"
+      ],
+      "correctAnswer": 0,
+      "hint": "Talking about general life experience or result.",
+      "explanation": "<strong>Answer: haven't read</strong><br>Talking about general life experience or result. "
+    },
+    {
+      "question": "I ___ this book on astrophysics for hours and I'm still only on page six.",
+      "options": [
+        "have read",
+        "have been reading",
+        "had read",
+        "had been reading"
+      ],
+      "correctAnswer": 1,
+      "hint": "Focus on the process ('for hours') and it's incomplete.",
+      "explanation": "<strong>Answer: have been reading</strong><br>We use the <em>present perfect continuous</em> here to emphasise an ongoing or recently continuing activity.<br><small>💡 Focus on the process ('for hours') and it's incomplete.</small>"
+    },
+    {
+      "question": "Dr Fletcher ___ the same lecture to students for the last ten years. (give)",
+      "options": [
+        "has given",
+        "has been giving",
+        "had given",
+        "had been giving"
+      ],
+      "correctAnswer": 1,
+      "hint": "Ongoing repeated action over an extended period.",
+      "explanation": "<strong>Answer: has been giving</strong><br>We use the <em>present perfect continuous</em> here to emphasise an ongoing or recently continuing activity.<br><small>💡 Ongoing repeated action over an extended period.</small>"
+    },
+    {
+      "question": "Mr Sato ___ nearly a million pounds to the charity this year.",
+      "options": [
+        "has given",
+        "has been giving",
+        "had given",
+        "had been giving"
+      ],
+      "correctAnswer": 0,
+      "hint": "Focus on the <i>result</i> (quantity: nearly a million pounds).",
+      "explanation": "<strong>Answer: has given</strong><br>Focus on the <i>result</i> (quantity: nearly a million pounds). The present perfect links past events to the present. The key signals are: <em>just, already, yet, ever, never, since, for, recently</em>, and incomplete time expressions like <em>this week</em> or <em>today</em> (when not yet over)."
+    },
+    {
+      "type": "fill",
+      "question": "Someone ___ (eat) my sandwich! Half of it is gone.",
+      "answer": "has eaten",
+      "acceptable": [
+        "'s eaten"
+      ],
+      "hint": "Completed action with present evidence (half gone) → present perfect simple.",
+      "explanation": "<strong>Answer: has eaten</strong><br>Use the present perfect simple when the action is complete and the focus is on the present result or evidence. The sandwich being half-gone is the visible consequence."
+    },
+    {
+      "question": "I did 20 lengths of the pool today. I ___ that far since I was at school. (swim - negative)",
+      "options": [
+        "haven't swum",
+        "haven't been swimming",
+        "haven't swuming",
+        "haven't been swimmed"
+      ],
+      "correctAnswer": 0,
+      "hint": "State of not having done the activity, general experience.",
+      "explanation": "<strong>Answer: haven't swum</strong><br>State of not having done the activity, general experience. "
+    },
+    {
+      "question": "I ___ and I feel exhausted.",
+      "options": [
+        "have swum",
+        "have been swimming",
+        "have swuming",
+        "have been swimmed"
+      ],
+      "correctAnswer": 1,
+      "hint": "Recently finished extended activity causing a present result/conclusion.",
+      "explanation": "<strong>Answer: have been swimming</strong><br>We use the <em>present perfect continuous</em> here to emphasise an ongoing or recently continuing activity.<br><small>💡 Recently finished extended activity causing a present result/conclusion.</small>"
+    },
+    {
+      "question": "In recent years, companies ___ increasing resources into internet marketing.",
+      "options": [
+        "have put",
+        "have been putting",
+        "had put",
+        "had been putting"
+      ],
+      "correctAnswer": 1,
+      "hint": "General circumstance/trend existing up to the present.",
+      "explanation": "<strong>Answer: have been putting</strong><br>We use the <em>present perfect continuous</em> here to emphasise an ongoing or recently continuing activity.<br><small>💡 General circumstance/trend existing up to the present.</small>"
+    },
+    {
+      "question": "The South African coal company ___ the Calverton Mine up for sale.",
+      "options": [
+        "has put",
+        "has been putting",
+        "has puting",
+        "has been putted"
+      ],
+      "correctAnswer": 0,
+      "hint": "Single completed event.",
+      "explanation": "<strong>Answer: has put</strong><br>Single completed event. The present perfect links past events to the present. The key signals are: <em>just, already, yet, ever, never, since, for, recently</em>, and incomplete time expressions like <em>this week</em> or <em>today</em> (when not yet over)."
+    },
+    {
+      "type": "fill",
+      "question": "How long ___ (you / study) English?",
+      "answer": "have you been studying",
+      "acceptable": [
+        "have you studied"
+      ],
+      "hint": "Question about duration of ongoing activity → present perfect continuous preferred.",
+      "explanation": "<strong>Answer: have you been studying</strong><br>With 'how long' and an activity that is still ongoing, the present perfect continuous is preferred because it emphasises the continuous duration up to now."
+    },
+    {
+      "question": "An important file ___ from my office.",
+      "options": [
+        "has disappeared",
+        "has been disappearing",
+        "has disappeareding",
+        "has been disappeared"
+      ],
+      "correctAnswer": 0,
+      "hint": "Single completed event.",
+      "explanation": "<strong>Answer: has disappeared</strong><br>Single completed event. The present perfect links past events to the present. The key signals are: <em>just, already, yet, ever, never, since, for, recently</em>, and incomplete time expressions like <em>this week</em> or <em>today</em> (when not yet over)."
+    },
+    {
+      "question": "Plants and vegetables ___ from my garden since we had new neighbours.",
+      "options": [
+        "have disappeared",
+        "have been disappearing",
+        "was disappearing",
+        "has been disappearing"
+      ],
+      "correctAnswer": 1,
+      "hint": "Repeated, ongoing occurrences.",
+      "explanation": "<strong>Answer: have been disappearing</strong><br>We use the <em>present perfect continuous</em> here to emphasise an ongoing or recently continuing activity.<br><small>💡 Repeated, ongoing occurrences.</small>"
+    },
+    {
+      "question": "'...and in 1957 alone around 6,000 people have been dying.' Correct?",
+      "options": [
+        "Correct",
+        "Should be 'died' (past simple) or 'have died'",
+        "Correcting",
+        "Should be 'died' (past simple) or 'have died'ing"
+      ],
+      "correctAnswer": 1,
+      "hint": "A completed number ('6,000 people') in a finished past period ('1957 alone').",
+      "explanation": "<strong>Answer: Should be 'died' (past simple) or 'have died'</strong><br>A completed number ('6,000 people') in a finished past period ('1957 alone'). The present perfect links past events to the present. The key signals are: <em>just, already, yet, ever, never, since, for, recently</em>, and incomplete time expressions like <em>this week</em> or <em>today</em> (when not yet over)."
+    },
+    {
+      "question": "'...producing over a hundred books...' - 'we have been producing over a hundred books'. Correct?",
+      "options": [
+        "Correct",
+        "Should be 'have produced'",
+        "Should be 'had produced'",
+        "Correcting"
+      ],
+      "correctAnswer": 1,
+      "hint": "When we focus on the result/number produced ('over a hundred books'), use present perfect.",
+      "explanation": "<strong>Answer: Should be 'have produced'</strong><br>When we focus on the result/number produced ('over a hundred books'), use present perfect. The present perfect links past events to the present. The key signals are: <em>just, already, yet, ever, never, since, for, recently</em>, and incomplete time expressions like <em>this week</em> or <em>today</em> (when not yet over)."
+    },
+    {
+      "type": "fill",
+      "question": "She ___ (write) three novels. Her latest is brilliant.",
+      "answer": "has written",
+      "acceptable": [
+        "'s written"
+      ],
+      "hint": "Completed, countable achievements → present perfect simple (not continuous).",
+      "explanation": "<strong>Answer: has written</strong><br>When talking about completed, countable achievements ('three novels'), use the present perfect simple. The continuous would suggest the writing is still ongoing."
+    },
+    {
+      "question": "'...in 2012 they have been awarding the National Prize...' Correct?",
+      "options": [
+        "Correct",
+        "Should be 'awarded' (past simple)",
+        "Correcting",
+        "Should be 'awarded' (past simple)ing"
+      ],
+      "correctAnswer": 1,
+      "hint": "A specific single finished event in a finished past time ('in 2012').",
+      "explanation": "<strong>Answer: Should be 'awarded' (past simple)</strong><br>A specific single finished event in a finished past time ('in 2012'). "
+    },
+    {
+      "question": "'It is a tragedy that the government has been making this decision now.' Correct?",
+      "options": [
+        "Correct",
+        "Should be 'has made'",
+        "Should be 'had made'",
+        "Correcting"
+      ],
+      "correctAnswer": 1,
+      "hint": "A single completed decision, not an ongoing process.",
+      "explanation": "<strong>Answer: Should be 'has made'</strong><br>A single completed decision, not an ongoing process. The present perfect links past events to the present. The key signals are: <em>just, already, yet, ever, never, since, for, recently</em>, and incomplete time expressions like <em>this week</em> or <em>today</em> (when not yet over)."
+    },
+    {
+      "question": "'...the present government has been announcing this cut...' Correct?",
+      "options": [
+        "Correct",
+        "Should be 'has announced'",
+        "Correcting",
+        "Should be 'has announced'ing"
+      ],
+      "correctAnswer": 1,
+      "hint": "A single completed action.",
+      "explanation": "<strong>Answer: Should be 'has announced'</strong><br>A single completed action. The present perfect links past events to the present. The key signals are: <em>just, already, yet, ever, never, since, for, recently</em>, and incomplete time expressions like <em>this week</em> or <em>today</em> (when not yet over)."
+    },
+    {
+      "question": "'...I have been finding evidence that they...' Correct?",
+      "options": [
+        "Correct",
+        "Should be 'have found'",
+        "Correcting",
+        "Should be 'have found'ing"
+      ],
+      "correctAnswer": 1,
+      "hint": "Focus on the completed result of the search ('finding evidence').",
+      "explanation": "<strong>Answer: Should be 'have found'</strong><br>Focus on the completed result of the search ('finding evidence'). "
+    },
+    {
+      "question": "'I have been speaking to the Minister about this yesterday...' Correct?",
+      "options": [
+        "Correct",
+        "Should be 'spoke'",
+        "Correcting",
+        "Should be 'spoke'ing"
+      ],
+      "correctAnswer": 1,
+      "hint": "A finished action in a finished past time frame ('yesterday').",
+      "explanation": "<strong>Answer: Should be 'spoke'</strong><br>A finished action in a finished past time frame ('yesterday'). "
+    },
+    {
+      "question": "'...and have also been writing to the Prime Minister demanding...' Correct?",
+      "options": [
+        "Correct",
+        "Should be 'have also written' or 'also wrote'",
+        "Correcting",
+        "Should be 'have also written' or 'also wrote'ing"
+      ],
+      "correctAnswer": 1,
+      "hint": "Likely a single completed letter.",
+      "explanation": "<strong>Answer: Should be 'have also written' or 'also wrote'</strong><br>Likely a single completed letter. "
+    }
+  ]
+}

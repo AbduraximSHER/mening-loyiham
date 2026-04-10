@@ -1,0 +1,114 @@
+{
+  "id": 73,
+  "title": "Word Formation: Prefixes",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Negative prefixes",
+      "content": "<div class=\"web-text\">Prefixes that create opposite or negative meanings:</div><div class=\"web-example\"><span>• <strong>un-</strong>: unable, unusual, unfair. <em>The decision was completely unfair.</em></span></div><div class=\"web-example\"><span>• <strong>dis-</strong>: disagree, disapprove, disconnect. <em>I strongly disagree with that statement.</em></span></div><div class=\"web-example\"><span>• <strong>mis-</strong>: misunderstand, mislead, misinterpret. <em>Don't misinterpret my silence as agreement.</em></span></div><div class=\"web-example\"><span>• <strong>in-/im-/il-/ir-</strong>: invisible, impossible, illegal, irregular. <em>It's impossible to finish by tomorrow.</em></span></div><div class=\"web-example\"><span>• <strong>over-</strong>: overestimate, overreact, overcharge. <em>People often overestimate their abilities.</em></span></div>"
+    },
+    {
+      "id": "B",
+      "title": "Other useful prefixes",
+      "content": "<div class=\"web-text\">Prefixes that modify meaning in various ways:</div><div class=\"web-example\"><span>• <strong>re-</strong>: redo, reconsider, rebuild. <em>We had to rebuild the entire system.</em></span></div><div class=\"web-example\"><span>• <strong>pre-</strong>: preview, predict, prejudge. <em>Don't prejudge people based on appearance.</em></span></div><div class=\"web-example\"><span>• <strong>under-</strong>: underestimate, underpaid, underperform. <em>Never underestimate the power of practice.</em></span></div><div class=\"web-example\"><span>• <strong>co-</strong>: cooperate, co-exist, co-author. <em>The two species co-exist peacefully in the forest.</em></span></div><div class=\"web-example\"><span>• <strong>multi-</strong>: multilingual, multicultural, multitask. <em>Being multilingual is a huge advantage in business.</em></span></div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "The prefix meaning 'wrongly' is:",
+      "options": [
+        "dis-",
+        "pre-",
+        "mis-",
+        "un-"
+      ],
+      "correctAnswer": 2,
+      "hint": "As in misunderstand.",
+      "explanation": "The prefix <strong>mis-</strong> means wrongly or incorrectly."
+    },
+    {
+      "question": "Which prefix means 'too much'?",
+      "options": [
+        "under-",
+        "over-",
+        "ultra-",
+        "re-"
+      ],
+      "correctAnswer": 1,
+      "hint": "Exceeding the right amount.",
+      "explanation": "The prefix <strong>over-</strong> means too much or excessively."
+    },
+    {
+      "question": "The prefix 're-' means:",
+      "options": [
+        "anti-",
+        "again",
+        "not",
+        "together"
+      ],
+      "correctAnswer": 1,
+      "hint": "Doing something once more.",
+      "explanation": "The prefix <strong>re-</strong> means again or back."
+    },
+    {
+      "question": "Which word means 'not legal'?",
+      "options": [
+        "dislegal",
+        "unlegal",
+        "illegal",
+        "mislegal"
+      ],
+      "correctAnswer": 2,
+      "hint": "The prefix changes before 'l'.",
+      "explanation": "<strong>Illegal</strong> uses the prefix il- (variant of in-) before words starting with 'l'."
+    },
+    {
+      "question": "'Underestimate' means to:",
+      "options": [
+        "estimate too highly",
+        "refuse to estimate",
+        "estimate correctly",
+        "estimate too lowly"
+      ],
+      "correctAnswer": 3,
+      "hint": "Not giving enough credit.",
+      "explanation": "<strong>Underestimate</strong> means to estimate something to be smaller or less important than it actually is."
+    },
+    {
+      "question": "The prefix 'pre-' means:",
+      "options": [
+        "during",
+        "after",
+        "without",
+        "before"
+      ],
+      "correctAnswer": 3,
+      "hint": "As in 'preview' — seeing before.",
+      "explanation": "The prefix <strong>pre-</strong> means before in time or order."
+    },
+    {
+      "question": "Which prefix means 'together' or 'jointly'?",
+      "options": [
+        "re-",
+        "co-",
+        "multi-",
+        "un-"
+      ],
+      "correctAnswer": 1,
+      "hint": "Working together.",
+      "explanation": "The prefix <strong>co-</strong> means together, jointly, or mutually."
+    },
+    {
+      "question": "A person who speaks many languages is:",
+      "options": [
+        "unilingual",
+        "bilingual",
+        "multilingual",
+        "dislingual"
+      ],
+      "correctAnswer": 2,
+      "hint": "Multi- means many.",
+      "explanation": "<strong>Multilingual</strong> means able to speak several languages."
+    }
+  ]
+}

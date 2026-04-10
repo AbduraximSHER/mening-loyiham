@@ -1,0 +1,108 @@
+{
+  "id": 32,
+  "title": "Verb + -ing forms and infinitives 3",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Verb + -ing or to-infinitive (similar meaning)",
+      "content": "<div class=\"web-text\">Some verbs can be followed by an <strong>-ing form</strong> or a <strong>to-infinitive</strong> with little difference in meaning. These include: <strong>attempt, begin, can't bear, cease, continue, hate, intend, like, love, prefer, start</strong>.</div>\n            <div class=\"web-example\">\n                <span>• I <strong>began to learn</strong> / <strong>learning</strong> Chinese when I was at university.</span>\n            </div>\n            <div class=\"web-text\">However, we often prefer a <strong>to-infinitive</strong> if the verb itself is in a continuous form:</div>\n            <div class=\"web-example\">\n                <span>• I'm <strong>beginning to learn</strong> Chinese. (not I'm beginning learning Chinese.)</span>\n            </div>\n            <div class=\"web-text\">And after <strong>like, love, hate, prefer</strong> we use an <strong>-ing form</strong> when we talk about a <em>hobby</em> or <em>something we enjoy</em>, but we use a <strong>to-infinitive</strong> when we talk about <em>choices / habits</em>:</div>\n            <div class=\"web-example\">\n                <span>• I <strong>like bouldering</strong>. (hobby) <em>but</em> I <strong>like to update</strong> my blog twice a week. (habit)</span>\n            </div>"
+    },
+    {
+      "id": "B",
+      "title": "Verb + -ing or to-infinitive (different meaning)",
+      "content": "<div class=\"web-text\">Other verbs can be followed by an <strong>-ing form</strong> or a <strong>to-infinitive</strong>, but there is a <em>difference in meaning</em>. Consider: <strong>dread, forget, go on, mean, regret, remember, stop, try</strong>.</div>\n            <div class=\"web-example\">\n                <span>• I <strong>remembered to lock</strong> the door. (I didn't forget)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• I <strong>remembered locking</strong> the door. (I have a memory of it)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• He <strong>stopped to smoke</strong>. (He stopped what he was doing in order to smoke)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• He <strong>stopped smoking</strong>. (He gave up the habit)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• I <strong>tried to move</strong> the table. (I made an effort but failed)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• I <strong>tried moving</strong> the table. (I moved it to see if the room looked better)</span>\n            </div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "I'm beginning ___ that it was a mistake to come here.",
+      "options": [
+        "to think",
+        "thinking",
+        "both",
+        "neither"
+      ],
+      "correctAnswer": 0,
+      "hint": "After continuous 'beginning', use to-infinitive.",
+      "explanation": "<strong>Answer: to think</strong><br>After continuous 'beginning', use to-infinitive. This verb pattern requires a to-infinitive as its complement."
+    },
+    {
+      "type": "correct",
+      "sentence": "I clearly remember to post the letter because I bought stamps specially.",
+      "correction": "I clearly remember posting the letter because I bought stamps specially.",
+      "acceptable": [
+        "remember posting"
+      ],
+      "hint": "'Remember + -ing' = recall a past action. 'Remember + to-infinitive' = don't forget (future task).",
+      "explanation": "<strong>Answer: remember posting</strong><br>'Remember + -ing' means to have a memory of a past action: 'I remember locking the door' = I recall doing it. 'Remember + to-infinitive' means not to forget to do a future task: 'Remember to lock the door' = don't forget to do it. The past context here ('bought stamps specially') confirms the -ing form is needed."
+    },
+    {
+      "question": "I like ___ the room every morning before I start work.",
+      "options": [
+        "cleaning",
+        "to clean",
+        "both",
+        "neither"
+      ],
+      "correctAnswer": 1,
+      "hint": "Talking about a habit/routine.",
+      "explanation": "<strong>Answer: to clean</strong><br>Talking about a habit/routine. Repeated or habitual actions use the present simple, not the continuous."
+    },
+    {
+      "type": "correct",
+      "sentence": "She stopped to smoke three years ago after her doctor's warning.",
+      "correction": "She stopped smoking three years ago after her doctor's warning.",
+      "acceptable": [
+        "stopped smoking"
+      ],
+      "hint": "'Stop + -ing' = quit that activity. 'Stop + to-infinitive' = pause in order to do something.",
+      "explanation": "<strong>Answer: stopped smoking</strong><br>'Stop + -ing' = give up or quit the activity: 'stopped smoking' means she no longer smokes. 'Stop + to-infinitive' means pause what you're doing in order to do something else: 'She stopped to smoke' would mean she paused (e.g. walking) in order to have a cigarette — the opposite meaning."
+    },
+    {
+      "question": "I regret ___ him that he hadn't got the job.",
+      "options": [
+        "to tell",
+        "telling",
+        "both",
+        "neither"
+      ],
+      "correctAnswer": 0,
+      "hint": "Regret + to-infinitive is used for bad news/formal statements.",
+      "explanation": "<strong>Answer: to tell</strong><br>Regret + to-infinitive is used for bad news/formal statements. This verb pattern requires a to-infinitive as its complement."
+    },
+    {
+      "type": "fill",
+      "question": "I tried ___ (open) the window but it was completely stuck.",
+      "answer": "to open",
+      "acceptable": [
+        "opening"
+      ],
+      "hint": "'Try to do' = attempt (but may fail). 'Try doing' = experiment with as a possible solution.",
+      "explanation": "<strong>Answer: to open</strong><br>'Try + to-infinitive' means attempt to do something (possibly without success): 'tried to open' = attempted but found it stuck. 'Try + -ing' means experiment with something as a possible solution: 'Try opening the window' = why not try that approach. Here, the stuck window confirms 'tried to open' (attempted, failed)."
+    },
+    {
+      "question": "After two years in the job, she went on ___ the company's youngest manager.",
+      "options": [
+        "to become",
+        "becoming",
+        "both",
+        "neither"
+      ],
+      "correctAnswer": 0,
+      "hint": "Go on + to-infinitive = move to a new action.",
+      "explanation": "<strong>Answer: to become</strong><br>Go on + to-infinitive = move to a new action. This verb pattern requires a to-infinitive as its complement."
+    },
+    {
+      "question": "She went on ___ despite the noise.",
+      "options": [
+        "to talk",
+        "talking",
+        "both",
+        "neither"
+      ],
+      "correctAnswer": 1,
+      "hint": "Go on + -ing = continue the same action.",
+      "explanation": "<strong>Answer: talking</strong><br>Go on + -ing = continue the same action. This verb pattern requires a gerund (-ing form) as its object."
+    }
+  ]
+}

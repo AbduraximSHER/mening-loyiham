@@ -1,0 +1,114 @@
+{
+  "id": 99,
+  "title": "Phrasal Verbs: Advanced",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Three-word phrasal verbs",
+      "content": "<div class=\"web-text\">Advanced three-word phrasal verbs for fluent English:</div><div class=\"web-example\"><span>• <strong>come up against</strong> — face a difficulty. <em>We came up against unexpected resistance from the council.</em></span></div><div class=\"web-example\"><span>• <strong>look forward to</strong> — anticipate with pleasure. <em>I'm looking forward to the summer holidays.</em></span></div><div class=\"web-example\"><span>• <strong>get away with</strong> — avoid punishment. <em>He broke the rules but got away with it.</em></span></div><div class=\"web-example\"><span>• <strong>cut down on</strong> — reduce the amount. <em>Doctors advise cutting down on sugar and salt.</em></span></div><div class=\"web-example\"><span>• <strong>live up to</strong> — meet expectations. <em>The film didn't live up to the hype.</em></span></div>"
+    },
+    {
+      "id": "B",
+      "title": "More advanced phrasal verbs",
+      "content": "<div class=\"web-text\">Phrasal verbs for sophisticated expression:</div><div class=\"web-example\"><span>• <strong>do away with</strong> — abolish or eliminate. <em>The company did away with unnecessary paperwork.</em></span></div><div class=\"web-example\"><span>• <strong>make up for</strong> — compensate for. <em>She worked extra hours to make up for lost time.</em></span></div><div class=\"web-example\"><span>• <strong>stand up for</strong> — defend a cause or person. <em>He always stands up for what he believes in.</em></span></div><div class=\"web-example\"><span>• <strong>go back on</strong> — break a promise. <em>You can't go back on your word now.</em></span></div><div class=\"web-example\"><span>• <strong>get on with</strong> — continue doing something. <em>Stop complaining and get on with your work.</em></span></div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "To meet expectations or standards is to live up ___:",
+      "options": [
+        "set up",
+        "to",
+        "step down",
+        "take on"
+      ],
+      "correctAnswer": 1,
+      "hint": "Matching what was hoped for.",
+      "explanation": "<strong>Live up to</strong> means to fulfil expectations."
+    },
+    {
+      "question": "To eliminate or abolish something is to do away ___:",
+      "options": [
+        "from",
+        "call off",
+        "stand out",
+        "with"
+      ],
+      "correctAnswer": 3,
+      "hint": "Getting rid of it entirely.",
+      "explanation": "<strong>Do away with</strong> means to abolish or put an end to."
+    },
+    {
+      "question": "To avoid being punished is to get away ___:",
+      "options": [
+        "from",
+        "back down",
+        "with",
+        "work out"
+      ],
+      "correctAnswer": 2,
+      "hint": "Escaping consequences.",
+      "explanation": "<strong>Get away with</strong> means to escape blame or punishment."
+    },
+    {
+      "question": "To reduce your consumption of something is to cut down ___:",
+      "options": [
+        "back down",
+        "set up",
+        "stand out",
+        "on"
+      ],
+      "correctAnswer": 3,
+      "hint": "Eating less, spending less.",
+      "explanation": "<strong>Cut down on</strong> means to reduce the amount or quantity of."
+    },
+    {
+      "question": "To break a promise is to go back ___:",
+      "options": [
+        "fall through",
+        "set up",
+        "carry on",
+        "on"
+      ],
+      "correctAnswer": 3,
+      "hint": "Not keeping your word.",
+      "explanation": "<strong>Go back on</strong> means to fail to keep a promise."
+    },
+    {
+      "question": "To compensate for a loss is to make up ___:",
+      "options": [
+        "bring up",
+        "turn up",
+        "for",
+        "step down"
+      ],
+      "correctAnswer": 2,
+      "hint": "Balancing out.",
+      "explanation": "<strong>Make up for</strong> means to compensate for something."
+    },
+    {
+      "question": "To defend a person or principle is to stand up ___:",
+      "options": [
+        "for",
+        "step down",
+        "carry on",
+        "take on"
+      ],
+      "correctAnswer": 0,
+      "hint": "Supporting what's right.",
+      "explanation": "<strong>Stand up for</strong> means to defend or support a person or principle."
+    },
+    {
+      "question": "To face a difficulty or obstacle is to come up ___:",
+      "options": [
+        "against",
+        "bring up",
+        "call off",
+        "set up"
+      ],
+      "correctAnswer": 0,
+      "hint": "Encountering a problem.",
+      "explanation": "<strong>Come up against</strong> means to be faced with or opposed by."
+    }
+  ]
+}

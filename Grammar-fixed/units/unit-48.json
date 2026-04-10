@@ -1,0 +1,124 @@
+{
+  "id": 48,
+  "title": "Some and any",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Some",
+      "content": "<div class=\"web-text\">Before plural and uncountable nouns we sometimes use <strong>some</strong> or <strong>zero article</strong> (i.e. no article) with very little difference in meaning:</div>\n            <div class=\"web-example\">\n                <span>• 'Where were you last week?' 'I was visiting <strong>(some) friends</strong>.'</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• Before serving, pour <strong>(some) yoghurt</strong> over the top.</span>\n            </div>\n            <div class=\"web-text\">With both <strong>some</strong> and <strong>zero article</strong>, we are referring to particular people or things but in an indefinite way. We don't use <strong>some</strong> to make general statements about whole classes of things or people:</div>\n            <div class=\"web-example\">\n                <span>• <strong>Machinery</strong> can be dangerous unless used properly. (not Some machinery ... unless referring to a subset)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• <strong>Babies</strong> need a lot of attention.</span>\n            </div>"
+    },
+    {
+      "id": "B",
+      "title": "Some before numbers",
+      "content": "<div class=\"web-text\"><strong>Some</strong> is used before a number to mean 'approximately':</div>\n            <div class=\"web-example\">\n                <span>• <strong>Some eighty per cent</strong> of all residents took part in the vote. (= approximately eighty per cent)</span>\n            </div>"
+    },
+    {
+      "id": "C",
+      "title": "Some with a singular noun",
+      "content": "<div class=\"web-text\">When we don't know, can't remember, or it is not important exactly which person or thing we are talking about, we can use <strong>some</strong> instead of <strong>a / an</strong> with a singular noun.</div>\n            <div class=\"web-example\">\n                <span>• He was interrupted twice by <strong>some troublemaker</strong> in the audience.</span>\n            </div>\n            <div class=\"web-text\">We use the phrase <strong>some (thing) or other</strong> in a similar way:</div>\n            <div class=\"web-example\">\n                <span>• I bought them from <strong>some shop or other</strong> in New Street. (not ... from a shop or other ...)</span>\n            </div>"
+    },
+    {
+      "id": "D",
+      "title": "Any vs Some in negative contexts",
+      "content": "<div class=\"web-text\">We usually use <strong>any</strong> not <strong>some</strong> (and <strong>anyone, anything</strong>, etc. not <strong>someone, something</strong>, etc.) in non-affirmative contexts to refer to non-specific, unspecified things. We generally use <strong>any</strong> in sentences with a negative meaning:</div>\n            <div class=\"web-example\">\n                <span>• There's <em>hardly</em> <strong>any</strong> sugar left.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• I closed the windows to <em>prevent</em> <strong>any</strong> flies getting in.</span>\n            </div>\n            <div class=\"web-text\">Also with: <strong>barely, never, rarely, scarcely, seldom; deny, fail, forbid, prohibit, refuse; reluctant, unable, unlikely</strong>.</div>\n            <div class=\"web-text\">However, we use <strong>some</strong> with these negative words:</div>\n            <div class=\"web-text\">- when <strong>some</strong> has the implication 'not all':</div>\n            <div class=\"web-example\">\n                <span>• I talk to colleagues <em>before</em> I make <strong>some</strong> decisions, but I had to make this one on my own.</span>\n            </div>\n            <div class=\"web-text\">- when the basic meaning is positive:</div>\n            <div class=\"web-example\">\n                <span>• <strong>Somebody</strong> <em>isn't</em> telling the truth. (= There is some person [who isn't telling the truth])</span>\n            </div>\n            <div class=\"web-text\">- when we are talking about a particular but unspecified person or thing:</div>\n            <div class=\"web-example\">\n                <span>• I was <em>reluctant</em> to repeat <strong>something</strong> so critical of Paul. (= a specific criticism)</span>\n            </div>"
+    },
+    {
+      "id": "E",
+      "title": "Any with before and comparisons",
+      "content": "<div class=\"web-text\">We often use <strong>any</strong> in clauses that begin with <strong>before</strong>, and with comparisons:</div>\n            <div class=\"web-example\">\n                <span>• I cleared up the mess <strong>before anyone</strong> saw it. ('... before someone saw it' suggests that I have a particular person in mind who might see it)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• The material felt <em>softer than</em> <strong>anything</strong> she had ever touched before.</span>\n            </div>\n            <div class=\"web-text\"><strong>Anything</strong> can be used in clauses where some words have been left out:</div>\n            <div class=\"web-example\">\n                <span>• <strong>Anything</strong> you need, just ask. (= If there is anything you need...)</span>\n            </div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "Sports are dangerous. (Correct this sentence if necessary)",
+      "options": [
+        "Some sports are dangerous.",
+        "Sports are some dangerous.",
+        "The sentence is already correct.",
+        "Any sports are dangerous."
+      ],
+      "correctAnswer": 0,
+      "hint": "When not referring to the whole class of things, we use 'some' to refer to a subset.",
+      "explanation": "<strong>Answer: Some sports are dangerous.</strong><br>When not referring to the whole class of things, we use 'some' to refer to a subset. "
+    },
+    {
+      "type": "correct",
+      "sentence": "Would you like any more coffee? There's plenty left.",
+      "correction": "Would you like some more coffee? There's plenty left.",
+      "acceptable": [
+        "Would you like some more coffee?"
+      ],
+      "hint": "In offers, use 'some' (not 'any') — 'some' makes the offer sound genuine and positive.",
+      "explanation": "<strong>Answer: Would you like some more coffee?</strong><br>In offers and requests where the speaker expects or hopes for a 'yes' answer, use 'some', not 'any'. 'Any' in questions is neutral or suggests doubt. 'Some' in questions softens and invites acceptance: 'Would you like some tea?' sounds welcoming; 'Would you like any tea?' sounds more indifferent."
+    },
+    {
+      "question": "250 people charged with assault following Molton riots. (Rewrite using 'some' to mean 'approximately')",
+      "options": [
+        "Some 250 people have been charged...",
+        "250 some people have been charged...",
+        "Some people (250) have been charged...",
+        "People charged with some assault..."
+      ],
+      "correctAnswer": 0,
+      "hint": "'Some' can be used before a number to mean approximately.",
+      "explanation": "<strong>Answer: Some 250 people have been charged...</strong><br>'Some' can be used before a number to mean approximately. The present perfect links past events to the present. The key signals are: <em>just, already, yet, ever, never, since, for, recently</em>, and incomplete time expressions like <em>this week</em> or <em>today</em> (when not yet over)."
+    },
+    {
+      "type": "correct",
+      "sentence": "I don't have some money on me — could you lend me a few pounds?",
+      "correction": "I don't have any money on me — could you lend me a few pounds?",
+      "acceptable": [
+        "I don't have any money on me"
+      ],
+      "hint": "In negative sentences, use 'any' — not 'some'.",
+      "explanation": "<strong>Answer: I don't have any money on me</strong><br>In negative sentences, use 'any' (not 'some'): 'I don't have any money', 'There isn't any time left', 'She hasn't eaten any breakfast'. 'Some' in negatives ('I don't have some money') sounds incorrect in standard English. The pattern: affirmative → some; negative → any; questions → any (neutral) or some (offer)."
+    },
+    {
+      "question": "I don't know where I got the information from. I must have heard it on ___ radio programme (or other).",
+      "options": [
+        "some",
+        "a",
+        "the",
+        "any"
+      ],
+      "correctAnswer": 0,
+      "hint": "When we don't remember exactly which one, we can use 'some' with a singular noun.",
+      "explanation": "<strong>Answer: some</strong><br>When we don't remember exactly which one, we can use 'some' with a singular noun. "
+    },
+    {
+      "type": "correct",
+      "sentence": "Is there some problem with the connection? It keeps dropping.",
+      "correction": "Is there any problem with the connection? It keeps dropping.",
+      "acceptable": [
+        "Is there any problem with the connection?",
+        "Is something wrong with the connection?"
+      ],
+      "hint": "In neutral questions (not offers), use 'any'.",
+      "explanation": "<strong>Answer: Is there any problem with the connection?</strong><br>In neutral questions — where you don't know the answer and aren't making an offer — use 'any': 'Is there any problem?', 'Do you have any questions?', 'Has anyone called?' Use 'some' in questions only when making an offer or when you expect the answer to be yes."
+    },
+    {
+      "question": "Elias worked hard at learning Japanese but failed to make ___ real progress.",
+      "options": [
+        "any",
+        "some",
+        "a",
+        "zero article"
+      ],
+      "correctAnswer": 0,
+      "hint": "Use 'any' in a non-affirmative context (after 'failed to').",
+      "explanation": "<strong>Answer: any</strong><br>Use 'any' in a non-affirmative context (after 'failed to'). "
+    },
+    {
+      "question": "I was unable to eat ___ of the food.",
+      "options": [
+        "any / some",
+        "any",
+        "some",
+        "zero article"
+      ],
+      "correctAnswer": 0,
+      "hint": "'any' means none of it; 'some' means you couldn't eat a portion of it.",
+      "explanation": "<strong>Answer: any / some</strong><br>'any' means none of it; 'some' means you couldn't eat a portion of it. "
+    }
+  ]
+}

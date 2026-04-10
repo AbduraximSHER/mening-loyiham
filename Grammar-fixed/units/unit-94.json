@@ -1,0 +1,114 @@
+{
+  "id": 94,
+  "title": "Collocations with Come and Go",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Expressions with COME",
+      "content": "<div class=\"web-text\">Fixed phrases using COME:</div><div class=\"web-example\"><span>• <strong>come to terms with</strong> — accept a difficult situation. <em>She's slowly coming to terms with the loss.</em></span></div><div class=\"web-example\"><span>• <strong>come to a conclusion</strong> — reach a decision. <em>After much debate, we came to a conclusion.</em></span></div><div class=\"web-example\"><span>• <strong>come into effect</strong> — begin to apply. <em>The new law comes into effect next month.</em></span></div><div class=\"web-example\"><span>• <strong>come across</strong> — find by chance. <em>I came across an interesting article online.</em></span></div><div class=\"web-example\"><span>• <strong>come in handy</strong> — be useful at some point. <em>That extra training might come in handy later.</em></span></div>"
+    },
+    {
+      "id": "B",
+      "title": "Expressions with GO",
+      "content": "<div class=\"web-text\">Fixed phrases using GO:</div><div class=\"web-example\"><span>• <strong>go to great lengths</strong> — make a lot of effort. <em>She went to great lengths to prepare for the interview.</em></span></div><div class=\"web-example\"><span>• <strong>go without saying</strong> — be obvious. <em>It goes without saying that hard work pays off.</em></span></div><div class=\"web-example\"><span>• <strong>go through</strong> — experience something difficult. <em>He's going through a tough time at work.</em></span></div><div class=\"web-example\"><span>• <strong>go ahead</strong> — proceed. <em>We've decided to go ahead with the project.</em></span></div><div class=\"web-example\"><span>• <strong>go downhill</strong> — deteriorate. <em>After the CEO left, things went downhill rapidly.</em></span></div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "To accept a painful situation is to come to ___ with it:",
+      "options": [
+        "make",
+        "terms",
+        "conclusion",
+        "put"
+      ],
+      "correctAnswer": 1,
+      "hint": "Accepting reality.",
+      "explanation": "<strong>Come to terms with</strong> means to accept a difficult situation."
+    },
+    {
+      "question": "If something 'goes without saying', it is:",
+      "options": [
+        "secret",
+        "controversial",
+        "obvious",
+        "surprising"
+      ],
+      "correctAnswer": 2,
+      "hint": "Everyone knows it.",
+      "explanation": "<strong>Goes without saying</strong> means it is so obvious it doesn't need to be stated."
+    },
+    {
+      "question": "To make extraordinary effort is to go to great ___:",
+      "options": [
+        "heights",
+        "lengths",
+        "depths",
+        "widths"
+      ],
+      "correctAnswer": 1,
+      "hint": "Extreme effort.",
+      "explanation": "<strong>Go to great lengths</strong> means to try very hard to achieve something."
+    },
+    {
+      "question": "When a law begins to apply, it comes into:",
+      "options": [
+        "conclusion",
+        "turn",
+        "effect",
+        "make"
+      ],
+      "correctAnswer": 2,
+      "hint": "It starts working.",
+      "explanation": "<strong>Come into effect</strong> means to start being enforced or applied."
+    },
+    {
+      "question": "Finding something by chance is to come ___:",
+      "options": [
+        "across",
+        "in handy",
+        "into effect",
+        "to terms"
+      ],
+      "correctAnswer": 0,
+      "hint": "An accidental discovery.",
+      "explanation": "<strong>Come across</strong> means to find or encounter by chance."
+    },
+    {
+      "question": "When a situation gets worse, it goes:",
+      "options": [
+        "downhill",
+        "put",
+        "ahead",
+        "without saying"
+      ],
+      "correctAnswer": 0,
+      "hint": "Declining quality.",
+      "explanation": "<strong>Go downhill</strong> means to deteriorate or get worse."
+    },
+    {
+      "question": "Something useful in the future might come in:",
+      "options": [
+        "handy",
+        "turn",
+        "set",
+        "bring"
+      ],
+      "correctAnswer": 0,
+      "hint": "It'll be useful later.",
+      "explanation": "<strong>Come in handy</strong> means to turn out to be useful when needed."
+    },
+    {
+      "question": "To experience a difficult period is to go ___:",
+      "options": [
+        "through",
+        "without saying",
+        "bring",
+        "ahead"
+      ],
+      "correctAnswer": 0,
+      "hint": "Enduring hardship.",
+      "explanation": "<strong>Go through</strong> means to experience a difficult or unpleasant situation."
+    }
+  ]
+}

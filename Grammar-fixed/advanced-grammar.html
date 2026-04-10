@@ -1,0 +1,879 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#F7F6F2">
+<title>Grammar — GrammarHub</title>
+<meta property="og:type"        content="website">
+<meta property="og:site_name"   content="GrammarHub">
+<meta property="og:title"       content="Grammar Practice - GrammarHub">
+<meta property="og:description" content="100 advanced English grammar units: tenses, modals, passives, reported speech, articles and more. MCQ, fill-in-blank and error correction exercises.">
+<meta property="og:url"         content="https://grammar-a7x.pages.dev/advanced-grammar.html">
+<meta property="og:image"       content="https://grammar-a7x.pages.dev/og-image.svg">
+<meta name="twitter:card"       content="summary_large_image">
+<meta name="twitter:title"      content="Grammar Practice - GrammarHub">
+<meta name="twitter:description" content="100 advanced English grammar units: tenses, modals, passives, reported speech, articles and more. MCQ, fill-in-blank and error correction exercises.">
+<meta name="twitter:image"      content="https://grammar-a7x.pages.dev/og-image.svg">
+<link rel="canonical"           href="https://grammar-a7x.pages.dev/advanced-grammar.html">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='50' fill='%230B0B0C'/%3E%3Ccircle cx='50' cy='50' r='22' fill='%232E48FF'/%3E%3C/svg%3E">
+<link rel="manifest" href="manifest.json">
+<link rel="stylesheet" href="css/theme.css?v=5">
+<link rel="stylesheet" href="css/exercise-engine.css?v=5">
+<script>
+  (function(){try{var t=localStorage.getItem('gh_theme');if(!t){t=window.matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light';}document.documentElement.setAttribute('data-theme',t);}catch(e){}})();
+</script>
+</head>
+<body>
+
+<header class="site-header" id="site-header">
+  <div class="site-header__inner">
+    <a href="dashboard.html" class="brand" aria-label="Dashboard">
+      <span class="brand__dot" aria-hidden="true"></span>
+      <span class="brand__name">Grammar<em>hub</em></span>
+    </a>
+    <div class="header-actions">
+      <button class="search-btn" data-action="open-search" aria-label="Search (⌘K)" title="Search (⌘K)">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+      </button>
+      <button class="theme-toggle" data-action="toggle-theme" aria-label="Toggle theme" title="Toggle theme">
+        <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+        <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41"/></svg>
+      </button>
+      <a href="advanced-vocabulary.html" class="btn btn--ghost btn--sm" style="font-size:var(--fs-sm);">Vocabulary</a>
+      <button class="nav-cta" id="unit-picker-btn">Units</button>
+    </div>
+  </div>
+</header>
+
+<!-- Reader progress bar -->
+<div class="reader-top" id="reader-top" hidden>
+  <div class="reader-top__inner">
+    <button class="btn btn--ghost btn--sm" id="prev-btn" aria-label="Previous unit">←</button>
+    <div class="reader-top__title" id="unit-title">—</div>
+    <div class="reader-top__count" id="unit-count">—</div>
+    <button class="btn btn--ghost btn--sm" id="next-btn" aria-label="Next unit">→</button>
+  </div>
+</div>
+
+<main>
+
+  <!-- ══════════════════ UNIT LIST VIEW ══════════════════ -->
+  <section class="container" id="list-view" style="padding-top: 2rem;">
+    <div class="eyebrow">Advanced grammar in use</div>
+    <h1 class="display" style="font-size: var(--fs-h1); margin: 0.5rem 0 0.5rem;">
+      100 units.<br>Pick one.
+    </h1>
+    <p class="sm" style="margin-bottom: 2rem;">Tap a unit to read the theory and run the exercises.</p>
+
+    <div class="tabs" role="tablist" style="margin-bottom: 1.5rem;">
+      <button class="tab is-active" data-filter="all">All</button>
+      <button class="tab" data-filter="todo">Not started</button>
+      <button class="tab" data-filter="done">Completed</button>
+    </div>
+
+    <div class="card card--flush">
+      <div class="row-list" id="unit-list">
+        <div style="padding: 3rem 1rem; text-align: center; color: var(--muted);" class="sm">Loading…</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ══════════════════ UNIT READER VIEW ══════════════════ -->
+  <section class="container" id="reader-view" hidden style="padding-top: 2rem;">
+    <div id="theory-container"></div>
+
+    <div style="margin: 3rem 0 1rem;" class="eyebrow">Practice</div>
+    <div id="exercises-container"></div>
+
+    <div id="finish-wrap" style="margin-top: 2rem;" hidden>
+      <div class="card card--dark" style="padding: 0; overflow: hidden;">
+        <!-- Score header row -->
+        <div id="score-header" style="padding: 1.5rem 1.5rem 1rem; border-bottom: 1px solid var(--dark-line);">
+          <div style="display: flex; justify-content: space-between; align-items: flex-end; margin-bottom: 0.75rem;">
+            <div>
+              <div style="font-size: 0.68rem; text-transform: uppercase; letter-spacing: .12em; color: var(--dark-muted); margin-bottom: 0.25rem;">Your score</div>
+              <div class="stat-num" id="final-score" style="color: var(--dark-ink); font-size: 3.25rem;">—</div>
+            </div>
+            <div id="score-chips" style="display: flex; gap: 0.4rem; flex-direction: column; align-items: flex-end;"></div>
+          </div>
+          <!-- Progress bar -->
+          <div style="height: 4px; background: var(--dark-line); border-radius: 99px; overflow: hidden;">
+            <div id="score-bar" style="height: 4px; width: 0%; background: var(--accent); border-radius: 99px; transition: width .6s cubic-bezier(.22,1,.36,1);"></div>
+          </div>
+          <div class="sm" style="color: var(--dark-muted); margin-top: 0.5rem;" id="final-label">—</div>
+          <div class="sm" style="color: var(--dark-muted); margin-top: 0.25rem;" id="final-message">—</div>
+        </div>
+        <!-- Wrong items list -->
+        <div id="wrong-items-wrap" hidden style="border-bottom: 1px solid var(--dark-line);">
+          <div style="padding: 0.75rem 1.5rem 0.5rem; font-size: 0.68rem; text-transform: uppercase; letter-spacing: .1em; color: var(--dark-muted);">Review these · scheduled for next session</div>
+          <div id="wrong-items-list"></div>
+        </div>
+        <!-- Actions -->
+        <div style="padding: 1rem 1.5rem; display: flex; gap: 0.6rem;">
+          <button class="btn btn--wide" id="retry-btn" hidden
+            style="flex:1; background: var(--dark-bg-2); color: var(--dark-ink); border-color: var(--dark-line);">
+            Try again
+          </button>
+          <button class="btn btn--accent btn--wide" id="mark-done" hidden style="flex:2;">
+            Mark unit complete
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <div style="display:flex; gap:0.75rem; margin-top: 2rem;">
+      <button class="btn btn--ghost" id="back-btn" style="flex: 1;">← Units</button>
+      <button class="btn" id="next-unit-btn" style="flex: 2;">Next unit →</button>
+    </div>
+  </section>
+
+</main>
+
+<div class="mini-toast" id="toast"></div>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="site-footer__brand">
+      <div class="brand" style="margin-bottom: 0.75rem;">
+        <span class="brand__dot"></span>
+        <span class="brand__name">Grammar<em>hub</em></span>
+      </div>
+      <span class="status-dot">All systems operational</span>
+    </div>
+    <div class="site-footer__bottom">
+      <span>© 2026 GrammarHub</span>
+      <span class="sm">Made with care.</span>
+    </div>
+  </div>
+</footer>
+
+<!-- Search modal -->
+<div class="search-overlay" id="search-overlay" role="dialog" aria-label="Search">
+  <div class="search-modal">
+    <div class="search-input-wrap">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+      <input type="text" class="search-input" placeholder="Search grammar and vocabulary units…" autocomplete="off" spellcheck="false">
+      <span class="search-kbd">ESC</span>
+    </div>
+    <div class="search-results"></div>
+  </div>
+</div>
+
+<script src="progress-migrate.js?v=5"></script>
+<script src="toast.js?v=5"></script>
+<script src="gamification.js?v=5"></script>
+<script src="bookmarks.js?v=5"></script>
+<script src="grammar-loader.js?v=5"></script>
+<script src="exercise-engine.js?v=5"></script>
+<script src="certificate.js?v=5"></script>
+<script src="analytics.js?v=5"></script>
+<script src="ui-extras.js?v=5"></script>
+<script src="accessibility.js?v=5"></script>
+
+<script>
+// ─── state ────────────────────────────────────────────
+const state = {
+  currentUnit: null,
+  answers: {},
+  correctAnswers: {}, // { exIdx: bool } — for per-exercise SRS
+  correctCount: 0,
+  filter: 'all',
+  topicFilter: null,
+};
+
+// ─── helpers ──────────────────────────────────────────
+const $ = (id) => document.getElementById(id);
+const escapeHtml = (s) =>
+  String(s).replace(/[&<>"']/g, c =>
+    ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])
+  );
+
+function showToast(msg) {
+  const t = $('toast');
+  t.textContent = msg;
+  t.classList.add('show');
+  setTimeout(() => t.classList.remove('show'), 2200);
+}
+
+// FIXED: correct topic labels matching actual unit content
+function topicFor(id) {
+  if (id <= 8)  return 'Present & Past Tenses';
+  if (id <= 14) return 'Future';
+  if (id <= 20) return 'Modals';
+  if (id <= 27) return 'Passive & Reporting';
+  if (id <= 39) return 'Verb Patterns & Reporting';
+  if (id <= 43) return 'Agreement & Nouns';
+  if (id <= 50) return 'Articles & Determiners';
+  if (id <= 63) return 'Vocabulary: People & Society';
+  if (id <= 76) return 'Vocabulary: Language & Style';
+  if (id <= 90) return 'Vocabulary: World & Ideas';
+  return 'Vocabulary: Strategies';
+}
+
+// Shuffle MCQ options at render time so the correct answer isn't always option A.
+// 18 units had every answer at index 0 — this fixes all of them without touching JSON.
+function shuffleExercise(ex) {
+  if (ex.type && ex.type !== 'mcq') return ex;
+  if (!ex.options || ex.options.length < 2) return ex;
+  const pairs = ex.options.map((opt, i) => ({ opt, correct: i === ex.correctAnswer }));
+  for (let i = pairs.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [pairs[i], pairs[j]] = [pairs[j], pairs[i]];
+  }
+  return { ...ex, options: pairs.map(p => p.opt), correctAnswer: pairs.findIndex(p => p.correct) };
+}
+
+// Strip residual LaTeX notation from question/explanation text.
+function fixLatex(text) {
+  if (!text) return text;
+  return text
+    .replace(/\$\\rightarrow\$/g, '→')
+    .replace(/\$\\Rightarrow\$/g, '⇒')
+    .replace(/\$\\to\s*\$/g, '→')
+    .replace(/\$\\textbf\{([^}]+)\}\$/g, '<strong>$1</strong>');
+}
+
+// ─── list view ────────────────────────────────────────
+// Topic groups — each with a display name, unit range, and accent colour
+const TOPIC_GROUPS = [
+  { name: 'Present & Past Tenses',       from: 1,  to: 8,  color: '#2E48FF' },
+  { name: 'Future & Modal Verbs',         from: 9,  to: 20, color: '#7C3AED' },
+  { name: 'Passives & Questions',         from: 21, to: 27, color: '#059669' },
+  { name: 'Verb Patterns & Reporting',    from: 28, to: 39, color: '#C2621F' },
+  { name: 'Agreement, Nouns & Articles',  from: 40, to: 50, color: '#0891B2' },
+  { name: 'Vocabulary: People & Society', from: 51, to: 63, color: '#BE185D' },
+  { name: 'Vocabulary: Language & Style', from: 64, to: 76, color: '#6D28D9' },
+  { name: 'Vocabulary: World & Ideas',    from: 77, to: 90, color: '#047857' },
+  { name: 'Vocabulary: Strategies',       from: 91, to: 100, color: '#B45309' },
+];
+
+function renderList() {
+  const titles       = window.GrammarLoader.getAllTitles();
+  const progData     = window.Progress.get();
+  const completedIds = new Set(progData.completedUnits.map(u => u.id));
+  const scoreMap     = {};
+  progData.completedUnits.forEach(u => { if (u.score !== null) scoreMap[u.id] = u.score; });
+
+  let list = titles;
+  if (state.filter === 'todo') list = list.filter(t => !completedIds.has(t.id));
+  if (state.filter === 'done') list = list.filter(t =>  completedIds.has(t.id));
+  if (state.topicFilter) list = list.filter(t => topicFor(t.id) === state.topicFilter);
+
+  const holder = $('unit-list');
+
+  if (list.length === 0) {
+    holder.innerHTML = `<div style="padding:3rem 1rem;text-align:center;" class="sm">Nothing here.</div>`;
+    return;
+  }
+
+  // If a topic filter is active or showing flat lists, fall back to flat rendering
+  if (state.topicFilter || state.filter !== 'all') {
+    holder.innerHTML = list.map(t => {
+      const done  = completedIds.has(t.id);
+      const score = scoreMap[t.id];
+      const meta  = done
+        ? (score != null ? `Completed · ${score}%` : 'Completed')
+        : topicFor(t.id);
+      return `
+        <a class="row ${done ? 'is-completed' : ''}" href="#unit-${t.id}">
+          <div class="row__num">${done ? '✓' : t.id}</div>
+          <div class="row__body">
+            <div class="row__title">${escapeHtml(t.title)}</div>
+            <div class="row__meta">${meta}</div>
+          </div>
+          <span class="row__cta ${done ? 'row__cta--done' : ''}">${done ? 'Review' : 'Start'}</span>
+        </a>`;
+    }).join('');
+    return;
+  }
+
+  // Grouped view — default "All" tab
+  const titleMap = {};
+  titles.forEach(t => { titleMap[t.id] = t.title; });
+
+  holder.innerHTML = TOPIC_GROUPS.map(group => {
+    const groupUnits = list.filter(t => t.id >= group.from && t.id <= group.to);
+    if (!groupUnits.length) return '';
+
+    const totalInGroup    = titles.filter(t => t.id >= group.from && t.id <= group.to).length;
+    const doneInGroup     = groupUnits.filter(t => completedIds.has(t.id)).length;
+    const allDoneInGroup  = titles.filter(t => t.id >= group.from && t.id <= group.to)
+                                  .filter(t => completedIds.has(t.id)).length;
+    const initials = group.name.split(' ').slice(-1)[0].charAt(0).toUpperCase();
+
+    const rowsHtml = groupUnits.map(t => {
+      const done  = completedIds.has(t.id);
+      const score = scoreMap[t.id];
+      return `
+        <a class="row ${done ? 'is-completed' : ''}" href="#unit-${t.id}" style="padding:0.6rem 1rem;">
+          <div class="row__num" style="font-size:0.8rem;">${done ? '✓' : t.id}</div>
+          <div class="row__body">
+            <div class="row__title" style="font-size:0.83rem;">${escapeHtml(t.title)}</div>
+            ${done && score != null ? `<div class="row__meta">${score}% last attempt</div>` : ''}
+          </div>
+          <span class="row__cta ${done ? 'row__cta--done' : ''}" style="font-size:0.72rem;">${done ? 'Review' : 'Start'}</span>
+        </a>`;
+    }).join('');
+
+    const progressText = allDoneInGroup === totalInGroup
+      ? `<span style="font-size:.72rem;font-weight:600;color:var(--success);background:#E7F5EC;padding:.2rem .6rem;border-radius:99px;">${allDoneInGroup}/${totalInGroup} done</span>`
+      : allDoneInGroup > 0
+        ? `<span style="font-size:.72rem;color:var(--muted);">${allDoneInGroup}/${totalInGroup}</span>`
+        : `<span style="font-size:.72rem;color:var(--muted);">${totalInGroup} units</span>`;
+
+    return `
+      <div style="margin-bottom:0.75rem;">
+        <div style="display:flex;align-items:center;justify-content:space-between;padding:0.4rem 0.25rem 0.5rem;">
+          <div style="display:flex;align-items:center;gap:0.6rem;">
+            <div style="width:28px;height:28px;border-radius:8px;background:${group.color};display:grid;place-items:center;font-size:.75rem;font-weight:700;color:#fff;flex-shrink:0;">${initials}</div>
+            <div>
+              <div style="font-weight:600;font-size:.85rem;color:var(--ink);">${group.name}</div>
+              <div style="font-size:.72rem;color:var(--muted);">Units ${group.from}–${group.to}</div>
+            </div>
+          </div>
+          ${progressText}
+        </div>
+        <div class="card card--flush" style="overflow:hidden;">${rowsHtml}</div>
+      </div>`;
+  }).join('');
+}
+
+document.querySelectorAll('.tab').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.tab').forEach(b => b.classList.remove('is-active'));
+    btn.classList.add('is-active');
+    state.filter = btn.dataset.filter;
+    renderList();
+  });
+});
+
+// ─── reader view ──────────────────────────────────────
+async function openUnit(id) {
+  id = parseInt(id, 10);
+  if (!id || id < 1 || id > 100) return showList();
+
+  // Track unit view
+  if (window.Analytics) Analytics.trackAction('unit_opened', id);
+
+  // Show reader shell immediately with a loading state
+  $('list-view').hidden = true;
+  $('reader-view').hidden = false;
+  $('reader-top').hidden = false;
+  $('unit-title').textContent = window.GrammarLoader.getTitle(id);
+  $('unit-count').textContent = id + '/100';
+  $('theory-container').innerHTML = `<div class="sm" style="padding:2rem 0; text-align:center;">Loading unit…</div>`;
+  $('exercises-container').innerHTML = '';
+  $('finish-wrap').hidden = true;
+  window.scrollTo({ top: 0, behavior: 'instant' });
+
+  const unit = await window.GrammarLoader.loadUnit(id);
+  if (!unit) {
+    $('theory-container').innerHTML = `<p class="sm">Couldn't load this unit. <a href="#">Back to list</a>.</p>`;
+    return;
+  }
+  state.currentUnit = unit;
+  state.answers = {};
+  state.correctAnswers = {};
+  state.correctCount = 0;
+
+  renderTheory(unit);
+  renderExercises(unit);
+
+  // Preload neighbors for smoother navigation
+  window.GrammarLoader.preloadAdjacent(id);
+
+  // Prev/next
+  $('prev-btn').disabled = id <= 1;
+  $('next-btn').disabled = id >= 100;
+}
+
+function renderTheory(unit) {
+  const holder = $('theory-container');
+
+  // Detect if learner has seen this unit before
+  const alreadyStarted = window.Progress.isCompleted(unit.id) ||
+    Object.keys(state.answers).length > 0;
+
+  // For returning learners: theory is collapsed by default — saves time
+  // For first-timers: theory is open — they need the context
+  const collapseByDefault = alreadyStarted;
+
+  holder.innerHTML = `
+    <div class="eyebrow">Unit ${unit.id} · ${topicFor(unit.id)}</div>
+    <h1 class="display" style="font-size: var(--fs-h1); margin: 0.5rem 0 1rem; line-height: 1.05;">
+      ${escapeHtml(unit.title)}
+    </h1>
+
+    <details id="theory-details" ${collapseByDefault ? '' : 'open'}
+      style="border:1px solid var(--line);border-radius:var(--r-lg);margin-bottom:1.5rem;overflow:hidden;">
+      <summary style="
+        display:flex;align-items:center;justify-content:space-between;
+        padding:0.85rem 1.25rem;cursor:pointer;list-style:none;
+        font-weight:600;font-size:var(--fs-body);color:var(--ink);
+        background:var(--canvas-2);border-radius:var(--r-lg);
+        user-select:none;
+      ">
+        <span>📖 Theory — ${unit.sections.length} section${unit.sections.length !== 1 ? 's' : ''}</span>
+        <span id="theory-chevron" style="font-size:.8rem;color:var(--muted);transition:transform .2s;">▼</span>
+      </summary>
+      <div class="theory" id="theory-body" style="padding:1.25rem 1.25rem 0.5rem;"></div>
+    </details>
+
+    <div style="margin-bottom:1rem;">
+      <div class="eyebrow" style="margin-bottom:0.75rem;">
+        Exercises · ${unit.exercises.length} question${unit.exercises.length !== 1 ? 's' : ''}
+      </div>
+    </div>
+  `;
+
+  // Rotate chevron on open/close
+  const details = $('theory-details');
+  const chevron = $('theory-chevron');
+  details.addEventListener('toggle', () => {
+    chevron.style.transform = details.open ? 'rotate(180deg)' : 'rotate(0deg)';
+  });
+  if (details.open) chevron.style.transform = 'rotate(180deg)';
+
+  // Inject theory content
+  const body = $('theory-body');
+  unit.sections.forEach((sec, i) => {
+    const h = document.createElement('h2');
+    h.textContent = sec.title;
+    if (i === 0) h.style.marginTop = '0';
+    body.appendChild(h);
+    const div = document.createElement('div');
+    div.innerHTML = sec.content;
+    body.appendChild(div);
+  });
+}
+
+function renderExercises(unit) {
+  const holder = $('exercises-container');
+  if (!unit.exercises || unit.exercises.length === 0) {
+    holder.innerHTML = `<div class="card sm" style="text-align:center; color:var(--muted);">No exercises for this unit yet.</div>`;
+    return;
+  }
+
+  holder.innerHTML = '';
+  const total = unit.exercises.length;
+
+  unit.exercises.forEach((rawEx, i) => {
+    // Apply LaTeX cleanup and MCQ shuffle before rendering
+    const ex = shuffleExercise({
+      ...rawEx,
+      question:    fixLatex(rawEx.question),
+      explanation: fixLatex(rawEx.explanation),
+      hint:        fixLatex(rawEx.hint),
+    });
+
+    // Outer card wrapper (provides the border/shadow from theme.css .mcq)
+    const card = document.createElement('div');
+    card.className = 'mcq';
+    card.style.marginBottom = '1rem';
+    card.dataset.bookmarkText  = rawEx.question || '';
+    card.dataset.bookmarkUnit  = unit.id;
+    card.dataset.bookmarkTitle = unit.title;
+
+    // Header row: Q-number pill + bookmark button
+    const bookmarked = window.BookmarkUI
+      ? window.BookmarkUI.isBookmarked({ text: rawEx.question, unitId: unit.id })
+      : false;
+    const header = document.createElement('div');
+    header.className = 'mcq__header';
+    header.innerHTML = `
+      <div class="label-row">
+        <span class="pill pill--accent">Q${i + 1}</span>
+        <span class="sm" style="margin-left:auto;">${i + 1} of ${total}</span>
+      </div>
+      ${window.BookmarkUI ? window.BookmarkUI.buttonHtml(bookmarked) : ''}`;
+    card.appendChild(header);
+
+    // ExerciseEngine renders the question + answer UI inside this div
+    const exInner = document.createElement('div');
+    card.appendChild(exInner);
+    holder.appendChild(card);
+
+    ExerciseEngine.render(ex, exInner, (result) => {
+      if (state.answers[i] !== undefined) return;
+      state.answers[i] = result.userAnswer;
+      state.correctAnswers[i] = result.correct;
+      if (result.correct) state.correctCount++;
+      checkAllAnswered(unit);
+    });
+  });
+
+  if (window.BookmarkUI) window.BookmarkUI.bindClicks(holder);
+}
+
+// Called after every answer; shows finish card when all exercises are done.
+function checkAllAnswered(unit) {
+  const total = unit.exercises.length;
+  if (Object.keys(state.answers).length < total) return;
+
+  const score      = Math.round((state.correctCount / total) * 100);
+  const wrongCount = total - state.correctCount;
+  const MASTERY    = 70;
+
+  // ── score header ──────────────────────────────────────────────────────
+  $('final-score').textContent = score + '%';
+  $('final-label').textContent = `${state.correctCount} of ${total} correct`;
+  $('score-bar').style.width   = score + '%';
+  $('score-bar').style.background = score >= 90 ? 'var(--success)'
+                                  : score >= MASTERY ? 'var(--accent)'
+                                  : 'var(--warn)';
+
+  // Chips
+  const chips = $('score-chips');
+  chips.innerHTML = `
+    <span style="font-size:.72rem;font-weight:600;padding:.22rem .55rem;border-radius:6px;background:rgba(11,154,90,.2);color:#86EFAC;">${state.correctCount} correct</span>
+    ${wrongCount > 0 ? `<span style="font-size:.72rem;font-weight:600;padding:.22rem .55rem;border-radius:6px;background:rgba(194,59,78,.2);color:#FCA5A5;">${wrongCount} wrong</span>` : ''}
+  `;
+
+  // ── message ────────────────────────────────────────────────────────────
+  if (score >= MASTERY) {
+    const msg = score >= 90
+      ? '🎉 Excellent — mastered this unit.'
+      : score >= 80
+        ? '✓ Great work. Ready to mark complete.'
+        : '✓ Passed. Review the explanations for anything you missed.';
+    $('final-message').textContent = msg;
+    $('mark-done').hidden = false;
+    $('retry-btn').hidden = true;
+  } else {
+    $('final-message').textContent = `Need ${MASTERY}% to complete. Review explanations above and try again.`;
+    $('mark-done').hidden = true;
+    $('retry-btn').hidden = false;
+  }
+
+  // ── wrong items list ──────────────────────────────────────────────────
+  const wrongItems = unit.exercises
+    .map((ex, i) => ({ ex, i, correct: state.correctAnswers[i] }))
+    .filter(({ correct }) => correct === false);
+
+  if (wrongItems.length > 0) {
+    const listEl = $('wrong-items-list');
+    listEl.innerHTML = wrongItems.map(({ ex, i }) => {
+      // Extract short rule from explanation (strip HTML, take first sentence ≤ 90 chars)
+      const rawExpl = ex.explanation || '';
+      const textExpl = rawExpl.replace(/<[^>]+>/g, '').replace(/Answer:.*?<br>|Answer:[^\n]+/, '').trim();
+      const ruleSnippet = textExpl.length > 0
+        ? (textExpl.length > 90 ? textExpl.slice(0, 88) + '…' : textExpl)
+        : '';
+      const qText = (ex.question || ex.sentence || ex.prompt || '').replace(/<[^>]+>/g, '');
+      const qSnippet = qText.length > 60 ? qText.slice(0, 58) + '…' : qText;
+      return `
+        <div style="display:flex;gap:0.6rem;align-items:flex-start;padding:0.6rem 1.5rem;border-bottom:1px solid var(--dark-line);">
+          <div style="flex:0 0 24px;height:24px;border-radius:6px;background:rgba(194,59,78,.2);color:#FCA5A5;display:grid;place-items:center;font-size:.7rem;font-weight:700;margin-top:1px;">Q${i + 1}</div>
+          <div style="min-width:0;">
+            <div style="font-size:.82rem;color:var(--dark-ink);line-height:1.4;">${escapeHtml(qSnippet)}</div>
+            ${ruleSnippet ? `<div style="font-size:.73rem;color:var(--dark-muted);margin-top:2px;">${escapeHtml(ruleSnippet)}</div>` : ''}
+          </div>
+        </div>`;
+    }).join('');
+    // Remove border on last item
+    $('wrong-items-wrap').hidden = false;
+  } else {
+    $('wrong-items-wrap').hidden = true;
+  }
+
+  // Record for SRS
+  recordWrongExercises(unit);
+
+  $('finish-wrap').hidden = false;
+  $('finish-wrap').scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+}
+
+// ── Per-exercise SRS: record which exercises were answered incorrectly ────
+// Storage key: 'gh_wrong_exercises'
+// Shape: { "unitId:exIdx": { wrongCount, lastWrong, nextReview } }
+const SRS_KEY = 'gh_wrong_exercises';
+const SRS_INTERVALS = [1, 3, 7, 14, 30]; // days between reviews
+
+function recordWrongExercises(unit) {
+  let srs = {};
+  try { srs = JSON.parse(localStorage.getItem(SRS_KEY) || '{}'); } catch {}
+  const now = Date.now();
+
+  unit.exercises.forEach((ex, i) => {
+    const key = `${unit.id}:${i}`;
+    const userAnswer = state.answers[i];
+    if (userAnswer === undefined) return;
+
+    // Determine correctness
+    // For MCQ: correctAnswer index; for fill/correct: ExerciseEngine set result.correct
+    const isCorrect = (() => {
+      if (ex.type === 'fill' || ex.type === 'correct' || ex.type === 'reorder') {
+        // ExerciseEngine callbacks stored correct flag in state.correctAnswers
+        return state.correctAnswers && state.correctAnswers[i] === true;
+      }
+      return userAnswer === ex.options[ex.correctAnswer];
+    })();
+
+    if (!isCorrect) {
+      const existing = srs[key] || { wrongCount: 0, lastWrong: null, nextReview: null };
+      existing.wrongCount = (existing.wrongCount || 0) + 1;
+      existing.lastWrong = now;
+      // Schedule next review using spaced intervals
+      const interval = SRS_INTERVALS[Math.min(existing.wrongCount - 1, SRS_INTERVALS.length - 1)];
+      existing.nextReview = now + interval * 24 * 60 * 60 * 1000;
+      existing.unitId = unit.id;
+      existing.exIdx = i;
+      existing.unitTitle = unit.title;
+      srs[key] = existing;
+    } else {
+      // Got it right — remove from review queue if present
+      if (srs[key]) {
+        srs[key].wrongCount = Math.max(0, (srs[key].wrongCount || 1) - 1);
+        if (srs[key].wrongCount === 0) delete srs[key];
+      }
+    }
+  });
+
+  try { localStorage.setItem(SRS_KEY, JSON.stringify(srs)); } catch {}
+}
+
+// Return exercises due for review right now
+function getExercisesDueForReview() {
+  try {
+    const srs = JSON.parse(localStorage.getItem(SRS_KEY) || '{}');
+    const now = Date.now();
+    return Object.values(srs)
+      .filter(e => e.nextReview && e.nextReview <= now)
+      .sort((a, b) => a.nextReview - b.nextReview);
+  } catch { return []; }
+}
+
+$('mark-done').addEventListener('click', () => {
+  if (!state.currentUnit) return;
+  const unit  = state.currentUnit;
+  const total = unit.exercises.length;
+  const score = total > 0 ? Math.round((state.correctCount / total) * 100) : null;
+
+  window.Progress.markComplete(unit.id, score);
+  $('mark-done').disabled = true;
+  $('mark-done').textContent = '✓ Completed';
+
+  // Analytics
+  if (window.Analytics) {
+    Analytics.trackAction('unit_complete', unit.id);
+    if (score !== null) Analytics.trackAction(`unit_${unit.id}_score`, score);
+  }
+
+  // Certificate for high scores
+  if (window.Certificate && score !== null && score >= 80) {
+    setTimeout(() => Certificate.show(unit.title, unit.id, score), 400);
+  } else {
+    // Session summary for scores < 80 or when no certificate
+    setTimeout(() => showSessionSummary(unit, score), 300);
+  }
+});
+
+// ── Session summary ─────────────────────────────────────────────────────────
+// Shown after every unit completion. Gives the learner a reason to return.
+function showSessionSummary(unit, score) {
+  // Count wrong exercises
+  const wrongItems = Object.entries(state.correctAnswers)
+    .filter(([, correct]) => correct === false);
+  const wrongCount = wrongItems.length;
+  const total      = unit.exercises.length;
+
+  // Streak from gamification
+  let streak = 0;
+  try {
+    const gd = window.Gamification?.getUserData?.();
+    streak = gd?.streak?.current || 0;
+  } catch {}
+
+  // Next review date (soonest wrong exercise due)
+  let nextReviewText = '';
+  try {
+    const srs = JSON.parse(localStorage.getItem('gh_wrong_exercises') || '{}');
+    const dueDates = Object.values(srs)
+      .map(e => e.nextReview).filter(Boolean).sort();
+    if (dueDates.length) {
+      const days = Math.max(1, Math.round((dueDates[0] - Date.now()) / 86400000));
+      nextReviewText = `${wrongCount} question${wrongCount !== 1 ? 's' : ''} scheduled for review in ${days} day${days !== 1 ? 's' : ''}.`;
+    }
+  } catch {}
+
+  const streakMsg = streak >= 2
+    ? `🔥 ${streak}-day streak — keep it going tomorrow.`
+    : `🔥 You started a streak today. Come back tomorrow to keep it.`;
+
+  const scoreMsg = score >= 90 ? 'Excellent session.'
+    : score >= 70 ? 'Good work.'
+    : 'Keep practising — you\'ll get there.';
+
+  // Build the overlay
+  const overlay = document.createElement('div');
+  overlay.id    = 'session-summary-overlay';
+  overlay.style.cssText = `
+    position:fixed;inset:0;background:rgba(0,0,0,.6);z-index:9000;
+    display:flex;align-items:flex-end;justify-content:center;
+    backdrop-filter:blur(4px);padding:0 0 env(safe-area-inset-bottom,0);
+    opacity:0;transition:opacity .3s;
+  `;
+  overlay.innerHTML = `
+    <div id="session-summary-sheet" style="
+      background:var(--card);border-radius:24px 24px 0 0;padding:1.75rem 1.5rem 2rem;
+      width:100%;max-width:640px;transform:translateY(100%);transition:transform .35s cubic-bezier(.22,1,.36,1);
+    ">
+      <div style="width:40px;height:4px;background:var(--line);border-radius:99px;margin:0 auto 1.5rem;"></div>
+
+      <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:1.25rem;">
+        <div>
+          <div style="font-size:.72rem;font-weight:600;text-transform:uppercase;letter-spacing:.14em;color:var(--muted);">Unit ${unit.id} complete</div>
+          <div style="font-family:var(--font-display);font-size:1.75rem;font-weight:400;line-height:1.1;margin-top:.2rem;">${escapeHtml(unit.title.length > 38 ? unit.title.slice(0,36) + '…' : unit.title)}</div>
+        </div>
+        <div style="font-family:var(--font-display);font-size:2.75rem;line-height:1;color:${score >= 90 ? 'var(--success)' : score >= 70 ? 'var(--accent)' : 'var(--warn)'};">${score !== null ? score + '%' : '—'}</div>
+      </div>
+
+      <div style="background:var(--canvas);border-radius:14px;padding:1rem 1.25rem;margin-bottom:1rem;">
+        <div style="font-size:.85rem;color:var(--ink-soft);margin-bottom:.5rem;">${scoreMsg}</div>
+        ${nextReviewText ? `<div style="font-size:.82rem;color:var(--muted);">📅 ${nextReviewText}</div>` : ''}
+        <div style="font-size:.82rem;color:var(--muted);margin-top:.35rem;">${streakMsg}</div>
+      </div>
+
+      <div style="display:flex;gap:.75rem;">
+        <button id="ssum-next" class="btn btn--accent" style="flex:2;">Next unit →</button>
+        <button id="ssum-close" class="btn btn--ghost" style="flex:1;">Done</button>
+      </div>
+    </div>
+  `;
+  document.body.appendChild(overlay);
+
+  requestAnimationFrame(() => {
+    overlay.style.opacity = '1';
+    document.getElementById('session-summary-sheet').style.transform = 'translateY(0)';
+  });
+
+  const dismiss = () => {
+    overlay.style.opacity = '0';
+    document.getElementById('session-summary-sheet').style.transform = 'translateY(100%)';
+    setTimeout(() => overlay.remove(), 350);
+  };
+
+  document.getElementById('ssum-close').addEventListener('click', dismiss);
+  overlay.addEventListener('click', e => { if (e.target === overlay) dismiss(); });
+
+  document.getElementById('ssum-next').addEventListener('click', () => {
+    dismiss();
+    if (unit.id < 100) location.hash = `#unit-${unit.id + 1}`;
+    else location.hash = '';
+  });
+}
+
+$('retry-btn').addEventListener('click', () => {
+  if (!state.currentUnit) return;
+  $('exercises-container').scrollIntoView({ behavior: 'smooth', block: 'start' });
+  state.answers = {};
+  state.correctAnswers = {};
+  state.correctCount = 0;
+  // Reset score screen elements
+  $('score-bar').style.width  = '0%';
+  $('score-chips').innerHTML  = '';
+  $('wrong-items-wrap').hidden = true;
+  $('wrong-items-list').innerHTML = '';
+  $('finish-wrap').hidden = true;
+  renderExercises(state.currentUnit);
+});
+
+// ─── navigation ──────────────────────────────────────
+$('prev-btn').addEventListener('click', () => {
+  if (state.currentUnit && state.currentUnit.id > 1) {
+    location.hash = `#unit-${state.currentUnit.id - 1}`;
+  }
+});
+$('next-btn').addEventListener('click', () => {
+  if (state.currentUnit && state.currentUnit.id < 100) {
+    location.hash = `#unit-${state.currentUnit.id + 1}`;
+  }
+});
+$('back-btn').addEventListener('click', showList);
+$('next-unit-btn').addEventListener('click', () => {
+  if (state.currentUnit && state.currentUnit.id < 100) {
+    location.hash = `#unit-${state.currentUnit.id + 1}`;
+  }
+});
+$('unit-picker-btn').addEventListener('click', showList);
+
+function showList() {
+  location.hash = '';
+  $('reader-view').hidden = true;
+  $('reader-top').hidden = true;
+  $('list-view').hidden = false;
+  state.currentUnit = null;
+  renderList();
+  window.scrollTo({ top: 0, behavior: 'instant' });
+}
+
+// ─── hash routing ────────────────────────────────────
+function handleHash() {
+  const hash = location.hash;
+  const unitMatch  = hash.match(/^#unit-(\d+)/);
+  const topicMatch = hash.match(/^#topic-(.+)/);
+
+  if (unitMatch) {
+    openUnit(unitMatch[1]);
+  } else if (topicMatch) {
+    // Filter list by topic — from dashboard "By topic" tiles
+    const topic = decodeURIComponent(topicMatch[1]);
+    $('reader-view').hidden = true;
+    $('reader-top').hidden = true;
+    $('list-view').hidden = false;
+    // Activate "All" tab visually, but filter by topic
+    document.querySelectorAll('.tab').forEach(b => b.classList.remove('is-active'));
+    document.querySelector('.tab[data-filter="all"]').classList.add('is-active');
+    state.filter = 'all';
+    state.topicFilter = topic; // set topic filter
+    renderList();
+    // Show a subtle header so the user knows they're filtered
+    const eyebrow = $('list-view').querySelector('.eyebrow');
+    if (eyebrow) {
+      eyebrow.textContent = `Topic: ${topic}`;
+      eyebrow.style.cursor = 'pointer';
+      eyebrow.title = 'Click to clear topic filter';
+      eyebrow.onclick = () => {
+        state.topicFilter = null;
+        eyebrow.textContent = 'Advanced grammar in use';
+        eyebrow.style.cursor = '';
+        eyebrow.title = '';
+        eyebrow.onclick = null;
+        location.hash = '';
+        renderList();
+      };
+    }
+  } else {
+    state.topicFilter = null;
+    $('reader-view').hidden = true;
+    $('reader-top').hidden = true;
+    $('list-view').hidden = false;
+  }
+}
+window.addEventListener('hashchange', handleHash);
+
+// ─── sticky header elevate ───────────────────────────
+const header = document.getElementById('site-header');
+const onScroll = () => header.classList.toggle('is-scrolled', window.scrollY > 8);
+onScroll();
+window.addEventListener('scroll', onScroll, { passive: true });
+
+// ─── boot ────────────────────────────────────────────
+window.GrammarLoader.onReady(() => {
+  if (window.Gamification) {
+    try { window.Gamification.trackStreak(); }
+    catch (e) { /* quietly */ }
+  }
+  renderList();
+  handleHash();
+});
+
+// ─── service worker ──────────────────────────────────
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => navigator.serviceWorker.register('sw.js').catch(() => {}));
+}
+</script>
+
+</body>
+</html>

@@ -1,0 +1,185 @@
+{
+  "id": 28,
+  "title": "Verbs, objects and complements",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Transitive and Intransitive",
+      "content": "\n            <div class=\"web-text\">Some verbs can be either transitive or intransitive, allowing us to focus on either the person or thing performing the action, or the person or thing affected by the action. Compare:</div>\n            <div class=\"web-example\">\n                <span>• She <strong>closed</strong> <em>the door</em>. (transitive) <em>and</em> The door <strong>closed</strong>. (intransitive)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• I've <strong>ripped</strong> <em>my shirt</em>. (transitive) <em>and</em> My shirt <strong>has ripped</strong>. (intransitive)</span>\n            </div>\n            <div class=\"web-text\">Also: <strong>begin, bend, break, burn, change, decrease, drop, finish, increase, move, open, shut, start, vary, wake</strong> (most are 'change' verbs)</div>\n        "
+    },
+    {
+      "id": "B",
+      "title": "Transitive verbs without objects",
+      "content": "\n            <div class=\"web-text\">Some transitive verbs don't need an object when the meaning is clear from the context:</div>\n            <div class=\"web-example\">\n                <span>• I often <strong>sing</strong> (songs) in the shower.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• She <strong>plays</strong> (the saxophone) beautifully.</span>\n            </div>\n            <div class=\"web-text\">Also: <strong>answer, ask, change, cook, dance, drink, drive, eat, fail, park, phone, read, smoke, study, wash, wash up, wave, win, write</strong></div>\n        "
+    },
+    {
+      "id": "C",
+      "title": "Complements",
+      "content": "\n            <div class=\"web-text\">After some verbs we usually add a <strong>complement</strong> – a phrase which completes the meaning of a verb, noun or adjective – which is an adverb or prepositional phrase:</div>\n            <div class=\"web-example\">\n                <span>• The disease <strong>originated</strong> <em>in Britain</em>. (<em>not</em> The disease originated.)</span>\n            </div>\n            <div class=\"web-text\">Other verbs usually have a complement but may not. Compare:</div>\n            <div class=\"web-example\">\n                <span>• He <strong>paused</strong> <em>for a few moments</em>. <em>and</em> He <strong>paused</strong>. (no complement needed)</span>\n            </div>\n        "
+    },
+    {
+      "id": "D",
+      "title": "Verbs + Preposition + Object",
+      "content": "\n            <div class=\"web-text\">Some verbs are commonly followed by a particular preposition or prepositions and then an object:</div>\n            <div class=\"web-example\">\n                <span>• We had to <strong>deal with</strong> <em>hundreds of complaints</em>. (<em>not</em> We had to deal.)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• I'm sure that blue car <strong>belongs to</strong> <em>Murad</em>. (<em>not</em> I'm sure that blue car belongs.)</span>\n            </div>\n            <div class=\"web-text\">Also: <strong>adhere to, aspire to, culminate in / with, detract from, differentiate between, incline to / towards, specialise in</strong></div>\n        "
+    },
+    {
+      "id": "E",
+      "title": "Object + prepositional phrase complement",
+      "content": "\n            <div class=\"web-text\">Some verbs are usually followed by an <strong>object + prepositional phrase</strong> complement:</div>\n            <div class=\"web-example\">\n                <span>• I always <strong>associate</strong> <em>pizza</em> <strong>with Italy</strong>. (<em>not</em> I always associate pizza.)</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• She <strong>put</strong> <em>the report</em> <strong>on the floor</strong>. (<em>not</em> She put the report.)</span>\n            </div>\n            <div class=\"web-text\">Also: <strong>attribute ... to, base ... on / upon, equate ... with, inflict ... on, mistake ... for, regard ... as / with, remind ... of</strong></div>\n        "
+    },
+    {
+      "id": "F",
+      "title": "Object + adjective complement",
+      "content": "\n            <div class=\"web-text\">Some verbs are often followed by an <strong>object + adjective</strong> (or <strong>adjective phrase</strong>) complement:</div>\n            <div class=\"web-example\">\n                <span>• The people of this country will <strong>hold</strong> <em>the government</em> <strong>responsible</strong>.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• Conti <strong>pronounced</strong> <em>herself</em> <strong>fit for the match</strong>.</span>\n            </div>\n            <div class=\"web-text\">Also: <strong>assume, believe, consider, declare, find, judge, prove, report, think</strong>.</div>\n        "
+    }
+  ],
+  "exercises": [
+    {
+      "question": "Aya was (reading) a book when the telephone rang. (Is 'a book' omittable?)",
+      "options": [
+        "(a book)",
+        "a book",
+        "reading (a book)",
+        "No change possible"
+      ],
+      "correctAnswer": 0,
+      "hint": "Read is a verb where the object can be omitted if clear from context.",
+      "explanation": "<strong>Answer: (a book)</strong><br>Read is a verb where the object can be omitted if clear from context. The grammatical signals in this sentence — the key words, connectors, or context — require this specific form. Look for these signals to make the same choice independently."
+    },
+    {
+      "question": "Would you like to come over to eat dinner tonight? (Is 'dinner' omittable?)",
+      "options": [
+        "eat (dinner)",
+        "eat dinner",
+        "eat tonight",
+        "No change possible"
+      ],
+      "correctAnswer": 0,
+      "hint": "Eat is a verb where the object can be omitted.",
+      "explanation": "<strong>Answer: eat (dinner)</strong><br>Eat is a verb where the object can be omitted. "
+    },
+    {
+      "type": "correct",
+      "sentence": "I find very difficult to concentrate when there is background noise.",
+      "correction": "I find it very difficult to concentrate when there is background noise.",
+      "acceptable": [
+        "I find it very difficult to concentrate"
+      ],
+      "hint": "'Find + adjective + to-infinitive' needs 'it' as a placeholder object.",
+      "explanation": "<strong>Answer: I find it very difficult to concentrate</strong><br>When 'find' (or 'make', 'consider', 'think') is followed by an adjective + to-infinitive, a dummy 'it' is required as the grammatical object: 'find it difficult to...', 'make it clear that...', 'consider it essential to...'. Without 'it', the sentence is grammatically incomplete."
+    },
+    {
+      "question": "She washed herself... (Is 'herself' omittable?)",
+      "options": [
+        "washed (herself)",
+        "washed herself",
+        "wash herself",
+        "No change possible"
+      ],
+      "correctAnswer": 0,
+      "hint": "Wash can be used intransitively when referring to oneself.",
+      "explanation": "<strong>Answer: washed (herself)</strong><br>Wash can be used intransitively when referring to oneself. "
+    },
+    {
+      "question": "...reached their house... (Is 'their house' omittable?)",
+      "options": [
+        "reached their house",
+        "(reached) their house",
+        "reached (their house)",
+        "No change possible"
+      ],
+      "correctAnswer": 0,
+      "hint": "Reach usually requires an object.",
+      "explanation": "<strong>Answer: reached their house</strong><br>Reach usually requires an object. The grammatical signals in this sentence — the key words, connectors, or context — require this specific form. Look for these signals to make the same choice independently."
+    },
+    {
+      "type": "correct",
+      "sentence": "She explained me the reasons for her decision in detail.",
+      "correction": "She explained the reasons for her decision to me in detail.",
+      "acceptable": [
+        "explained the reasons to me",
+        "explained it to me"
+      ],
+      "hint": "'Explain' cannot take a double object — use 'explain X to Y'.",
+      "explanation": "<strong>Answer: She explained the reasons to me</strong><br>'Explain' does not follow the double-object pattern. Unlike 'give', 'send', 'show', 'tell', you cannot say 'explain someone something'. The pattern is: explain + thing explained + to + person. The same applies to 'describe', 'suggest', 'propose', 'recommend'."
+    },
+    {
+      "question": "Electors deserve more from a political party that ___ national leadership.",
+      "options": [
+        "aspires to",
+        "aspires for",
+        "aspires in",
+        "aspires toward"
+      ],
+      "correctAnswer": 0,
+      "hint": "Aspire + to + noun phrase.",
+      "explanation": "<strong>Answer: aspires to</strong><br>The verb 'aspire' is followed by 'to' + noun phrase (aspire to greatness) or 'to + infinitive' (aspire to become). It is not followed directly by a bare noun without 'to'."
+    },
+    {
+      "question": "Years of research by Fleming ___ the discovery of penicillin.",
+      "hint": "Culminate can take in or with.",
+      "explanation": "<strong>Answer: Both are possible</strong><br>'Culminate' can be followed by either 'in' or 'with': 'culminate in a disaster' or 'culminate with a speech'. Both prepositions are standard; 'in' is slightly more common.",
+      "type": "fill",
+      "answer": "culminated in",
+      "acceptable": [
+        "culminated with",
+        "Both are possible"
+      ]
+    },
+    {
+      "type": "fill",
+      "question": "The committee considered ___ necessary to review the entire policy from scratch.",
+      "answer": "it",
+      "hint": "Dummy 'it' needed before the adjective complement.",
+      "explanation": "<strong>Answer: it</strong><br>After 'consider/find/make/think + adjective + to-infinitive', insert 'it' as a placeholder object. The to-infinitive ('to review the entire policy') is the real subject, but English requires 'it' in this position to maintain SVO word order."
+    },
+    {
+      "question": "It was dark and raining and she ___ the black car ___ a taxi.",
+      "options": [
+        "mistook / for",
+        "mistook / as",
+        "mistook / with",
+        "mistook / to"
+      ],
+      "correctAnswer": 0,
+      "hint": "Mistake something for something else.",
+      "explanation": "<strong>Answer: mistook / for</strong><br>The pattern is: 'mistake X for Y' — you think X is actually Y. The preposition 'for' is fixed in this idiom. Do not confuse with 'confuse X with Y'."
+    },
+    {
+      "question": "The scientific evidence proved him ___.",
+      "options": [
+        "guilty",
+        "as guilty",
+        "to be guilty",
+        "Both guilty and to be guilty"
+      ],
+      "correctAnswer": 3,
+      "hint": "Both are possible formal structures.",
+      "explanation": "<strong>Answer: Both guilty and to be guilty</strong><br>Both are possible formal structures. "
+    },
+    {
+      "question": "She declared herself ___ with the result.",
+      "options": [
+        "familiar",
+        "to familiar",
+        "as familiar",
+        "of familiar"
+      ],
+      "correctAnswer": 0,
+      "hint": "Declare + object + adjective.",
+      "explanation": "<strong>Answer: familiar</strong><br>After 'declare', the pattern is: declare + object + adjective or noun (declare yourself satisfied / declare the meeting closed). This is an object complement structure."
+    },
+    {
+      "question": "They considered the food ___.",
+      "options": [
+        "smelly",
+        "to smelly",
+        "as smelly",
+        "Both smelly and to smelly"
+      ],
+      "correctAnswer": 0,
+      "hint": "Consider + object + adjective.",
+      "explanation": "<strong>Answer: smelly</strong><br>After 'consider', the pattern is: consider + object + adjective or noun (consider the matter closed / consider her brilliant). This is an object complement. 'Consider' does not take 'to be' in current usage."
+    }
+  ]
+}

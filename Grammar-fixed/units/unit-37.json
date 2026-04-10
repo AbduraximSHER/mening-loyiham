@@ -1,0 +1,121 @@
+{
+  "id": 37,
+  "title": "Modal verbs in reporting",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Modal verbs that do not change",
+      "content": "<div class=\"web-text\">When there is a modal verb in the original statement, suggestion, etc., it sometimes changes when we report what was said or thought. However, some modal verbs do not change: <strong>could, would, should, might, needn't, ought to, used to, could have, should have, etc.</strong></div>\n            <div class=\"web-example\">\n                <span>• 'I <strong>could meet</strong> you at the airport.' → He said that he <strong>could meet</strong> us at the airport.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• 'We <strong>might drop in</strong> if we have time.' → They said they <strong>might drop in</strong> if they have time.</span>\n            </div>"
+    },
+    {
+      "id": "B",
+      "title": "will, can, may",
+      "content": "<div class=\"web-text\">The modal verbs <strong>will, can, may</strong> usually change to <strong>would, could, might</strong> when reported:</div>\n            <div class=\"web-example\">\n                <span>• 'She <strong>may</strong> have already left.' → He thought she <strong>might</strong> have already left.</span>\n            </div>\n            <div class=\"web-text\">If the situation we are reporting still exists or is still in the future, and the verb in the reporting clause has a <em>present tense</em>, we use <strong>will, can, may</strong> in the reported clause:</div>\n            <div class=\"web-example\">\n                <span>• 'Careful! You'll fall through the ice!' → I <strong>warn</strong> him he <strong>will</strong> fall through the ice.</span>\n            </div>\n            <div class=\"web-text\">If the situation we are reporting still exists or is still in the future, and the verb in the reporting clause has a <em>past tense</em>, we can use either <strong>would</strong> or <strong>will</strong>, <strong>can</strong> or <strong>could</strong>, or <strong>may</strong> or <strong>might</strong> in the reported clause:</div>\n            <div class=\"web-example\">\n                <span>• 'The problem can be solved.' → They <strong>said</strong> the problem <strong>can / could</strong> be solved.</span>\n            </div>"
+    },
+    {
+      "id": "C",
+      "title": "shall",
+      "content": "<div class=\"web-text\"><strong>Shall</strong> changes to <strong>would</strong> when talking about the future:</div>\n            <div class=\"web-example\">\n                <span>• 'I <strong>shall</strong> (I'll) call you on Monday.' → She told me she <strong>would</strong> call me on Monday.</span>\n            </div>\n            <div class=\"web-text\"><strong>Shall</strong> changes to <strong>should</strong> in offers, requests for advice, etc.:</div>\n            <div class=\"web-example\">\n                <span>• 'Where <strong>shall</strong> I put this box?' → He asked where he <strong>should</strong> put the box.</span>\n            </div>"
+    },
+    {
+      "id": "D",
+      "title": "must and mustn't",
+      "content": "<div class=\"web-text\"><strong>Must</strong> (= necessity) changes to <strong>must</strong> or <strong>had to</strong>:</div>\n            <div class=\"web-example\">\n                <span>• 'You <strong>must</strong> be home by 9 o'clock.' → She said I <strong>must / had to</strong> be home by 9 o'clock.</span>\n            </div>\n            <div class=\"web-text\"><strong>Must</strong> (= conclude) and <strong>mustn't</strong> do not change:</div>\n            <div class=\"web-example\">\n                <span>• 'I didn't hear the phone. I <strong>must</strong> be going deaf.' → Alex thought he <strong>must</strong> be going deaf.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• 'You <strong>mustn't</strong> tell my brother.' → He warned me that I <strong>mustn't</strong> tell his brother.</span>\n            </div>"
+    },
+    {
+      "id": "E",
+      "title": "Adding a modal verb in the report",
+      "content": "<div class=\"web-text\">We sometimes use a modal verb in a reported sentence when there is no modal verb in the original:</div>\n            <div class=\"web-example\">\n                <span>• 'You're not allowed to smoke here.' → She told me that I <strong>mustn't</strong> smoke there.</span>\n            </div>\n            <div class=\"web-example\">\n                <span>• 'My advice is to look for a new job now.' → She said that I <strong>should</strong> look for a new job now.</span>\n            </div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "The doctor says that he ___ see you in 20 minutes.",
+      "options": [
+        "will",
+        "would",
+        "both",
+        "neither"
+      ],
+      "correctAnswer": 0,
+      "hint": "If the reporting verb is in the present tense ('says') and refers to the future, use 'will'.",
+      "explanation": "<strong>Answer: will</strong><br>If the reporting verb is in the present tense ('says') and refers to the future, use 'will'. "
+    },
+    {
+      "type": "correct",
+      "sentence": "She said that she can help us move house at the weekend.",
+      "correction": "She said that she could help us move house at the weekend.",
+      "acceptable": [
+        "she could help us"
+      ],
+      "hint": "In reported speech, 'can' shifts to 'could'.",
+      "explanation": "<strong>Answer: she could help us</strong><br>In reported speech, modal verbs shift back: can → could, will → would, may → might, must → had to, shall → should/would. 'Can' becomes 'could' in reported past tense. Note: 'could', 'would', 'might', 'should', and 'ought to' do not change."
+    },
+    {
+      "question": "In her letter, Elizabeth revealed that she ___ be getting married soon.",
+      "options": [
+        "may",
+        "might",
+        "both",
+        "neither"
+      ],
+      "correctAnswer": 2,
+      "hint": "If the reporting verb is in the past tense but the event is still in the future, both 'may' and 'might' can be used.",
+      "explanation": "<strong>Answer: both</strong><br>If the reporting verb is in the past tense but the event is still in the future, both 'may' and 'might' can be used. "
+    },
+    {
+      "type": "correct",
+      "sentence": "He told me that I must to leave the building immediately.",
+      "correction": "He told me that I had to leave the building immediately.",
+      "acceptable": [
+        "I had to leave",
+        "I must leave"
+      ],
+      "hint": "In reported past speech, 'must' (obligation) shifts to 'had to'. Also: no 'to' after modal verbs.",
+      "explanation": "<strong>Answer: I had to leave</strong><br>Two issues: (1) 'Must' expressing obligation shifts to 'had to' in reported speech. (2) All modals are followed by a bare infinitive — no 'to'. 'Must to leave' is always wrong. Note: 'must' expressing logical deduction can stay as 'must' in reported speech: 'He said it must be true.'"
+    },
+    {
+      "question": "'I won't be late.' → She promised ___ late and she kept her word.",
+      "options": [
+        "that she wouldn't be",
+        "that she shouldn't be",
+        "that she couldn't be",
+        "that she mustn't be"
+      ],
+      "correctAnswer": 0,
+      "hint": "Use a that-clause with 'wouldn't' because the reporting verb is past ('promised') and referring to a past future.",
+      "explanation": "<strong>Answer: that she wouldn't be</strong><br>Use a that-clause with 'wouldn't' because the reporting verb is past ('promised') and referring to a past future. 'Would' and 'used to' both express past habits, but 'would' cannot be used for past states — only repeated actions."
+    },
+    {
+      "type": "fill",
+      "question": "She told me she ___ (might / consider) the offer if the salary was right.",
+      "answer": "might consider",
+      "hint": "'Might' does not change in reported speech.",
+      "explanation": "<strong>Answer: might consider</strong><br>'Might', 'could', 'would', 'should', and 'ought to' do not change in reported speech — they are already past or hypothetical forms. Only 'can', 'will', 'may', 'must', and 'shall' shift back: can→could, will→would, may→might, must→had to, shall→should/would."
+    },
+    {
+      "question": "'I must be getting old.' → She said that she ___ getting old.",
+      "options": [
+        "must be",
+        "had to be",
+        "both",
+        "neither"
+      ],
+      "correctAnswer": 0,
+      "hint": "When 'must' expresses a conclusion, it doesn't change to 'had to' in reported speech.",
+      "explanation": "<strong>Answer: must be</strong><br>When 'must' expresses a conclusion, it doesn't change to 'had to' in reported speech. "
+    },
+    {
+      "question": "'If you want to travel with us, that's fine.' → She said that ___",
+      "options": [
+        "I could travel with them.",
+        "I should travel with them.",
+        "I had to travel with them.",
+        "I must travel with them."
+      ],
+      "correctAnswer": 0,
+      "hint": "'Can' (meaning permission or ability in the original intent) changes to 'could' in reported speech.",
+      "explanation": "<strong>Answer: I could travel with them.</strong><br>'Can' (meaning permission or ability in the original intent) changes to 'could' in reported speech. The grammatical signals in this sentence — the key words, connectors, or context — require this specific form. Look for these signals to make the same choice independently."
+    }
+  ]
+}

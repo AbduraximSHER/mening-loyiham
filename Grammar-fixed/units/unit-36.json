@@ -1,0 +1,137 @@
+{
+  "id": 36,
+  "title": "Reporting offers, suggestions, orders, intentions, etc.",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Verb + (object) + to-infinitive clause",
+      "content": "<div class=\"web-text\">When we report offers, suggestions, orders, intentions, promises, requests, etc. we can follow some verbs in the reporting clause with:</div>\n            <div class=\"web-text\"><strong>a to-infinitive clause</strong></div>\n            <div class=\"web-example\">\n                <span>• 'The theatre will be built next to the town hall.' $\nightarrow$ They <strong>propose to build</strong> the theatre next to the town hall. (not They propose them to build ...)</span>\n            </div>\n            <div class=\"web-text\">Also: <strong>agree, demand, guarantee, offer, promise, swear, threaten, volunteer</strong></div>\n            <div class=\"web-text\"><strong>an object + to-infinitive clause</strong></div>\n            <div class=\"web-example\">\n                <span>• 'You should take the job, Fran.' $\nightarrow$ She <strong>encouraged Fran to take</strong> the job.</span>\n            </div>\n            <div class=\"web-text\">Also: <strong>advise, ask, call on, command, instruct, invite, order, persuade, recommend, remind, request, urge, warn, tell</strong></div>\n            <div class=\"web-text\">Compare the use of <strong>ask</strong> with and without an object before a to-infinitive clause:</div>\n            <div class=\"web-example\">\n                <span>• We <strong>asked to leave</strong> our bags outside the exam room. (= this is something we wanted) <em>and</em></span>\n            </div>\n            <div class=\"web-example\">\n                <span>• They <strong>asked us to leave</strong> our bags outside the exam room. (= this is something they wanted)</span>\n            </div>"
+    },
+    {
+      "id": "B",
+      "title": "Verb + that-clause or verb + to-infinitive clause",
+      "content": "<div class=\"web-text\">After some verbs we can use a <strong>that-clause</strong> instead of a <strong>to-infinitive clause</strong>:</div>\n            <div class=\"web-example\">\n                <span>• He <strong>promised to arrive</strong> on time. <em>or</em> He <strong>promised that he would arrive</strong> on time.</span>\n            </div>\n            <div class=\"web-text\">Also: <strong>agree, demand, expect, guarantee, hope, propose, request, vow</strong></div>\n            <div class=\"web-text\">With a <strong>that-clause</strong> the person promising, etc. and the person referred to in the reported clause may be different:</div>\n            <div class=\"web-example\">\n                <span>• He <strong>promised that</strong> he wouldn't be late. ('He ...' and '... he ...' may refer to different people)</span>\n            </div>"
+    },
+    {
+      "id": "C",
+      "title": "Verbs rarely followed by a to-infinitive clause",
+      "content": "<div class=\"web-text\">After the verbs <strong>insist, order, say</strong> and <strong>suggest</strong> we use a <strong>that-clause</strong> but not a to-infinitive clause:</div>\n            <div class=\"web-example\">\n                <span>• There were cheers when he <strong>suggested that we went</strong> home early. (not ... suggested to go ...)</span>\n            </div>\n            <div class=\"web-text\"><strong>Advise</strong> and <strong>order</strong> can be used with an <strong>object + to-infinitive clause</strong> (see A) or a <strong>that-clause</strong>:</div>\n            <div class=\"web-example\">\n                <span>• I <strong>advised that</strong> she should accept. (or I <strong>advised her to accept</strong>.; but not I advised to accept ...)</span>\n            </div>"
+    },
+    {
+      "id": "D",
+      "title": "Verb + to-infinitive clause (not verb + that-clause)",
+      "content": "<div class=\"web-text\">After some verbs we use a <strong>to-infinitive clause</strong> but not a that-clause:</div>\n            <div class=\"web-example\">\n                <span>• Carolyn <strong>intends to return</strong> to Dublin after a year in Canada. (not Carolyn intends that she should return ...)</span>\n            </div>\n            <div class=\"web-text\">Also: <strong>long, offer, refuse, volunteer, want</strong></div>"
+    },
+    {
+      "id": "E",
+      "title": "Reporting clause followed by an -ing clause",
+      "content": "<div class=\"web-text\">When we report a suggestion, either what the person reported might do themselves, or what someone else might do, we can use a reporting clause with <strong>advise, propose, recommend</strong> or <strong>suggest</strong> followed by an <strong>-ing clause</strong> rather than a that-clause:</div>\n            <div class=\"web-example\">\n                <span>• The lecturer <strong>recommended reading</strong> a number of books before the exam. (or ... recommended that the students should read ...)</span>\n            </div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "'If I were you, I'd read the exam questions very carefully.' → He ___ to read the exam questions very carefully.",
+      "options": [
+        "advised us",
+        "agreed",
+        "asked",
+        "ordered"
+      ],
+      "correctAnswer": 0,
+      "hint": "Use 'advise' with an object to give a recommendation.",
+      "explanation": "<strong>Answer: advised us</strong><br>Use 'advise' with an object to give a recommendation. "
+    },
+    {
+      "type": "correct",
+      "sentence": "He suggested me to try the new Italian restaurant.",
+      "correction": "He suggested that I try the new Italian restaurant.",
+      "acceptable": [
+        "He suggested trying the new Italian restaurant",
+        "suggested (that) I try"
+      ],
+      "hint": "'Suggest' cannot be followed by object + to-infinitive. Use 'suggest + -ing' or 'suggest that + subjunctive'.",
+      "explanation": "<strong>Answer: He suggested trying / suggested that I try</strong><br>'Suggest' does NOT take the pattern: suggest + someone + to-infinitive. This is a very common error. Correct patterns: (1) suggest + -ing: 'suggested trying'; (2) suggest + that-clause: 'suggested that I try / should try'. Compare: 'recommend' works the same way."
+    },
+    {
+      "question": "'Okay, I'll collect Declan from school.' → He ___ to collect Declan from school.",
+      "options": [
+        "agreed",
+        "asked",
+        "expected",
+        "hoped"
+      ],
+      "correctAnswer": 0,
+      "hint": "He expressed willingness or made a promise.",
+      "explanation": "<strong>Answer: agreed</strong><br>After reported speech, 'agree' + to-infinitive reports a willingness or promise ('He agreed to collect Declan'). Compare 'offer', 'promise', 'volunteer' — all followed by to-infinitive in reported speech."
+    },
+    {
+      "type": "correct",
+      "sentence": "She recommended me the new detective novel.",
+      "correction": "She recommended the new detective novel to me.",
+      "acceptable": [
+        "recommended the new detective novel to me",
+        "recommended it to me"
+      ],
+      "hint": "'Recommend' cannot take a double object like 'give' or 'send'. Use 'recommend X to someone'.",
+      "explanation": "<strong>Answer: She recommended the new detective novel to me</strong><br>'Recommend' does not follow the double-object pattern (recommend someone something). Unlike 'give', 'send', 'show', 'tell' — which can take indirect objects — 'recommend' requires: recommend + direct object + to + person. The same applies to 'suggest', 'describe', 'explain'."
+    },
+    {
+      "question": "The Health Minister suggested to improve the country's health care. (Replace 'suggested' if incorrect)",
+      "options": [
+        "promised",
+        "refused",
+        "said",
+        "Correct as is"
+      ],
+      "correctAnswer": 0,
+      "hint": "'Suggest' is not followed by a to-infinitive clause. It takes a that-clause or an -ing form.",
+      "explanation": "<strong>Answer: promised</strong><br>'Suggest' is not followed by a to-infinitive clause. It takes a that-clause or an -ing form. This verb pattern requires a gerund (-ing form) as its object."
+    },
+    {
+      "type": "correct",
+      "sentence": "The officer ordered to the driver to pull over immediately.",
+      "correction": "The officer ordered the driver to pull over immediately.",
+      "acceptable": [
+        "ordered the driver to pull over"
+      ],
+      "hint": "'Order someone to do': no 'to' before the person — direct object only.",
+      "explanation": "<strong>Answer: ordered the driver to pull over</strong><br>'Order' follows the pattern: order + person + to-infinitive (NO 'to' before the person). 'Ordered to the driver' incorrectly adds a preposition. Compare: 'asked her to leave', 'told him to wait', 'invited them to join' — all take a direct object person with no preposition."
+    },
+    {
+      "question": "She intended that this could be done without raising taxes. (Replace 'intended' if incorrect)",
+      "options": [
+        "said",
+        "promised",
+        "refused",
+        "expected"
+      ],
+      "correctAnswer": 0,
+      "hint": "'Intend' does not take a that-clause.",
+      "explanation": "<strong>Answer: said</strong><br>'Intend' is not followed by a that-clause in standard English. Use: 'intend to do something' (to-infinitive) or restructure. The original that-clause requires a different reporting verb like 'say' or 'suggest'."
+    },
+    {
+      "question": "To avoid the road works, police have advised ___ the motorway at Junction 3.",
+      "options": [
+        "leaving",
+        "to leave",
+        "leave",
+        "left"
+      ],
+      "correctAnswer": 0,
+      "hint": "Advise can be followed by an -ing clause when there is no object.",
+      "explanation": "<strong>Answer: leaving</strong><br>Advise can be followed by an -ing clause when there is no object. This verb pattern requires a gerund (-ing form) as its object."
+    },
+    {
+      "question": "Ricardo said the play was very entertaining and he recommended ___ it.",
+      "options": [
+        "seeing",
+        "to see",
+        "see",
+        "to seeing"
+      ],
+      "correctAnswer": 0,
+      "hint": "Recommend can be followed by an -ing clause.",
+      "explanation": "<strong>Answer: seeing</strong><br>Recommend can be followed by an -ing clause. This verb pattern requires a gerund (-ing form) as its object."
+    }
+  ]
+}

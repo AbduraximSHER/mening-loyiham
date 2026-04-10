@@ -1,0 +1,114 @@
+{
+  "id": 91,
+  "title": "Describing Places and Scenery",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Landscape vocabulary",
+      "content": "<div class=\"web-text\">Rich vocabulary for describing natural settings:</div><div class=\"web-example\"><span>• <strong>picturesque</strong> — visually attractive, like a painting. <em>The village was absolutely picturesque in autumn.</em></span></div><div class=\"web-example\"><span>• <strong>breathtaking</strong> — astonishingly beautiful. <em>The view from the mountain top was breathtaking.</em></span></div><div class=\"web-example\"><span>• <strong>barren</strong> — too poor to produce vegetation. <em>The barren desert stretched for hundreds of miles.</em></span></div><div class=\"web-example\"><span>• <strong>lush</strong> — rich and abundant vegetation. <em>The tropical rainforest was incredibly lush and green.</em></span></div><div class=\"web-example\"><span>• <strong>rugged</strong> — having a rough, uneven surface. <em>The rugged coastline attracts adventurous hikers.</em></span></div>"
+    },
+    {
+      "id": "B",
+      "title": "Urban descriptions",
+      "content": "<div class=\"web-text\">Describing cities and built environments:</div><div class=\"web-example\"><span>• <strong>bustling</strong> — full of energetic activity. <em>The bustling market was filled with traders and shoppers.</em></span></div><div class=\"web-example\"><span>• <strong>run-down</strong> — in poor condition from neglect. <em>The run-down neighbourhood is being regenerated.</em></span></div><div class=\"web-example\"><span>• <strong>vibrant</strong> — full of energy and life. <em>The city has a vibrant arts and music scene.</em></span></div><div class=\"web-example\"><span>• <strong>sprawling</strong> — spreading over a wide area. <em>The sprawling suburbs extend far beyond the city centre.</em></span></div><div class=\"web-example\"><span>• <strong>quaint</strong> — attractively old-fashioned. <em>We stayed in a quaint little cottage by the river.</em></span></div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "Scenery so beautiful it takes your breath away is:",
+      "options": [
+        "rugged",
+        "breathtaking",
+        "rugged",
+        "idyllic"
+      ],
+      "correctAnswer": 1,
+      "hint": "Stunning.",
+      "explanation": "<strong>Breathtaking</strong> means astonishing or awe-inspiring in quality."
+    },
+    {
+      "question": "Land with no vegetation or life is:",
+      "options": [
+        "arid",
+        "picturesque",
+        "barren",
+        "stark"
+      ],
+      "correctAnswer": 2,
+      "hint": "Empty and lifeless.",
+      "explanation": "<strong>Barren</strong> means too poor to produce much vegetation; unproductive."
+    },
+    {
+      "question": "A place full of busy activity and energy is:",
+      "options": [
+        "stark",
+        "compact",
+        "bustling",
+        "serene"
+      ],
+      "correctAnswer": 2,
+      "hint": "Lots going on.",
+      "explanation": "<strong>Bustling</strong> means full of energetic and noisy activity."
+    },
+    {
+      "question": "An area with rich, abundant green vegetation is:",
+      "options": [
+        "idyllic",
+        "rugged",
+        "lush",
+        "picturesque"
+      ],
+      "correctAnswer": 2,
+      "hint": "Think tropical forests.",
+      "explanation": "<strong>Lush</strong> means growing luxuriantly; rich and abundant in vegetation."
+    },
+    {
+      "question": "A building in poor condition from lack of care is:",
+      "options": [
+        "idyllic",
+        "run-down",
+        "picturesque",
+        "tranquil"
+      ],
+      "correctAnswer": 1,
+      "hint": "Neglected.",
+      "explanation": "<strong>Run-down</strong> means in a poor state of repair due to neglect."
+    },
+    {
+      "question": "Something attractively old-fashioned is:",
+      "options": [
+        "quaint",
+        "serene",
+        "desolate",
+        "rugged"
+      ],
+      "correctAnswer": 0,
+      "hint": "Charming in an old way.",
+      "explanation": "<strong>Quaint</strong> means attractively unusual or old-fashioned."
+    },
+    {
+      "question": "A city that spreads over a wide area is:",
+      "options": [
+        "sprawling",
+        "picturesque",
+        "rugged",
+        "picturesque"
+      ],
+      "correctAnswer": 0,
+      "hint": "It keeps expanding outward.",
+      "explanation": "<strong>Sprawling</strong> means spreading out over a large area in an untidy way."
+    },
+    {
+      "question": "A place full of life, colour, and excitement is:",
+      "options": [
+        "vibrant",
+        "tranquil",
+        "stark",
+        "rugged"
+      ],
+      "correctAnswer": 0,
+      "hint": "Energetic and colourful.",
+      "explanation": "<strong>Vibrant</strong> means full of energy and life."
+    }
+  ]
+}

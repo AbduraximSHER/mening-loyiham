@@ -1,0 +1,119 @@
+{
+  "id": 64,
+  "title": "Idioms with Body Parts",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Head and face idioms",
+      "content": "<div class=\"web-text\">Many English idioms use parts of the body figuratively:</div><div class=\"web-example\"><span>• <strong>keep a straight face</strong> — avoid laughing. <em>I couldn't keep a straight face when he told the joke.</em></span></div><div class=\"web-example\"><span>• <strong>off the top of my head</strong> — without thinking carefully. <em>Off the top of my head, I'd say there are about fifty.</em></span></div><div class=\"web-example\"><span>• <strong>turn a blind eye</strong> — pretend not to notice. <em>The manager turned a blind eye to the employees arriving late.</em></span></div><div class=\"web-example\"><span>• <strong>see eye to eye</strong> — agree completely. <em>We don't always see eye to eye on politics.</em></span></div><div class=\"web-example\"><span>• <strong>bite your tongue</strong> — stop yourself from saying something. <em>I had to bite my tongue to avoid arguing with her.</em></span></div>"
+    },
+    {
+      "id": "B",
+      "title": "Hand and arm idioms",
+      "content": "<div class=\"web-text\">Idioms involving hands and arms:</div><div class=\"web-example\"><span>• <strong>lend a hand</strong> — help someone. <em>Could you lend me a hand with these boxes?</em></span></div><div class=\"web-example\"><span>• <strong>get out of hand</strong> — become uncontrollable. <em>The party got completely out of hand.</em></span></div><div class=\"web-example\"><span>• <strong>keep at arm's length</strong> — maintain distance from someone. <em>She keeps her work colleagues at arm's length.</em></span></div><div class=\"web-example\"><span>• <strong>twist someone's arm</strong> — persuade someone reluctantly. <em>I didn't want to go, but she twisted my arm.</em></span></div><div class=\"web-example\"><span>• <strong>wash your hands of</strong> — refuse further responsibility. <em>After years of trying, he washed his hands of the project.</em></span></div>"
+    },
+    {
+      "id": "C",
+      "title": "Other body idioms",
+      "content": "<div class=\"web-text\">More idioms using body parts:</div><div class=\"web-example\"><span>• <strong>cold feet</strong> — nervousness before an important event. <em>She got cold feet before the wedding.</em></span></div><div class=\"web-example\"><span>• <strong>break a leg</strong> — good luck (especially in performance). <em>You're on stage tonight? Break a leg!</em></span></div><div class=\"web-example\"><span>• <strong>get something off your chest</strong> — say something that's been worrying you. <em>I need to get something off my chest — I disagree with the plan.</em></span></div><div class=\"web-example\"><span>• <strong>have a gut feeling</strong> — have an intuitive sense. <em>I have a gut feeling this deal isn't right.</em></span></div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "'She turned a blind eye to the problem' means she:",
+      "options": [
+        "couldn't see it",
+        "pretended not to notice",
+        "was blind",
+        "looked carefully"
+      ],
+      "correctAnswer": 1,
+      "hint": "She chose to ignore it.",
+      "explanation": "<strong>Turn a blind eye</strong> means to deliberately ignore something you know is wrong."
+    },
+    {
+      "question": "If a situation 'gets out of hand', it becomes:",
+      "options": [
+        "easy",
+        "uncontrollable",
+        "boring",
+        "expensive"
+      ],
+      "correctAnswer": 1,
+      "hint": "It's beyond control.",
+      "explanation": "<strong>Get out of hand</strong> means to become difficult to manage or control."
+    },
+    {
+      "question": "Having 'cold feet' before an event means feeling:",
+      "options": [
+        "excited",
+        "cold",
+        "nervous",
+        "angry"
+      ],
+      "correctAnswer": 2,
+      "hint": "You want to back out.",
+      "explanation": "<strong>Cold feet</strong> means a loss of nerve or confidence before an important event."
+    },
+    {
+      "question": "'Off the top of my head' means answering:",
+      "options": [
+        "with great thought",
+        "without careful consideration",
+        "from a book",
+        "from memory"
+      ],
+      "correctAnswer": 1,
+      "hint": "You haven't thought about it deeply.",
+      "explanation": "<strong>Off the top of my head</strong> means saying something without much thought or research."
+    },
+    {
+      "question": "To 'bite your tongue' means to:",
+      "options": [
+        "eat quickly",
+        "hurt yourself",
+        "stop yourself from speaking",
+        "speak loudly"
+      ],
+      "correctAnswer": 2,
+      "hint": "You hold back your words.",
+      "explanation": "<strong>Bite your tongue</strong> means to make a deliberate effort not to say something."
+    },
+    {
+      "question": "To 'twist someone's arm' means to:",
+      "options": [
+        "hurt them",
+        "persuade them",
+        "confuse them",
+        "ignore them"
+      ],
+      "correctAnswer": 1,
+      "hint": "Gentle pressure to convince.",
+      "explanation": "<strong>Twist someone's arm</strong> means to persuade someone to do something they're reluctant to do."
+    },
+    {
+      "question": "A 'gut feeling' is a feeling based on:",
+      "options": [
+        "scientific evidence",
+        "intuition",
+        "anger",
+        "hunger"
+      ],
+      "correctAnswer": 1,
+      "hint": "An instinct, not logical reasoning.",
+      "explanation": "A <strong>gut feeling</strong> is an instinctive feeling, as opposed to an opinion based on facts."
+    },
+    {
+      "question": "To 'get something off your chest' means to:",
+      "options": [
+        "remove clothing",
+        "share a worry openly",
+        "exercise",
+        "calm down"
+      ],
+      "correctAnswer": 1,
+      "hint": "Finally saying what's been bothering you.",
+      "explanation": "<strong>Get something off your chest</strong> means to say something that has been worrying you."
+    }
+  ]
+}

@@ -1,0 +1,413 @@
+{
+  "id": 1,
+  "title": "Present continuous and present simple: state verbs and performatives",
+  "sections": [
+    {
+      "id": "A",
+      "title": "State verbs",
+      "content": "\n                    <div class=\"web-text\">We can use the present continuous with some state verbs (e.g. <strong>attract, like, look, love, sound</strong>) to emphasise that a situation is temporary or for a period of time around the present. Compare:</div>\n                    <div class=\"web-example\">\n                        <span>• Ella stays with us quite often. The children <strong>love</strong> having her here. <em>and</em></span>\n                    </div>\n                    <div class=\"web-example\">\n                        <span>• Ella's with us at the moment. The children <strong>are loving</strong> having her here.</span>\n                    </div>\n                    <div class=\"web-text\">State verbs which we rarely use with the present continuous include <strong>believe, consist of, doubt, own</strong>.</div>\n                "
+    },
+    {
+      "id": "B",
+      "title": "State and action meanings",
+      "content": "\n                    <div class=\"web-text\">Some verbs have different meanings when they are used to talk about states and when they describe actions. With their 'state' meanings, they usually take simple rather than continuous forms. With their 'action' meanings, they may take simple or continuous forms, depending on context. Compare:</div>\n                    <div class=\"web-example\">\n                        <span>• The app <strong>doesn't appear</strong> to work on my phone. (appear: <em>state</em> = seem) <em>and</em></span>\n                    </div>\n                    <div class=\"web-example\">\n                        <span>• Carley Robb <strong>is</strong> currently <strong>appearing</strong> in a musical on Broadway. / She often <strong>appears</strong> in musicals. (appear: <em>action</em> = take part)</span>\n                    </div>\n                    <div class=\"web-text\"><em>Also:</em> <strong>expect, feel, fit, have, imagine, look, measure, see, think, weigh</strong></div>\n                "
+    },
+    {
+      "id": "C",
+      "title": "Mental state verbs",
+      "content": "\n                    <div class=\"web-text\">With some verbs describing <em>mental</em> states (e.g. <strong>find, realise, regret, think, understand</strong>) we can use the present continuous to emphasise that we have recently started to think about something or that we are not sure about something. Compare:</div>\n                    <div class=\"web-example\">\n                        <span>• I <strong>regret</strong> that the company will have to be sold. (= I've made the decision and I'm sorry about it) <em>and</em></span>\n                    </div>\n                    <div class=\"web-example\">\n                        <span>• I'<strong>m regretting</strong> my decision to give her the job. (= I'm increasingly aware that it was the wrong decision)</span>\n                    </div>\n                    <div class=\"web-text\">When it means 'think carefully about', <strong>consider</strong> is often used in the continuous form in the present:</div>\n                    <div class=\"web-example\">\n                        <span>• He'<strong>s considering</strong> taking early retirement. (<em>not</em> He considers taking early retirement.)</span>\n                    </div>\n                    <div class=\"web-text\">Some other verbs describing preferences and mental states (e.g. <strong>agree, believe, conclude, know, prefer</strong>) are rarely used with the present continuous:</div>\n                    <div class=\"web-example\">\n                        <span>• I <strong>believe</strong> you now. (<em>not</em> I'm believing you now.)</span>\n                    </div>\n                "
+    },
+    {
+      "id": "D",
+      "title": "Performatives",
+      "content": "\n                    <div class=\"web-text\">Verbs which perform the action they describe (= performatives) usually take the present simple:</div>\n                    <div class=\"web-example\">\n                        <span>• I <strong>suggest</strong> you park outside the city and get the bus to the centre.</span>\n                    </div>\n                    <div class=\"web-example\">\n                        <span>• We <strong>request</strong> that you read the terms and conditions carefully before signing.</span>\n                    </div>\n                    <div class=\"web-text\"><em>Also:</em> <strong>acknowledge, admit, advise, apologise, beg, confess, congratulate, declare, deny, forbid, guarantee, name, order, permit, predict, promise, refuse, remind, request, thank, warn</strong></div>\n                    <div class=\"web-text\">Some verbs used as performatives with the present simple in affirmative (= positive) sentences (<strong>apologise, deny, guarantee, promise, suggest</strong>) have a similar meaning with either the present simple or the present continuous in negative sentences:</div>\n                    <div class=\"web-example\">\n                        <span>• I <strong>don't deny</strong> / I'<strong>m not denying</strong> taking the books, but Miguel said it would be okay.</span>\n                    </div>\n                    <div class=\"web-text\">Modals are often used with performatives to make what we say more tentative or polite:</div>\n                    <div class=\"web-example\">\n                        <span>• We <strong>would advise</strong> you to arrive two hours before the flight leaves.</span>\n                    </div>\n                    <div class=\"web-example\">\n                        <span>• I <strong>must beg</strong> you to keep this a secret.</span>\n                    </div>\n                "
+    }
+  ],
+  "exercises": [
+    {
+      "question": "I hear you're having your house repainted. How ___ ?",
+      "options": [
+        "is it looking",
+        "does it look",
+        "is it look",
+        "looks"
+      ],
+      "correctAnswer": 0,
+      "hint": "Continuous is possible here for a temporary state.",
+      "explanation": "<strong>Why 'is it looking'?</strong><br>While 'look' is often stative, we use the continuous form (is it looking) to ask about a <em>temporary</em> appearance or state that is subject to change, especially in informal contexts."
+    },
+    {
+      "question": "I bought this new dress today. How ___ ?",
+      "options": [
+        "is it looking",
+        "does it look",
+        "does it looking",
+        "looks"
+      ],
+      "correctAnswer": 1,
+      "hint": "Asking for a general opinion/state.",
+      "explanation": "<strong>Why 'does it look'?</strong><br>Here, the speaker is asking for a general opinion about the dress's appearance. The quality of 'looking good/bad' is treated as a fact or permanent state of the dress, so the Present Simple is preferred."
+    },
+    {
+      "question": "What are you doing with that ruler? I ___ (measure) the area of the kitchen.",
+      "options": [
+        "am measuring",
+        "measure",
+        "am measure",
+        "measures"
+      ],
+      "correctAnswer": 0,
+      "hint": "An action in progress.",
+      "explanation": "<strong>Why 'am measuring'?</strong><br>'Measure' is a dynamic verb here because it describes the <em>action</em> of taking measurements. Since the action is happening right now, we use the Present Continuous."
+    },
+    {
+      "question": "The garden ___ 12 by 20 metres.",
+      "options": [
+        "is measuring",
+        "measure",
+        "measures",
+        "are measuring"
+      ],
+      "correctAnswer": 2,
+      "hint": "A static fact about dimensions.",
+      "explanation": "<strong>Why 'measures'?</strong><br>In this context, 'measure' is a stative verb meaning 'to have the dimensions of'. It describes a fact, not an action, so the Present Simple is required.",
+      "difficulty": "hard"
+    },
+    {
+      "question": "I ___ whether I'll get another chance to retake the exam.",
+      "options": [
+        "doubt",
+        "am doubting",
+        "doubts",
+        "is doubt"
+      ],
+      "correctAnswer": 0,
+      "hint": "Stative verb of thought.",
+      "explanation": "<strong>Why 'doubt'?</strong><br>'Doubt' is a stative verb referring to a mental state (a belief or opinion). These verbs are rarely used in the continuous form."
+    },
+    {
+      "type": "fill",
+      "question": "She ___ (know) the answer but she won't tell us.",
+      "answer": "knows",
+      "hint": "State verb 'know' → present simple, not continuous.",
+      "explanation": "<strong>Answer: knows</strong><br>'Know' is a state verb expressing a mental state. State verbs are not normally used in continuous forms — use the present simple."
+    },
+    {
+      "question": "I suppose she might be at home tonight, but I ___ it.",
+      "options": [
+        "doubt",
+        "am doubting",
+        "doubts",
+        "is doubt"
+      ],
+      "correctAnswer": 0,
+      "hint": "Stative verb of thought.",
+      "difficulty": "hard",
+      "explanation": "<strong>Answer: doubt</strong><br>Stative verb of thought. State verbs describe mental states, emotions, or senses and are not normally used in continuous forms."
+    },
+    {
+      "question": "The new science museum currently ___ 10,000 visitors a month.",
+      "options": [
+        "is attracting",
+        "attracts",
+        "attract",
+        "attracting"
+      ],
+      "correctAnswer": 1,
+      "hint": "Can be 'is attracting' or 'attracts'. Try the simple form.",
+      "explanation": "<strong>Answer: attracts</strong><br>Can be 'is attracting' or 'attracts'. Try the simple form. "
+    },
+    {
+      "question": "Flowers ___ bees with their brightly coloured petals.",
+      "options": [
+        "are attracting",
+        "attracts",
+        "attract",
+        "attracting"
+      ],
+      "correctAnswer": 2,
+      "hint": "General scientific fact.",
+      "explanation": "<strong>Answer: attract</strong><br>Use the present simple for permanent scientific facts and universal truths. These situations do not change and are not temporary — the continuous form is not used here."
+    },
+    {
+      "question": "Mike won't work at the top of the 20-storey building because he ___ heights.",
+      "options": [
+        "doesn't like",
+        "isn't liking",
+        "don't like",
+        "not like"
+      ],
+      "correctAnswer": 0,
+      "hint": "Negative form needed. Stative verb.",
+      "explanation": "<strong>Answer: doesn't like</strong><br>This is a stative verb — it describes a state (mental, physical, or relational) rather than an action. Stative verbs include <em>know</em>, <em>believe</em>, <em>understand</em>, <em>contain</em>, <em>belong</em>, <em>fit</em>. They use the present simple even when describing a current state."
+    },
+    {
+      "question": "How's the new job? Well, at the moment, I ___ it at all.",
+      "options": [
+        "don't like",
+        "am not liking",
+        "am not like",
+        "doesn't like"
+      ],
+      "correctAnswer": 1,
+      "hint": "Temporary feeling in progress (informal).",
+      "explanation": "<strong>Answer: am not liking</strong><br>Temporary feeling in progress (informal). Temporary situations or actions around the present moment use the present continuous."
+    },
+    {
+      "type": "fill",
+      "question": "The soup ___ (smell) wonderful — what's in it?",
+      "answer": "smells",
+      "hint": "'Smell' as a state verb (perception) → present simple.",
+      "explanation": "<strong>Answer: smells</strong><br>When 'smell' describes a perception (not an action someone is performing), it behaves as a state verb and takes the present simple."
+    },
+    {
+      "question": "My car's in the garage today. They ___ new brakes.",
+      "options": [
+        "fit",
+        "is fitting",
+        "are fitting",
+        "are fit"
+      ],
+      "correctAnswer": 2,
+      "hint": "Action in progress.",
+      "explanation": "<strong>Answer: are fitting</strong><br>The present continuous describes a temporary action or situation in progress around the present moment. The key signals here are words like <em>at the moment</em>, <em>today</em>, <em>currently</em>, or <em>right now</em>. Compare with the present simple, which describes permanent facts or habitual actions."
+    },
+    {
+      "question": "I bought this jumper for Sue, but it ___ her.",
+      "options": [
+        "doesn't fit",
+        "isn't fitting",
+        "don't fit",
+        "no fit"
+      ],
+      "correctAnswer": 0,
+      "hint": "A state of size.",
+      "explanation": "<strong>Answer: doesn't fit</strong><br>A state of size. The present simple is correct here. Check the context: is this a permanent fact, a habitual action, a performative declaration, or a stative verb describing a state? All of these take the present simple rather than the continuous."
+    },
+    {
+      "question": "It ___ like silk.",
+      "options": [
+        "is feeling",
+        "feels",
+        "feel",
+        "feeling"
+      ],
+      "correctAnswer": 1,
+      "hint": "Stative description.",
+      "explanation": "<strong>Answer: feels</strong><br>Stative description. State verbs describe mental states, emotions, or senses and are not normally used in continuous forms."
+    },
+    {
+      "question": "I ___ very well.",
+      "options": [
+        "don't feel",
+        "am not feeling",
+        "not feeling",
+        "doesn't feel"
+      ],
+      "correctAnswer": 1,
+      "hint": "Temporary state of health.",
+      "explanation": "<strong>Answer: am not feeling</strong><br>Temporary state of health. Temporary situations or actions around the present moment use the present continuous."
+    },
+    {
+      "question": "The roof of the house ___ (consist of) only plastic sheets.",
+      "options": [
+        "is consisting of",
+        "consists of",
+        "consist of",
+        "consisting of"
+      ],
+      "correctAnswer": 1,
+      "hint": "Stative description of composition.",
+      "explanation": "<strong>Answer: consists of</strong><br>Stative description of composition. State verbs describe mental states, emotions, or senses and are not normally used in continuous forms."
+    },
+    {
+      "type": "fill",
+      "question": "I ___ (not / believe) she actually said that.",
+      "answer": "don't believe",
+      "acceptable": [
+        "do not believe"
+      ],
+      "hint": "'Believe' is a state verb (mental state) → present simple negative.",
+      "explanation": "<strong>Answer: don't believe</strong><br>'Believe' expresses a mental state and is not used in continuous forms. Use present simple even when describing a current state of mind."
+    },
+    {
+      "question": "Their school uniform ___ (consist of) black trousers and a jumper.",
+      "options": [
+        "are consisting of",
+        "consist of",
+        "consists of",
+        "consisting of"
+      ],
+      "correctAnswer": 2,
+      "hint": "General fact.",
+      "explanation": "<strong>Answer: consists of</strong><br>Use the present simple for permanent facts and habitual truths. This describes a state that doesn't change over time, so the continuous form would be wrong."
+    },
+    {
+      "question": "It ___ quite good, but he doesn't think he's ready yet.",
+      "options": [
+        "is sounding",
+        "sound",
+        "sounds",
+        "sounding"
+      ],
+      "correctAnswer": 2,
+      "hint": "Stative opinion.",
+      "explanation": "<strong>Answer: sounds</strong><br>Stative opinion. State verbs describe mental states, emotions, or senses and are not normally used in continuous forms."
+    },
+    {
+      "question": "What's that noise? It ___ like a bird.",
+      "options": [
+        "is sounding",
+        "sound",
+        "sounds",
+        "sounding"
+      ],
+      "correctAnswer": 2,
+      "hint": "Stative perception.",
+      "explanation": "<strong>Answer: sounds</strong><br>Stative perception. State verbs describe mental states, emotions, or senses and are not normally used in continuous forms."
+    },
+    {
+      "question": "It sounds like she ___ (have) a really good time.",
+      "options": [
+        "has",
+        "is having",
+        "is have",
+        "having"
+      ],
+      "correctAnswer": 1,
+      "hint": "Experience/Action in progress.",
+      "explanation": "<strong>Answer: is having</strong><br>The present continuous describes a temporary action or situation in progress around the present moment. The key signals here are words like <em>at the moment</em>, <em>today</em>, <em>currently</em>, or <em>right now</em>. Compare with the present simple, which describes permanent facts or habitual actions."
+    },
+    {
+      "question": "My sister ___ (have) long blonde hair.",
+      "options": [
+        "is having",
+        "has",
+        "have",
+        "having"
+      ],
+      "correctAnswer": 1,
+      "hint": "Possession/State.",
+      "explanation": "<strong>Answer: has</strong><br>Verbs describing possession or physical states (have, possess, contain) are state verbs and take the present simple, not the continuous form."
+    },
+    {
+      "type": "fill",
+      "question": "By saying 'I do', she ___ (formally / accept) the offer.",
+      "answer": "hereby accepts",
+      "acceptable": [
+        "accepts",
+        "formally accepts"
+      ],
+      "hint": "Performative verb — the saying IS the action → present simple.",
+      "explanation": "<strong>Answer: accepts</strong><br>This is a performative use: the act of speaking performs the action itself. Performatives like 'accept', 'declare', 'promise', 'apologise' use the present simple."
+    },
+    {
+      "question": "I ___ biology a lot better now.",
+      "options": [
+        "understand",
+        "am understanding",
+        "understands",
+        "understanding"
+      ],
+      "correctAnswer": 0,
+      "hint": "Stative verb of cognition.",
+      "explanation": "<strong>Answer: understand</strong><br>Stative verb of cognition. State verbs describe mental states, emotions, or senses and are not normally used in continuous forms."
+    },
+    {
+      "question": "I ___ that I don't know much about cars.",
+      "options": [
+        "admit",
+        "am admitting",
+        "admits",
+        "admitting"
+      ],
+      "correctAnswer": 0,
+      "hint": "Verbal state/declaration.",
+      "explanation": "<strong>Answer: admit</strong><br>Verbs used as declarations or performatives (admit, agree, accept, promise) are typically used in the present simple. Using the continuous would suggest an ongoing action, not a speech act."
+    },
+    {
+      "question": "___ it difficult to concentrate?",
+      "options": [
+        "Do you find",
+        "Are you finding",
+        "Are you find",
+        "Find you"
+      ],
+      "correctAnswer": 1,
+      "hint": "Referring to a current experience.",
+      "explanation": "<strong>Answer: Are you finding</strong><br>When 'find', 'enjoy', or similar verbs describe a current ongoing experience or feeling, the present continuous can be used to emphasise the temporary, present nature of the experience."
+    },
+    {
+      "question": "we ___ it.",
+      "options": [
+        "don't guarantee",
+        "aren't guaranteeing",
+        "doesn't guarantee",
+        "not guarantee"
+      ],
+      "correctAnswer": 0,
+      "hint": "A formal promise/state.",
+      "explanation": "<strong>Answer: don't guarantee</strong><br>A formal promise/state. The present simple is correct here. Check the context: is this a permanent fact, a habitual action, a performative declaration, or a stative verb describing a state? All of these take the present simple rather than the continuous."
+    },
+    {
+      "question": "now I ___ how difficult it is.",
+      "options": [
+        "know",
+        "am knowing",
+        "knows",
+        "knowing"
+      ],
+      "correctAnswer": 0,
+      "hint": "Stative state of knowledge.",
+      "explanation": "<strong>Answer: know</strong><br>Stative state of knowledge. State verbs describe mental states, emotions, or senses and are not normally used in continuous forms."
+    },
+    {
+      "question": "I ___ to believe her.",
+      "options": [
+        "refuse",
+        "am refusing",
+        "refuses",
+        "refusing"
+      ],
+      "correctAnswer": 0,
+      "hint": "Stative mental state.",
+      "explanation": "<strong>Answer: refuse</strong><br>Stative mental state. State verbs describe mental states, emotions, or senses and are not normally used in continuous forms."
+    },
+    {
+      "question": "I certainly ___ with you.",
+      "options": [
+        "agree",
+        "am agreeing",
+        "agrees",
+        "agreeing"
+      ],
+      "correctAnswer": 0,
+      "hint": "Stative state of opinion.",
+      "explanation": "<strong>Answer: agree</strong><br>Stative state of opinion. State verbs describe mental states, emotions, or senses and are not normally used in continuous forms."
+    },
+    {
+      "question": "I ___ for that.",
+      "options": [
+        "don't apologise",
+        "am not apologising",
+        "doesn't apologise",
+        "not apologise"
+      ],
+      "correctAnswer": 0,
+      "hint": "Standard declaration.",
+      "explanation": "<strong>Answer: don't apologise</strong><br>This is a performative use: the act of saying the verb IS the action itself. Verbs like <em>promise</em>, <em>accept</em>, <em>declare</em>, <em>apologise</em>, and <em>confirm</em> are performative in the first person present simple — saying \"I promise\" makes it a promise."
+    },
+    {
+      "question": "we ___ emigrating to Canada.",
+      "options": [
+        "are considering",
+        "consider",
+        "is considering",
+        "considering"
+      ],
+      "correctAnswer": 0,
+      "hint": "Action of thinking/planning.",
+      "explanation": "<strong>Answer: are considering</strong><br>Action of thinking/planning. The present continuous shows that the action is temporary or in progress now. Look for context signals: <em>at the moment</em>, <em>currently</em>, <em>today</em>, or a sense of ongoing change or temporary situation."
+    }
+  ]
+}

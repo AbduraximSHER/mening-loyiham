@@ -1,0 +1,114 @@
+{
+  "id": 89,
+  "title": "Habits, Routines, and Change",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Describing habits",
+      "content": "<div class=\"web-text\">Advanced vocabulary for talking about regular behaviours:</div><div class=\"web-example\"><span>• <strong>ingrained</strong> — deeply fixed habit. <em>Old habits are deeply ingrained and hard to break.</em></span></div><div class=\"web-example\"><span>• <strong>ritual</strong> — a regular routine done in a specific way. <em>His morning coffee ritual takes exactly fifteen minutes.</em></span></div><div class=\"web-example\"><span>• <strong>compulsive</strong> — resulting from an irresistible urge. <em>Compulsive checking of social media wastes valuable time.</em></span></div><div class=\"web-example\"><span>• <strong>habitual</strong> — done regularly as a habit. <em>She's a habitual early riser, up at 5 a.m. every day.</em></span></div><div class=\"web-example\"><span>• <strong>kick a habit</strong> — stop doing something harmful. <em>He's trying to kick his smoking habit.</em></span></div>"
+    },
+    {
+      "id": "B",
+      "title": "Change and adaptation",
+      "content": "<div class=\"web-text\">Discussing personal transformation:</div><div class=\"web-example\"><span>• <strong>transition</strong> — the process of changing. <em>The transition from school to university can be challenging.</em></span></div><div class=\"web-example\"><span>• <strong>adapt</strong> — adjust to new conditions. <em>Humans are remarkably good at adapting to change.</em></span></div><div class=\"web-example\"><span>• <strong>overhaul</strong> — examine thoroughly and make changes. <em>The education system needs a complete overhaul.</em></span></div><div class=\"web-example\"><span>• <strong>embrace</strong> — accept enthusiastically. <em>She embraced the opportunity to work abroad.</em></span></div><div class=\"web-example\"><span>• <strong>reluctant</strong> — unwilling to change. <em>He was reluctant to adopt new technology.</em></span></div>"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "A habit so deeply fixed it's hard to change is:",
+      "options": [
+        "persistent",
+        "irregular",
+        "habitual",
+        "ingrained"
+      ],
+      "correctAnswer": 3,
+      "hint": "Deeply rooted.",
+      "explanation": "<strong>Ingrained</strong> means firmly fixed or established; difficult to change."
+    },
+    {
+      "question": "To stop a harmful habit is to:",
+      "options": [
+        "kick it",
+        "embrace it",
+        "overhaul it",
+        "adapt it"
+      ],
+      "correctAnswer": 0,
+      "hint": "Getting rid of it.",
+      "explanation": "<strong>Kick a habit</strong> means to stop doing something that is harmful or addictive."
+    },
+    {
+      "question": "Thoroughly examining and changing a system is an:",
+      "options": [
+        "adaptation",
+        "persistent",
+        "overhaul",
+        "spontaneous"
+      ],
+      "correctAnswer": 2,
+      "hint": "A complete reform.",
+      "explanation": "An <strong>overhaul</strong> is a thorough examination and repair or renovation."
+    },
+    {
+      "question": "Someone unwilling to accept change is:",
+      "options": [
+        "adaptable",
+        "reluctant",
+        "habitual",
+        "spontaneous"
+      ],
+      "correctAnswer": 1,
+      "hint": "They resist new things.",
+      "explanation": "<strong>Reluctant</strong> means unwilling and hesitant."
+    },
+    {
+      "question": "Adjusting to new conditions or environments is to:",
+      "options": [
+        "adapt",
+        "erratic",
+        "resist",
+        "consistent"
+      ],
+      "correctAnswer": 0,
+      "hint": "Becoming comfortable with change.",
+      "explanation": "<strong>Adapt</strong> means to adjust to new conditions or environment."
+    },
+    {
+      "question": "Behaviour driven by an irresistible urge is:",
+      "options": [
+        "compulsive",
+        "habitual",
+        "persistent",
+        "deliberate"
+      ],
+      "correctAnswer": 0,
+      "hint": "You can't stop yourself.",
+      "explanation": "<strong>Compulsive</strong> means resulting from or relating to an irresistible urge."
+    },
+    {
+      "question": "Accepting something new with enthusiasm is to:",
+      "options": [
+        "irregular",
+        "reject",
+        "embrace",
+        "reluct"
+      ],
+      "correctAnswer": 2,
+      "hint": "Welcoming it openly.",
+      "explanation": "<strong>Embrace</strong> means to accept or support something willingly and enthusiastically."
+    },
+    {
+      "question": "The process of changing from one state to another is a:",
+      "options": [
+        "habit",
+        "transition",
+        "erratic",
+        "ritual"
+      ],
+      "correctAnswer": 1,
+      "hint": "Moving from A to B.",
+      "explanation": "A <strong>transition</strong> is the process of changing from one state or condition to another."
+    }
+  ]
+}
