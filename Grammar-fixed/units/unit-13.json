@@ -194,22 +194,20 @@
     },
     {
       "type": "fill",
-      "question": "I have passed your letter on to the manager who shall / will reply shortly.",
-      "answer": "shall only",
+      "question": "I have passed your letter on to the manager who ___ shortly.",
+      "answer": "will",
       "acceptable": [
-        "will only",
-        "shall / will (both possible, will more common)"
+        "shall"
       ],
       "hint": "With third-person subject, 'will' is standard; 'shall' is very formal/archaic.",
       "explanation": "<strong>Answer: shall / will (both possible, will more common)</strong><br>With third-person subject, 'will' is standard; 'shall' is very formal/archaic. Use <em>will</em> here — this is neither a fixed timetable event (which would take the present simple) nor a pre-planned personal arrangement (which would take the present continuous or <em>be going to</em>)."
     },
     {
       "type": "fill",
-      "question": "Sorry, but I shan't / won't be able to give you a lift after all.",
-      "answer": "shan't only",
+      "question": "Sorry, but I ___ be able to give you a lift after all.",
+      "answer": "won't",
       "acceptable": [
-        "won't only",
-        "shan't / won't (both possible, won't more common)"
+        "shan't"
       ],
       "hint": "With 'I', both shan't and won't are possible; won't is more common today.",
       "explanation": "<strong>Answer: shan't / won't (both possible, won't more common)</strong><br>With 'I', both shan't and won't are possible; won't is more common today. "
@@ -228,11 +226,10 @@
     },
     {
       "type": "fill",
-      "question": "Only people over the age of 18 shall / will be eligible to vote in the referendum.",
-      "answer": "shall only",
+      "question": "Only people over the age of 18 ___ be eligible to vote in the referendum.",
+      "answer": "shall",
       "acceptable": [
-        "will only",
-        "shall / will (both possible — formal rule)"
+        "will"
       ],
       "hint": "Formal rule/regulation context — both shall and will are acceptable.",
       "explanation": "<strong>Answer: shall / will (both possible — formal rule)</strong><br>Formal rule/regulation context — both shall and will are acceptable. "

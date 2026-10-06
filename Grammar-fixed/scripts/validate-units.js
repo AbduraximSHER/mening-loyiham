@@ -7,6 +7,7 @@
  *
  * Checks:
  *  - JSON parses
+ *  - the file conforms to scripts/unit.schema.json (draft-07 subset, enforced below)
  *  - required fields present (id, title, sections, exercises)
  *  - sections: each has id, title, content (non-empty)
  *  - exercises: supports 4 types
@@ -49,6 +50,119 @@ function checkHtmlBalance(file, html) {
     }
   }
   if (stack.length) warn(file, `unclosed HTML tag(s): ${stack.join(', ')}`);
+}
+
+// --- JSON Schema (draft-07 subset) -------------------------------------------
+// scripts/unit.schema.json is the source of truth for a unit's shape. This is a
+// small, dependency-free interpreter for the keywords that schema actually uses:
+// $ref, oneOf, type, required, additionalProperties, properties, items,
+// minItems, minLength, pattern, minimum, maximum, const, enum.
+const SCHEMA_PATH = path.join(__dirname, 'unit.schema.json');
+let SCHEMA = null;
+try {
+  SCHEMA = JSON.parse(fs.readFileSync(SCHEMA_PATH, 'utf8'));
+} catch (e) {
+  err('unit.schema.json', `cannot be loaded (${e.message}) — refusing to skip schema checks`);
+}
+
+function resolveRef(ref) {
+  if (typeof ref !== 'string' || !ref.startsWith('#/')) return null;
+  return ref.slice(2).split('/').reduce((node, rawKey) => {
+    if (node == null) return null;
+    const key = rawKey.replace(/~1/g, '/').replace(/~0/g, '~');
+    return node[key];
+  }, SCHEMA);
+}
+
+function typeOk(value, type) {
+  switch (type) {
+    case 'object':  return value !== null && typeof value === 'object' && !Array.isArray(value);
+    case 'array':   return Array.isArray(value);
+    case 'string':  return typeof value === 'string';
+    case 'integer': return Number.isInteger(value);
+    case 'number':  return typeof value === 'number' && Number.isFinite(value);
+    case 'boolean': return typeof value === 'boolean';
+    case 'null':    return value === null;
+    default:        return true;
+  }
+}
+
+// Returns a list of human-readable violations of `schema` by `value`.
+function schemaViolations(value, schema, at) {
+  const found = [];
+  if (!schema || typeof schema !== 'object') return found;
+
+  if (schema.$ref) return schemaViolations(value, resolveRef(schema.$ref), at);
+
+  if (Array.isArray(schema.oneOf)) {
+    const matches = schema.oneOf.filter(sub => schemaViolations(value, sub, at).length === 0);
+    if (matches.length === 0) {
+      const detail = schema.oneOf.map((sub, i) => {
+        const name = sub.$ref ? sub.$ref.replace('#/definitions/', '') : `branch ${i}`;
+        return `${name}(` + schemaViolations(value, sub, at).slice(0, 2).join('; ') + ')';
+      }).join(' vs ');
+      found.push(`${at}: matches none of the allowed exercise shapes — ${detail}`);
+    } else if (matches.length > 1) {
+      found.push(`${at}: ambiguous — matches ${matches.length} exercise shapes at once`);
+    }
+    return found;
+  }
+
+  if (schema.type && !typeOk(value, schema.type)) {
+    const isArray = Array.isArray(value);
+    const actual = value === null ? 'null' : isArray ? 'array' : typeof value;
+    found.push(`${at}: expected ${schema.type}, got ${actual}`);
+    return found; // other keywords would only produce noise
+  }
+
+  if ('const' in schema && value !== schema.const)
+    found.push(`${at}: must be ${JSON.stringify(schema.const)} (got ${JSON.stringify(value)})`);
+  if (Array.isArray(schema.enum) && !schema.enum.includes(value))
+    found.push(`${at}: must be one of ${JSON.stringify(schema.enum)} (got ${JSON.stringify(value)})`);
+
+  if (typeof value === 'string') {
+    if (schema.minLength != null && value.length < schema.minLength)
+      found.push(`${at}: must be at least ${schema.minLength} character(s) long`);
+    if (schema.pattern && !new RegExp(schema.pattern).test(value))
+      found.push(`${at}: does not match required pattern /${schema.pattern}/`);
+  }
+
+  if (typeof value === 'number' && Number.isFinite(value)) {
+    if (schema.minimum != null && value < schema.minimum)
+      found.push(`${at}: must be ≥ ${schema.minimum} (got ${value})`);
+    if (schema.maximum != null && value > schema.maximum)
+      found.push(`${at}: must be ≤ ${schema.maximum} (got ${value})`);
+  }
+
+  if (Array.isArray(value)) {
+    if (schema.minItems != null && value.length < schema.minItems)
+      found.push(`${at}: needs at least ${schema.minItems} item(s) (got ${value.length})`);
+    if (schema.items)
+      value.forEach((item, i) => found.push(...schemaViolations(item, schema.items, `${at}[${i}]`)));
+  }
+
+  if (value !== null && typeof value === 'object' && !Array.isArray(value)) {
+    for (const key of schema.required || [])
+      if (!(key in value)) found.push(`${at}: missing required property "${key}"`);
+    const props = schema.properties || {};
+    if (schema.additionalProperties === false)
+      for (const key of Object.keys(value))
+        if (!(key in props)) found.push(`${at}: unknown property "${key}" (not allowed by the schema)`);
+    for (const [key, sub] of Object.entries(props))
+      if (key in value)
+        found.push(...schemaViolations(value[key], sub, at ? `${at}.${key}` : key));
+  }
+
+  return found;
+}
+
+function validateAgainstSchema(file, data) {
+  if (!SCHEMA) return; // load failure already reported as an error
+  const violations = schemaViolations(data, SCHEMA, '');
+  const MAX = 8;
+  violations.slice(0, MAX).forEach(v => err(file, `schema: ${v}`));
+  if (violations.length > MAX)
+    err(file, `schema: …and ${violations.length - MAX} more violation(s)`);
 }
 
 // --- exercise validators -----------------------------------------------------
@@ -103,6 +217,7 @@ function validateExercise(file, ex, i) {
 
 // --- unit file validator -----------------------------------------------------
 function validateUnit(file, data) {
+  validateAgainstSchema(file, data); // schema shape first, then the semantic checks
   if (typeof data.id !== 'number')    err(file, 'id must be a number');
   if (typeof data.title !== 'string') err(file, 'title must be a string');
   if (!Array.isArray(data.sections) || !data.sections.length)

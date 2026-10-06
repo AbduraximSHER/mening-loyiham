@@ -74,15 +74,14 @@
       "explanation": "<strong>Answer: would call</strong><br>'Would' is the past form of 'will' and is used in reported speech to express a future event seen from a past perspective. 'Was going to' also works, emphasising the intention."
     },
     {
-      "question": "The manager of Newtown United said that the team is to be announced at nine tomorrow.",
+      "question": "The manager of Newtown United said that the team ___ at nine tomorrow.",
       "hint": "Still in future for speaker → both 'is to be' and 'was to be' are possible.",
       "explanation": "<strong>Answer: Both are possible</strong><br>Still in future for speaker → both 'is to be' and 'was to be' are possible. ",
       "type": "fill",
       "answer": "is to be announced",
       "acceptable": [
         "was to be announced",
-        "would be announced",
-        "Both are possible"
+        "would be announced"
       ]
     },
     {

@@ -55,22 +55,20 @@
     },
     {
       "type": "fill",
-      "question": "The rebels could / were able to draw on the support of over 20,000 soldiers.",
-      "answer": "could only",
+      "question": "The rebels ___ draw on the support of over 20,000 soldiers.",
+      "answer": "could",
       "acceptable": [
-        "were able to only",
-        "Both could and were able to are possible (general situation)"
+        "were able to"
       ],
       "hint": "General ability/situation, not single achievement → both are possible.",
       "explanation": "<strong>Answer: Both could and were able to are possible (general situation)</strong><br>General ability/situation, not single achievement → both are possible. "
     },
     {
       "type": "fill",
-      "question": "Could you / Were you able to understand Professor Larsen's lecture? I found it really difficult.",
-      "answer": "Could you only",
+      "question": "___ understand Professor Larsen's lecture? I found it really difficult.",
+      "answer": "Could you",
       "acceptable": [
-        "Were you able to only",
-        "Both could you and were you able to are possible"
+        "Were you able to"
       ],
       "hint": "Verb of thinking/understanding — both forms are possible.",
       "explanation": "<strong>Answer: Both could you and were you able to are possible</strong><br>Verb of thinking/understanding — both forms are possible. "
@@ -161,11 +159,10 @@
     },
     {
       "type": "fill",
-      "question": "She looked all over the house, but couldn't / wasn't able to find her keys anywhere.",
-      "answer": "couldn't only",
+      "question": "She looked all over the house, but ___ find her keys anywhere.",
+      "answer": "couldn't",
       "acceptable": [
-        "wasn't able to only",
-        "Both couldn't and wasn't able to are possible"
+        "wasn't able to"
       ],
       "hint": "Negative sentence — both couldn't and wasn't able to are natural.",
       "explanation": "<strong>Answer: Both couldn't and wasn't able to are possible</strong><br>Negative sentence — both couldn't and wasn't able to are natural. "

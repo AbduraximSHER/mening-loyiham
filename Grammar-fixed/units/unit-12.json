@@ -232,14 +232,13 @@
       "explanation": "<strong>Answer: recovers (= if he recovers → he'll play; cause/effect)</strong><br>Effect depends on recovery → present simple in if-clause. "
     },
     {
-      "question": "Jonas Fischer has denied that he is to resign / is about to resign as marketing manager.",
+      "question": "Jonas Fischer has denied that he ___ as marketing manager.",
       "hint": "Both 'formal announcement-style' and 'imminent' interpretations are valid here.",
       "explanation": "<strong>Answer: Both are possible</strong><br>Both 'formal announcement-style' and 'imminent' interpretations are valid here. ",
       "type": "fill",
       "answer": "is to resign",
       "acceptable": [
-        "is about to resign",
-        "Both are possible"
+        "is about to resign"
       ]
     },
     {

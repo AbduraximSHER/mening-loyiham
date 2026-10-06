@@ -138,15 +138,14 @@
       "explanation": "<strong>Answer: Both used to enjoy and enjoyed</strong><br>'Enjoy' is a state verb here — can't use 'would'; 'used to enjoy' or 'enjoyed' (past simple) both work. State verbs describe mental states, emotions, or senses and are not normally used in continuous forms."
     },
     {
-      "question": "Jorge would spend winters in Spain and summers in England.",
+      "question": "Jorge ___ winters in Spain and summers in England.",
       "hint": "Habitual pattern without specific count → would spend / used to spend / spent all possible.",
       "explanation": "<strong>Answer: Both would spend and used to spend are possible</strong><br>We use <em>would</em> here for past habits, hypothetical situations, or reported speech.<br><small>💡 Habitual pattern without specific count → would spend / used to spend / spent all possible.</small>",
       "type": "fill",
       "answer": "would spend",
       "acceptable": [
         "used to spend",
-        "spent",
-        "Both would spend and used to spend are possible"
+        "spent"
       ]
     },
     {
@@ -163,11 +162,10 @@
     },
     {
       "type": "fill",
-      "question": "On Saturdays and Sundays the ferry used to take tourists across to the island.",
-      "answer": "would take (habitual past with clear time ref)",
+      "question": "On Saturdays and Sundays the ferry ___ tourists across to the island.",
+      "answer": "would take",
       "acceptable": [
-        "used to take ✓",
-        "Both would take and used to take are correct"
+        "used to take"
       ],
       "hint": "Habitual past → both would take and used to take are correct.",
       "explanation": "<strong>Answer: Both would take and used to take are correct</strong><br>We use <em>would</em> here for past habits, hypothetical situations, or reported speech.<br><small>💡 Habitual past → both would take and used to take are correct.</small>"

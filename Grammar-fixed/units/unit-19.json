@@ -21,11 +21,10 @@
   "exercises": [
     {
       "type": "fill",
-      "question": "You don't need to / needn't worry about the exam. You've prepared really well.",
-      "answer": "don't need to only",
+      "question": "You ___ worry about the exam. You've prepared really well.",
+      "answer": "don't need to",
       "acceptable": [
-        "needn't only",
-        "Both don't need to and needn't are possible"
+        "needn't"
       ],
       "hint": "Both forms can express the same meaning here.",
       "explanation": "<strong>Answer: Both don't need to and needn't are possible</strong><br>Both forms can express the same meaning here. The present simple is correct here. Check the context: is this a permanent fact, a habitual action, a performative declaration, or a stative verb describing a state? All of these take the present simple rather than the continuous."
@@ -68,11 +67,10 @@
     },
     {
       "type": "fill",
-      "question": "Do you need to / Need you leave so soon? I was hoping you could stay for dinner.",
-      "answer": "Do you need to only",
+      "question": "___ leave so soon? I was hoping you could stay for dinner.",
+      "answer": "Do you need to",
       "acceptable": [
-        "Need you only",
-        "Both 'Do you need to' and 'Need you' are possible (need you = more formal/rare)"
+        "Need you"
       ],
       "hint": "'Do you need to' is more common; 'Need you' is modal, formal — both possible.",
       "explanation": "<strong>Answer: Both 'Do you need to' and 'Need you' are possible (need you = more formal/rare)</strong><br>'Do you need to' is more common; 'Need you' is modal, formal — both possible. Each modal carries a distinct meaning — check whether the context calls for ability, obligation, permission, or deduction."

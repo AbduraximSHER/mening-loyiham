@@ -104,7 +104,8 @@
           "items": { "type": "string" }
         },
         "hint": { "type": "string" },
-        "explanation": { "type": "string" }
+        "explanation": { "type": "string" },
+        "prompt": { "type": "string" }
       },
       "additionalProperties": false
     }

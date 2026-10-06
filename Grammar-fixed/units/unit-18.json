@@ -145,15 +145,14 @@
       "explanation": "<strong>Answer: Hannah rarely has to be asked to tidy her room.</strong><br>Frequency adverb 'rarely' → use have to (not have got to). "
     },
     {
-      "type": "fill",
-      "question": "Is it necessary for us to hand in the homework tomorrow?",
-      "answer": "Have we got to hand in the homework tomorrow?",
+      "type": "correct",
       "acceptable": [
-        "Do we have to hand in the homework tomorrow?",
-        "Both 'Have we got to' and 'Do we have to' are correct"
+        "Do we have to hand in the homework tomorrow?"
       ],
       "hint": "Question about necessity — both 'have got to' and 'have to' work for questions.",
-      "explanation": "<strong>Answer: Both 'Have we got to' and 'Do we have to' are correct</strong><br>Question about necessity — both 'have got to' and 'have to' work for questions. "
+      "explanation": "<strong>Answer: Both 'Have we got to' and 'Do we have to' are correct</strong><br>Question about necessity — both 'have got to' and 'have to' work for questions. ",
+      "sentence": "Is it necessary for us to hand in the homework tomorrow?",
+      "correction": "Have we got to hand in the homework tomorrow?"
     },
     {
       "question": "It wasn't necessary for me to go to the hospital after all.",
