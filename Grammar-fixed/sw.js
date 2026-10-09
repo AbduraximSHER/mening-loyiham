@@ -20,7 +20,7 @@
  *   postMessage({ type: 'CLEAR_UNITS'  }) — purge unit cache (e.g. after login)
  */
 
-const CACHE_VERSION = 'v19';
+const CACHE_VERSION = 'v20';
 const SHELL_CACHE   = `gh-shell-${CACHE_VERSION}`;
 const UNITS_CACHE   = `gh-units-${CACHE_VERSION}`;
 const EXT_CACHE     = `gh-ext-${CACHE_VERSION}`;
@@ -52,10 +52,7 @@ const SHELL_URLS = [
   './vocabulary-data.js',
   // styles
   './css/theme.css',
-  './css/design-system.css',
-  './css/modern.css',
   './css/mobile.css',
-  './css/darkmode.css',
   './vocab-ux.css',
   // legacy modules kept for backward compatibility
   './exercise-engine.js',
